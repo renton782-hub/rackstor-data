@@ -1,0 +1,476 @@
+[
+  {
+    "slug": "stockton-on-tees",
+    "town": "Stockton-on-Tees",
+    "county": "County Durham",
+    "region": "North East",
+    "estates": [
+      "Preston Farm Industrial Estate",
+      "Bowesfield Park",
+      "Portrack Interchange Business Park",
+      "Teesside Industrial Estate"
+    ],
+    "junctions": [
+      "A19",
+      "A66"
+    ],
+    "industries": [
+      "Engineering",
+      "Manufacturing",
+      "Logistics",
+      "Chemicals",
+      "Offshore"
+    ]
+  },
+  {
+    "slug": "stourbridge",
+    "town": "Stourbridge",
+    "county": "West Midlands",
+    "region": "West Midlands",
+    "estates": [
+      "Lye Valley Industrial Estate",
+      "Rufford Street Industrial Estate",
+      "Stourbridge Estate",
+      "Hayes Business Studios"
+    ],
+    "junctions": [
+      "A491",
+      "A458"
+    ],
+    "industries": [
+      "Manufacturing",
+      "Engineering",
+      "Retail",
+      "Specialist Glass"
+    ]
+  },
+  {
+    "slug": "stranraer",
+    "town": "Stranraer",
+    "county": "Dumfries and Galloway",
+    "region": "Scotland",
+    "estates": [
+      "Blackparks Industrial Estate",
+      "Commerce Road Industrial Estate",
+      "Ochtrelure Industrial Estate",
+      "Gallowhill Industrial Estate"
+    ],
+    "junctions": [
+      "A75",
+      "A77"
+    ],
+    "industries": [
+      "Logistics",
+      "Agriculture",
+      "Food Processing",
+      "Maritime",
+      "Tourism"
+    ]
+  },
+  {
+    "slug": "stroud",
+    "town": "Stroud",
+    "county": "Gloucestershire",
+    "region": "South West",
+    "estates": [
+      "Stonehouse Park",
+      "Stroudwater Business Park",
+      "Salmon Springs Trading Estate",
+      "Ebley Wharf"
+    ],
+    "junctions": [
+      "M5 J13",
+      "A419",
+      "A46"
+    ],
+    "industries": [
+      "Precision Engineering",
+      "Renewable Energy",
+      "Manufacturing",
+      "Green Tech"
+    ]
+  },
+  {
+    "slug": "sunderland",
+    "town": "Sunderland",
+    "county": "Tyne and Wear",
+    "region": "North East",
+    "estates": [
+      "Doxford International Business Park",
+      "Pallion Industrial Estate",
+      "Hendon Industrial Estate",
+      "Rainton Bridge South Business Park"
+    ],
+    "junctions": [
+      "A19",
+      "A1231"
+    ],
+    "industries": [
+      "Automotive",
+      "Advanced Manufacturing",
+      "Technology",
+      "Offshore"
+    ]
+  },
+  {
+    "slug": "swansea",
+    "town": "Swansea",
+    "county": "Swansea",
+    "region": "Wales",
+    "estates": [
+      "Swansea Enterprise Park",
+      "Fforestfach Industrial Estate",
+      "Garngoch Industrial Estate",
+      "SA1 Swansea Waterfront"
+    ],
+    "junctions": [
+      "M4 J42",
+      "M4 J45",
+      "M4 J47",
+      "A483"
+    ],
+    "industries": [
+      "Manufacturing",
+      "Technology",
+      "Public Sector",
+      "Retail",
+      "Tourism"
+    ]
+  },
+  {
+    "slug": "swindon",
+    "town": "Swindon",
+    "county": "Wiltshire",
+    "region": "South West",
+    "estates": [
+      "Groundwell Industrial Estate",
+      "Elgin Industrial Estate",
+      "Blagrove Industrial Estate",
+      "Dorcan Industrial Estate",
+      "Techno Trading Estate"
+    ],
+    "junctions": [
+      "M4 J15",
+      "M4 J16",
+      "A419",
+      "A420"
+    ],
+    "industries": [
+      "Logistics",
+      "Automotive",
+      "Pharmaceuticals",
+      "Financial Services",
+      "Technology"
+    ]
+  },
+  {
+    "slug": "tamworth",
+    "town": "Tamworth",
+    "county": "Staffordshire",
+    "region": "West Midlands",
+    "estates": [
+      "Centurion Park",
+      "Relay Park",
+      "Tame Valley Industrial Estate",
+      "Amington Industrial Estate",
+      "Bitterscote"
+    ],
+    "junctions": [
+      "M42 J10",
+      "A5"
+    ],
+    "industries": [
+      "Logistics",
+      "E-commerce Fulfillment",
+      "Manufacturing",
+      "Engineering"
+    ]
+  },
+  {
+    "slug": "taunton",
+    "town": "Taunton",
+    "county": "Somerset",
+    "region": "South West",
+    "estates": [
+      "Crown Industrial Estate",
+      "Priorswood Industrial Estate",
+      "Blackbrook Business Park",
+      "Chelston Business Park"
+    ],
+    "junctions": [
+      "M5 J25",
+      "M5 J26",
+      "A38",
+      "A358"
+    ],
+    "industries": [
+      "Public Sector",
+      "Healthcare",
+      "Retail",
+      "Logistics",
+      "Agriculture"
+    ]
+  },
+  {
+    "slug": "telford",
+    "town": "Telford",
+    "county": "Shropshire",
+    "region": "West Midlands",
+    "estates": [
+      "Stafford Park",
+      "Halesfield Industrial Estate",
+      "Hortonwood",
+      "T54"
+    ],
+    "junctions": [
+      "M54 J4",
+      "M54 J5",
+      "M54 J6",
+      "A442"
+    ],
+    "industries": [
+      "Manufacturing",
+      "Polymers",
+      "Technology",
+      "Logistics",
+      "Engineering"
+    ]
+  },
+  {
+    "slug": "thetford",
+    "town": "Thetford",
+    "county": "Norfolk",
+    "region": "East of England",
+    "estates": [
+      "Fison Way Industrial Estate",
+      "Brunel Way Industrial Estate",
+      "Mundford Road Trading Estate",
+      "Burrell Way Trade Park"
+    ],
+    "junctions": [
+      "A11",
+      "A134"
+    ],
+    "industries": [
+      "Manufacturing",
+      "Food Processing",
+      "Logistics",
+      "Engineering",
+      "Packaging"
+    ]
+  },
+  {
+    "slug": "thurrock",
+    "town": "Thurrock",
+    "county": "Essex",
+    "region": "East of England",
+    "estates": [
+      "West Thurrock Industrial Estate",
+      "Purfleet Industrial Park",
+      "Oliver Close Estate",
+      "Dolphin Estate"
+    ],
+    "junctions": [
+      "M25 J30",
+      "M25 J31",
+      "A13"
+    ],
+    "industries": [
+      "Port Operations",
+      "Logistics",
+      "Retail",
+      "E-commerce",
+      "Distribution"
+    ]
+  },
+  {
+    "slug": "tiverton",
+    "town": "Tiverton",
+    "county": "Devon",
+    "region": "South West",
+    "estates": [
+      "Tiverton Business Park",
+      "Lowman Way Industrial Estate",
+      "Kennedy Way Industrial Estate",
+      "Woodward Road Industrial Estate"
+    ],
+    "junctions": [
+      "M5 J27",
+      "A361"
+    ],
+    "industries": [
+      "Agriculture",
+      "Manufacturing",
+      "Textiles",
+      "Tourism",
+      "Education"
+    ]
+  },
+  {
+    "slug": "tonbridge",
+    "town": "Tonbridge",
+    "county": "Kent",
+    "region": "South East",
+    "estates": [
+      "Vale Road Industrial Estate",
+      "Sovereign Way Industrial Estate",
+      "Tonbridge Industrial Estate",
+      "Cannon Lane Industrial Estate"
+    ],
+    "junctions": [
+      "A21",
+      "A26"
+    ],
+    "industries": [
+      "Printing",
+      "Light Manufacturing",
+      "Logistics",
+      "Publishing",
+      "Services"
+    ]
+  },
+  {
+    "slug": "torquay",
+    "town": "Torquay",
+    "county": "Devon",
+    "region": "South West",
+    "estates": [
+      "Edginswell Business Park",
+      "Lymington Road",
+      "Broomhill Way",
+      "Woodlands Enterprise Centre"
+    ],
+    "junctions": [
+      "A380",
+      "A3022"
+    ],
+    "industries": [
+      "Tourism",
+      "Healthcare",
+      "Retail",
+      "Marine",
+      "Light Engineering"
+    ]
+  },
+  {
+    "slug": "truro",
+    "town": "Truro",
+    "county": "Cornwall",
+    "region": "South West",
+    "estates": [
+      "Threemilestone Industrial Estate",
+      "Newham Industrial Estate",
+      "Truro Business Park",
+      "Treliske Industrial Estate"
+    ],
+    "junctions": [
+      "A39",
+      "A390"
+    ],
+    "industries": [
+      "Public Sector",
+      "Healthcare",
+      "Retail",
+      "Tourism",
+      "Agriculture"
+    ]
+  },
+  {
+    "slug": "tunbridge-wells",
+    "town": "Tunbridge Wells",
+    "county": "Kent",
+    "region": "South East",
+    "estates": [
+      "North Farm Industrial Estate",
+      "High Brooms Industrial Estate",
+      "Longfield Road",
+      "Kingstanding Business Park"
+    ],
+    "junctions": [
+      "A21",
+      "A26"
+    ],
+    "industries": [
+      "Financial Services",
+      "Retail",
+      "Healthcare",
+      "Professional Services",
+      "Light Industrial"
+    ]
+  },
+  {
+    "slug": "uddingston",
+    "town": "Uddingston",
+    "county": "South Lanarkshire",
+    "region": "Scotland",
+    "estates": [
+      "Bothwell Park Industrial Estate",
+      "Tannochside Business Park",
+      "Birkenshaw Industrial Estate",
+      "Fallside Industrial Estate"
+    ],
+    "junctions": [
+      "M8 J8",
+      "M74 J4",
+      "M74 J5"
+    ],
+    "industries": [
+      "Food and Drink",
+      "Logistics",
+      "Construction",
+      "Manufacturing",
+      "Engineering"
+    ]
+  },
+  {
+    "slug": "wakefield",
+    "town": "Wakefield",
+    "county": "West Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "Wakefield Europort",
+      "Normanton Industrial Estate",
+      "Silkwood Park",
+      "Flanshaw Way",
+      "Calder Park"
+    ],
+    "junctions": [
+      "M1 J39",
+      "M1 J40",
+      "M1 J41",
+      "M62 J30",
+      "M62 J31"
+    ],
+    "industries": [
+      "Logistics",
+      "Warehousing",
+      "Manufacturing",
+      "Food Production",
+      "Distribution"
+    ]
+  },
+  {
+    "slug": "walsall",
+    "town": "Walsall",
+    "county": "West Midlands",
+    "region": "West Midlands",
+    "estates": [
+      "Bescot Industrial Estate",
+      "Green Lane Industrial Estate",
+      "Phoenix Enterprise Park",
+      "Walsall Enterprise Park"
+    ],
+    "junctions": [
+      "M6 J7",
+      "M6 J9",
+      "M6 J10"
+    ],
+    "industries": [
+      "Leather Goods",
+      "Manufacturing",
+      "Engineering",
+      "Logistics",
+      "Retail"
+    ]
+  }
+]

@@ -1,0 +1,466 @@
+[
+  {
+    "slug": "lancaster",
+    "town": "Lancaster",
+    "county": "Lancashire",
+    "region": "North West",
+    "estates": [
+      "White Lund Industrial Estate",
+      "Lancaster Business Park",
+      "Lansil Industrial Estate",
+      "Caton Road Industrial Estate"
+    ],
+    "junctions": [
+      "M6 J33",
+      "M6 J34",
+      "A6"
+    ],
+    "industries": [
+      "Technology",
+      "Energy",
+      "Manufacturing",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "leamington-spa",
+    "town": "Leamington Spa",
+    "county": "Warwickshire",
+    "region": "West Midlands",
+    "estates": [
+      "Tachbrook Park",
+      "Sydenham Industrial Estate",
+      "Queensway Trading Estate",
+      "Heathcote Industrial Estate"
+    ],
+    "junctions": [
+      "M40 J13",
+      "M40 J14",
+      "A46"
+    ],
+    "industries": [
+      "Video Game Development",
+      "Manufacturing",
+      "Engineering",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "leeds",
+    "town": "Leeds",
+    "county": "West Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "Cross Green Industrial Estate",
+      "Stourton",
+      "Holbeck",
+      "Logic Leeds",
+      "Seacroft Industrial Estate"
+    ],
+    "junctions": [
+      "M1 J43",
+      "M1 J44",
+      "M62 J27",
+      "M621 J4"
+    ],
+    "industries": [
+      "Financial Services",
+      "Manufacturing",
+      "Logistics and Warehousing",
+      "Technology"
+    ]
+  },
+  {
+    "slug": "leicester",
+    "town": "Leicester",
+    "county": "Leicestershire",
+    "region": "East Midlands",
+    "estates": [
+      "Meridian Business Park",
+      "Gorse Hill Industrial Estate",
+      "Beaumont Leys",
+      "Bursom Industrial Estate"
+    ],
+    "junctions": [
+      "M1 J21",
+      "M1 J21A",
+      "M69"
+    ],
+    "industries": [
+      "Textiles and Clothing",
+      "Food and Drink",
+      "Engineering",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "letchworth",
+    "town": "Letchworth Garden City",
+    "county": "Hertfordshire",
+    "region": "East of England",
+    "estates": [
+      "Letchworth Industrial Estate",
+      "Works Road",
+      "Blackhorse Road",
+      "Woodside Industrial Park"
+    ],
+    "junctions": [
+      "A1(M) J9",
+      "A505"
+    ],
+    "industries": [
+      "Manufacturing",
+      "Technology",
+      "Logistics",
+      "Engineering"
+    ]
+  },
+  {
+    "slug": "lincoln",
+    "town": "Lincoln",
+    "county": "Lincolnshire",
+    "region": "East Midlands",
+    "estates": [
+      "Sunningdale Trading Estate",
+      "Allenby Road Industrial Estate",
+      "Teal Park",
+      "Doddington Road"
+    ],
+    "junctions": [
+      "A46",
+      "A15",
+      "A57"
+    ],
+    "industries": [
+      "Engineering",
+      "Gas Turbines",
+      "Agriculture Support",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "lisburn",
+    "town": "Lisburn",
+    "county": "County Antrim",
+    "region": "Northern Ireland",
+    "estates": [
+      "Knockmore Hill Industrial Park",
+      "Blaris Industrial Estate",
+      "Altona Industrial Estate",
+      "Lissue Industrial Estate"
+    ],
+    "junctions": [
+      "M1 J6",
+      "M1 J7",
+      "A1"
+    ],
+    "industries": [
+      "Manufacturing",
+      "Engineering",
+      "Aerospace",
+      "Food Processing"
+    ]
+  },
+  {
+    "slug": "liverpool",
+    "town": "Liverpool",
+    "county": "Merseyside",
+    "region": "North West",
+    "estates": [
+      "Speke Industrial Estate",
+      "Estuary Commerce Park",
+      "Brunswick Business Park",
+      "Sandhills"
+    ],
+    "junctions": [
+      "M62 J4",
+      "M62 J5",
+      "M57 J6",
+      "M58"
+    ],
+    "industries": [
+      "Port Operations",
+      "Automotive Manufacturing",
+      "Life Sciences",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "livingston",
+    "town": "Livingston",
+    "county": "West Lothian",
+    "region": "Scotland",
+    "estates": [
+      "Houston Industrial Estate",
+      "Brucefield Industry Park",
+      "Deans Industrial Estate",
+      "Alba Business Park"
+    ],
+    "junctions": [
+      "M8 J3",
+      "M8 J3A",
+      "A71"
+    ],
+    "industries": [
+      "Technology",
+      "Life Sciences",
+      "Logistics and Distribution",
+      "Food Production"
+    ]
+  },
+  {
+    "slug": "london",
+    "town": "London",
+    "county": "Greater London",
+    "region": "London",
+    "estates": [
+      "Park Royal",
+      "Segro Park Dagenham",
+      "Bermondsey Trading Estate",
+      "Enfield Enterprise Park",
+      "Meridian Water"
+    ],
+    "junctions": [
+      "M25",
+      "A406",
+      "A13",
+      "M4"
+    ],
+    "industries": [
+      "Financial Services",
+      "Technology",
+      "Creative Industries",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "londonderry",
+    "town": "Londonderry",
+    "county": "County Londonderry",
+    "region": "Northern Ireland",
+    "estates": [
+      "Pennyburn Industrial Estate",
+      "Maydown Industrial Estate",
+      "Springtown Industrial Estate",
+      "Campsie Industrial Estate"
+    ],
+    "junctions": [
+      "A2",
+      "A5",
+      "A6"
+    ],
+    "industries": [
+      "Manufacturing",
+      "Technology",
+      "Engineering",
+      "Textiles"
+    ]
+  },
+  {
+    "slug": "loughborough",
+    "town": "Loughborough",
+    "county": "Leicestershire",
+    "region": "East Midlands",
+    "estates": [
+      "Loughborough University Science and Enterprise Park",
+      "Belton Road Industrial Estate",
+      "Jubilee Drive",
+      "Swingbridge Road"
+    ],
+    "junctions": [
+      "M1 J23",
+      "A6",
+      "A512"
+    ],
+    "industries": [
+      "Life Sciences",
+      "Advanced Engineering",
+      "Pharmaceuticals",
+      "Manufacturing"
+    ]
+  },
+  {
+    "slug": "lowestoft",
+    "town": "Lowestoft",
+    "county": "Suffolk",
+    "region": "East of England",
+    "estates": [
+      "South Lowestoft Industrial Estate",
+      "Mobbs Way",
+      "Pinbush Road",
+      "Riverside Road"
+    ],
+    "junctions": [
+      "A47",
+      "A146",
+      "A12"
+    ],
+    "industries": [
+      "Offshore Energy",
+      "Food Production",
+      "Marine Engineering",
+      "Manufacturing"
+    ]
+  },
+  {
+    "slug": "lurgan",
+    "town": "Lurgan",
+    "county": "County Armagh",
+    "region": "Northern Ireland",
+    "estates": [
+      "Silverwood Industrial Estate",
+      "Annesborough Industrial Estate",
+      "Avenue Road Industrial Estate",
+      "Lurgan Business Park"
+    ],
+    "junctions": [
+      "M1 J10",
+      "A3"
+    ],
+    "industries": [
+      "Manufacturing",
+      "Textiles",
+      "Engineering",
+      "Food Processing"
+    ]
+  },
+  {
+    "slug": "luton",
+    "town": "Luton",
+    "county": "Bedfordshire",
+    "region": "East of England",
+    "estates": [
+      "Luton Airport Enterprise Zone",
+      "Laporte Way Industrial Estate",
+      "Sundon Park",
+      "Chaul End Industrial Estate"
+    ],
+    "junctions": [
+      "M1 J10",
+      "M1 J11",
+      "M1 J11A"
+    ],
+    "industries": [
+      "Aviation",
+      "Automotive Manufacturing",
+      "Logistics",
+      "Engineering"
+    ]
+  },
+  {
+    "slug": "macclesfield",
+    "town": "Macclesfield",
+    "county": "Cheshire",
+    "region": "North West",
+    "estates": [
+      "Hurdsfield Industrial Estate",
+      "Lyme Green Business Park",
+      "Tytherington Business Village",
+      "South Macclesfield Business Park"
+    ],
+    "junctions": [
+      "A523",
+      "A537"
+    ],
+    "industries": [
+      "Pharmaceuticals",
+      "Textiles",
+      "Technology",
+      "Manufacturing"
+    ]
+  },
+  {
+    "slug": "maidstone",
+    "town": "Maidstone",
+    "county": "Kent",
+    "region": "South East",
+    "estates": [
+      "Parkwood Industrial Estate",
+      "20/20 Business Park",
+      "Eclipse Park",
+      "South Park Business Village"
+    ],
+    "junctions": [
+      "M20 J6",
+      "M20 J7",
+      "M20 J8",
+      "A229"
+    ],
+    "industries": [
+      "Paper and Packaging",
+      "Manufacturing",
+      "Logistics",
+      "Construction"
+    ]
+  },
+  {
+    "slug": "manchester",
+    "town": "Manchester",
+    "county": "Greater Manchester",
+    "region": "North West",
+    "estates": [
+      "Trafford Park",
+      "Sharston Industrial Estate",
+      "Roundthorn Industrial Estate",
+      "Manchester Airport City"
+    ],
+    "junctions": [
+      "M60 J9",
+      "M60 J3",
+      "M60 J4",
+      "M56 J6"
+    ],
+    "industries": [
+      "Digital and Media",
+      "Manufacturing",
+      "Logistics",
+      "Life Sciences"
+    ]
+  },
+  {
+    "slug": "mansfield",
+    "town": "Mansfield",
+    "county": "Nottinghamshire",
+    "region": "East Midlands",
+    "estates": [
+      "Crown Farm Industrial Estate",
+      "Millennium Business Park",
+      "Oakham Business Park",
+      "Hermitage Lane Industrial Estate"
+    ],
+    "junctions": [
+      "M1 J28",
+      "M1 J29",
+      "A38",
+      "A60"
+    ],
+    "industries": [
+      "Manufacturing",
+      "Engineering",
+      "Textiles",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "march",
+    "town": "March",
+    "county": "Cambridgeshire",
+    "region": "East of England",
+    "estates": [
+      "Thorby Avenue Industrial Estate",
+      "Estover Road Industrial Estate",
+      "Hundred Road Industrial Estate",
+      "Upwell Road Industrial Estate"
+    ],
+    "junctions": [
+      "A141",
+      "A47"
+    ],
+    "industries": [
+      "Agriculture and Food Processing",
+      "Logistics",
+      "Manufacturing",
+      "Engineering"
+    ]
+  }
+]

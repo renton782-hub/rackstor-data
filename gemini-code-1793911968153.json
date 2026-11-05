@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "nottingham",
+    "town": "Nottingham",
+    "county": "Nottinghamshire",
+    "region": "East Midlands",
+    "estates": [
+      "Lenton Lane Industrial Estate",
+      "Colwick Industrial Estate",
+      "Glaisdale Drive",
+      "Blenheim Industrial Estate"
+    ],
+    "junctions": [
+      "M1 J24",
+      "M1 J25",
+      "M1 J26",
+      "A52"
+    ],
+    "industries": [
+      "Life Sciences",
+      "Manufacturing",
+      "Logistics",
+      "Technology"
+    ]
+  }
+]

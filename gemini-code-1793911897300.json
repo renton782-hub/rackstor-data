@@ -1,0 +1,460 @@
+[
+  {
+    "slug": "haverhill",
+    "town": "Haverhill",
+    "county": "Suffolk",
+    "region": "East of England",
+    "estates": [
+      "Haverhill Research Park",
+      "Haverhill Industrial Estate",
+      "Sturmer Arches",
+      "Homefield Road"
+    ],
+    "junctions": [
+      "A1307",
+      "A143",
+      "A11"
+    ],
+    "industries": [
+      "Life Sciences",
+      "Manufacturing",
+      "Logistics",
+      "Engineering"
+    ]
+  },
+  {
+    "slug": "hereford",
+    "town": "Hereford",
+    "county": "Herefordshire",
+    "region": "West Midlands",
+    "estates": [
+      "Rotherwas Industrial Estate",
+      "Hereford Enterprise Zone",
+      "Foley Trading Estate",
+      "Moreton Business Park"
+    ],
+    "junctions": [
+      "A49",
+      "A438",
+      "A4103"
+    ],
+    "industries": [
+      "Food and Beverage Production",
+      "Defence and Security",
+      "Manufacturing",
+      "Agriculture"
+    ]
+  },
+  {
+    "slug": "herne-bay",
+    "town": "Herne Bay",
+    "county": "Kent",
+    "region": "South East",
+    "estates": [
+      "Sea Street Industrial Estate",
+      "Altira Business Park",
+      "Wealden Forest Park",
+      "Eddington Industrial Estate"
+    ],
+    "junctions": [
+      "A299",
+      "A291"
+    ],
+    "industries": [
+      "Light Manufacturing",
+      "Distribution",
+      "Construction Trades",
+      "Local Services"
+    ]
+  },
+  {
+    "slug": "hertford",
+    "town": "Hertford",
+    "county": "Hertfordshire",
+    "region": "East of England",
+    "estates": [
+      "Foxholes Business Park",
+      "Mead Lane Industrial Estate",
+      "Caxton Hill",
+      "Mimram Road"
+    ],
+    "junctions": [
+      "A414",
+      "A10"
+    ],
+    "industries": [
+      "Logistics",
+      "Printing",
+      "Technology",
+      "Manufacturing"
+    ]
+  },
+  {
+    "slug": "high-wycombe",
+    "town": "High Wycombe",
+    "county": "Buckinghamshire",
+    "region": "South East",
+    "estates": [
+      "Cressex Business Park",
+      "Sands Industrial Estate",
+      "Hillbottom Road",
+      "Coronation Road"
+    ],
+    "junctions": [
+      "M40 J4",
+      "A404",
+      "A40"
+    ],
+    "industries": [
+      "Manufacturing",
+      "Food Production",
+      "Medical Devices",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "hinckley",
+    "town": "Hinckley",
+    "county": "Leicestershire",
+    "region": "East Midlands",
+    "estates": [
+      "Dodwells Bridge Industrial Estate",
+      "Harrowbrook Industrial Estate",
+      "Sketchley Meadows Business Park",
+      "Nutts Lane"
+    ],
+    "junctions": [
+      "A5",
+      "M69 J1",
+      "M69 J2"
+    ],
+    "industries": [
+      "Logistics and Warehousing",
+      "Motorcycle Manufacturing",
+      "Engineering",
+      "Textiles"
+    ]
+  },
+  {
+    "slug": "horsham",
+    "town": "Horsham",
+    "county": "West Sussex",
+    "region": "South East",
+    "estates": [
+      "Broadbridge Heath Industrial Estate",
+      "Foundry Lane Industrial Estate",
+      "Lawson Hunt Industrial Park",
+      "Oakhurst Business Park"
+    ],
+    "junctions": [
+      "A24",
+      "A264",
+      "A281"
+    ],
+    "industries": [
+      "Financial Services",
+      "Technology",
+      "Manufacturing",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "hove",
+    "town": "Hove",
+    "county": "East Sussex",
+    "region": "South East",
+    "estates": [
+      "Portland Business Park",
+      "Newtown Road Industrial Estate",
+      "English Close",
+      "St Josephs Business Park"
+    ],
+    "junctions": [
+      "A27",
+      "A293",
+      "A259"
+    ],
+    "industries": [
+      "Digital and Creative",
+      "Light Manufacturing",
+      "Technology",
+      "Distribution"
+    ]
+  },
+  {
+    "slug": "huddersfield",
+    "town": "Huddersfield",
+    "county": "West Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "Turnbridge Industrial Estate",
+      "Folly Hall",
+      "St Andrews Road",
+      "Bradley Business Park"
+    ],
+    "junctions": [
+      "M62 J23",
+      "M62 J24",
+      "M62 J25"
+    ],
+    "industries": [
+      "Textiles",
+      "Chemicals",
+      "Precision Engineering",
+      "Manufacturing"
+    ]
+  },
+  {
+    "slug": "hull",
+    "town": "Hull",
+    "county": "East Riding of Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "Sutton Fields Industrial Estate",
+      "Kingston International Business Park",
+      "Priory Park",
+      "St Andrews Quay"
+    ],
+    "junctions": [
+      "A63",
+      "A1033",
+      "A1079"
+    ],
+    "industries": [
+      "Port Operations",
+      "Offshore Wind",
+      "Caravan Manufacturing",
+      "Food Processing"
+    ]
+  },
+  {
+    "slug": "huntingdon",
+    "town": "Huntingdon",
+    "county": "Cambridgeshire",
+    "region": "East of England",
+    "estates": [
+      "Stukeley Meadows Industrial Estate",
+      "Hinchingbrooke Business Park",
+      "Ermine Business Park",
+      "Alconbury Weald Enterprise Campus"
+    ],
+    "junctions": [
+      "A14",
+      "A1",
+      "A141"
+    ],
+    "industries": [
+      "Composites Manufacturing",
+      "Logistics",
+      "Technology",
+      "Agriculture"
+    ]
+  },
+  {
+    "slug": "hyde",
+    "town": "Hyde",
+    "county": "Greater Manchester",
+    "region": "North West",
+    "estates": [
+      "Newton Moor Industrial Estate",
+      "Broadway Industrial Estate",
+      "Globe Lane Industrial Estate",
+      "Godley Hill"
+    ],
+    "junctions": [
+      "M67 J3",
+      "M67 J4",
+      "M60 J24"
+    ],
+    "industries": [
+      "Manufacturing",
+      "Engineering",
+      "Textiles",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "inverness",
+    "town": "Inverness",
+    "county": "Highland",
+    "region": "Scotland",
+    "estates": [
+      "Longman Industrial Estate",
+      "Carse Industrial Estate",
+      "Inverness Campus",
+      "Seafield Industrial Estate"
+    ],
+    "junctions": [
+      "A9",
+      "A96",
+      "A82"
+    ],
+    "industries": [
+      "Life Sciences",
+      "Renewable Energy Support",
+      "Logistics",
+      "Manufacturing"
+    ]
+  },
+  {
+    "slug": "ipswich",
+    "town": "Ipswich",
+    "county": "Suffolk",
+    "region": "East of England",
+    "estates": [
+      "Ransomes Europark",
+      "Whitehouse Industrial Estate",
+      "Farthing Road Industrial Estate",
+      "Hadleigh Road Industrial Estate"
+    ],
+    "junctions": [
+      "A14 J53",
+      "A14 J54",
+      "A12 J32",
+      "A12 J33"
+    ],
+    "industries": [
+      "Port Operations",
+      "Logistics",
+      "Financial Services",
+      "Agriculture Support"
+    ]
+  },
+  {
+    "slug": "irvine",
+    "town": "Irvine",
+    "county": "North Ayrshire",
+    "region": "Scotland",
+    "estates": [
+      "Irvine Industrial Estate",
+      "Drybridge Industrial Estate",
+      "Riverside Business Park",
+      "Shewalton Industrial Estate"
+    ],
+    "junctions": [
+      "A71",
+      "A78",
+      "A736"
+    ],
+    "industries": [
+      "Chemicals",
+      "Paper Production",
+      "Engineering",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "keighley",
+    "town": "Keighley",
+    "county": "West Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "Dalton Lane Industrial Estate",
+      "Royd Ings Avenue",
+      "Aireworth Road",
+      "Worth Way"
+    ],
+    "junctions": [
+      "A629",
+      "A650",
+      "A6033"
+    ],
+    "industries": [
+      "Precision Engineering",
+      "Manufacturing",
+      "Textiles",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "kettering",
+    "town": "Kettering",
+    "county": "Northamptonshire",
+    "region": "East Midlands",
+    "estates": [
+      "Telford Way Industrial Estate",
+      "Kettering Business Park",
+      "Garrard Way",
+      "Pytchley Lodge Industrial Estate"
+    ],
+    "junctions": [
+      "A14 J7",
+      "A14 J8",
+      "A14 J9"
+    ],
+    "industries": [
+      "Logistics and Warehousing",
+      "Manufacturing",
+      "Clothing and Footwear",
+      "Engineering"
+    ]
+  },
+  {
+    "slug": "kidderminster",
+    "town": "Kidderminster",
+    "county": "Worcestershire",
+    "region": "West Midlands",
+    "estates": [
+      "Hoo Farm Industrial Estate",
+      "Foley Business Park",
+      "Green Street",
+      "Worcester Road Industrial Estate"
+    ],
+    "junctions": [
+      "A456",
+      "A442",
+      "A449"
+    ],
+    "industries": [
+      "Carpet Manufacturing",
+      "Logistics",
+      "Engineering",
+      "Textiles"
+    ]
+  },
+  {
+    "slug": "kilmarnock",
+    "town": "Kilmarnock",
+    "county": "East Ayrshire",
+    "region": "Scotland",
+    "estates": [
+      "Moorfield Park",
+      "Loreny Industrial Estate",
+      "Glencairn Industrial Estate",
+      "Bonnyton Industrial Estate"
+    ],
+    "junctions": [
+      "A77",
+      "A71",
+      "A76"
+    ],
+    "industries": [
+      "Manufacturing",
+      "Food Production",
+      "Engineering",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "kirkcaldy",
+    "town": "Kirkcaldy",
+    "county": "Fife",
+    "region": "Scotland",
+    "estates": [
+      "Mitchelston Industrial Estate",
+      "Randolph Industrial Estate",
+      "Hayfield Industrial Estate",
+      "Fife Central Retail Park"
+    ],
+    "junctions": [
+      "A92",
+      "A915"
+    ],
+    "industries": [
+      "Manufacturing",
+      "Flooring Production",
+      "Engineering",
+      "Logistics"
+    ]
+  }
+]

@@ -1,0 +1,454 @@
+[
+  {
+    "slug": "margate",
+    "town": "Margate",
+    "county": "Kent",
+    "region": "South East",
+    "estates": [
+      "Westwood Industrial Estate",
+      "Dane Valley Industrial Estate",
+      "Manston Business Park",
+      "Tivoli Road Industrial Estate"
+    ],
+    "junctions": [
+      "A28",
+      "A299"
+    ],
+    "industries": [
+      "Tourism",
+      "Light Manufacturing",
+      "Creative Industries",
+      "Food Production"
+    ]
+  },
+  {
+    "slug": "melton-mowbray",
+    "town": "Melton Mowbray",
+    "county": "Leicestershire",
+    "region": "East Midlands",
+    "estates": [
+      "Hudson Road Industrial Estate",
+      "Leicester Road Industrial Estate",
+      "Asfordby Business Park",
+      "Melton Commercial Park"
+    ],
+    "junctions": [
+      "A607",
+      "A606",
+      "A46"
+    ],
+    "industries": [
+      "Food Production",
+      "Pet Food Manufacturing",
+      "Agriculture Support",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "merthyr-tydfil",
+    "town": "Merthyr Tydfil",
+    "county": "Merthyr Tydfil",
+    "region": "Wales",
+    "estates": [
+      "Pant Industrial Estate",
+      "Triangle Business Park",
+      "Merthyr Tydfil Industrial Park",
+      "Goat Mill Road Industrial Estate"
+    ],
+    "junctions": [
+      "A470",
+      "A465"
+    ],
+    "industries": [
+      "Manufacturing",
+      "Food Processing",
+      "Engineering",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "middlesbrough",
+    "town": "Middlesbrough",
+    "county": "North Yorkshire",
+    "region": "North East",
+    "estates": [
+      "Riverside Park Industrial Estate",
+      "East Middlesbrough Industrial Estate",
+      "Skippers Lane Industrial Estate",
+      "Cannon Park Industrial Estate"
+    ],
+    "junctions": [
+      "A19",
+      "A66"
+    ],
+    "industries": [
+      "Chemicals",
+      "Engineering",
+      "Port Operations",
+      "Manufacturing"
+    ]
+  },
+  {
+    "slug": "milton-keynes",
+    "town": "Milton Keynes",
+    "county": "Buckinghamshire",
+    "region": "South East",
+    "estates": [
+      "Magna Park",
+      "Tilbrook",
+      "Bleak Hall",
+      "Bletchley Industrial Estate"
+    ],
+    "junctions": [
+      "M1 J13",
+      "M1 J14",
+      "A5"
+    ],
+    "industries": [
+      "Logistics and Warehousing",
+      "Technology",
+      "Motorsport",
+      "Manufacturing"
+    ]
+  },
+  {
+    "slug": "morecambe",
+    "town": "Morecambe",
+    "county": "Lancashire",
+    "region": "North West",
+    "estates": [
+      "White Lund Industrial Estate",
+      "Mellishaw Lane Industrial Estate",
+      "Vickers Industrial Estate",
+      "Heysham Port Business Park"
+    ],
+    "junctions": [
+      "M6 J34",
+      "A683"
+    ],
+    "industries": [
+      "Energy",
+      "Port Operations",
+      "Tourism",
+      "Light Manufacturing"
+    ]
+  },
+  {
+    "slug": "motherwell",
+    "town": "Motherwell",
+    "county": "North Lanarkshire",
+    "region": "Scotland",
+    "estates": [
+      "Eurocentral",
+      "Newhouse Industrial Estate",
+      "Braidhurst Industrial Estate",
+      "Motherwell Food Park"
+    ],
+    "junctions": [
+      "M8 J6",
+      "M8 J7",
+      "M74 J6"
+    ],
+    "industries": [
+      "Logistics and Warehousing",
+      "Manufacturing",
+      "Food Production",
+      "Engineering"
+    ]
+  },
+  {
+    "slug": "neath",
+    "town": "Neath",
+    "county": "Neath Port Talbot",
+    "region": "Wales",
+    "estates": [
+      "Neath Abbey Business Park",
+      "Milland Road Industrial Estate",
+      "Baglan Energy Park",
+      "Lonlas Village Workshops"
+    ],
+    "junctions": [
+      "M4 J43",
+      "A465"
+    ],
+    "industries": [
+      "Manufacturing",
+      "Engineering",
+      "Logistics",
+      "Energy"
+    ]
+  },
+  {
+    "slug": "nelson",
+    "town": "Nelson",
+    "county": "Lancashire",
+    "region": "North West",
+    "estates": [
+      "Lomeshaye Industrial Estate",
+      "White Walls Industrial Estate",
+      "Pendle Industrial Estate",
+      "Reedyford Industrial Estate"
+    ],
+    "junctions": [
+      "M65 J12",
+      "M65 J13"
+    ],
+    "industries": [
+      "Aerospace Components",
+      "Textiles",
+      "Manufacturing",
+      "Engineering"
+    ]
+  },
+  {
+    "slug": "newark",
+    "town": "Newark-on-Trent",
+    "county": "Nottinghamshire",
+    "region": "East Midlands",
+    "estates": [
+      "Brunel Drive Industrial Estate",
+      "Newark Industrial Estate",
+      "Beacon Hill Business Park",
+      "Fernwood Business Park"
+    ],
+    "junctions": [
+      "A1",
+      "A46",
+      "A17"
+    ],
+    "industries": [
+      "Logistics",
+      "Engineering",
+      "Manufacturing",
+      "Agriculture Support"
+    ]
+  },
+  {
+    "slug": "newbury",
+    "town": "Newbury",
+    "county": "Berkshire",
+    "region": "South East",
+    "estates": [
+      "Greenham Business Park",
+      "Bone Lane Industrial Estate",
+      "Hambridge Road Industrial Estate",
+      "Newbury Business Park"
+    ],
+    "junctions": [
+      "M4 J13",
+      "A34",
+      "A4"
+    ],
+    "industries": [
+      "Technology and Telecommunications",
+      "Logistics",
+      "Manufacturing",
+      "Pharmaceuticals"
+    ]
+  },
+  {
+    "slug": "newcastle-upon-tyne",
+    "town": "Newcastle upon Tyne",
+    "county": "Tyne and Wear",
+    "region": "North East",
+    "estates": [
+      "Newburn Riverside",
+      "Benton Square Industrial Estate",
+      "Kingston Park Industrial Estate",
+      "Walker Riverside"
+    ],
+    "junctions": [
+      "A1 J73",
+      "A1 J77",
+      "A19"
+    ],
+    "industries": [
+      "Offshore and Marine",
+      "Technology",
+      "Life Sciences",
+      "Manufacturing"
+    ]
+  },
+  {
+    "slug": "newcastle-under-lyme",
+    "town": "Newcastle-under-lyme",
+    "county": "Staffordshire",
+    "region": "West Midlands",
+    "estates": [
+      "Lymedale Business Park",
+      "Parkhouse Industrial Estate",
+      "Holditch Industrial Estate",
+      "Silverdale Enterprise Centre"
+    ],
+    "junctions": [
+      "M6 J16",
+      "A34",
+      "A500"
+    ],
+    "industries": [
+      "Logistics and Warehousing",
+      "Manufacturing",
+      "Technology",
+      "Ceramics"
+    ]
+  },
+  {
+    "slug": "newport",
+    "town": "Newport",
+    "county": "Newport",
+    "region": "Wales",
+    "estates": [
+      "Celtic Lakes",
+      "Queensway Meadows",
+      "Leeway Industrial Estate",
+      "Maesglas Industrial Estate"
+    ],
+    "junctions": [
+      "M4 J24",
+      "M4 J28",
+      "A48"
+    ],
+    "industries": [
+      "Semiconductors",
+      "Steel Production",
+      "Manufacturing",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "newton-abbot",
+    "town": "Newton Abbot",
+    "county": "Devon",
+    "region": "South West",
+    "estates": [
+      "Heathfield Industrial Estate",
+      "Brunel Industrial Estate",
+      "Decoy Industrial Estate",
+      "Forde Road Industrial Estate"
+    ],
+    "junctions": [
+      "A38",
+      "A380"
+    ],
+    "industries": [
+      "Manufacturing",
+      "Engineering",
+      "Logistics",
+      "Food Production"
+    ]
+  },
+  {
+    "slug": "newton-aycliffe",
+    "town": "Newton Aycliffe",
+    "county": "County Durham",
+    "region": "North East",
+    "estates": [
+      "Aycliffe Business Park",
+      "Heighington Lane",
+      "Merchant Park",
+      "Henson Close Industrial Estate"
+    ],
+    "junctions": [
+      "A1(M) J59",
+      "A167"
+    ],
+    "industries": [
+      "Train Manufacturing",
+      "Semiconductors",
+      "Automotive Components",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "newtownabbey",
+    "town": "Newtownabbey",
+    "county": "County Antrim",
+    "region": "Northern Ireland",
+    "estates": [
+      "Mallusk Enterprise Park",
+      "Global Point Business Park",
+      "Trench Road Industrial Estate",
+      "Hydepark Industrial Estate"
+    ],
+    "junctions": [
+      "M2 J4",
+      "A8(M)"
+    ],
+    "industries": [
+      "Manufacturing",
+      "Logistics and Warehousing",
+      "Engineering",
+      "Technology"
+    ]
+  },
+  {
+    "slug": "normanton",
+    "town": "Normanton",
+    "county": "West Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "Normanton Industrial Estate",
+      "Wakefield Europort",
+      "Foxbridge Way",
+      "Tyler Close"
+    ],
+    "junctions": [
+      "M62 J31",
+      "A655"
+    ],
+    "industries": [
+      "Logistics and Distribution",
+      "Food Processing",
+      "Manufacturing",
+      "Engineering"
+    ]
+  },
+  {
+    "slug": "northampton",
+    "town": "Northampton",
+    "county": "Northamptonshire",
+    "region": "East Midlands",
+    "estates": [
+      "Brackmills Industrial Estate",
+      "Swan Valley",
+      "Moulton Park",
+      "Round Spinney",
+      "Lodge Farm Industrial Estate"
+    ],
+    "junctions": [
+      "M1 J15",
+      "M1 J15A",
+      "M1 J16",
+      "A45"
+    ],
+    "industries": [
+      "Logistics and Warehousing",
+      "Motorsport Engineering",
+      "Manufacturing",
+      "Food Production"
+    ]
+  },
+  {
+    "slug": "norwich",
+    "town": "Norwich",
+    "county": "Norfolk",
+    "region": "East of England",
+    "estates": [
+      "Broadland Business Park",
+      "Sweet Briar Industrial Estate",
+      "Fifers Lane Industrial Estate",
+      "Bowthorpe Industrial Estate"
+    ],
+    "junctions": [
+      "A47",
+      "A11",
+      "A140"
+    ],
+    "industries": [
+      "Financial Services",
+      "Food and Drink Production",
+      "Aviation",
+      "Manufacturing"
+    ]
+  }
+]

@@ -1,0 +1,466 @@
+[
+  {
+    "slug": "derby",
+    "town": "Derby",
+    "county": "Derbyshire",
+    "region": "East Midlands",
+    "estates": [
+      "Pride Park",
+      "Ascot Drive Industrial Estate",
+      "Raynesway",
+      "Derby Commercial Park",
+      "Infinity Park"
+    ],
+    "junctions": [
+      "M1 J24",
+      "M1 J25",
+      "A50",
+      "A38"
+    ],
+    "industries": [
+      "Aerospace Manufacturing",
+      "Rail Engineering",
+      "Automotive",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "dewsbury",
+    "town": "Dewsbury",
+    "county": "West Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "Ravensthorpe Industrial Estate",
+      "Shaw Cross Business Park",
+      "Mill Street West",
+      "Bretton Park",
+      "Scout Hill Industrial Estate"
+    ],
+    "junctions": [
+      "M1 J40",
+      "M62 J25",
+      "M62 J28"
+    ],
+    "industries": [
+      "Textiles",
+      "Manufacturing",
+      "Logistics",
+      "Engineering"
+    ]
+  },
+  {
+    "slug": "didcot",
+    "town": "Didcot",
+    "county": "Oxfordshire",
+    "region": "South East",
+    "estates": [
+      "Milton Park",
+      "Didcot Quarter",
+      "Southmead Industrial Estate",
+      "Hawksworth South"
+    ],
+    "junctions": [
+      "A34",
+      "M4 J13"
+    ],
+    "industries": [
+      "Science and Technology",
+      "Logistics",
+      "Energy",
+      "Publishing"
+    ]
+  },
+  {
+    "slug": "doncaster",
+    "town": "Doncaster",
+    "county": "South Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "Doncaster International Railport",
+      "iPort",
+      "Wheatley Hall Road",
+      "Carcroft Enterprise Park",
+      "Kirk Sandall Industrial Estate"
+    ],
+    "junctions": [
+      "M18 J3",
+      "M18 J4",
+      "A1(M) J36"
+    ],
+    "industries": [
+      "Logistics and Warehousing",
+      "Rail Engineering",
+      "Aviation",
+      "Manufacturing"
+    ]
+  },
+  {
+    "slug": "dudley",
+    "town": "Dudley",
+    "county": "West Midlands",
+    "region": "West Midlands",
+    "estates": [
+      "Pensnett Estate",
+      "Blackbrook Valley",
+      "Peartree Lane Industrial Estate",
+      "Washington Centre",
+      "Cradley Heath Industrial Estate"
+    ],
+    "junctions": [
+      "M5 J2",
+      "M5 J3",
+      "A4123"
+    ],
+    "industries": [
+      "Manufacturing",
+      "Engineering",
+      "Metal Processing",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "dumfries",
+    "town": "Dumfries",
+    "county": "Dumfries and Galloway",
+    "region": "Scotland",
+    "estates": [
+      "Heathhall Industrial Estate",
+      "Locharbriggs",
+      "Cargenbridge",
+      "Cuckoo Bridge"
+    ],
+    "junctions": [
+      "A75",
+      "A701",
+      "M74 J15"
+    ],
+    "industries": [
+      "Agriculture and Forestry",
+      "Food Manufacturing",
+      "Textiles",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "dundee",
+    "town": "Dundee",
+    "county": "Dundee City",
+    "region": "Scotland",
+    "estates": [
+      "Dryburgh Industrial Estate",
+      "Dunsinane Industrial Estate",
+      "Claverhouse Industrial Park",
+      "Wester Gourdie Industrial Estate"
+    ],
+    "junctions": [
+      "A90",
+      "A92"
+    ],
+    "industries": [
+      "Technology and Gaming",
+      "Life Sciences",
+      "Manufacturing",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "dunfermline",
+    "town": "Dunfermline",
+    "county": "Fife",
+    "region": "Scotland",
+    "estates": [
+      "Pitreavie Business Park",
+      "Elgin Industrial Estate",
+      "Halbeath Interchange",
+      "Lyneburn Industrial Estate"
+    ],
+    "junctions": [
+      "M90 J2",
+      "M90 J3",
+      "A92"
+    ],
+    "industries": [
+      "E-commerce and Logistics",
+      "Financial Services",
+      "Engineering",
+      "Manufacturing"
+    ]
+  },
+  {
+    "slug": "durham",
+    "town": "Durham",
+    "county": "County Durham",
+    "region": "North East",
+    "estates": [
+      "Belmont Industrial Estate",
+      "Dragonville Industrial Estate",
+      "Meadowfield Industrial Estate",
+      "Bowburn North Industrial Estate",
+      "Aykley Heads Business Park"
+    ],
+    "junctions": [
+      "A1(M) J61",
+      "A1(M) J62",
+      "A690"
+    ],
+    "industries": [
+      "Technology",
+      "Manufacturing",
+      "Logistics",
+      "Public Sector"
+    ]
+  },
+  {
+    "slug": "eastbourne",
+    "town": "Eastbourne",
+    "county": "East Sussex",
+    "region": "South East",
+    "estates": [
+      "Hammonds Drive Industrial Estate",
+      "Chaucer Industrial Estate",
+      "Birch Industrial Estate",
+      "Hampden Park Industrial Estate"
+    ],
+    "junctions": [
+      "A22",
+      "A27",
+      "A259"
+    ],
+    "industries": [
+      "Manufacturing",
+      "Wholesale Distribution",
+      "Tourism Support",
+      "Electronics"
+    ]
+  },
+  {
+    "slug": "edinburgh",
+    "town": "Edinburgh",
+    "county": "City of Edinburgh",
+    "region": "Scotland",
+    "estates": [
+      "Sighthill Industrial Estate",
+      "Bankhead Industrial Estate",
+      "Seafield Industrial Estate",
+      "Newbridge Industrial Estate",
+      "Peffermill Industrial Estate"
+    ],
+    "junctions": [
+      "M8 J1",
+      "M9 J1",
+      "A720"
+    ],
+    "industries": [
+      "Financial Services",
+      "Technology",
+      "Brewing and Distilling",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "elgin",
+    "town": "Elgin",
+    "county": "Moray",
+    "region": "Scotland",
+    "estates": [
+      "Chanonry Industrial Estate",
+      "Pinefield Industrial Estate",
+      "Tyock Industrial Estate",
+      "Moycroft Industrial Estate"
+    ],
+    "junctions": [
+      "A96",
+      "A941"
+    ],
+    "industries": [
+      "Whisky Distilling",
+      "Food Production",
+      "Logistics",
+      "Manufacturing"
+    ]
+  },
+  {
+    "slug": "ellesmere-port",
+    "town": "Ellesmere Port",
+    "county": "Cheshire",
+    "region": "North West",
+    "estates": [
+      "Cheshire Oaks Business Park",
+      "Pioneer Business Park",
+      "Rossmore Industrial Estate",
+      "Stanlow Manufacturing Complex",
+      "Portside Industrial Estate"
+    ],
+    "junctions": [
+      "M53 J8",
+      "M53 J9",
+      "M53 J10"
+    ],
+    "industries": [
+      "Petrochemicals",
+      "Automotive Manufacturing",
+      "Logistics",
+      "Energy"
+    ]
+  },
+  {
+    "slug": "evesham",
+    "town": "Evesham",
+    "county": "Worcestershire",
+    "region": "West Midlands",
+    "estates": [
+      "Vale Park",
+      "Four Pools Industrial Estate",
+      "Davies Road Industrial Estate",
+      "Blackminster Business Park"
+    ],
+    "junctions": [
+      "A46",
+      "A44"
+    ],
+    "industries": [
+      "Agriculture and Horticulture",
+      "Food Processing",
+      "Logistics",
+      "Manufacturing"
+    ]
+  },
+  {
+    "slug": "exeter",
+    "town": "Exeter",
+    "county": "Devon",
+    "region": "South West",
+    "estates": [
+      "Marsh Barton Trading Estate",
+      "Sowton Industrial Estate",
+      "Exeter Business Park",
+      "Skypark",
+      "Pinhoe Trading Estate"
+    ],
+    "junctions": [
+      "M5 J29",
+      "M5 J30",
+      "A30",
+      "A38"
+    ],
+    "industries": [
+      "Logistics and Distribution",
+      "Technology",
+      "Aviation",
+      "Manufacturing"
+    ]
+  },
+  {
+    "slug": "falkirk",
+    "town": "Falkirk",
+    "county": "Falkirk",
+    "region": "Scotland",
+    "estates": [
+      "Bankside Industrial Estate",
+      "Middlefield Industrial Estate",
+      "Camelon Industrial Estate",
+      "Callendar Business Park"
+    ],
+    "junctions": [
+      "M9 J5",
+      "M9 J6",
+      "A9"
+    ],
+    "industries": [
+      "Chemicals and Petrochemicals",
+      "Logistics",
+      "Manufacturing",
+      "Bus Manufacturing"
+    ]
+  },
+  {
+    "slug": "falmouth",
+    "town": "Falmouth",
+    "county": "Cornwall",
+    "region": "South West",
+    "estates": [
+      "Tregoniggie Industrial Estate",
+      "Bickland Industrial Park",
+      "Falmouth Business Park",
+      "Kernick Industrial Estate"
+    ],
+    "junctions": [
+      "A39",
+      "A394"
+    ],
+    "industries": [
+      "Marine Engineering",
+      "Ship Repair",
+      "Technology",
+      "Manufacturing"
+    ]
+  },
+  {
+    "slug": "fareham",
+    "town": "Fareham",
+    "county": "Hampshire",
+    "region": "South East",
+    "estates": [
+      "Segensworth Industrial Estate",
+      "Fareham Industrial Park",
+      "Cams Estate",
+      "Speedfields Park"
+    ],
+    "junctions": [
+      "M27 J9",
+      "M27 J10",
+      "M27 J11"
+    ],
+    "industries": [
+      "Marine and Aerospace",
+      "Advanced Manufacturing",
+      "Technology",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "farnborough",
+    "town": "Farnborough",
+    "county": "Hampshire",
+    "region": "South East",
+    "estates": [
+      "Farnborough Aerospace Centre",
+      "Invincible Road Industrial Estate",
+      "Southwood Business Park",
+      "Cody Technology Park"
+    ],
+    "junctions": [
+      "M3 J4",
+      "M3 J4A",
+      "A331"
+    ],
+    "industries": [
+      "Aerospace",
+      "Defence",
+      "Technology",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "flint",
+    "town": "Flint",
+    "county": "Flintshire",
+    "region": "Wales",
+    "estates": [
+      "Aber Park Industrial Estate",
+      "Castle Park Industrial Estate",
+      "Ashmount Enterprise Park",
+      "Coleshill Industrial Estate"
+    ],
+    "junctions": [
+      "A548",
+      "A55 J33"
+    ],
+    "industries": [
+      "Paper Manufacturing",
+      "Chemicals",
+      "Logistics",
+      "Engineering"
+    ]
+  }
+]

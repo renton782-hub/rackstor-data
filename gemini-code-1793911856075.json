@@ -1,0 +1,465 @@
+[
+  {
+    "slug": "folkestone",
+    "town": "Folkestone",
+    "county": "Kent",
+    "region": "South East",
+    "estates": [
+      "Park Farm Industrial Estate",
+      "Shearway Business Park",
+      "Bowles Well Gardens",
+      "Highfield Industrial Estate"
+    ],
+    "junctions": [
+      "M20 J12",
+      "M20 J13",
+      "A20"
+    ],
+    "industries": [
+      "Logistics",
+      "Manufacturing",
+      "Tourism",
+      "Construction"
+    ]
+  },
+  {
+    "slug": "forfar",
+    "town": "Forfar",
+    "county": "Angus",
+    "region": "Scotland",
+    "estates": [
+      "Orchardbank Industrial Estate",
+      "Suttieside Industrial Estate",
+      "Carseview Road",
+      "Taranty Road"
+    ],
+    "junctions": [
+      "A90",
+      "A926",
+      "A932"
+    ],
+    "industries": [
+      "Agriculture Support",
+      "Food Production",
+      "Manufacturing",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "gateshead",
+    "town": "Gateshead",
+    "county": "Tyne and Wear",
+    "region": "North East",
+    "estates": [
+      "Team Valley Trading Estate",
+      "Follingsby Park",
+      "Saltmeadows Road Industrial Estate",
+      "East Gateshead Industrial Estate"
+    ],
+    "junctions": [
+      "A1(M) J66",
+      "A1(M) J67",
+      "A184",
+      "A19"
+    ],
+    "industries": [
+      "Manufacturing",
+      "Logistics and Warehousing",
+      "Technology",
+      "Engineering"
+    ]
+  },
+  {
+    "slug": "glasgow",
+    "town": "Glasgow",
+    "county": "Glasgow City",
+    "region": "Scotland",
+    "estates": [
+      "Hillington Park",
+      "Dixon Blazes Industrial Estate",
+      "Queenslie Industrial Estate",
+      "Polmadie Industrial Estate",
+      "Cambuslang Investment Park"
+    ],
+    "junctions": [
+      "M8 J23",
+      "M8 J24",
+      "M74 J1",
+      "M77 J1"
+    ],
+    "industries": [
+      "Manufacturing",
+      "Logistics and Distribution",
+      "Shipbuilding and Marine",
+      "Financial Services"
+    ]
+  },
+  {
+    "slug": "gloucester",
+    "town": "Gloucester",
+    "county": "Gloucestershire",
+    "region": "South West",
+    "estates": [
+      "Waterwells Business Park",
+      "Quedgeley West Business Park",
+      "Gloucester Business Park",
+      "Barnwood Fields"
+    ],
+    "junctions": [
+      "M5 J11A",
+      "M5 J12",
+      "A38",
+      "A40"
+    ],
+    "industries": [
+      "Aerospace",
+      "Manufacturing",
+      "Logistics",
+      "Engineering"
+    ]
+  },
+  {
+    "slug": "goole",
+    "town": "Goole",
+    "county": "East Riding of Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "Capitol Park",
+      "Goole 36",
+      "Larsen Road Industrial Estate",
+      "Glews Hollow"
+    ],
+    "junctions": [
+      "M62 J36",
+      "M18 J36",
+      "A614"
+    ],
+    "industries": [
+      "Rail Engineering",
+      "Logistics and Warehousing",
+      "Glass Manufacturing",
+      "Port Operations"
+    ]
+  },
+  {
+    "slug": "grangemouth",
+    "town": "Grangemouth",
+    "county": "Falkirk",
+    "region": "Scotland",
+    "estates": [
+      "Grangemouth Petrochemical Complex",
+      "Earls Gate Business Park",
+      "Lomond Business Park",
+      "Wholeflats Industrial Estate"
+    ],
+    "junctions": [
+      "M9 J5",
+      "M9 J6",
+      "A904"
+    ],
+    "industries": [
+      "Petrochemicals",
+      "Chemicals",
+      "Logistics",
+      "Port Operations"
+    ]
+  },
+  {
+    "slug": "gravesend",
+    "town": "Gravesend",
+    "county": "Kent",
+    "region": "South East",
+    "estates": [
+      "Springhead Enterprise Park",
+      "Imperial Business Estate",
+      "Denton Wharf",
+      "Gravesend Industrial Estate"
+    ],
+    "junctions": [
+      "A2",
+      "A226",
+      "A227"
+    ],
+    "industries": [
+      "Logistics",
+      "Marine Engineering",
+      "Construction Materials",
+      "Manufacturing"
+    ]
+  },
+  {
+    "slug": "grays",
+    "town": "Grays",
+    "county": "Essex",
+    "region": "East of England",
+    "estates": [
+      "West Thurrock Industrial Estate",
+      "Titan Works",
+      "Globe Industrial Estate",
+      "Motherwell Way"
+    ],
+    "junctions": [
+      "M25 J30",
+      "M25 J31",
+      "A13"
+    ],
+    "industries": [
+      "Port Operations",
+      "Logistics and Distribution",
+      "Retail Warehousing",
+      "Manufacturing"
+    ]
+  },
+  {
+    "slug": "great-yarmouth",
+    "town": "Great Yarmouth",
+    "county": "Norfolk",
+    "region": "East of England",
+    "estates": [
+      "Harfreys Industrial Estate",
+      "Gapton Hall Industrial Estate",
+      "South Denes",
+      "Beacon Park"
+    ],
+    "junctions": [
+      "A47",
+      "A143",
+      "A12"
+    ],
+    "industries": [
+      "Offshore Energy",
+      "Logistics",
+      "Manufacturing",
+      "Food Production"
+    ]
+  },
+  {
+    "slug": "greenock",
+    "town": "Greenock",
+    "county": "Inverclyde",
+    "region": "Scotland",
+    "estates": [
+      "Kelburn Business Park",
+      "Cartsburn",
+      "Cappielow Industrial Estate",
+      "Larkfield Industrial Estate"
+    ],
+    "junctions": [
+      "A8",
+      "A78"
+    ],
+    "industries": [
+      "Electronics",
+      "Shipbuilding and Repair",
+      "Port Operations",
+      "Customer Service"
+    ]
+  },
+  {
+    "slug": "grimsby",
+    "town": "Grimsby",
+    "county": "North East Lincolnshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "Europarc",
+      "Great Grimsby Business Park",
+      "South Humberside Industrial Estate",
+      "Pyewipe Industrial Estate"
+    ],
+    "junctions": [
+      "A180",
+      "A16",
+      "A46"
+    ],
+    "industries": [
+      "Food Processing",
+      "Offshore Wind Energy",
+      "Logistics",
+      "Port Operations"
+    ]
+  },
+  {
+    "slug": "guildford",
+    "town": "Guildford",
+    "county": "Surrey",
+    "region": "South East",
+    "estates": [
+      "Slyfield Industrial Estate",
+      "Surrey Research Park",
+      "Riverway Industrial Estate",
+      "Midleton Industrial Estate"
+    ],
+    "junctions": [
+      "A3",
+      "A31",
+      "M25 J10"
+    ],
+    "industries": [
+      "Technology",
+      "Video Gaming",
+      "Space and Satellite",
+      "Manufacturing"
+    ]
+  },
+  {
+    "slug": "halesowen",
+    "town": "Halesowen",
+    "county": "West Midlands",
+    "region": "West Midlands",
+    "estates": [
+      "Mucklow Hill Trading Estate",
+      "Coombswood Business Park",
+      "Stourbridge Road Industrial Estate",
+      "Gorsty Hill"
+    ],
+    "junctions": [
+      "M5 J3",
+      "A456",
+      "A458"
+    ],
+    "industries": [
+      "Manufacturing",
+      "Engineering",
+      "Metal Fabrication",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "halifax",
+    "town": "Halifax",
+    "county": "West Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "Pellon Lane Industrial Estate",
+      "Holmfield Industrial Estate",
+      "Shay Lane Industrial Estate",
+      "Dean Clough"
+    ],
+    "junctions": [
+      "M62 J24",
+      "A58",
+      "A629"
+    ],
+    "industries": [
+      "Financial Services",
+      "Manufacturing",
+      "Engineering",
+      "Food Production"
+    ]
+  },
+  {
+    "slug": "hamilton",
+    "town": "Hamilton",
+    "county": "South Lanarkshire",
+    "region": "Scotland",
+    "estates": [
+      "Hamilton International Technology Park",
+      "Cadzow Industrial Estate",
+      "Hillhouse Industrial Estate",
+      "Blantyre Industrial Estate"
+    ],
+    "junctions": [
+      "M74 J5",
+      "M74 J6",
+      "A725"
+    ],
+    "industries": [
+      "Technology and IT",
+      "Logistics",
+      "Manufacturing",
+      "Construction"
+    ]
+  },
+  {
+    "slug": "harlow",
+    "town": "Harlow",
+    "county": "Essex",
+    "region": "East of England",
+    "estates": [
+      "Pinnacles Industrial Estate",
+      "Templefields",
+      "Harlow Innovation Park",
+      "Riverway"
+    ],
+    "junctions": [
+      "M11 J7",
+      "M11 J7a",
+      "A414"
+    ],
+    "industries": [
+      "Technology and Innovation",
+      "Pharmaceuticals",
+      "Logistics",
+      "Manufacturing"
+    ]
+  },
+  {
+    "slug": "harrogate",
+    "town": "Harrogate",
+    "county": "North Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "Hornbeam Park",
+      "St James Business Park",
+      "Claro Park",
+      "Pannal Business Park"
+    ],
+    "junctions": [
+      "A61",
+      "A59",
+      "A1(M) J47"
+    ],
+    "industries": [
+      "Technology",
+      "Conferences and Exhibitions",
+      "Financial Services",
+      "Manufacturing"
+    ]
+  },
+  {
+    "slug": "hartlepool",
+    "town": "Hartlepool",
+    "county": "County Durham",
+    "region": "North East",
+    "estates": [
+      "Oakesway Industrial Estate",
+      "Park View Industrial Estate",
+      "Longhill Industrial Estate",
+      "Brenda Road Industrial Estate"
+    ],
+    "junctions": [
+      "A19",
+      "A689",
+      "A179"
+    ],
+    "industries": [
+      "Chemicals",
+      "Engineering",
+      "Energy",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "hastings",
+    "town": "Hastings",
+    "county": "East Sussex",
+    "region": "South East",
+    "estates": [
+      "Ponswood Industrial Estate",
+      "Castleham Industrial Estate",
+      "Ivyhouse Lane Industrial Estate",
+      "Churchfields Industrial Estate"
+    ],
+    "junctions": [
+      "A21",
+      "A259",
+      "A2100"
+    ],
+    "industries": [
+      "Manufacturing",
+      "Engineering",
+      "Technology",
+      "Logistics"
+    ]
+  }
+]

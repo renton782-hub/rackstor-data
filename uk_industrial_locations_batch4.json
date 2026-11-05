@@ -1,0 +1,480 @@
+[
+  {
+    "slug": "warrington",
+    "town": "Warrington",
+    "county": "Cheshire",
+    "region": "North West",
+    "estates": [
+      "Omega Business Park",
+      "Birchwood Park",
+      "Gemini Business Park",
+      "Winwick Quay Industrial Estate",
+      "Grange Employment Area"
+    ],
+    "junctions": [
+      "M62 J8",
+      "M62 J9",
+      "M6 J21",
+      "M56 J11"
+    ],
+    "industries": [
+      "Logistics",
+      "Nuclear Energy",
+      "Technology",
+      "Distribution",
+      "Manufacturing"
+    ]
+  },
+  {
+    "slug": "warwick",
+    "town": "Warwick",
+    "county": "Warwickshire",
+    "region": "West Midlands",
+    "estates": [
+      "Heathcote Industrial Estate",
+      "Wedgnock Industrial Estate",
+      "Tournament Fields",
+      "Warwick Technology Park"
+    ],
+    "junctions": [
+      "M40 J15",
+      "A46"
+    ],
+    "industries": [
+      "Automotive",
+      "Technology",
+      "Engineering",
+      "Software",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "washington",
+    "town": "Washington",
+    "county": "Tyne and Wear",
+    "region": "North East",
+    "estates": [
+      "Pattinson Industrial Estate",
+      "Crowther Industrial Estate",
+      "Wear Industrial Estate",
+      "Swan Industrial Estate",
+      "Stephenson Industrial Estate"
+    ],
+    "junctions": [
+      "A1(M) J64",
+      "A1(M) J65",
+      "A194(M)",
+      "A1231"
+    ],
+    "industries": [
+      "Automotive",
+      "Manufacturing",
+      "Logistics",
+      "Engineering"
+    ]
+  },
+  {
+    "slug": "watford",
+    "town": "Watford",
+    "county": "Hertfordshire",
+    "region": "East of England",
+    "estates": [
+      "Watford Business Park",
+      "Imperial Way Industrial Estate",
+      "Croxley Park",
+      "Colne Way Enterprise Centre"
+    ],
+    "junctions": [
+      "M1 J5",
+      "M25 J19",
+      "M25 J20",
+      "A41"
+    ],
+    "industries": [
+      "Film Production",
+      "Professional Services",
+      "Logistics",
+      "Retail",
+      "Light Manufacturing"
+    ]
+  },
+  {
+    "slug": "wednesbury",
+    "town": "Wednesbury",
+    "county": "West Midlands",
+    "region": "West Midlands",
+    "estates": [
+      "Wednesbury Trading Estate",
+      "Parkway Industrial Estate",
+      "Moorcroft Park",
+      "Portway Road Industrial Estate"
+    ],
+    "junctions": [
+      "M6 J9",
+      "A41",
+      "A461"
+    ],
+    "industries": [
+      "Logistics",
+      "Manufacturing",
+      "Automotive",
+      "Metals",
+      "Distribution"
+    ]
+  },
+  {
+    "slug": "wellingborough",
+    "town": "Wellingborough",
+    "county": "Northamptonshire",
+    "region": "East Midlands",
+    "estates": [
+      "Finedon Road Industrial Estate",
+      "Park Farm Industrial Estate",
+      "Leyland Trading Estate",
+      "Denington Industrial Estate"
+    ],
+    "junctions": [
+      "A45",
+      "A509",
+      "A504"
+    ],
+    "industries": [
+      "Logistics",
+      "Manufacturing",
+      "Retail",
+      "Distribution",
+      "Engineering"
+    ]
+  },
+  {
+    "slug": "welwyn-garden-city",
+    "town": "Welwyn Garden City",
+    "county": "Hertfordshire",
+    "region": "East of England",
+    "estates": [
+      "Mundells Industrial Centre",
+      "Watchmead Industrial Estate",
+      "Weltech Business Centre",
+      "Brownfields",
+      "Burrowfield Industrial Estate"
+    ],
+    "junctions": [
+      "A1(M) J4",
+      "A1(M) J5",
+      "A414"
+    ],
+    "industries": [
+      "Pharmaceuticals",
+      "Logistics",
+      "Technology",
+      "Food Manufacturing",
+      "Retail"
+    ]
+  },
+  {
+    "slug": "west-bromwich",
+    "town": "West Bromwich",
+    "county": "West Midlands",
+    "region": "West Midlands",
+    "estates": [
+      "Kelvin Way Trading Estate",
+      "Roebuck Lane",
+      "Brandon Way",
+      "Spon Lane Industrial Estate"
+    ],
+    "junctions": [
+      "M5 J1",
+      "M5 J2",
+      "A41",
+      "A4182"
+    ],
+    "industries": [
+      "Manufacturing",
+      "Engineering",
+      "Automotive",
+      "Metals",
+      "Chemicals"
+    ]
+  },
+  {
+    "slug": "weymouth",
+    "town": "Weymouth",
+    "county": "Dorset",
+    "region": "South West",
+    "estates": [
+      "Granby Industrial Estate",
+      "Lynch Lane Industrial Estate",
+      "Link Park",
+      "Weymouth Gateway"
+    ],
+    "junctions": [
+      "A354",
+      "A353"
+    ],
+    "industries": [
+      "Precision Engineering",
+      "Marine",
+      "Tourism",
+      "Technology",
+      "Manufacturing"
+    ]
+  },
+  {
+    "slug": "whitehaven",
+    "town": "Whitehaven",
+    "county": "Cumbria",
+    "region": "North West",
+    "estates": [
+      "Haig Enterprise Park",
+      "Sneckyeat Industrial Estate",
+      "Westlakes Science & Technology Park"
+    ],
+    "junctions": [
+      "A595"
+    ],
+    "industries": [
+      "Nuclear",
+      "Engineering",
+      "Tourism",
+      "Technology",
+      "Public Sector"
+    ]
+  },
+  {
+    "slug": "wigan",
+    "town": "Wigan",
+    "county": "Greater Manchester",
+    "region": "North West",
+    "estates": [
+      "Martland Park",
+      "South Lancashire Industrial Estate",
+      "Wheatlea Industrial Estate",
+      "Challenge Way"
+    ],
+    "junctions": [
+      "M6 J27",
+      "M6 J26",
+      "M58"
+    ],
+    "industries": [
+      "Logistics",
+      "Food Manufacturing",
+      "Distribution",
+      "Retail",
+      "Engineering"
+    ]
+  },
+  {
+    "slug": "witham",
+    "town": "Witham",
+    "county": "Essex",
+    "region": "East of England",
+    "estates": [
+      "Freebournes Road Industrial Estate",
+      "Eastways Industrial Estate",
+      "Stepfield",
+      "Perry Way Industrial Estate"
+    ],
+    "junctions": [
+      "A12"
+    ],
+    "industries": [
+      "Manufacturing",
+      "Logistics",
+      "Professional Services",
+      "Food Production"
+    ]
+  },
+  {
+    "slug": "woking",
+    "town": "Woking",
+    "county": "Surrey",
+    "region": "South East",
+    "estates": [
+      "Forsyth Road Industrial Estate",
+      "Woking Business Park",
+      "Monument Way",
+      "Goldsworth Park Trading Estate"
+    ],
+    "junctions": [
+      "M25 J11",
+      "A320",
+      "A3"
+    ],
+    "industries": [
+      "Motorsport",
+      "Engineering",
+      "Technology",
+      "IT",
+      "Finance"
+    ]
+  },
+  {
+    "slug": "wolverhampton",
+    "town": "Wolverhampton",
+    "county": "West Midlands",
+    "region": "West Midlands",
+    "estates": [
+      "i54",
+      "Dunstall Hill Estate",
+      "Monmore Park",
+      "Planetary Industrial Estate",
+      "Steelpark Trading Estate"
+    ],
+    "junctions": [
+      "M54 J2",
+      "M6 J10",
+      "A449",
+      "A4123"
+    ],
+    "industries": [
+      "Aerospace",
+      "Automotive",
+      "Advanced Manufacturing",
+      "Engineering",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "worcester",
+    "town": "Worcester",
+    "county": "Worcestershire",
+    "region": "West Midlands",
+    "estates": [
+      "Warndon Business Park",
+      "Blackpole Trading Estate",
+      "Shire Business Park",
+      "Diglis Industrial Estate"
+    ],
+    "junctions": [
+      "M5 J6",
+      "M5 J7",
+      "A4440"
+    ],
+    "industries": [
+      "Manufacturing",
+      "Logistics",
+      "Boiler Production",
+      "Professional Services",
+      "Technology"
+    ]
+  },
+  {
+    "slug": "worksop",
+    "town": "Worksop",
+    "county": "Nottinghamshire",
+    "region": "East Midlands",
+    "estates": [
+      "Manton Wood Enterprise Park",
+      "Dukeries Industrial Estate",
+      "Claylands Avenue",
+      "High Grounds Industrial Estate"
+    ],
+    "junctions": [
+      "A1",
+      "M1 J30",
+      "M1 J31",
+      "A57"
+    ],
+    "industries": [
+      "Food Production",
+      "Logistics",
+      "Manufacturing",
+      "Distribution"
+    ]
+  },
+  {
+    "slug": "worthing",
+    "town": "Worthing",
+    "county": "West Sussex",
+    "region": "South East",
+    "estates": [
+      "East Worthing Industrial Estate",
+      "Broadwater Business Park",
+      "Yeoman Way",
+      "Garcia Trading Estate"
+    ],
+    "junctions": [
+      "A27",
+      "A24"
+    ],
+    "industries": [
+      "Pharmaceuticals",
+      "Engineering",
+      "Financial Services",
+      "Manufacturing"
+    ]
+  },
+  {
+    "slug": "wrexham",
+    "town": "Wrexham",
+    "county": "Wrexham",
+    "region": "Wales",
+    "estates": [
+      "Wrexham Industrial Estate",
+      "Llay Industrial Estate",
+      "Whitegate Industrial Estate",
+      "Bersham Enterprise Centre"
+    ],
+    "junctions": [
+      "A483",
+      "A534"
+    ],
+    "industries": [
+      "Pharmaceuticals",
+      "Aerospace",
+      "Manufacturing",
+      "Food and Drink",
+      "Packaging"
+    ]
+  },
+  {
+    "slug": "yeovil",
+    "town": "Yeovil",
+    "county": "Somerset",
+    "region": "South West",
+    "estates": [
+      "Lynx Trading Estate",
+      "Houndstone Business Park",
+      "Pen Mill Trading Estate",
+      "Lufton Trading Estate"
+    ],
+    "junctions": [
+      "A303",
+      "A30",
+      "A37"
+    ],
+    "industries": [
+      "Aerospace",
+      "Defence",
+      "Manufacturing",
+      "Retail",
+      "Engineering"
+    ]
+  },
+  {
+    "slug": "york",
+    "town": "York",
+    "county": "North Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "Clifton Moor",
+      "York Business Park",
+      "Monks Cross",
+      "Elvington Industrial Estate",
+      "Hospital Fields Road"
+    ],
+    "junctions": [
+      "A64",
+      "A19",
+      "A59"
+    ],
+    "industries": [
+      "Tourism",
+      "Rail",
+      "Confectionery",
+      "Science and Tech",
+      "Healthcare"
+    ]
+  }
+]
