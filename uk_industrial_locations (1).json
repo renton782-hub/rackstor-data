@@ -1,0 +1,5583 @@
+[
+  {
+    "slug": "blackburn",
+    "town": "Blackburn",
+    "county": "Lancashire",
+    "region": "North West England",
+    "estates": [
+      "Walker Industrial Estate",
+      "Shadsworth Business Park",
+      "Greenbank Business Park",
+      "Whitebirk Industrial Estate",
+      "Edward Street Industrial Estate"
+    ],
+    "junctions": [
+      "M65 J4",
+      "M65 J5",
+      "A666",
+      "A677"
+    ],
+    "industries": [
+      "Aerospace",
+      "Advanced Manufacturing",
+      "Textiles",
+      "Packaging",
+      "Food Processing"
+    ]
+  },
+  {
+    "slug": "blackpool",
+    "town": "Blackpool",
+    "county": "Lancashire",
+    "region": "North West England",
+    "estates": [
+      "Blackpool and Fylde Industrial Estate",
+      "Clifton Trade Park",
+      "Squires Gate Industrial Estate",
+      "Bispham Industrial Estate",
+      "Enterprise Way Industrial Estate"
+    ],
+    "junctions": [
+      "M55 J4",
+      "A583",
+      "A587",
+      "A5099"
+    ],
+    "industries": [
+      "Tourism",
+      "Light Engineering",
+      "Food Production",
+      "Printing",
+      "Digital Technologies"
+    ]
+  },
+  {
+    "slug": "blyth",
+    "town": "Blyth",
+    "county": "Northumberland",
+    "region": "North East England",
+    "estates": [
+      "Cowpen Industrial Estate",
+      "Blyth Riverside Business Park",
+      "Kitty Brewster Industrial Estate",
+      "Bates Industrial Estate",
+      "Wensleydale Terrace Industrial Estate"
+    ],
+    "junctions": [
+      "A189",
+      "A193",
+      "A1068"
+    ],
+    "industries": [
+      "Renewable Energy",
+      "Subsea Engineering",
+      "Offshore Wind",
+      "Advanced Manufacturing",
+      "Port Logistics"
+    ]
+  },
+  {
+    "slug": "bolton",
+    "town": "Bolton",
+    "county": "Greater Manchester",
+    "region": "North West England",
+    "estates": [
+      "Wingates Industrial Estate",
+      "Logistics North",
+      "Manchester Road Industrial Estate",
+      "Crankhall Lane Industrial Estate",
+      "Beehive Business Park"
+    ],
+    "junctions": [
+      "M61 J5",
+      "M61 J6",
+      "A6",
+      "A58",
+      "A666"
+    ],
+    "industries": [
+      "Logistics and Distribution",
+      "Engineering",
+      "Food and Drink",
+      "Packaging",
+      "Building Products"
+    ]
+  },
+  {
+    "slug": "bracknell",
+    "town": "Bracknell",
+    "county": "Berkshire",
+    "region": "South East England",
+    "estates": [
+      "Southern Industrial Estate",
+      "Western Industrial Estate",
+      "Bracknell Business Park",
+      "Cain Road Business Park",
+      "Fairacres Industrial Estate"
+    ],
+    "junctions": [
+      "M3 J3",
+      "M4 J10",
+      "A322",
+      "A329",
+      "A329M"
+    ],
+    "industries": [
+      "Information Technology",
+      "Telecommunications",
+      "Electronics",
+      "Pharmaceuticals",
+      "Corporate Headquarters"
+    ]
+  },
+  {
+    "slug": "bradford",
+    "town": "Bradford",
+    "county": "West Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "Euroway Trading Estate",
+      "Buttershaw Industrial Estate",
+      "Dumers Lane Industrial Estate",
+      "TypeName Industrial Estate",
+      "Albion Mills Industrial Estate"
+    ],
+    "junctions": [
+      "M606 J1",
+      "M606 J3",
+      "A58",
+      "A6036",
+      "A650"
+    ],
+    "industries": [
+      "Automotive",
+      "Engineering",
+      "Food and Drink",
+      "Digital Media",
+      "Textiles"
+    ]
+  },
+  {
+    "slug": "bridgend",
+    "town": "Bridgend",
+    "county": "Bridgend County Borough",
+    "region": "Wales",
+    "estates": [
+      "Bridgend Industrial Estate",
+      "Waterton Industrial Estate",
+      "North Road Industrial Estate",
+      "Pencoed Technology Park",
+      "Sarn Park Industrial Estate"
+    ],
+    "junctions": [
+      "M4 J35",
+      "M4 J36",
+      "A473",
+      "A48"
+    ],
+    "industries": [
+      "Automotive Manufacturing",
+      "Electronics",
+      "Aerospace",
+      "Precision Engineering",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "bridgwater",
+    "town": "Bridgwater",
+    "county": "Somerset",
+    "region": "South West England",
+    "estates": [
+      "Blake Mill Business Park",
+      "Express Park",
+      "Bridgwater Business Park",
+      "Wylds Road Industrial Estate",
+      "Bath Road Industrial Estate"
+    ],
+    "junctions": [
+      "M5 J23",
+      "M5 J24",
+      "A38",
+      "A39"
+    ],
+    "industries": [
+      "Nuclear Construction Support",
+      "Engineering",
+      "Distribution",
+      "Food Processing",
+      "Advanced Manufacturing"
+    ]
+  },
+  {
+    "slug": "brighton",
+    "town": "Brighton",
+    "county": "East Sussex",
+    "region": "South East England",
+    "estates": [
+      "Hollingbury Industrial Estate",
+      "The Hyde Business Park",
+      "Freshfield Business Park",
+      "Moulescoomb and Fairway Business Park",
+      "South Portslade Industrial Estate"
+    ],
+    "junctions": [
+      "A23",
+      "A27",
+      "A259"
+    ],
+    "industries": [
+      "Digital Technology",
+      "Creative Industries",
+      "Financial Services",
+      "Tourism",
+      "Environmental Technology"
+    ]
+  },
+  {
+    "slug": "bristol",
+    "town": "Bristol",
+    "county": "Bristol",
+    "region": "South West England",
+    "estates": [
+      "Avonmouth Industrial Estate",
+      "St Philips Trading Estate",
+      "Emersons Green Enterprise Park",
+      "Brislington Trading Estate",
+      "Temple Back East"
+    ],
+    "junctions": [
+      "M32 J1",
+      "M4 J19",
+      "M5 J18",
+      "A4",
+      "A38"
+    ],
+    "industries": [
+      "Aerospace",
+      "Defense",
+      "Advanced Engineering",
+      "Creative Media",
+      "Financial Services"
+    ]
+  },
+  {
+    "slug": "burnley",
+    "town": "Burnley",
+    "county": "Lancashire",
+    "region": "North West England",
+    "estates": [
+      "Burnley Bridge Business Park",
+      "Shuttleworth Mead Business Park",
+      "Network 65 Business Park",
+      "Rossendale Road Industrial Estate",
+      "Heasandford Industrial Estate"
+    ],
+    "junctions": [
+      "M65 J9",
+      "M65 J10",
+      "M65 J11",
+      "A671",
+      "A646"
+    ],
+    "industries": [
+      "Aerospace",
+      "Advanced Manufacturing",
+      "Automotive",
+      "Digital Tech",
+      "Engineering"
+    ]
+  },
+  {
+    "slug": "burton-upon-trent",
+    "town": "Burton upon Trent",
+    "county": "Staffordshire",
+    "region": "West Midlands",
+    "estates": [
+      "Centrum 100 Business Park",
+      "Branston Industrial Estate",
+      "Anglesey Business Park",
+      "Bretby Business Park",
+      "Fauld Industrial Estate"
+    ],
+    "junctions": [
+      "A38",
+      "A511",
+      "A5121",
+      "M6 J15 (via A50)"
+    ],
+    "industries": [
+      "Brewing",
+      "Logistics and Distribution",
+      "Packaging",
+      "Rubber Manufacturing",
+      "Engineering"
+    ]
+  },
+  {
+    "slug": "bury",
+    "town": "Bury",
+    "county": "Greater Manchester",
+    "region": "North West England",
+    "estates": [
+      "Dumers Lane Industrial Estate",
+      "Wellington Industrial Estate",
+      "Pioneer Business Park",
+      "Spring Side Mills",
+      "Waterloo Industrial Estate"
+    ],
+    "junctions": [
+      "M66 J2",
+      "M66 J3",
+      "A56",
+      "A58"
+    ],
+    "industries": [
+      "Engineering",
+      "Plastics",
+      "Logistics",
+      "Paper and Printing",
+      "Textiles"
+    ]
+  },
+  {
+    "slug": "bury-st-edmunds",
+    "town": "Bury St Edmunds",
+    "county": "Suffolk",
+    "region": "East of England",
+    "estates": [
+      "Rougham Industrial Estate",
+      "Western Way Industrial Estate",
+      "Symonds Road Industrial Estate",
+      "Fornham Business Park",
+      "Bury Business Park"
+    ],
+    "junctions": [
+      "A14",
+      "A134",
+      "A143"
+    ],
+    "industries": [
+      "Brewing",
+      "Food Processing",
+      "Agriculture",
+      "Engineering",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "cambridge",
+    "town": "Cambridge",
+    "county": "Cambridgeshire",
+    "region": "East of England",
+    "estates": [
+      "Cambridge Science Park",
+      "St John's Innovation Centre",
+      "Granta Park",
+      "Babraham Research Campus",
+      "Cambridge Business Park"
+    ],
+    "junctions": [
+      "M11 J11",
+      "M11 J12",
+      "A14",
+      "A10",
+      "A1303"
+    ],
+    "industries": [
+      "Biotechnology",
+      "Life Sciences",
+      "Software Development",
+      "High-Tech R&D",
+      "Precision Instrumentation"
+    ]
+  },
+  {
+    "slug": "cannock",
+    "town": "Cannock",
+    "county": "Staffordshire",
+    "region": "West Midlands",
+    "estates": [
+      "Cannock Gateway Retail Park",
+      "Watling Street Business Park",
+      "Delta Way Industrial Estate",
+      "Kingswood Lakeside",
+      "Pinfold Industrial Estate"
+    ],
+    "junctions": [
+      "M6 J11",
+      "M6 J12",
+      "M6 Toll JT1",
+      "A5",
+      "A460"
+    ],
+    "industries": [
+      "Logistics",
+      "Automotive Components",
+      "Light Engineering",
+      "Warehousing",
+      "Plastics Manufacturing"
+    ]
+  },
+  {
+    "slug": "canterbury",
+    "town": "Canterbury",
+    "county": "Kent",
+    "region": "South East England",
+    "estates": [
+      "Wincheap Industrial Estate",
+      "Sturry Industrial Estate",
+      "Heavens Yard Industrial Estate",
+      "Lister Industrial Estate",
+      "John Wilson Business Park"
+    ],
+    "junctions": [
+      "A2",
+      "A28",
+      "A290"
+    ],
+    "industries": [
+      "Education",
+      "Tourism",
+      "Agriculture Support",
+      "Printing",
+      "Light Manufacturing"
+    ]
+  },
+  {
+    "slug": "cardiff",
+    "town": "Cardiff",
+    "county": "Cardiff",
+    "region": "Wales",
+    "estates": [
+      "Tremorfa Industrial Estate",
+      "Ty Glas Industrial Estate",
+      "Capital Business Park",
+      "Hadfield Road Industrial Estate",
+      "Cardiff Bay Business Centre"
+    ],
+    "junctions": [
+      "M4 J29",
+      "M4 J30",
+      "M4 J32",
+      "A470",
+      "A48"
+    ],
+    "industries": [
+      "Financial Services",
+      "Creative Media",
+      "Life Sciences",
+      "Advanced Engineering",
+      "Public Administration"
+    ]
+  },
+  {
+    "slug": "carlisle",
+    "town": "Carlisle",
+    "county": "Cumbria",
+    "region": "North West England",
+    "estates": [
+      "Kingstown Industrial Estate",
+      "Carkill Industrial Estate",
+      "Rosehill Industrial Estate",
+      "Durranhill Industrial Estate",
+      "Parkhouse Business Park"
+    ],
+    "junctions": [
+      "M6 J42",
+      "M6 J43",
+      "A69",
+      "A7",
+      "A595"
+    ],
+    "industries": [
+      "Food Manufacturing",
+      "Logistics",
+      "Agriculture Support",
+      "Engineering",
+      "Textiles"
+    ]
+  },
+  {
+    "slug": "castleford",
+    "town": "Castleford",
+    "county": "West Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "Normanton Industrial Estate",
+      "Smawthorne Industrial Estate",
+      "Foxbridge Industrial Estate",
+      "Wheldale Industrial Estate",
+      "Whitwood Enterprise Park"
+    ],
+    "junctions": [
+      "M62 J31",
+      "M62 J32",
+      "A656",
+      "A639"
+    ],
+    "industries": [
+      "Glass Manufacturing",
+      "Logistics and Distribution",
+      "Chemicals",
+      "Engineering",
+      "Packaging"
+    ]
+  },
+  {
+    "slug": "chatham",
+    "town": "Chatham",
+    "county": "Kent",
+    "region": "South East England",
+    "estates": [
+      "Chatham Maritime",
+      "Medway City Estate",
+      "Gillingham Business Park",
+      "Luton Business Park",
+      "Invicta Park"
+    ],
+    "junctions": [
+      "M2 J4",
+      "M2 J5",
+      "A2",
+      "A289"
+    ],
+    "industries": [
+      "Maritime Engineering",
+      "Logistics",
+      "Advanced Manufacturing",
+      "Digital Technologies",
+      "Retail Services"
+    ]
+  },
+  {
+    "slug": "chelmsford",
+    "town": "Chelmsford",
+    "county": "Essex",
+    "region": "East of England",
+    "estates": [
+      "Springfield Commercial Centre",
+      "Widford Industrial Estate",
+      "Hanbury Road Industrial Estate",
+      "Waterhouse Business Park",
+      "Chessington Business Park"
+    ],
+    "junctions": [
+      "A12",
+      "A414",
+      "A130"
+    ],
+    "industries": [
+      "Electronics",
+      "Defense",
+      "Telecommunications",
+      "Professional Services",
+      "Precision Engineering"
+    ]
+  },
+  {
+    "slug": "cheltenham",
+    "town": "Cheltenham",
+    "county": "Gloucestershire",
+    "region": "South West England",
+    "estates": [
+      "Kingsditch Trade Park",
+      "Arle Riverside Industrial Estate",
+      "Hatherley Lane Industrial Estate",
+      "Cheltenham Trade Park",
+      "Bishops Cleeve Business Park"
+    ],
+    "junctions": [
+      "M5 J10",
+      "M5 J11",
+      "A40",
+      "A4019"
+    ],
+    "industries": [
+      "Aerospace",
+      "Cyber Security",
+      "Information Technology",
+      "Engineering",
+      "Financial Services"
+    ]
+  },
+  {
+    "slug": "chelmsley-wood",
+    "town": "Chelmsley Wood",
+    "county": "West Midlands",
+    "region": "West Midlands",
+    "estates": [
+      "Chelmsley Wood Industrial Estate",
+      "Coleshill Industrial Estate",
+      "Birmingham Business Park",
+      "Fore Business Park",
+      "Cattell Road Industrial Estate"
+    ],
+    "junctions": [
+      "M42 J6",
+      "A452",
+      "A446"
+    ],
+    "industries": [
+      "Logistics",
+      "Automotive",
+      "Aviation Support",
+      "Light Engineering",
+      "Wholesale Distribution"
+    ]
+  },
+  {
+    "slug": "chester",
+    "town": "Chester",
+    "county": "Cheshire",
+    "region": "North West England",
+    "estates": [
+      "Chester West Employment Park",
+      "Sealand Industrial Estate",
+      "Chester Trade Park",
+      "Saughall Allerton Industrial Estate",
+      "Moor Lane Industrial Estate"
+    ],
+    "junctions": [
+      "M53 J12",
+      "A41",
+      "A483",
+      "A55"
+    ],
+    "industries": [
+      "Tourism",
+      "Financial Services",
+      "Aerospace Engineering",
+      "Food Production",
+      "Public Administration"
+    ]
+  },
+  {
+    "slug": "chesterfield",
+    "town": "Chesterfield",
+    "county": "Derbyshire",
+    "region": "East Midlands",
+    "estates": [
+      "Whittington Moor Industrial Estate",
+      "Tapton Industrial Estate",
+      "Dunston Trading Estate",
+      "Brimington Road Industrial Estate",
+      "Staveley Works"
+    ],
+    "junctions": [
+      "M1 J29",
+      "M1 J29A",
+      "A61",
+      "A619"
+    ],
+    "industries": [
+      "Advanced Engineering",
+      "Glass Manufacturing",
+      "Logistics",
+      "Metals Processing",
+      "Construction"
+    ]
+  },
+  {
+    "slug": "chippenham",
+    "town": "Chippenham",
+    "county": "Wiltshire",
+    "region": "South West England",
+    "estates": [
+      "Chippenham Business Park",
+      "Bumpers Farm Industrial Estate",
+      "Rowden Lane Industrial Estate",
+      "Caudwell Business Park",
+      "Cocklebury Business Park"
+    ],
+    "junctions": [
+      "M4 J17",
+      "A350",
+      "A4"
+    ],
+    "industries": [
+      "Signalling & Rail Engineering",
+      "Logistics",
+      "Pharmaceuticals",
+      "Precision Engineering",
+      "Advanced Manufacturing"
+    ]
+  },
+  {
+    "slug": "chorley",
+    "town": "Chorley",
+    "county": "Lancashire",
+    "region": "North West England",
+    "estates": [
+      "Ackhurst Business Park",
+      "Euxton Lane Industrial Estate",
+      "Matrix Park",
+      "Chorley Business Technology Park",
+      "Plessey Business Park"
+    ],
+    "junctions": [
+      "M6 J28",
+      "M61 J8",
+      "A6",
+      "A581"
+    ],
+    "industries": [
+      "Advanced Engineering",
+      "Logistics",
+      "Plastics",
+      "Food Processing",
+      "Electronics"
+    ]
+  },
+  {
+    "slug": "clacton-on-sea",
+    "town": "Clacton-on-Sea",
+    "county": "Essex",
+    "region": "East of England",
+    "estates": [
+      "Gorse Lane Industrial Estate",
+      "Valleybridge Industrial Estate",
+      "Brunel Road Industrial Estate",
+      "Clacton Trade Park",
+      "Oak Road Industrial Estate"
+    ],
+    "junctions": [
+      "A133",
+      "A120"
+    ],
+    "industries": [
+      "Tourism",
+      "Light Manufacturing",
+      "Construction",
+      "Marine Engineering",
+      "Food Services"
+    ]
+  },
+  {
+    "slug": "cleckheaton",
+    "town": "Cleckheaton",
+    "county": "West Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "Valley Mills Industrial Estate",
+      "Spen Valley Industrial Estate",
+      "Whitechapel Industrial Estate",
+      "Northgate Business Park",
+      "West End Industrial Estate"
+    ],
+    "junctions": [
+      "M62 J26",
+      "M606",
+      "A638",
+      "A649"
+    ],
+    "industries": [
+      "Engineering",
+      "Wire Manufacturing",
+      "Textiles",
+      "Chemicals",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "coalville",
+    "town": "Coalville",
+    "county": "Leicestershire",
+    "region": "East Midlands",
+    "estates": [
+      "Bardon Industrial Estate",
+      "Caterpillar Industrial Estate",
+      "Coalville Business Park",
+      "Stephenson Industrial Estate",
+      "Maldon Business Park"
+    ],
+    "junctions": [
+      "M1 J22",
+      "A511",
+      "A42"
+    ],
+    "industries": [
+      "Logistics and Warehousing",
+      "Heavy Engineering",
+      "Aggregates and Quarrying",
+      "Automotive",
+      "Manufacturing"
+    ]
+  },
+  {
+    "slug": "colchester",
+    "town": "Colchester",
+    "county": "Essex",
+    "region": "East of England",
+    "estates": [
+      "Severalls Business Park",
+      "Colchester Business Park",
+      "Wyncolls Road Industrial Estate",
+      "Northside Industrial Estate",
+      "Lion Barn Industrial Estate"
+    ],
+    "junctions": [
+      "A12",
+      "A120",
+      "A133"
+    ],
+    "industries": [
+      "Defense",
+      "Digital Technology",
+      "Logistics",
+      "Healthcare",
+      "Advanced Manufacturing"
+    ]
+  },
+  {
+    "slug": "corby",
+    "town": "Corby",
+    "county": "Northamptonshire",
+    "region": "East Midlands",
+    "estates": [
+      "Corby East Midlands International Park",
+      "Gretton Brook Road Industrial Estate",
+      "Sowerby Close Industrial Estate",
+      "Priestley Road Industrial Estate",
+      "Oakley Hay Industrial Estate"
+    ],
+    "junctions": [
+      "A14",
+      "A427",
+      "A6003"
+    ],
+    "industries": [
+      "Steel Processing",
+      "Food Production",
+      "Logistics and Warehousing",
+      "Packaging",
+      "Advanced Engineering"
+    ]
+  },
+  {
+    "slug": "coventry",
+    "town": "Coventry",
+    "county": "West Midlands",
+    "region": "West Midlands",
+    "estates": [
+      "Whitley Business Park",
+      "Binley Industrial Estate",
+      "Coundon Industrial Estate",
+      "Prologis Park Coventry",
+      "Middlemarch Business Park"
+    ],
+    "junctions": [
+      "M6 J2",
+      "M6 J3",
+      "M69 J2",
+      "A45",
+      "A46"
+    ],
+    "industries": [
+      "Automotive",
+      "Aerospace",
+      "Advanced Manufacturing",
+      "Logistics",
+      "Research and Development"
+    ]
+  },
+  {
+    "slug": "crawley",
+    "town": "Crawley",
+    "county": "West Sussex",
+    "region": "South East England",
+    "estates": [
+      "Manor Royal Business Park",
+      "Crawley Business Quarter",
+      "Three Bridges Industrial Estate",
+      "Worth Corner Business Centre",
+      "Sussex Manor Business Park"
+    ],
+    "junctions": [
+      "M23 J10",
+      "M23 J10A",
+      "A23",
+      "A264"
+    ],
+    "industries": [
+      "Aviation Support",
+      "Logistics",
+      "Advanced Manufacturing",
+      "Technology",
+      "Pharmaceuticals"
+    ]
+  },
+  {
+    "slug": "crewe",
+    "town": "Crewe",
+    "county": "Cheshire",
+    "region": "North West England",
+    "estates": [
+      "Crewe Gates Industrial Estate",
+      "Basford Business Park",
+      "Pyms Lane Industrial Estate",
+      "Wychwood Park",
+      "Weston Road Industrial Estate"
+    ],
+    "junctions": [
+      "M6 J16",
+      "A500",
+      "A534"
+    ],
+    "industries": [
+      "Automotive Manufacturing",
+      "Railway Engineering",
+      "Logistics",
+      "Food Processing",
+      "Aerospace"
+    ]
+  },
+  {
+    "slug": "cwmbran",
+    "town": "Cwmbran",
+    "county": "Torfaen",
+    "region": "Wales",
+    "estates": [
+      "Llantarnam Industrial Park",
+      "Springvale Industrial Estate",
+      "Woodside Industrial Estate",
+      "Avon Industrial Estate",
+      "Cwmbran Enterprise Park"
+    ],
+    "junctions": [
+      "M4 J25A",
+      "M4 J26",
+      "A4042"
+    ],
+    "industries": [
+      "Automotive Components",
+      "Electronics",
+      "Advanced Manufacturing",
+      "Plastics",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "darlington",
+    "town": "Darlington",
+    "county": "County Durham",
+    "region": "North East England",
+    "estates": [
+      "Aycliffe Business Park",
+      "Morton Park Industrial Estate",
+      "Cleveland Trading Estate",
+      "Hurworth Moor Business Park",
+      "Whessoe Industrial Estate"
+    ],
+    "junctions": [
+      "A1M J57",
+      "A1M J58",
+      "A66",
+      "A167"
+    ],
+    "industries": [
+      "Rail Engineering",
+      "Advanced Manufacturing",
+      "Digital Technology",
+      "Logistics",
+      "Chemicals"
+    ]
+  },
+  {
+    "slug": "darwen",
+    "town": "Darwen",
+    "county": "Lancashire",
+    "region": "North West England",
+    "estates": [
+      "India Mill Industrial Estate",
+      "Spring Vale Industrial Estate",
+      "Borough Road Industrial Estate",
+      "Greenway Technology Park",
+      "Darwen Industrial Estate"
+    ],
+    "junctions": [
+      "M65 J4",
+      "A666",
+      "A675"
+    ],
+    "industries": [
+      "Wallpaper Manufacturing",
+      "Chemicals",
+      "Engineering",
+      "Textiles",
+      "Building Products"
+    ]
+  },
+  {
+    "slug": "daventry",
+    "town": "Daventry",
+    "county": "Northamptonshire",
+    "region": "East Midlands",
+    "estates": [
+      "Daventry International Rail Freight Terminal (DIRFT)",
+      "South Way Industrial Estate",
+      "Norton Park",
+      "Kilsby Lane Industrial Estate",
+      "Heartlands Business Park"
+    ],
+    "junctions": [
+      "M1 J16",
+      "M45",
+      "A45",
+      "A361"
+    ],
+    "industries": [
+      "Logistics and Distribution",
+      "Automotive",
+      "Engineering",
+      "Warehousing",
+      "Plastics"
+    ]
+  },
+  {
+    "slug": "derby",
+    "town": "Derby",
+    "county": "Derbyshire",
+    "region": "East Midlands",
+    "estates": [
+      "Pride Park",
+      "Derby Commercial Park",
+      "Alfreton Road Industrial Estate",
+      "West Meadows Industrial Estate",
+      "Sir Frank Whittle Business Park"
+    ],
+    "junctions": [
+      "M1 J25",
+      "M1 J26",
+      "A38",
+      "A52",
+      "A6"
+    ],
+    "industries": [
+      "Aerospace",
+      "Railway Engineering",
+      "Automotive",
+      "Advanced Manufacturing",
+      "Nuclear Technology"
+    ]
+  },
+  {
+    "slug": "dewsbury",
+    "town": "Dewsbury",
+    "county": "West Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "Ravensthorpe Industrial Estate",
+      "Mill Street Industrial Estate",
+      "Thornhill Lees Industrial Estate",
+      "Savile Town Industrial Estate",
+      "Bradford Road Industrial Estate"
+    ],
+    "junctions": [
+      "M62 J28",
+      "A638",
+      "A653"
+    ],
+    "industries": [
+      "Textiles",
+      "Carpet Manufacturing",
+      "Food Processing",
+      "Engineering",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "didcot",
+    "town": "Didcot",
+    "county": "Oxfordshire",
+    "region": "South East England",
+    "estates": [
+      "Didcot Enterprise Centre",
+      "Milton Park",
+      "Southmead Industrial Estate",
+      "Hagbourne Business Park",
+      "Hawksworth Business Park"
+    ],
+    "junctions": [
+      "A34",
+      "A4130",
+      "M4 J13"
+    ],
+    "industries": [
+      "Life Sciences",
+      "High-Tech R&D",
+      "Energy Technology",
+      "Logistics",
+      "Advanced Engineering"
+    ]
+  },
+  {
+    "slug": "doncaster",
+    "town": "Doncaster",
+    "county": "South Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "Danum Trade Park",
+      "Armthorpe Industrial Estate",
+      "Redhouse Interchange",
+      "Marshgate Industrial Estate",
+      "Woodfield Way Business Park"
+    ],
+    "junctions": [
+      "M18 J3",
+      "M18 J4",
+      "A1M J36",
+      "A630"
+    ],
+    "industries": [
+      "Logistics and Warehousing",
+      "Rail Engineering",
+      "Food Manufacturing",
+      "Aerospace",
+      "Digital Technologies"
+    ]
+  },
+  {
+    "slug": "dudley",
+    "town": "Dudley",
+    "county": "West Midlands",
+    "region": "West Midlands",
+    "estates": [
+      "Cinder Bank Industrial Estate",
+      "Netherton Industrial Estate",
+      "Narrowboat Way Industrial Estate",
+      "Peartree Lane Industrial Estate",
+      "Saltwells Road Industrial Estate"
+    ],
+    "junctions": [
+      "M5 J2",
+      "A4031",
+      "A461",
+      "A4123"
+    ],
+    "industries": [
+      "Foundry and Metalworking",
+      "Engineering",
+      "Automotive Components",
+      "Manufacturing",
+      "Glassmaking"
+    ]
+  },
+  {
+    "slug": "dumfries",
+    "town": "Dumfries",
+    "county": "Dumfries and Galloway",
+    "region": "Scotland",
+    "estates": [
+      "Heathhall Industrial Estate",
+      "Locharbriggs Industrial Estate",
+      "Cargenbridge Industrial Estate",
+      "St Mary's Industrial Estate",
+      "Pinelawn Industrial Estate"
+    ],
+    "junctions": [
+      "A75",
+      "A76",
+      "A701"
+    ],
+    "industries": [
+      "Agriculture Support",
+      "Timber Processing",
+      "Food and Drink",
+      "Light Engineering",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "dundee",
+    "town": "Dundee",
+    "county": "Dundee",
+    "region": "Scotland",
+    "estates": [
+      "Dryburgh Industrial Estate",
+      "Balgray Industrial Estate",
+      "Riverside Business Park",
+      "Kingsway West Industrial Estate",
+      "Dundee Energy Park"
+    ],
+    "junctions": [
+      "A90",
+      "A92",
+      "A991"
+    ],
+    "industries": [
+      "Video Game Development",
+      "Biomedical Research",
+      "Renewable Energy",
+      "Digital Media",
+      "Electronics"
+    ]
+  },
+  {
+    "slug": "dunfermline",
+    "town": "Dunfermline",
+    "county": "Fife",
+    "region": "Scotland",
+    "estates": [
+      "Halbeath Industrial Estate",
+      "Pitreavie Business Park",
+      "Carnegie Campus",
+      "Primrose Lane Industrial Estate",
+      "Dunfermline Business Park"
+    ],
+    "junctions": [
+      "M90 J2",
+      "M90 J3",
+      "A92",
+      "A823"
+    ],
+    "industries": [
+      "Logistics and Distribution",
+      "Electronics",
+      "Software Development",
+      "Life Sciences",
+      "Aerospace"
+    ]
+  },
+  {
+    "slug": "durham",
+    "town": "Durham",
+    "county": "County Durham",
+    "region": "North East England",
+    "estates": [
+      "Belmont Industrial Estate",
+      "Frankland Park",
+      "Coatsay Fields Industrial Estate",
+      "Pity Me Business Park",
+      "Durham Lane Industrial Estate"
+    ],
+    "junctions": [
+      "A1M J62",
+      "A1M J63",
+      "A690",
+      "A177"
+    ],
+    "industries": [
+      "Higher Education",
+      "Software Engineering",
+      "Digital Technology",
+      "Advanced Manufacturing",
+      "Professional Services"
+    ]
+  },
+  {
+    "slug": "eastbourne",
+    "town": "Eastbourne",
+    "county": "East Sussex",
+    "region": "South East England",
+    "estates": [
+      "Hampden Park Industrial Estate",
+      "Lottbridge Drove Industrial Estate",
+      "Pacific House Business Centre",
+      "Brampton Road Trading Estate",
+      "Finmere Road Industrial Estate"
+    ],
+    "junctions": [
+      "A22",
+      "A27",
+      "A259"
+    ],
+    "industries": [
+      "Tourism",
+      "Healthcare",
+      "Precision Engineering",
+      "Digital Media",
+      "Construction"
+    ]
+  },
+  {
+    "slug": "edinburgh",
+    "town": "Edinburgh",
+    "county": "City of Edinburgh",
+    "region": "Scotland",
+    "estates": [
+      "Gylemuir Industrial Estate",
+      "Sighthill Industrial Estate",
+      "Newbridge Industrial Estate",
+      "Dalmeny Park",
+      "Bankhead Industrial Estate"
+    ],
+    "junctions": [
+      "M8 J1",
+      "M9 J1",
+      "A720",
+      "A90"
+    ],
+    "industries": [
+      "Financial Services",
+      "Tourism",
+      "Technology",
+      "Life Sciences",
+      "Creative Industries"
+    ]
+  },
+  {
+    "slug": "elgin",
+    "town": "Elgin",
+    "county": "Moray",
+    "region": "Scotland",
+    "estates": [
+      "Linkwood Industrial Estate",
+      "New Elgin Industrial Estate",
+      "Ashgrove Industrial Estate",
+      "Mosstodloch Industrial Estate",
+      "Lichfield Industrial Estate"
+    ],
+    "junctions": [
+      "A96",
+      "A941"
+    ],
+    "industries": [
+      "Whisky Distilling",
+      "Timber Processing",
+      "Agriculture Support",
+      "Food and Drink",
+      "Construction"
+    ]
+  },
+  {
+    "slug": "ellesmere-port",
+    "town": "Ellesmere Port",
+    "county": "Cheshire",
+    "region": "North West England",
+    "estates": [
+      "Hooton Park Industrial Estate",
+      "Stanlow Industrial Estate",
+      "North Cheshire Trading Estate",
+      "Ellesmere Port Business Park",
+      "Sutton Weaver Industrial Estate"
+    ],
+    "junctions": [
+      "M53 J7",
+      "M53 J8",
+      "A41",
+      "A5117"
+    ],
+    "industries": [
+      "Automotive Manufacturing",
+      "Petrochemicals",
+      "Logistics",
+      "Advanced Manufacturing",
+      "Chemical Processing"
+    ]
+  },
+  {
+    "slug": "evesham",
+    "town": "Evesham",
+    "county": "Worcestershire",
+    "region": "West Midlands",
+    "estates": [
+      "Vale Park",
+      "Worcester Road Industrial Estate",
+      "Twyford Business Park",
+      "Four Pools Industrial Estate",
+      "Chadbury Industrial Estate"
+    ],
+    "junctions": [
+      "A46",
+      "A4184",
+      "M5 J9"
+    ],
+    "industries": [
+      "Horticulture",
+      "Food Distribution",
+      "Agri-Tech",
+      "Light Engineering",
+      "Packaging"
+    ]
+  },
+  {
+    "slug": "exeter",
+    "town": "Exeter",
+    "county": "Devon",
+    "region": "South West England",
+    "estates": [
+      "Marsh Barton Industrial Estate",
+      "Clyst St Mary Industrial Estate",
+      "Exeter Science Park",
+      "Matford Business Park",
+      "Sowton Industrial Estate"
+    ],
+    "junctions": [
+      "M5 J29",
+      "M5 J30",
+      "A30",
+      "A379",
+      "A38"
+    ],
+    "industries": [
+      "Meteorological Technology",
+      "Aerospace",
+      "Environmental Science",
+      "Advanced Manufacturing",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "falkirk",
+    "town": "Falkirk",
+    "county": "Falkirk",
+    "region": "Scotland",
+    "estates": [
+      "Bainsford Industrial Estate",
+      "Carronshore Industrial Estate",
+      "Bankside Industrial Estate",
+      "Grangemouth Industrial Estate",
+      "Camelon Industrial Estate"
+    ],
+    "junctions": [
+      "M9 J5",
+      "M9 J6",
+      "A9",
+      "A803"
+    ],
+    "industries": [
+      "Chemicals",
+      "Logistics",
+      "Engineering",
+      "Manufacturing",
+      "Renewable Energy"
+    ]
+  },
+  {
+    "slug": "falmouth",
+    "town": "Falmouth",
+    "county": "Cornwall",
+    "region": "South West England",
+    "estates": [
+      "Falmouth Business Park",
+      "Talwethan Industrial Estate",
+      "Ponshden Industrial Estate",
+      "Kernick Industrial Estate",
+      "Penryn Industrial Estate"
+    ],
+    "junctions": [
+      "A39",
+      "A394"
+    ],
+    "industries": [
+      "Marine Engineering",
+      "Ship Repair",
+      "Tourism",
+      "Renewable Energy",
+      "Software Development"
+    ]
+  },
+  {
+    "slug": "fareham",
+    "town": "Fareham",
+    "county": "Hampshire",
+    "region": "South East England",
+    "estates": [
+      "Segensworth Industrial Estate",
+      "Standard Way Industrial Estate",
+      "Newgate Lane Industrial Estate",
+      "Cody Technology Park",
+      "Fareham Industrial Park"
+    ],
+    "junctions": [
+      "M27 J9",
+      "M27 J10",
+      "A27",
+      "A32"
+    ],
+    "industries": [
+      "Marine Technology",
+      "Defense",
+      "Aerospace",
+      "Advanced Engineering",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "farnborough",
+    "town": "Farnborough",
+    "county": "Hampshire",
+    "region": "South East England",
+    "estates": [
+      "Farnborough Business Park",
+      "Pinehurst Business Park",
+      "Cody Technology Park",
+      "Summit Avenue Industrial Estate",
+      "Invincible Road Industrial Estate"
+    ],
+    "junctions": [
+      "M3 J4",
+      "A331",
+      "A325"
+    ],
+    "industries": [
+      "Aerospace",
+      "Defense",
+      "Information Technology",
+      "Consulting",
+      "Telecommunications"
+    ]
+  },
+  {
+    "slug": "flint",
+    "town": "Flint",
+    "county": "Flintshire",
+    "region": "Wales",
+    "estates": [
+      "Flint Business Park",
+      "Oakenholt Industrial Estate",
+      "Aber Industrial Estate",
+      "Cae Coch Industrial Estate",
+      "Deeside Industrial Park"
+    ],
+    "junctions": [
+      "A548",
+      "A55 (via A5119)"
+    ],
+    "industries": [
+      "Aerospace",
+      "Automotive Components",
+      "Chemicals",
+      "Packaging",
+      "Light Engineering"
+    ]
+  },
+  {
+    "slug": "folkestone",
+    "town": "Folkestone",
+    "county": "Kent",
+    "region": "South East England",
+    "estates": [
+      "Park Farm Industrial Estate",
+      "Shepway Business Park",
+      "Cheriton Industrial Estate",
+      "Grace Hill Industrial Estate",
+      "Eurogate Business Park"
+    ],
+    "junctions": [
+      "M20 J12",
+      "M20 J13",
+      "A20",
+      "A259"
+    ],
+    "industries": [
+      "Cross-Channel Logistics",
+      "Freight Forwarding",
+      "Tourism",
+      "Digital Media",
+      "Light Manufacturing"
+    ]
+  },
+  {
+    "slug": "forfar",
+    "town": "Forfar",
+    "county": "Angus",
+    "region": "Scotland",
+    "estates": [
+      "Strathmore Industrial Estate",
+      "Campsie Industrial Estate",
+      "Guthrie Port Industrial Estate",
+      "Lochee Industrial Estate",
+      "Forfar Business Park"
+    ],
+    "junctions": [
+      "A90",
+      "A932"
+    ],
+    "industries": [
+      "Food Processing",
+      "Agriculture",
+      "Textiles",
+      "Engineering",
+      "Timber"
+    ]
+  },
+  {
+    "slug": "gateshead",
+    "town": "Gateshead",
+    "county": "Tyne and Wear",
+    "region": "North East England",
+    "estates": [
+      "Team Valley Trading Estate",
+      "Follingsby Park",
+      "Metro Riverside Park",
+      "Kingsway South Industrial Estate",
+      "Stoneygate Industrial Estate"
+    ],
+    "junctions": [
+      "A1M J67",
+      "A1M J68",
+      "A184",
+      "A194"
+    ],
+    "industries": [
+      "Logistics and Warehousing",
+      "Engineering",
+      "Digital Tech",
+      "Advanced Manufacturing",
+      "Retail Services"
+    ]
+  },
+  {
+    "slug": "glasgow",
+    "town": "Glasgow",
+    "county": "Glasgow City",
+    "region": "Scotland",
+    "estates": [
+      "Hillington Park",
+      "Shawfield Industrial Estate",
+      "South Gyle Business Park",
+      "Springburn Industrial Estate",
+      "Cumbernauld Industrial Estate"
+    ],
+    "junctions": [
+      "M8 J24",
+      "M8 J25",
+      "M74 J1",
+      "M77 J1"
+    ],
+    "industries": [
+      "Financial Services",
+      "Engineering",
+      "Digital Technology",
+      "Advanced Manufacturing",
+      "Biotechnology"
+    ]
+  },
+  {
+    "slug": "gloucester",
+    "town": "Gloucester",
+    "county": "Gloucestershire",
+    "region": "South West England",
+    "estates": [
+      "Barnwood Business Park",
+      "Gloucester Business Park",
+      "Waterwells Business Park",
+      "Cole Avenue Industrial Estate",
+      "Morelands Trading Estate"
+    ],
+    "junctions": [
+      "M5 J11A",
+      "A38",
+      "A40",
+      "A417"
+    ],
+    "industries": [
+      "Aerospace",
+      "Nuclear Energy",
+      "Logistics",
+      "Insurance",
+      "Advanced Manufacturing"
+    ]
+  },
+  {
+    "slug": "goole",
+    "town": "Goole",
+    "county": "East Riding of Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "Rawcliffe Road Industrial Estate",
+      "Goole 36 Industrial Estate",
+      "Capitol Park Goole",
+      "Carlton Industrial Estate",
+      "Distant Industrial Park"
+    ],
+    "junctions": [
+      "M62 J36",
+      "M18 J6",
+      "A614"
+    ],
+    "industries": [
+      "Rail Manufacturing",
+      "Port Logistics",
+      "Food Processing",
+      "Warehousing",
+      "Chemicals"
+    ]
+  },
+  {
+    "slug": "grangemouth",
+    "town": "Grangemouth",
+    "county": "Falkirk",
+    "region": "Scotland",
+    "estates": [
+      "Grangemouth Docks Industrial Estate",
+      "Charing Cross Industrial Estate",
+      "Skinflats Industrial Estate",
+      "Inchyra Road Industrial Estate",
+      "Earls Gate Industrial Estate"
+    ],
+    "junctions": [
+      "M9 J5",
+      "A904"
+    ],
+    "industries": [
+      "Petrochemicals",
+      "Refining",
+      "Port Logistics",
+      "Chemical Processing",
+      "Freight Forwarding"
+    ]
+  },
+  {
+    "slug": "gravesend",
+    "town": "Gravesend",
+    "county": "Kent",
+    "region": "South East England",
+    "estates": [
+      "Northfleet Industrial Estate",
+      "Imperial Business Park",
+      "Springhead Enterprise Park",
+      "Carthage Industrial Estate",
+      "Westcourt Industrial Estate"
+    ],
+    "junctions": [
+      "A2",
+      "A226",
+      "M25 J2 (via A2)"
+    ],
+    "industries": [
+      "Port Logistics",
+      "Paper and Packaging",
+      "Construction",
+      "Engineering",
+      "Food Distribution"
+    ]
+  },
+  {
+    "slug": "grays",
+    "town": "Grays",
+    "county": "Essex",
+    "region": "East of England",
+    "estates": [
+      "West Thurrock Industrial Estate",
+      "Thurrock Commercial Park",
+      "Arterial Business Park",
+      "London Distribution Park",
+      "Oliver Road Industrial Estate"
+    ],
+    "junctions": [
+      "M25 J30",
+      "A13",
+      "A126"
+    ],
+    "industries": [
+      "Logistics and Distribution",
+      "Port Operations",
+      "Import/Export",
+      "Freight Forwarding",
+      "Warehousing"
+    ]
+  },
+  {
+    "slug": "great-yarmouth",
+    "town": "Great Yarmouth",
+    "county": "Norfolk",
+    "region": "East of England",
+    "estates": [
+      "South Denes Industrial Estate",
+      "Gorleston Industrial Estate",
+      "Venture Park",
+      "Gapton Hall Industrial Estate",
+      "Beacon Park"
+    ],
+    "junctions": [
+      "A47",
+      "A12",
+      "A143"
+    ],
+    "industries": [
+      "Offshore Wind Support",
+      "Oil and Gas Support",
+      "Marine Engineering",
+      "Tourism",
+      "Food Processing"
+    ]
+  },
+  {
+    "slug": "greenock",
+    "town": "Greenock",
+    "county": "Inverclyde",
+    "region": "Scotland",
+    "estates": [
+      "Cartsburn Industrial Estate",
+      "Kelburn Industrial Estate",
+      "Inchgreen Industrial Estate",
+      "Port Glasgow Industrial Estate",
+      "Ladyburn Industrial Estate"
+    ],
+    "junctions": [
+      "A8",
+      "A78"
+    ],
+    "industries": [
+      "Shipbuilding and Repair",
+      "Port Logistics",
+      "Electronics",
+      "Digital Services",
+      "Engineering"
+    ]
+  },
+  {
+    "slug": "grimsby",
+    "town": "Grimsby",
+    "county": "North East Lincolnshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "Pyewipe Industrial Estate",
+      "East Common Lane Industrial Estate",
+      "Sovereign Park",
+      "Alexandra Dock Industrial Estate",
+      "Grimsby Business Centre"
+    ],
+    "junctions": [
+      "A180",
+      "A16",
+      "A46"
+    ],
+    "industries": [
+      "Food Processing (Seafood)",
+      "Port Logistics",
+      "Offshore Wind Operations",
+      "Chemicals",
+      "Cold Storage"
+    ]
+  },
+  {
+    "slug": "guildford",
+    "town": "Guildford",
+    "county": "Surrey",
+    "region": "South East England",
+    "estates": [
+      "Stoke Park Industrial Estate",
+      "Slyfield Industrial Estate",
+      "Guildford Business Park",
+      "Midchurch Industrial Estate",
+      "Park Barn Industrial Estate"
+    ],
+    "junctions": [
+      "A3",
+      "A31",
+      "M25 J10 (nearby)"
+    ],
+    "industries": [
+      "Video Game Development",
+      "Satellite Technology",
+      "Pharmaceuticals",
+      "Software Engineering",
+      "Professional Services"
+    ]
+  },
+  {
+    "slug": "halesowen",
+    "town": "Halesowen",
+    "county": "West Midlands",
+    "region": "West Midlands",
+    "estates": [
+      "Coombs Wood Industrial Estate",
+      "Forge Lane Industrial Estate",
+      "Mayfield Industrial Estate",
+      "Halesowen Industrial Park",
+      "Summerhill Industrial Estate"
+    ],
+    "junctions": [
+      "M5 J3",
+      "A456",
+      "A458"
+    ],
+    "industries": [
+      "Precision Engineering",
+      "Metal Component Manufacturing",
+      "Automotive Parts",
+      "Toolmaking",
+      "Plastics"
+    ]
+  },
+  {
+    "slug": "halifax",
+    "town": "Halifax",
+    "county": "West Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "Shay Lane Industrial Estate",
+      "Holmfield Industrial Estate",
+      "Boothtown Industrial Estate",
+      "Hebden Bridge Industrial Estate",
+      "Calder Valley Industrial Estate"
+    ],
+    "junctions": [
+      "M62 J24",
+      "A58",
+      "A629"
+    ],
+    "industries": [
+      "Financial Services",
+      "Engineering",
+      "Textiles",
+      "Food Processing",
+      "Packaging"
+    ]
+  },
+  {
+    "slug": "hamilton",
+    "town": "Hamilton",
+    "county": "South Lanarkshire",
+    "region": "Scotland",
+    "estates": [
+      "Clyde Valley Industrial Estate",
+      "International Technology Park",
+      "Hillhouse Industrial Estate",
+      "Bothwell Park Industrial Estate",
+      "Righead Industrial Estate"
+    ],
+    "junctions": [
+      "M74 J5",
+      "M74 J6",
+      "A72",
+      "A723"
+    ],
+    "industries": [
+      "Logistics",
+      "Electronics",
+      "Software Development",
+      "Engineering",
+      "Food Processing"
+    ]
+  },
+  {
+    "slug": "harlow",
+    "town": "Harlow",
+    "county": "Essex",
+    "region": "East of England",
+    "estates": [
+      "Pinnacles Industrial Estate",
+      "Temple Fields Industrial Estate",
+      "Harlow Business Park",
+      "Kao Data Park",
+      "East Road Industrial Estate"
+    ],
+    "junctions": [
+      "M11 J7",
+      "A414",
+      "A1060"
+    ],
+    "industries": [
+      "Advanced Manufacturing",
+      "Life Sciences",
+      "Electronics",
+      "Logistics",
+      "Data Centres"
+    ]
+  },
+  {
+    "slug": "harrogate",
+    "town": "Harrogate",
+    "county": "North Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "Hornbeam Park",
+      "Knaresborough Technology Park",
+      "High Street Industrial Estate",
+      "St James Retail and Business Park",
+      "Grimbald Crag Industrial Estate"
+    ],
+    "junctions": [
+      "A1M J47",
+      "A61",
+      "A59"
+    ],
+    "industries": [
+      "Exhibitions and Events",
+      "Software Engineering",
+      "Precision Engineering",
+      "Tourism",
+      "Food and Drink"
+    ]
+  },
+  {
+    "slug": "hartlepool",
+    "town": "Hartlepool",
+    "county": "County Durham",
+    "region": "North East England",
+    "estates": [
+      "MMD Shipping Port Estate",
+      "Windermere Road Industrial Estate",
+      "Oakesway Industrial Estate",
+      "Enterprise House",
+      "Tees Bay Business Park"
+    ],
+    "junctions": [
+      "A19",
+      "A689"
+    ],
+    "industries": [
+      "Nuclear Energy",
+      "Offshore Engineering",
+      "Port Logistics",
+      "Chemicals",
+      "Advanced Manufacturing"
+    ]
+  },
+  {
+    "slug": "hastings",
+    "town": "Hastings",
+    "county": "East Sussex",
+    "region": "South East England",
+    "estates": [
+      "Castleham Industrial Estate",
+      "Bexhill Enterprise Park",
+      "Queensway Industrial Estate",
+      "Brook Trading Estate",
+      "Churchfields Industrial Estate"
+    ],
+    "junctions": [
+      "A21",
+      "A259",
+      "A269"
+    ],
+    "industries": [
+      "Precision Engineering",
+      "Electronics",
+      "Tourism",
+      "Digital Technology",
+      "Plastics Manufacturing"
+    ]
+  },
+  {
+    "slug": "haverhill",
+    "town": "Haverhill",
+    "county": "Suffolk",
+    "region": "East of England",
+    "estates": [
+      "Haverhill Business Park",
+      "Dorset Road Industrial Estate",
+      "Phoenix Industrial Estate",
+      "Homefield Road Industrial Estate",
+      "Chalkstone Industrial Estate"
+    ],
+    "junctions": [
+      "A1307",
+      "A143"
+    ],
+    "industries": [
+      "Precision Engineering",
+      "Aerospace",
+      "Plastics",
+      "Food Processing",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "hereford",
+    "town": "Hereford",
+    "county": "Herefordshire",
+    "region": "West Midlands",
+    "estates": [
+      "Holmer Trading Estate",
+      "Three Counties Trading Estate",
+      "Rotherwas Industrial Estate",
+      "Roman Road Industrial Estate",
+      "Bleasdale Business Park"
+    ],
+    "junctions": [
+      "A49",
+      "A438",
+      "A465"
+    ],
+    "industries": [
+      "Defense",
+      "Food and Cider Production",
+      "Engineering",
+      "Agriculture Tech",
+      "Packaging"
+    ]
+  },
+  {
+    "slug": "herne-bay",
+    "town": "Herne Bay",
+    "county": "Kent",
+    "region": "South East England",
+    "estates": [
+      "Altira Business Park",
+      "Thanet Way Industrial Estate",
+      "Strode Park Business Centre",
+      "Greenhill Industrial Estate",
+      "Reculver Business Park"
+    ],
+    "junctions": [
+      "A299",
+      "A291"
+    ],
+    "industries": [
+      "Renewable Energy",
+      "Light Engineering",
+      "Construction",
+      "Tourism",
+      "Digital Services"
+    ]
+  },
+  {
+    "slug": "hertford",
+    "town": "Hertford",
+    "county": "Hertfordshire",
+    "region": "East of England",
+    "estates": [
+      "Hertford Industrial Estate",
+      "Ware Industrial Estate",
+      "Mimram Road Industrial Estate",
+      "St Andrew Street Business Park",
+      "Hartham Business Park"
+    ],
+    "junctions": [
+      "A414",
+      "A10",
+      "A119"
+    ],
+    "industries": [
+      "Printing",
+      "Construction",
+      "Professional Services",
+      "Food Services",
+      "Light Engineering"
+    ]
+  },
+  {
+    "slug": "high-wycombe",
+    "town": "High Wycombe",
+    "county": "Buckinghamshire",
+    "region": "South East England",
+    "estates": [
+      "Cressex Business Park",
+      "Knaves Beech Industrial Estate",
+      "Sands Industrial Estate",
+      "Bellfield Road Industrial Estate",
+      "Desborough Industrial Park"
+    ],
+    "junctions": [
+      "M40 J4",
+      "M40 J3",
+      "A40",
+      "A404"
+    ],
+    "industries": [
+      "Furniture Manufacturing",
+      "Paper and Packaging",
+      "Technology",
+      "Logistics",
+      "Aerospace Engineering"
+    ]
+  },
+  {
+    "slug": "hinckley",
+    "town": "Hinckley",
+    "county": "Leicestershire",
+    "region": "East Midlands",
+    "estates": [
+      "Dodwells Bridge Industrial Estate",
+      "Hinckley Business Park",
+      "Watling Street Business Park",
+      "Station Road Industrial Estate",
+      "Castle Business Park"
+    ],
+    "junctions": [
+      "M69 J1",
+      "A47",
+      "A5"
+    ],
+    "industries": [
+      "Motorcycle Manufacturing",
+      "Logistics",
+      "Hosiery and Textiles",
+      "Engineering",
+      "Automotive Parts"
+    ]
+  },
+  {
+    "slug": "horsham",
+    "town": "Horsham",
+    "county": "West Sussex",
+    "region": "South East England",
+    "estates": [
+      "Foundry Lane Industrial Estate",
+      "Ignite Business Park",
+      "Parsonage Way Industrial Estate",
+      "ETS Trading Estate",
+      "North Heath Lane Industrial Estate"
+    ],
+    "junctions": [
+      "A24",
+      "A281",
+      "M23 J11 (nearby)"
+    ],
+    "industries": [
+      "Pharmaceuticals",
+      "Advanced Engineering",
+      "Logistics",
+      "Insurance",
+      "Technology"
+    ]
+  },
+  {
+    "slug": "hove",
+    "town": "Hove",
+    "county": "East Sussex",
+    "region": "South East England",
+    "estates": [
+      "Portland Road Business Park",
+      "School Road Industrial Area",
+      "Newtown Road Industrial Area",
+      "Goldstone Retail Park",
+      "Hove Business Centre"
+    ],
+    "junctions": [
+      "A27",
+      "A259",
+      "A23"
+    ],
+    "industries": [
+      "Digital Media",
+      "Financial Services",
+      "Light Manufacturing",
+      "Creative Agencies",
+      "Tourism"
+    ]
+  },
+  {
+    "slug": "huddersfield",
+    "town": "Huddersfield",
+    "county": "West Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "Milnsbridge Industrial Estate",
+      "Colne Valley Industrial Estate",
+      "Bradley Business Park",
+      "Kirklees Park Estate",
+      "St Andrews Road Industrial Estate"
+    ],
+    "junctions": [
+      "M62 J23",
+      "M62 J24",
+      "A62",
+      "A641"
+    ],
+    "industries": [
+      "Textiles",
+      "Chemicals",
+      "Engineering",
+      "Advanced Manufacturing",
+      "Food Processing"
+    ]
+  },
+  {
+    "slug": "hull",
+    "town": "Hull",
+    "county": "East Riding of Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "Kingston International Business Park",
+      "Sutton Fields Industrial Estate",
+      "Clough Road Industrial Estate",
+      "Priory Park",
+      "Hedon Road Industrial Estate"
+    ],
+    "junctions": [
+      "M62 J38 (via A63)",
+      "A63",
+      "A165",
+      "A1079"
+    ],
+    "industries": [
+      "Port Logistics",
+      "Renewable Energy (Wind)",
+      "Food Manufacturing",
+      "Chemicals",
+      "Healthcare"
+    ]
+  },
+  {
+    "slug": "huntingdon",
+    "town": "Huntingdon",
+    "county": "Cambridgeshire",
+    "region": "East of England",
+    "estates": [
+      "St Peters Industrial Estate",
+      "Centenary Business Park",
+      "Alconbury Weald Enterprise Campus",
+      "Hartmann Business Park",
+      "George Street Industrial Estate"
+    ],
+    "junctions": [
+      "A1M J14",
+      "A14",
+      "A141"
+    ],
+    "industries": [
+      "Logistics and Warehousing",
+      "Precision Engineering",
+      "Life Sciences",
+      "Construction",
+      "Packaging"
+    ]
+  },
+  {
+    "slug": "hyde",
+    "town": "Hyde",
+    "county": "Greater Manchester",
+    "region": "North West England",
+    "estates": [
+      "Godley Hill Industrial Estate",
+      "Junction 24 Business Park",
+      "Dowson Road Industrial Estate",
+      "Newton Industrial Estate",
+      "Hattersley Industrial Estate"
+    ],
+    "junctions": [
+      "M67 J3",
+      "A57",
+      "A6016"
+    ],
+    "industries": [
+      "Engineering",
+      "Plastics",
+      "Logistics",
+      "Chemicals",
+      "Textiles"
+    ]
+  },
+  {
+    "slug": "inverness",
+    "town": "Inverness",
+    "county": "Highland",
+    "region": "Scotland",
+    "estates": [
+      "Longman Industrial Estate",
+      "Inverness Business Park",
+      "Seafield Industrial Estate",
+      "Dalcross Industrial Estate",
+      "Culloden Business Park"
+    ],
+    "junctions": [
+      "A9",
+      "A96",
+      "A82"
+    ],
+    "industries": [
+      "Renewable Energy",
+      "Tourism",
+      "Distilling",
+      "Life Sciences",
+      "Engineering"
+    ]
+  },
+  {
+    "slug": "ipswich",
+    "town": "Ipswich",
+    "county": "Suffolk",
+    "region": "East of England",
+    "estates": [
+      "Martlesham Heath Business Park",
+      "Ransomes Europark",
+      "White House Industrial Estate",
+      "Boss Hall Industrial Estate",
+      "Hadleigh Road Industrial Estate"
+    ],
+    "junctions": [
+      "A14",
+      "A12",
+      "A1156"
+    ],
+    "industries": [
+      "Telecommunications",
+      "Port Logistics",
+      "Insurance",
+      "Agriculture Support",
+      "Engineering"
+    ]
+  },
+  {
+    "slug": "irvine",
+    "town": "Irvine",
+    "county": "North Ayrshire",
+    "region": "Scotland",
+    "estates": [
+      "Riverside Industrial Estate",
+      "Fullarton Industrial Estate",
+      "Harbour Industrial Estate",
+      "South Newmoor Industrial Estate",
+      "North Newmoor Industrial Estate"
+    ],
+    "junctions": [
+      "A78",
+      "A71",
+      "A737"
+    ],
+    "industries": [
+      "Chemicals",
+      "Electronics",
+      "Aerospace Components",
+      "Engineering",
+      "Plastics"
+    ]
+  },
+  {
+    "slug": "keighley",
+    "town": "Keighley",
+    "county": "West Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "Airedale Business Park",
+      "Alston Works",
+      "Knowle Mill Industrial Estate",
+      "Eastbrook Industrial Estate",
+      "Sutton Mill Industrial Estate"
+    ],
+    "junctions": [
+      "A650",
+      "A629",
+      "A6033"
+    ],
+    "industries": [
+      "Machine Tool Engineering",
+      "Textiles",
+      "Precision Manufacturing",
+      "Foundry",
+      "Automotive Parts"
+    ]
+  },
+  {
+    "slug": "kettering",
+    "town": "Kettering",
+    "county": "Northamptonshire",
+    "region": "East Midlands",
+    "estates": [
+      "Kettering Business Park",
+      "Kettering Parkway",
+      "Rothwell Industrial Estate",
+      "Barton Seagrave Industrial Estate",
+      "Northfield Avenue Industrial Estate"
+    ],
+    "junctions": [
+      "A14 J7",
+      "A14 J8",
+      "A6",
+      "A43"
+    ],
+    "industries": [
+      "Logistics and Warehousing",
+      "Footwear and Clothing",
+      "Engineering",
+      "Food Distribution",
+      "Printing"
+    ]
+  },
+  {
+    "slug": "kidderminster",
+    "town": "Kidderminster",
+    "county": "Worcestershire",
+    "region": "West Midlands",
+    "estates": [
+      "Stourport Road Industrial Estate",
+      "Springfield Business Park",
+      "Finepoint Industrial Estate",
+      "Worcester Road Industrial Estate",
+      "Crossley Park"
+    ],
+    "junctions": [
+      "A451",
+      "A456",
+      "M5 J5 (nearby)"
+    ],
+    "industries": [
+      "Carpet Manufacturing",
+      "Engineering",
+      "Metal Processing",
+      "Plastics",
+      "Food Production"
+    ]
+  },
+  {
+    "slug": "kilmarnock",
+    "town": "Kilmarnock",
+    "county": "East Ayrshire",
+    "region": "Scotland",
+    "estates": [
+      "Hurlford Industrial Estate",
+      "Riverside Business Park",
+      "Gargieston Industrial Estate",
+      "West Kirklands Industrial Estate",
+      "Kilmarnock Enterprise Centre"
+    ],
+    "junctions": [
+      "M77 J6",
+      "M77 J7",
+      "A71",
+      "A77"
+    ],
+    "industries": [
+      "Whisky Bottling",
+      "Engineering",
+      "Logistics",
+      "Textiles",
+      "Food Processing"
+    ]
+  },
+  {
+    "slug": "kirkcaldy",
+    "town": "Kirkcaldy",
+    "county": "Fife",
+    "region": "Scotland",
+    "estates": [
+      "Mitchelston Industrial Estate",
+      "Hayfield Industrial Estate",
+      "Randolph Industrial Estate",
+      "Dunnikier Business Park",
+      "Beverkae Industrial Estate"
+    ],
+    "junctions": [
+      "A92",
+      "A910"
+    ],
+    "industries": [
+      "Floor Covering Manufacturing",
+      "Engineering",
+      "Logistics",
+      "Food Processing",
+      "Construction"
+    ]
+  },
+  {
+    "slug": "lancaster",
+    "town": "Lancaster",
+    "county": "Lancashire",
+    "region": "North West England",
+    "estates": [
+      "White Cross Business Park",
+      "Lune Business Park",
+      "Lancaster Leisure Park",
+      "Morecambe Road Industrial Estate",
+      "Halton Mills Industrial Estate"
+    ],
+    "junctions": [
+      "M6 J33",
+      "M6 J34",
+      "A6",
+      "A683"
+    ],
+    "industries": [
+      "Higher Education",
+      "Renewable Energy",
+      "Digital Technology",
+      "Healthcare",
+      "Chemicals"
+    ]
+  },
+  {
+    "slug": "leamington-spa",
+    "town": "Leamington Spa",
+    "county": "Warwickshire",
+    "region": "West Midlands",
+    "estates": [
+      "Sydenham Industrial Estate",
+      "Welton Road Industrial Estate",
+      "Chandos Business Park",
+      "Gallagher Business Park",
+      "Trading Estate Tachbrook Park"
+    ],
+    "junctions": [
+      "M40 J13",
+      "A46",
+      "A452"
+    ],
+    "industries": [
+      "Video Game Development",
+      "Automotive Engineering",
+      "Software",
+      "Precision Manufacturing",
+      "Financial Services"
+    ]
+  },
+  {
+    "slug": "leeds",
+    "town": "Leeds",
+    "county": "West Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "Valley Trading Estate",
+      "Gelderd Trading Estate",
+      "Thorpe Park Business Park",
+      "White Rose Park",
+      "Elland Road Industrial Estate"
+    ],
+    "junctions": [
+      "M1 J43",
+      "M1 J44",
+      "M62 J27",
+      "M621 J1",
+      "A1M"
+    ],
+    "industries": [
+      "Financial Services",
+      "Legal Services",
+      "Digital Technology",
+      "Healthcare",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "leicester",
+    "town": "Leicester",
+    "county": "Leicestershire",
+    "region": "East Midlands",
+    "estates": [
+      "Beaumont Leys Industrial Estate",
+      "Braunstone Frith Industrial Estate",
+      "Hamilton Industrial Park",
+      "Lutterworth Road Industrial Estate",
+      "Soar Valley Industrial Estate"
+    ],
+    "junctions": [
+      "M1 J21",
+      "M1 J21A",
+      "M69 J21",
+      "A46",
+      "A50"
+    ],
+    "industries": [
+      "Textiles and Clothing",
+      "Food and Drink",
+      "Engineering",
+      "Logistics",
+      "Advanced Manufacturing"
+    ]
+  },
+  {
+    "slug": "letchworth",
+    "town": "Letchworth",
+    "county": "Hertfordshire",
+    "region": "East of England",
+    "estates": [
+      "Letchworth Business Park",
+      "Works Road Industrial Estate",
+      "Dignity Industrial Estate",
+      "Moor Industrial Estate",
+      "Girdlestone Industrial Estate"
+    ],
+    "junctions": [
+      "A1M J9",
+      "A505"
+    ],
+    "industries": [
+      "Aerospace Components",
+      "Engineering",
+      "Electronics",
+      "Pharmaceuticals",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "lincoln",
+    "town": "Lincoln",
+    "county": "Lincolnshire",
+    "region": "East Midlands",
+    "estates": [
+      "Tritton Road Industrial Estate",
+      "Outer Circle Industrial Estate",
+      "Checkland Industrial Estate",
+      "Nettleham Road Industrial Estate",
+      "Pelham Business Park"
+    ],
+    "junctions": [
+      "A46",
+      "A15",
+      "A57"
+    ],
+    "industries": [
+      "Engineering",
+      "Aerospace",
+      "Food Processing",
+      "Agriculture Tech",
+      "Digital Media"
+    ]
+  },
+  {
+    "slug": "lisburn",
+    "town": "Lisburn",
+    "county": "County Antrim",
+    "region": "Northern Ireland",
+    "estates": [
+      "Ballynahinch Road Industrial Estate",
+      "Crozier's Industrial Estate",
+      "Blaris Industrial Estate",
+      "Knockmore Industrial Estate",
+      "Hillsborough Industrial Estate"
+    ],
+    "junctions": [
+      "M1 J6",
+      "M1 J7",
+      "A1"
+    ],
+    "industries": [
+      "Advanced Manufacturing",
+      "Textiles",
+      "Logistics",
+      "Engineering",
+      "Food Processing"
+    ]
+  },
+  {
+    "slug": "liverpool",
+    "town": "Liverpool",
+    "county": "Merseyside",
+    "region": "North West England",
+    "estates": [
+      "Kingsley Road Industrial Estate",
+      "Speke Hall Industrial Estate",
+      "Marlow Road Industrial Estate",
+      "Bootle Industrial Estate",
+      "Brunswick Business Park"
+    ],
+    "junctions": [
+      "M62 J6",
+      "M57 J1",
+      "M58 J1",
+      "A580"
+    ],
+    "industries": [
+      "Port Operations",
+      "Maritime Logistics",
+      "Automotive",
+      "Biopharmaceuticals",
+      "Creative Digital"
+    ]
+  },
+  {
+    "slug": "livingston",
+    "town": "Livingston",
+    "county": "West Lothian",
+    "region": "Scotland",
+    "estates": [
+      "Craigshill Industrial Estate",
+      "Houston Industrial Estate",
+      "Kirkton Campus",
+      "Starlaw Business Park",
+      "Deans Industrial Estate"
+    ],
+    "junctions": [
+      "M8 J3",
+      "M8 J3A",
+      "A899"
+    ],
+    "industries": [
+      "Electronics",
+      "Life Sciences",
+      "Logistics",
+      "Software Development",
+      "Advanced Manufacturing"
+    ]
+  },
+  {
+    "slug": "london",
+    "town": "London",
+    "county": "Greater London",
+    "region": "Greater London",
+    "estates": [
+      "Park Royal Industrial Estate",
+      "Enfield Industrial Estate",
+      "Thames Gateway Park",
+      "Greenford Park",
+      "IO Centre Barking"
+    ],
+    "junctions": [
+      "M25 J28",
+      "M4 J1",
+      "A40",
+      "A12",
+      "A13"
+    ],
+    "industries": [
+      "Financial Services",
+      "FinTech",
+      "Creative and Media",
+      "Professional Services",
+      "Tech and Software"
+    ]
+  },
+  {
+    "slug": "londonderry",
+    "town": "Londonderry",
+    "county": "County Londonderry",
+    "region": "Northern Ireland",
+    "estates": [
+      "Springtown Industrial Estate",
+      "Derry Commercial Park",
+      "Strand Road Industrial Estate",
+      "Ballykelly Industrial Estate",
+      "Campsie Industrial Estate"
+    ],
+    "junctions": [
+      "A2",
+      "A6",
+      "A5"
+    ],
+    "industries": [
+      "Shirt Manufacturing and Textiles",
+      "Engineering",
+      "Software Development",
+      "Food Processing",
+      "Healthcare"
+    ]
+  },
+  {
+    "slug": "loughborough",
+    "town": "Loughborough",
+    "county": "Leicestershire",
+    "region": "East Midlands",
+    "estates": [
+      "Loughborough University Science and Enterprise Park",
+      "Prince William Road Industrial Estate",
+      "Meadow Lane Industrial Estate",
+      "Alan Moss Road Industrial Estate",
+      "Dishley Business Park"
+    ],
+    "junctions": [
+      "M1 J23",
+      "A6",
+      "A6006"
+    ],
+    "industries": [
+      "Sports Technology",
+      "Advanced Engineering",
+      "Pharmaceuticals",
+      "Higher Education R&D",
+      "Chemicals"
+    ]
+  },
+  {
+    "slug": "lowestoft",
+    "town": "Lowestoft",
+    "county": "Suffolk",
+    "region": "East of England",
+    "estates": [
+      "South Lowestoft Industrial Estate",
+      "Ellough Industrial Estate",
+      "Mobbs Way Industrial Estate",
+      "Battery Green Industrial Estate",
+      "Harbour Commercial Park"
+    ],
+    "junctions": [
+      "A12",
+      "A146"
+    ],
+    "industries": [
+      "Offshore Wind Energy",
+      "Marine Engineering",
+      "Fishing and Seafood",
+      "Tourism",
+      "Food Processing"
+    ]
+  },
+  {
+    "slug": "lurgan",
+    "town": "Lurgan",
+    "county": "County Armagh",
+    "region": "Northern Ireland",
+    "estates": [
+      "Silverwood Industrial Estate",
+      "Concession Road Industrial Estate",
+      "Moira Road Industrial Estate",
+      "Robert Street Industrial Estate",
+      "Lurgan Business Park"
+    ],
+    "junctions": [
+      "M1 J10",
+      "M1 J11",
+      "A3"
+    ],
+    "industries": [
+      "Textiles",
+      "Food Production",
+      "Engineering",
+      "Plastics",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "luton",
+    "town": "Luton",
+    "county": "Bedfordshire",
+    "region": "East of England",
+    "estates": [
+      "Luton Enterprise Park",
+      "Dallow Road Industrial Estate",
+      "Kingsway Industrial Estate",
+      "Capability Green Business Park",
+      "Chaul End Industrial Estate"
+    ],
+    "junctions": [
+      "M1 J10",
+      "M1 J11",
+      "A505",
+      "A6"
+    ],
+    "industries": [
+      "Aviation Support",
+      "Automotive Engineering",
+      "Logistics",
+      "Aerospace",
+      "Food Processing"
+    ]
+  },
+  {
+    "slug": "macclesfield",
+    "town": "Macclesfield",
+    "county": "Cheshire",
+    "region": "North West England",
+    "estates": [
+      "Sutton Business Park",
+      "Lyme Green Business Park",
+      "Hibel Road Industrial Estate",
+      "Springwood Industrial Estate",
+      "Black Lane Industrial Estate"
+    ],
+    "junctions": [
+      "A34",
+      "A537",
+      "M6 J18 (nearby)"
+    ],
+    "industries": [
+      "Pharmaceuticals",
+      "Silk and Textiles (Heritage)",
+      "Precision Engineering",
+      "Software",
+      "Plastics"
+    ]
+  },
+  {
+    "slug": "maidstone",
+    "town": "Maidstone",
+    "county": "Kent",
+    "region": "South East England",
+    "estates": [
+      "Aylesford Commercial Park",
+      "Parkwood Industrial Estate",
+      "Bridge Industrial Estate",
+      "Vinters Business Park",
+      "Hart Street Industrial Estate"
+    ],
+    "junctions": [
+      "M20 J5",
+      "M20 J6",
+      "M2 J3",
+      "A229",
+      "A20"
+    ],
+    "industries": [
+      "Paper and Print",
+      "Logistics",
+      "Engineering",
+      "Life Sciences",
+      "Agriculture Tech"
+    ]
+  },
+  {
+    "slug": "manchester",
+    "town": "Manchester",
+    "county": "Greater Manchester",
+    "region": "North West England",
+    "estates": [
+      "Trafford Park",
+      "Manchester Science Park",
+      "Central Park Manchester",
+      "Wythenshawe Industrial Estate",
+      "Medtia Square"
+    ],
+    "junctions": [
+      "M60 J12",
+      "M60 J17",
+      "M602 J1",
+      "M56 J1"
+    ],
+    "industries": [
+      "Digital and Media",
+      "Financial Services",
+      "Advanced Manufacturing",
+      "Biotechnology",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "mansfield",
+    "town": "Mansfield",
+    "county": "Nottinghamshire",
+    "region": "East Midlands",
+    "estates": [
+      "Sutton-in-Ashfield Industrial Estate",
+      "Oakham Business Park",
+      "Forest Business Park",
+      "Hermitage Business Park",
+      "Mansfield Trade Centre"
+    ],
+    "junctions": [
+      "M1 J28",
+      "M1 J29",
+      "A38",
+      "A60"
+    ],
+    "industries": [
+      "Engineering",
+      "Textiles",
+      "Logistics",
+      "Plastics Manufacturing",
+      "Food Processing"
+    ]
+  },
+  {
+    "slug": "march",
+    "town": "March",
+    "county": "Cambridgeshire",
+    "region": "East of England",
+    "estates": [
+      "Robinsons Industrial Estate",
+      "Doddington Road Industrial Estate",
+      "March Trading Estate",
+      "Whitemoor Industrial Estate",
+      "Hostmoor Industrial Estate"
+    ],
+    "junctions": [
+      "A141",
+      "A142"
+    ],
+    "industries": [
+      "Agriculture and Horticulture",
+      "Food Packaging",
+      "Logistics",
+      "Engineering",
+      "Construction"
+    ]
+  },
+  {
+    "slug": "margate",
+    "town": "Margate",
+    "county": "Kent",
+    "region": "South East England",
+    "estates": [
+      "Manston Business Park",
+      "Dreamland Commercial Park",
+      "Westwood Industrial Estate",
+      "Hereson Industrial Estate",
+      "Ramsgate Road Industrial Estate"
+    ],
+    "junctions": [
+      "A28",
+      "A299"
+    ],
+    "industries": [
+      "Tourism",
+      "Creative Arts",
+      "Light Manufacturing",
+      "Food Processing",
+      "Construction"
+    ]
+  },
+  {
+    "slug": "melton-mowbray",
+    "town": "Melton Mowbray",
+    "county": "Leicestershire",
+    "region": "East Midlands",
+    "estates": [
+      "Melton Commercial Park",
+      "Asfordby Business Park",
+      "Leicester Road Industrial Estate",
+      "Stretton Lane Industrial Estate",
+      "Fairfield Industrial Estate"
+    ],
+    "junctions": [
+      "A606",
+      "A607"
+    ],
+    "industries": [
+      "Food Production (Pork Pies / Cheese)",
+      "Engineering",
+      "Agriculture Support",
+      "Pet Food Manufacturing",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "merthyr-tydfil",
+    "town": "Merthyr Tydfil",
+    "county": "Merthyr Tydfil County Borough",
+    "region": "Wales",
+    "estates": [
+      "Pentrebach Industrial Estate",
+      "Dowlais Top Industrial Estate",
+      "Trallwn Industrial Estate",
+      "Cyfarthfa Industrial Estate",
+      "Abercanaid Industrial Estate"
+    ],
+    "junctions": [
+      "A465",
+      "A470",
+      "M4 J32 (via A470)"
+    ],
+    "industries": [
+      "Automotive Components",
+      "Advanced Manufacturing",
+      "Logistics",
+      "Engineering",
+      "Food Processing"
+    ]
+  },
+  {
+    "slug": "middlesbrough",
+    "town": "Middlesbrough",
+    "county": "North Yorkshire",
+    "region": "North East England",
+    "estates": [
+      "Riverside Park Industrial Estate",
+      "Skippers Lane Industrial Estate",
+      "Cannon Park Industrial Estate",
+      "Middlesbrough Trade Park",
+      "Bolckow Industrial Estate"
+    ],
+    "junctions": [
+      "A19",
+      "A66",
+      "A174"
+    ],
+    "industries": [
+      "Chemicals",
+      "Steel and Metals",
+      "Offshore Engineering",
+      "Digital Technology",
+      "Port Logistics"
+    ]
+  },
+  {
+    "slug": "milton-keynes",
+    "town": "Milton Keynes",
+    "county": "Buckinghamshire",
+    "region": "South East England",
+    "estates": [
+      "Denbigh West Industrial Estate",
+      "Knowlhill Business Park",
+      "Crownhill Industrial Estate",
+      "Witan Studios Business Park",
+      "Tongwell Industrial Estate"
+    ],
+    "junctions": [
+      "M1 J13",
+      "M1 J14",
+      "A5",
+      "A509"
+    ],
+    "industries": [
+      "Logistics and Distribution",
+      "Information Technology",
+      "Automotive R&D",
+      "Financial Services",
+      "Advanced Manufacturing"
+    ]
+  },
+  {
+    "slug": "morecambe",
+    "town": "Morecambe",
+    "county": "Lancashire",
+    "region": "North West England",
+    "estates": [
+      "White Lund Industrial Estate",
+      "Northgate Industrial Estate",
+      "Poulton Industrial Estate",
+      "Regent Park Industrial Estate",
+      "Morecambe Business Park"
+    ],
+    "junctions": [
+      "M6 J34 (via A683)",
+      "A589",
+      "A6"
+    ],
+    "industries": [
+      "Tourism",
+      "Light Engineering",
+      "Food Processing",
+      "Construction",
+      "Plastics"
+    ]
+  },
+  {
+    "slug": "motherwell",
+    "town": "Motherwell",
+    "county": "North Lanarkshire",
+    "region": "Scotland",
+    "estates": [
+      "Fleminghill Industrial Estate",
+      "Carfin Industrial Estate",
+      "Holytown Industrial Estate",
+      "Shieldmuir Industrial Estate",
+      "Motherwell Business Centre"
+    ],
+    "junctions": [
+      "M74 J6",
+      "M8 J6",
+      "A723",
+      "A73"
+    ],
+    "industries": [
+      "Steel Processing",
+      "Logistics",
+      "Engineering",
+      "Food and Drink",
+      "Electronics"
+    ]
+  },
+  {
+    "slug": "neath",
+    "town": "Neath",
+    "county": "Neath Port Talbot",
+    "region": "Wales",
+    "estates": [
+      "Tonna Industrial Estate",
+      "Crymlyn Burrows Industrial Estate",
+      "Neath Abbey Industrial Estate",
+      "Skelton Industrial Estate",
+      "Lonlas Industrial Estate"
+    ],
+    "junctions": [
+      "M4 J43",
+      "M4 J44",
+      "A465",
+      "A474"
+    ],
+    "industries": [
+      "Metal Manufacturing",
+      "Engineering",
+      "Chemicals",
+      "Logistics",
+      "Construction"
+    ]
+  },
+  {
+    "slug": "nelson",
+    "town": "Nelson",
+    "county": "Lancashire",
+    "region": "North West England",
+    "estates": [
+      "Whitefield Business Park",
+      "Pendle Industrial Estate",
+      "Netherfield Road Industrial Estate",
+      "Bradley Hall Industrial Estate",
+      "Glen Industrial Estate"
+    ],
+    "junctions": [
+      "M65 J12",
+      "M65 J13",
+      "A56"
+    ],
+    "industries": [
+      "Aerospace Engineering",
+      "Textiles",
+      "Advanced Manufacturing",
+      "Plastics",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "newark",
+    "town": "Newark",
+    "county": "Nottinghamshire",
+    "region": "East Midlands",
+    "estates": [
+      "Brunel Drive Industrial Estate",
+      "Balderton Industrial Estate",
+      "Newark Business Park",
+      "Navigation Yard",
+      "Hawton Lane Industrial Estate"
+    ],
+    "junctions": [
+      "A1",
+      "A46",
+      "A617"
+    ],
+    "industries": [
+      "Agricultural Engineering",
+      "Food Processing",
+      "Logistics",
+      "Construction",
+      "Warehousing"
+    ]
+  },
+  {
+    "slug": "newbury",
+    "town": "Newbury",
+    "county": "Berkshire",
+    "region": "South East England",
+    "estates": [
+      "Newbury Business Park",
+      "Pococks Road Industrial Estate",
+      "Greenham Business Park",
+      "Shaw Retail & Business Centre",
+      "Pelham Court"
+    ],
+    "junctions": [
+      "M4 J13",
+      "A34",
+      "A339"
+    ],
+    "industries": [
+      "Telecommunications",
+      "Software",
+      "Pharmaceuticals",
+      "Defense",
+      "Electronics"
+    ]
+  },
+  {
+    "slug": "newcastle-upon-tyne",
+    "town": "Newcastle upon Tyne",
+    "county": "Tyne and Wear",
+    "region": "North East England",
+    "estates": [
+      "Quorum Business Park",
+      "Newcastle Business Park",
+      "Balliol Business Park",
+      "Walker Road Industrial Estate",
+      "Byker Industrial Estate"
+    ],
+    "junctions": [
+      "A1M",
+      "A19",
+      "A69",
+      "A167"
+    ],
+    "industries": [
+      "Digital Technology",
+      "Financial Services",
+      "Marine Engineering",
+      "Life Sciences",
+      "Public Sector Services"
+    ]
+  },
+  {
+    "slug": "newcastle-under-lyme",
+    "town": "Newcastle-under-Lyme",
+    "county": "Staffordshire",
+    "region": "West Midlands",
+    "estates": [
+      "Lymedale Business Park",
+      "Knutton Industrial Estate",
+      "Silverdale Enterprise Park",
+      "Enterprise Way Industrial Estate",
+      "Chesterton Industrial Estate"
+    ],
+    "junctions": [
+      "M6 J15",
+      "M6 J16",
+      "A34",
+      "A500"
+    ],
+    "industries": [
+      "Logistics and Distribution",
+      "Ceramics",
+      "Engineering",
+      "Automotive Parts",
+      "Packaging"
+    ]
+  },
+  {
+    "slug": "newport",
+    "town": "Newport",
+    "county": "Newport",
+    "region": "Wales",
+    "estates": [
+      "Celtic Horizons Business Park",
+      "Duffryn Industrial Estate",
+      "Maesglas Industrial Estate",
+      "Corporation Road Industrial Estate",
+      "Langstone Business Park"
+    ],
+    "junctions": [
+      "M4 J24",
+      "M4 J25",
+      "M4 J26",
+      "M4 J27",
+      "A449"
+    ],
+    "industries": [
+      "Compound Semiconductors",
+      "Advanced Manufacturing",
+      "Logistics",
+      "Digital Technology",
+      "Financial Services"
+    ]
+  },
+  {
+    "slug": "newton-abbot",
+    "town": "Newton Abbot",
+    "county": "Devon",
+    "region": "South West England",
+    "estates": [
+      "Brunel Industrial Estate",
+      "Bradley Lane Industrial Estate",
+      "Milber Industrial Estate",
+      "Forde Road Industrial Estate",
+      "Decoy Industrial Estate"
+    ],
+    "junctions": [
+      "A380",
+      "A381",
+      "M5 J30 (via A380)"
+    ],
+    "industries": [
+      "Precision Engineering",
+      "Construction",
+      "Timber Processing",
+      "Food Production",
+      "Light Manufacturing"
+    ]
+  },
+  {
+    "slug": "newton-aycliffe",
+    "town": "Newton Aycliffe",
+    "county": "County Durham",
+    "region": "North East England",
+    "estates": [
+      "Aycliffe Business Park",
+      "Heighington Lane Business Park",
+      "Green Lane Industrial Estate",
+      "St Cuthbert's Way Industrial Estate",
+      "Whinfield Industrial Estate"
+    ],
+    "junctions": [
+      "A1M J59",
+      "A1M J60",
+      "A167"
+    ],
+    "industries": [
+      "Rail Manufacturing",
+      "Advanced Engineering",
+      "Automotive Components",
+      "Chemicals",
+      "Plastics"
+    ]
+  },
+  {
+    "slug": "newtownabbey",
+    "town": "Newtownabbey",
+    "county": "County Antrim",
+    "region": "Northern Ireland",
+    "estates": [
+      "Carnmoney Industrial Estate",
+      "Glengormley Industrial Estate",
+      "Bogagh Industrial Estate",
+      "Mallusk Industrial Estate",
+      "Hydepark Industrial Estate"
+    ],
+    "junctions": [
+      "M2 J4",
+      "M2 J5",
+      "A8"
+    ],
+    "industries": [
+      "Logistics and Distribution",
+      "Engineering",
+      "Food Processing",
+      "Textiles",
+      "Printing"
+    ]
+  },
+  {
+    "slug": "normanton",
+    "town": "Normanton",
+    "county": "West Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "Normanton Industrial Estate",
+      "Altofts Industrial Estate",
+      "Pontefract Road Industrial Estate",
+      "Whitwood Industrial Estate",
+      "Eurocentral Normanton"
+    ],
+    "junctions": [
+      "M62 J31",
+      "A655"
+    ],
+    "industries": [
+      "Logistics and Warehousing",
+      "Distribution",
+      "Engineering",
+      "Food Distribution",
+      "Packaging"
+    ]
+  },
+  {
+    "slug": "northampton",
+    "town": "Northampton",
+    "county": "Northamptonshire",
+    "region": "East Midlands",
+    "estates": [
+      "Brackmills Industrial Estate",
+      "Moulton Park Industrial Estate",
+      "Northampton Science Park",
+      "Swan Valley Business Park",
+      "Kings Park Trade Park"
+    ],
+    "junctions": [
+      "M1 J15",
+      "M1 J15A",
+      "M1 J16",
+      "A45",
+      "A508"
+    ],
+    "industries": [
+      "Logistics and Distribution",
+      "Automotive (Motorsport)",
+      "High-Performance Engineering",
+      "Footwear and Fashion",
+      "Food Manufacturing"
+    ]
+  },
+  {
+    "slug": "norwich",
+    "town": "Norwich",
+    "county": "Norfolk",
+    "region": "East of England",
+    "estates": [
+      "Norwich Research Park",
+      "Sweet Briar Industrial Estate",
+      "Clover Industrial Estate",
+      "Rackheath Industrial Estate",
+      "Bowthorpe Industrial Estate"
+    ],
+    "junctions": [
+      "A47",
+      "A11",
+      "A140",
+      "Acle Straight"
+    ],
+    "industries": [
+      "Agri-Tech",
+      "Biotechnology",
+      "Insurance",
+      "Engineering",
+      "Digital Technology"
+    ]
+  },
+  {
+    "slug": "nottingham",
+    "town": "Nottingham",
+    "county": "Nottinghamshire",
+    "region": "East Midlands",
+    "estates": [
+      "Beeston Business Park",
+      "Castle Business Park",
+      "Nottingham Science Park",
+      "Colwick Industrial Estate",
+      "Glaisdale Industrial Estate"
+    ],
+    "junctions": [
+      "M1 J24",
+      "M1 J25",
+      "A52",
+      "A60",
+      "A610"
+    ],
+    "industries": [
+      "Life Sciences",
+      "Pharmaceuticals",
+      "Digital Media",
+      "Advanced Manufacturing",
+      "Engineering"
+    ]
+  },
+  {
+    "slug": "omagh",
+    "town": "Omagh",
+    "county": "County Tyrone",
+    "region": "Northern Ireland",
+    "estates": [
+      "Gortrush Industrial Estate",
+      "Sedan Avenue Industrial Estate",
+      "Crevenagh Industrial Estate",
+      "Tamnamore Industrial Estate",
+      "Omagh Business Complex"
+    ],
+    "junctions": [
+      "A5",
+      "A32"
+    ],
+    "industries": [
+      "Agricultural Machinery",
+      "Food Processing",
+      "Engineering",
+      "Construction",
+      "Textiles"
+    ]
+  },
+  {
+    "slug": "oswestry",
+    "town": "Oswestry",
+    "county": "Shropshire",
+    "region": "West Midlands",
+    "estates": [
+      "Mile Oak Industrial Estate",
+      "Maesbury Road Industrial Estate",
+      "Salop Road Industrial Estate",
+      "Oswestry Industrial Estate",
+      "Park Hall Business Park"
+    ],
+    "junctions": [
+      "A5",
+      "A483"
+    ],
+    "industries": [
+      "Agriculture Support",
+      "Light Engineering",
+      "Food Production",
+      "Timber Processing",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "oxford",
+    "town": "Oxford",
+    "county": "Oxfordshire",
+    "region": "South East England",
+    "estates": [
+      "Oxford Science Park",
+      "Oxford Business Park",
+      "Botley Road Industrial Estate",
+      "Minns Industrial Estate",
+      "Meadow Court"
+    ],
+    "junctions": [
+      "M40 J8",
+      "M40 J9",
+      "A34",
+      "A40",
+      "A4142"
+    ],
+    "industries": [
+      "Automotive Manufacturing",
+      "Biotechnology",
+      "Publishing",
+      "Higher Education R&D",
+      "Software Development"
+    ]
+  },
+  {
+    "slug": "paisley",
+    "town": "Paisley",
+    "county": "Renfrewshire",
+    "region": "Scotland",
+    "estates": [
+      "Abbotsinch Industrial Estate",
+      "Glasgow Airport Business Park",
+      "Linwood Industrial Estate",
+      "Eastfield Industrial Estate",
+      "Hillington Park (Paisley section)"
+    ],
+    "junctions": [
+      "M8 J27",
+      "M8 J28",
+      "A737",
+      "A726"
+    ],
+    "industries": [
+      "Aerospace",
+      "Logistics",
+      "Engineering",
+      "Food Distribution",
+      "Advanced Manufacturing"
+    ]
+  },
+  {
+    "slug": "perth",
+    "town": "Perth",
+    "county": "Perth and Kinross",
+    "region": "Scotland",
+    "estates": [
+      "North Muirton Industrial Estate",
+      "Inveralmond Industrial Estate",
+      "Ruthvenfield Industrial Estate",
+      "Perth Harbour Industrial Estate",
+      "Wellington Business Park"
+    ],
+    "junctions": [
+      "M90 J10",
+      "A9",
+      "A85",
+      "A93"
+    ],
+    "industries": [
+      "Food and Drink",
+      "Whisky",
+      "Logistics",
+      "Engineering",
+      "Agriculture Support"
+    ]
+  },
+  {
+    "slug": "peterborough",
+    "town": "Peterborough",
+    "county": "Cambridgeshire",
+    "region": "East of England",
+    "estates": [
+      "Orton Southgate Industrial Estate",
+      "Fengate Industrial Estate",
+      "Pines Business Park",
+      "EDF Energy Business Park",
+      "Saville Road Industrial Estate"
+    ],
+    "junctions": [
+      "A1M J17",
+      "A47",
+      "A15",
+      "A605"
+    ],
+    "industries": [
+      "Diesel Engine Manufacturing",
+      "Logistics and Distribution",
+      "Environmental Technology",
+      "Food Processing",
+      "Printing"
+    ]
+  },
+  {
+    "slug": "plymouth",
+    "town": "Plymouth",
+    "county": "Devon",
+    "region": "South West England",
+    "estates": [
+      "Europe Business Park",
+      "Plymouth International Business Park",
+      "Estover Industrial Estate",
+      "Marsh Mills Industrial Estate",
+      "Cattedown Industrial Estate"
+    ],
+    "junctions": [
+      "A38",
+      "A374",
+      "A386"
+    ],
+    "industries": [
+      "Marine Engineering",
+      "Defense",
+      "Shipbuilding",
+      "Advanced Manufacturing",
+      "Information Technology"
+    ]
+  },
+  {
+    "slug": "pontefract",
+    "town": "Pontefract",
+    "county": "West Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "Pontefract Enterprise Park",
+      "Monkhill Industrial Estate",
+      "Ackworth Road Industrial Estate",
+      "South Baileygate Industrial Estate",
+      "Streethouse Industrial Estate"
+    ],
+    "junctions": [
+      "M62 J32",
+      "A1M J40 (via A639)",
+      "A639"
+    ],
+    "industries": [
+      "Confectionery",
+      "Logistics",
+      "Engineering",
+      "Food Processing",
+      "Construction"
+    ]
+  },
+  {
+    "slug": "pontypool",
+    "town": "Pontypool",
+    "county": "Torfaen",
+    "region": "Wales",
+    "estates": [
+      "Mamhilad Park Estate",
+      "Pontymoile Industrial Estate",
+      "Blaendare Industrial Estate",
+      "Varteg Industrial Estate",
+      "Crane Street Industrial Estate"
+    ],
+    "junctions": [
+      "A4042",
+      "M4 J25A (via A4042)"
+    ],
+    "industries": [
+      "Advanced Manufacturing",
+      "Engineering",
+      "Plastics",
+      "Food Processing",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "pontypridd",
+    "town": "Pontypridd",
+    "county": "Rhondda Cynon Taf",
+    "region": "Wales",
+    "estates": [
+      "Treforest Industrial Estate",
+      "Rhydyfelin Industrial Estate",
+      "Hawthorn Industrial Estate",
+      "Berw Road Industrial Estate",
+      "Pontypridd Business Park"
+    ],
+    "junctions": [
+      "A470",
+      "M4 J32 (via A470)"
+    ],
+    "industries": [
+      "Aerospace Components",
+      "Engineering",
+      "Electronics",
+      "Logistics",
+      "Digital Technology"
+    ]
+  },
+  {
+    "slug": "poole",
+    "town": "Poole",
+    "county": "Dorset",
+    "region": "South West England",
+    "estates": [
+      "Hamworthy Industrial Estate",
+      "Fleetsbridge Industrial Estate",
+      "Branksome Business Park",
+      "Nuffield Industrial Estate",
+      "Tower Park"
+    ],
+    "junctions": [
+      "A35",
+      "A350",
+      "A3049"
+    ],
+    "industries": [
+      "Marine and Boat Building",
+      "Electronics",
+      "Aerospace",
+      "Food Processing",
+      "Tourism"
+    ]
+  },
+  {
+    "slug": "port-talbot",
+    "town": "Port Talbot",
+    "county": "Neath Port Talbot",
+    "region": "Wales",
+    "estates": [
+      "Margam Industrial Estate",
+      "Kenfig Industrial Estate",
+      "Baglan Energy Park",
+      "Groeswen Industrial Estate",
+      "Tollgate Industrial Estate"
+    ],
+    "junctions": [
+      "M4 J38",
+      "M4 J40",
+      "M4 J41",
+      "A48"
+    ],
+    "industries": [
+      "Steel Manufacturing",
+      "Renewable Energy",
+      "Chemicals",
+      "Engineering",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "portadown",
+    "town": "Portadown",
+    "county": "County Armagh",
+    "region": "Northern Ireland",
+    "estates": [
+      "Carn Industrial Estate",
+      "Seagoe Industrial Estate",
+      "Ballyoran Industrial Estate",
+      "Mahon Industrial Estate",
+      "Garvaghy Industrial Estate"
+    ],
+    "junctions": [
+      "M1 J11",
+      "M1 J12",
+      "A3",
+      "A27"
+    ],
+    "industries": [
+      "Food Production",
+      "Carpet Manufacturing",
+      "Engineering",
+      "Plastics",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "portsmouth",
+    "town": "Portsmouth",
+    "county": "Hampshire",
+    "region": "South East England",
+    "estates": [
+      "Airport Industrial Estate",
+      "Fratton Industrial Estate",
+      "Hilsea Industrial Estate",
+      "Northarbour Business Park",
+      "Cosham Industrial Estate"
+    ],
+    "junctions": [
+      "M27 J12",
+      "A3M",
+      "A27",
+      "A3"
+    ],
+    "industries": [
+      "Shipbuilding and Marine",
+      "Defense",
+      "Aerospace",
+      "Ports and Logistics",
+      "Advanced Engineering"
+    ]
+  },
+  {
+    "slug": "preston",
+    "town": "Preston",
+    "county": "Lancashire",
+    "region": "North West England",
+    "estates": [
+      "Ribble Business Park",
+      "Preston Trade Park",
+      "Red Scar Business Park",
+      "Walton Summit Industrial Estate",
+      "Roman Way Industrial Estate"
+    ],
+    "junctions": [
+      "M6 J31",
+      "M6 J31A",
+      "M55 J1",
+      "A59",
+      "A6"
+    ],
+    "industries": [
+      "Aerospace",
+      "Advanced Engineering",
+      "Defense",
+      "Food Processing",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "rawtenstall",
+    "town": "Rawtenstall",
+    "county": "Lancashire",
+    "region": "North West England",
+    "estates": [
+      "Waterfoot Industrial Estate",
+      "Newhallhey Industrial Estate",
+      "Hareholme Industrial Estate",
+      "Stubbins Lane Industrial Estate",
+      "Lumb Mill Industrial Estate"
+    ],
+    "junctions": [
+      "M66 J1",
+      "A56",
+      "A682"
+    ],
+    "industries": [
+      "Footwear Manufacturing",
+      "Textiles",
+      "Engineering",
+      "Plastics",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "reading",
+    "town": "Reading",
+    "county": "Berkshire",
+    "region": "South East England",
+    "estates": [
+      "Green Park Business Park",
+      "Thames Valley Park",
+      "Richfield Industrial Estate",
+      "Stadium Way Industrial Estate",
+      "Sterling Industrial Estate"
+    ],
+    "junctions": [
+      "M4 J10",
+      "M4 J11",
+      "M4 J12",
+      "A33",
+      "A4"
+    ],
+    "industries": [
+      "Information Technology",
+      "Software",
+      "Telecommunications",
+      "Financial Services",
+      "Pharmaceuticals"
+    ]
+  },
+  {
+    "slug": "redditch",
+    "town": "Redditch",
+    "county": "Worcestershire",
+    "region": "West Midlands",
+    "estates": [
+      "Washford Industrial Estate",
+      "Hemmels Industrial Estate",
+      "East Moons Moat Industrial Estate",
+      "Borough Works",
+      "Redditch Trade Park"
+    ],
+    "junctions": [
+      "M42 J3",
+      "A441",
+      "A435"
+    ],
+    "industries": [
+      "Automotive Components",
+      "Spring Manufacturing",
+      "Engineering",
+      "Plastics",
+      "Aviation Parts"
+    ]
+  },
+  {
+    "slug": "rochdale",
+    "town": "Rochdale",
+    "county": "Greater Manchester",
+    "region": "North West England",
+    "estates": [
+      "Kingsway Business Park",
+      "Sandbrook Business Park",
+      "Rochdale Business Park",
+      "Smithy Bridge Industrial Estate",
+      "Hollingworth Business Park"
+    ],
+    "junctions": [
+      "M62 J21",
+      "A627M",
+      "A58"
+    ],
+    "industries": [
+      "Logistics and Distribution",
+      "Advanced Manufacturing",
+      "Precision Engineering",
+      "Food Processing",
+      "Textiles"
+    ]
+  },
+  {
+    "slug": "rotherham",
+    "town": "Rotherham",
+    "county": "South Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "Advanced Manufacturing Park (AMP)",
+      "Templeborough Industrial Estate",
+      "Dinnington Industrial Estate",
+      "Rotherham Gateway",
+      "Manvers Industrial Estate"
+    ],
+    "junctions": [
+      "M1 J33",
+      "M1 J34",
+      "M18 J1",
+      "A630"
+    ],
+    "industries": [
+      "Advanced Manufacturing",
+      "Steel Production",
+      "Aerospace Engineering",
+      "Logistics",
+      "Medical Technology"
+    ]
+  },
+  {
+    "slug": "runcorn",
+    "town": "Runcorn",
+    "county": "Cheshire",
+    "region": "North West England",
+    "estates": [
+      "Astmoor Industrial Estate",
+      "Whitehouse Industrial Estate",
+      "Manor Park",
+      "Daresbury Park",
+      "Grange Industrial Estate"
+    ],
+    "junctions": [
+      "M56 J11",
+      "M62 J7 (via A557)",
+      "A533",
+      "A558"
+    ],
+    "industries": [
+      "Chemicals",
+      "Pharmaceuticals",
+      "Logistics",
+      "Advanced Technology",
+      "Plastics"
+    ]
+  },
+  {
+    "slug": "salford",
+    "town": "Salford",
+    "county": "Greater Manchester",
+    "region": "North West England",
+    "estates": [
+      "MediaCityUK",
+      "Agecroft Commerce Park",
+      "Fairhills Industrial Estate",
+      "Barton Dock Road Industrial Estate",
+      "Calder Street Industrial Estate"
+    ],
+    "junctions": [
+      "M60 J12",
+      "M602 J2",
+      "A57",
+      "A5063"
+    ],
+    "industries": [
+      "Media and Broadcasting",
+      "Digital Technology",
+      "Logistics",
+      "Advanced Engineering",
+      "Financial Services"
+    ]
+  },
+  {
+    "slug": "salisbury",
+    "town": "Salisbury",
+    "county": "Wiltshire",
+    "region": "South West England",
+    "estates": [
+      "Churchfields Industrial Estate",
+      "Castlegate Business Park",
+      "Solstice Park",
+      "High Post Business Park",
+      "Whaddon Business Park"
+    ],
+    "junctions": [
+      "A30",
+      "A36",
+      "A338"
+    ],
+    "industries": [
+      "Defense Tech",
+      "Engineering",
+      "Tourism",
+      "Agriculture Support",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "scunthorpe",
+    "town": "Scunthorpe",
+    "county": "North Lincolnshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "Foxhills Industrial Estate",
+      "Skippers Lane Industrial Estate",
+      "Normanby Enterprise Park",
+      "Bottesford Industrial Estate",
+      "Ermine Business Park"
+    ],
+    "junctions": [
+      "M181",
+      "M180 J3",
+      "A15",
+      "A18"
+    ],
+    "industries": [
+      "Steel Manufacturing",
+      "Engineering",
+      "Logistics",
+      "Chemicals",
+      "Food Production"
+    ]
+  },
+  {
+    "slug": "sheffield",
+    "town": "Sheffield",
+    "county": "South Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "Attercliffe Common Industrial Estate",
+      "Sheaf Bank Business Park",
+      "Holbrook Industrial Estate",
+      "Parkway Business Park",
+      "Staniforth Road Industrial Estate"
+    ],
+    "junctions": [
+      "M1 J33",
+      "M1 J34",
+      "A57",
+      "A61"
+    ],
+    "industries": [
+      "Specialty Steel and Metallurgy",
+      "Advanced Manufacturing",
+      "Medical Devices",
+      "Digital Software",
+      "Forging and Casting"
+    ]
+  },
+  {
+    "slug": "shrewsbury",
+    "town": "Shrewsbury",
+    "county": "Shropshire",
+    "region": "West Midlands",
+    "estates": [
+      "Battlefield Enterprise Park",
+      "Harlescott Industrial Estate",
+      "Shrewsbury Business Park",
+      "Sundorne Trading Estate",
+      "Vanguard Way Business Park"
+    ],
+    "junctions": [
+      "A5",
+      "A49",
+      "A53"
+    ],
+    "industries": [
+      "Agricultural Machinery",
+      "Food Production",
+      "Engineering",
+      "Insurance",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "skelmersdale",
+    "town": "Skelmersdale",
+    "county": "Lancashire",
+    "region": "North West England",
+    "estates": [
+      "Pinnacle Industrial Estate",
+      "White Moss Business Park",
+      "Skelmersdale Concourse",
+      "Gillibrands Industrial Estate",
+      "Junction 4 Industrial Estate"
+    ],
+    "junctions": [
+      "M58 J4",
+      "M58 J5",
+      "A577"
+    ],
+    "industries": [
+      "Logistics and Warehousing",
+      "Food Manufacturing",
+      "Packaging",
+      "Automotive Components",
+      "Engineering"
+    ]
+  },
+  {
+    "slug": "skipton",
+    "town": "Skipton",
+    "county": "North Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "Engine Shed Lane Industrial Estate",
+      "Skipton Industrial Estate",
+      "Ings Lane Industrial Estate",
+      "Snaygill Industrial Estate",
+      "Broughton Business Park"
+    ],
+    "junctions": [
+      "A59",
+      "A65",
+      "A629"
+    ],
+    "industries": [
+      "Precision Engineering",
+      "Textiles",
+      "Tourism",
+      "Food Processing",
+      "Agriculture Support"
+    ]
+  },
+  {
+    "slug": "slough",
+    "town": "Slough",
+    "county": "Berkshire",
+    "region": "South East England",
+    "estates": [
+      "Slough Trading Estate",
+      "Buckingham Avenue Industrial Estate",
+      "Red Lion Trading Estate",
+      "Montrose Avenue Industrial Estate",
+      "Colnbrook Industrial Estate"
+    ],
+    "junctions": [
+      "M4 J6",
+      "M4 J7",
+      "M25 J15",
+      "A4"
+    ],
+    "industries": [
+      "Confectionery",
+      "Pharmaceuticals",
+      "Information Technology",
+      "Logistics",
+      "Corporate Headquarters"
+    ]
+  },
+  {
+    "slug": "southampton",
+    "town": "Southampton",
+    "county": "Hampshire",
+    "region": "South East England",
+    "estates": [
+      "Southampton Docks Industrial Estate",
+      "Nursling Industrial Estate",
+      "Mayflower Trading Estate",
+      "University Enterprise Park",
+      "Chandlers Ford Industrial Estate"
+    ],
+    "junctions": [
+      "M27 J3",
+      "M27 J5",
+      "M3 J14",
+      "A33",
+      "A35"
+    ],
+    "industries": [
+      "Maritime Shipping",
+      "Cruise Operations",
+      "Logistics and Freight",
+      "Marine Engineering",
+      "Digital Technology"
+    ]
+  },
+  {
+    "slug": "southend-on-sea",
+    "town": "Southend-on-Sea",
+    "county": "Essex",
+    "region": "East of England",
+    "estates": [
+      "Southend Airport Business Park",
+      "Priory Industrial Estate",
+      "Stock Road Industrial Estate",
+      "Short Street Industrial Estate",
+      "Temple Farm Industrial Estate"
+    ],
+    "junctions": [
+      "A127",
+      "A13",
+      "A1159"
+    ],
+    "industries": [
+      "Aviation Support",
+      "Tourism",
+      "Digital Technology",
+      "Engineering",
+      "Plastics"
+    ]
+  },
+  {
+    "slug": "spalding",
+    "town": "Spalding",
+    "county": "Lincolnshire",
+    "region": "East Midlands",
+    "estates": [
+      "Westfield Industrial Estate",
+      "Marsh Road Industrial Estate",
+      "Cranworth Road Industrial Estate",
+      "Spalding Trade Park",
+      "Halmer Gardens Industrial Estate"
+    ],
+    "junctions": [
+      "A16",
+      "A151"
+    ],
+    "industries": [
+      "Food Processing",
+      "Horticulture",
+      "Cold Storage and Logistics",
+      "Packaging",
+      "Agriculture Support"
+    ]
+  },
+  {
+    "slug": "st-austell",
+    "town": "St Austell",
+    "county": "Cornwall",
+    "region": "South West England",
+    "estates": [
+      "Carclaze Industrial Estate",
+      "Treverbyn Industrial Estate",
+      "St Austell Business Park",
+      "Par Moor Industrial Estate",
+      "Buckler Business Park"
+    ],
+    "junctions": [
+      "A390",
+      "A30 (nearby)"
+    ],
+    "industries": [
+      "China Clay Extraction",
+      "Brewing",
+      "Tourism",
+      "Construction",
+      "Renewable Energy"
+    ]
+  },
+  {
+    "slug": "st-helens",
+    "town": "St Helens",
+    "county": "Merseyside",
+    "region": "North West England",
+    "estates": [
+      "Sutton Leach Industrial Estate",
+      "St Helens Industrial Estate",
+      "Bold Industrial Park",
+      "Lancaster Business Park",
+      "Sherdley Road Industrial Estate"
+    ],
+    "junctions": [
+      "M6 J23",
+      "M62 J7",
+      "A580",
+      "A570"
+    ],
+    "industries": [
+      "Glass Manufacturing",
+      "Logistics",
+      "Food Processing",
+      "Chemicals",
+      "Advanced Engineering"
+    ]
+  },
+  {
+    "slug": "stafford",
+    "town": "Stafford",
+    "county": "Staffordshire",
+    "region": "West Midlands",
+    "estates": [
+      "Redhill Business Park",
+      "Stafford Business Park",
+      "Whitebridge Industrial Estate",
+      "Common Road Industrial Estate",
+      "Crescent Business Park"
+    ],
+    "junctions": [
+      "M6 J13",
+      "M6 J14",
+      "A34",
+      "A518",
+      "A513"
+    ],
+    "industries": [
+      "Power Engineering",
+      "Logistics",
+      "Rubber Manufacturing",
+      "Food Processing",
+      "Engineering"
+    ]
+  },
+  {
+    "slug": "stevenage",
+    "town": "Stevenage",
+    "county": "Hertfordshire",
+    "region": "East of England",
+    "estates": [
+      "Gunnels Wood Industrial Estate",
+      "Pin Green Industrial Estate",
+      "Stevenage Business Park",
+      "Arlesey Industrial Estate",
+      "Sovereign Park"
+    ],
+    "junctions": [
+      "A1M J7",
+      "A1M J8",
+      "A602"
+    ],
+    "industries": [
+      "Aerospace",
+      "Pharmaceuticals",
+      "Defense",
+      "Advanced Manufacturing",
+      "Space Technology"
+    ]
+  },
+  {
+    "slug": "stirling",
+    "town": "Stirling",
+    "county": "Stirling",
+    "region": "Scotland",
+    "estates": [
+      "Springkerse Industrial Estate",
+      "Kerse Road Industrial Estate",
+      "Stirling Enterprise Park",
+      "Bridgend Industrial Estate",
+      "Hillington Stirling"
+    ],
+    "junctions": [
+      "M9 J9",
+      "A9",
+      "A84",
+      "A91"
+    ],
+    "industries": [
+      "Tourism",
+      "Higher Education",
+      "Logistics",
+      "Food and Drink",
+      "Software Development"
+    ]
+  },
+  {
+    "slug": "stockport",
+    "town": "Stockport",
+    "county": "Greater Manchester",
+    "region": "North West England",
+    "estates": [
+      "Reddish Industrial Estate",
+      "Brinnington Industrial Estate",
+      "Cheadle Hulme Business Park",
+      "Hazel Grove Industrial Estate",
+      "Davenport Industrial Estate"
+    ],
+    "junctions": [
+      "M60 J1",
+      "M60 J27",
+      "A6",
+      "A34"
+    ],
+    "industries": [
+      "Engineering",
+      "Financial Services",
+      "Aerospace",
+      "Plastics",
+      "Food Processing"
+    ]
+  },
+  {
+    "slug": "stockton-on-tees",
+    "town": "Stockton-on-Tees",
+    "county": "County Durham",
+    "region": "North East England",
+    "estates": [
+      "Preston Farm Industrial Estate",
+      "Portrack Industrial Estate",
+      "Bowesfield Industrial Estate",
+      "Durham Lane Industrial Estate",
+      "Teesside Industrial Estate"
+    ],
+    "junctions": [
+      "A19",
+      "A66",
+      "A1027"
+    ],
+    "industries": [
+      "Chemicals and Petrochemicals",
+      "Advanced Engineering",
+      "Logistics",
+      "Renewable Energy",
+      "Digital Technology"
+    ]
+  },
+  {
+    "slug": "stourbridge",
+    "town": "Stourbridge",
+    "county": "West Midlands",
+    "region": "West Midlands",
+    "estates": [
+      "Lye Industrial Estate",
+      "Brettell Lane Industrial Estate",
+      "Wollescote Industrial Estate",
+      "Enville Street Industrial Estate",
+      "Stourbridge Industrial Estate"
+    ],
+    "junctions": [
+      "A458",
+      "A491",
+      "M5 J3 (via A456)"
+    ],
+    "industries": [
+      "Glass Manufacturing",
+      "Metal Fabrication",
+      "Engineering",
+      "Automotive Parts",
+      "Toolmaking"
+    ]
+  },
+  {
+    "slug": "stranraer",
+    "town": "Stranraer",
+    "county": "Dumfries and Galloway",
+    "region": "Scotland",
+    "estates": [
+      "Stranraer Business Park",
+      "London Road Industrial Estate",
+      "Ballyclose Industrial Estate",
+      "Cairnryan Industrial Estate",
+      "Dalrymple Industrial Estate"
+    ],
+    "junctions": [
+      "A75",
+      "A77"
+    ],
+    "industries": [
+      "Port Logistics",
+      "Agriculture Support",
+      "Tourism",
+      "Food Processing",
+      "Marine Engineering"
+    ]
+  },
+  {
+    "slug": "stroud",
+    "town": "Stroud",
+    "county": "Gloucestershire",
+    "region": "South West England",
+    "estates": [
+      "Stroud Enterprise Centre",
+      "Ebley Industrial Estate",
+      "Cainscross Industrial Estate",
+      "Meadow Mill Industrial Estate",
+      "Dudbridge Industrial Estate"
+    ],
+    "junctions": [
+      "M5 J13",
+      "A419",
+      "A46"
+    ],
+    "industries": [
+      "Textiles",
+      "Precision Engineering",
+      "Environmental Tech",
+      "Plastics",
+      "Food Production"
+    ]
+  },
+  {
+    "slug": "sunderland",
+    "town": "Sunderland",
+    "county": "Tyne and Wear",
+    "region": "North East England",
+    "estates": [
+      "Sunderland Enterprise Park",
+      "Washington Industrial Estate",
+      "Pallion Industrial Estate",
+      "Hylton Riverside Industrial Estate",
+      "Deptford Industrial Estate"
+    ],
+    "junctions": [
+      "A19",
+      "A1231",
+      "A690",
+      "A1M (nearby)"
+    ],
+    "industries": [
+      "Automotive Manufacturing",
+      "Software Engineering",
+      "Advanced Manufacturing",
+      "Logistics",
+      "Offshore Wind Support"
+    ]
+  },
+  {
+    "slug": "swansea",
+    "town": "Swansea",
+    "county": "Swansea",
+    "region": "Wales",
+    "estates": [
+      "Fforestfach Industrial Estate",
+      "Llansamlet Industrial Estate",
+      "Swansea Enterprise Park",
+      "Kingsway Industrial Estate",
+      "Gorseinon Industrial Estate"
+    ],
+    "junctions": [
+      "M4 J44",
+      "M4 J45",
+      "M4 J46",
+      "A483",
+      "A4067"
+    ],
+    "industries": [
+      "Advanced Manufacturing",
+      "Logistics",
+      "Metal Processing",
+      "Digital Technology",
+      "Higher Education R&D"
+    ]
+  },
+  {
+    "slug": "swindon",
+    "town": "Swindon",
+    "county": "Wiltshire",
+    "region": "South West England",
+    "estates": [
+      "Kembrey Park",
+      "Cheney Manor Industrial Estate",
+      "Elgin Industrial Estate",
+      "Mandur Industrial Estate",
+      "Grange Park Industrial Estate"
+    ],
+    "junctions": [
+      "M4 J15",
+      "M4 J16",
+      "A419",
+      "A3102"
+    ],
+    "industries": [
+      "Automotive Engineering",
+      "Financial Services",
+      "Logistics",
+      "Advanced Manufacturing",
+      "Pharmaceuticals"
+    ]
+  },
+  {
+    "slug": "tamworth",
+    "town": "Tamworth",
+    "county": "Staffordshire",
+    "region": "West Midlands",
+    "estates": [
+      "Bonehill Industrial Estate",
+      "Gungate Industrial Estate",
+      "Centurion Park",
+      "Bitterscote Trading Estate",
+      "Two Rivers Industrial Estate"
+    ],
+    "junctions": [
+      "M10 J10 (via A5)",
+      "M42 J10",
+      "A5",
+      "A38"
+    ],
+    "industries": [
+      "Logistics and Distribution",
+      "Automotive Components",
+      "Engineering",
+      "Packaging",
+      "Plastics"
+    ]
+  },
+  {
+    "slug": "taunton",
+    "town": "Taunton",
+    "county": "Somerset",
+    "region": "South West England",
+    "estates": [
+      "Blackbrook Business Park",
+      "Staplegrove Industrial Estate",
+      "Tangier Business Park",
+      "Priory Business Park",
+      "Wellington Industrial Estate"
+    ],
+    "junctions": [
+      "M5 J25",
+      "A358",
+      "A38"
+    ],
+    "industries": [
+      "Geospatial Technology",
+      "Public Administration",
+      "Logistics",
+      "Agri-Tech",
+      "Food Processing"
+    ]
+  },
+  {
+    "slug": "telford",
+    "town": "Telford",
+    "county": "Shropshire",
+    "region": "West Midlands",
+    "estates": [
+      "Hortonwood Industrial Estate",
+      "Stafford Park Industrial Estate",
+      "Priorslee Industrial Estate",
+      "Hadley Park Industrial Estate",
+      "Telford 54 Business Park"
+    ],
+    "junctions": [
+      "M54 J4",
+      "M54 J5",
+      "M54 J6",
+      "A442",
+      "A5"
+    ],
+    "industries": [
+      "Automotive Manufacturing",
+      "Advanced Engineering",
+      "Polymer Technology",
+      "Food Processing",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "thetford",
+    "town": "Thetford",
+    "county": "Norfolk",
+    "region": "East of England",
+    "estates": [
+      "Thetford Business Park",
+      "Burrell Way Industrial Estate",
+      "Mill Lane Industrial Estate",
+      "Fison Way Industrial Estate",
+      "Crome Way Industrial Estate"
+    ],
+    "junctions": [
+      "A11",
+      "A134"
+    ],
+    "industries": [
+      "Timber and Joinery",
+      "Food Processing",
+      "Engineering",
+      "Plastics",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "thurrock",
+    "town": "Thurrock",
+    "county": "Essex",
+    "region": "East of England",
+    "estates": [
+      "West Thurrock Industrial Estate",
+      "Thurrock Trade Park",
+      "Nexus Park",
+      "Oliver Road Industrial Estate",
+      "Beacon Hill Industrial Estate"
+    ],
+    "junctions": [
+      "M25 J30",
+      "M25 J31",
+      "A13",
+      "A126"
+    ],
+    "industries": [
+      "Port Logistics",
+      "Freight Forwarding",
+      "Warehousing",
+      "Import/Export",
+      "Distribution"
+    ]
+  },
+  {
+    "slug": "tiverton",
+    "town": "Tiverton",
+    "county": "Devon",
+    "region": "South West England",
+    "estates": [
+      "Tiverton Business Park",
+      "Gorn Lake Industrial Estate",
+      "Pike Industrial Estate",
+      "Ashley Industrial Estate",
+      "Leat Street Industrial Estate"
+    ],
+    "junctions": [
+      "M5 J27",
+      "A361",
+      "A396"
+    ],
+    "industries": [
+      "Advanced Engineering",
+      "Agriculture Support",
+      "Plastics Manufacturing",
+      "Food Production",
+      "Construction"
+    ]
+  },
+  {
+    "slug": "tonbridge",
+    "town": "Tonbridge",
+    "county": "Kent",
+    "region": "South East England",
+    "estates": [
+      "Vale Road Industrial Estate",
+      "Tonbridge Trade Park",
+      "Sovereign Way Industrial Estate",
+      "Hildenborough Industrial Estate",
+      "Ofen Industrial Park"
+    ],
+    "junctions": [
+      "A21",
+      "A26",
+      "M25 J5 (via A21)"
+    ],
+    "industries": [
+      "Publishing and Print",
+      "Light Engineering",
+      "Construction",
+      "Professional Services",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "torquay",
+    "town": "Torquay",
+    "county": "Devon",
+    "region": "South West England",
+    "estates": [
+      "Edginswell Business Park",
+      "Hele Industrial Estate",
+      "Torquay Trading Estate",
+      "Cavan Road Industrial Estate",
+      "Newton Road Industrial Area"
+    ],
+    "junctions": [
+      "A3022",
+      "A380",
+      "M5 J31 (via A380)"
+    ],
+    "industries": [
+      "Tourism",
+      "Electronics",
+      "Healthcare",
+      "Light Manufacturing",
+      "Construction"
+    ]
+  },
+  {
+    "slug": "truro",
+    "town": "Truro",
+    "county": "Cornwall",
+    "region": "South West England",
+    "estates": [
+      "Threemilestone Industrial Estate",
+      "Gloweth Business Park",
+      "Treliske Industrial Estate",
+      "Newham Industrial Estate",
+      "County Business Park"
+    ],
+    "junctions": [
+      "A390",
+      "A39"
+    ],
+    "industries": [
+      "Public Administration",
+      "Tourism",
+      "Renewable Energy",
+      "Light Engineering",
+      "Food Services"
+    ]
+  },
+  {
+    "slug": "tunbridge-wells",
+    "town": "Tunbridge Wells",
+    "county": "Kent",
+    "region": "South East England",
+    "estates": [
+      "North Farm Industrial Estate",
+      "Longfield Road Industrial Estate",
+      "Chapel Place Industrial Estate",
+      "Knights Park",
+      "High Brooms Industrial Estate"
+    ],
+    "junctions": [
+      "A21",
+      "A26",
+      "M25 J5 (via A21)"
+    ],
+    "industries": [
+      "Digital Technology",
+      "Financial Services",
+      "Publishing",
+      "Engineering",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "uddingston",
+    "town": "Uddingston",
+    "county": "South Lanarkshire",
+    "region": "Scotland",
+    "estates": [
+      "Uddingston Industrial Estate",
+      "Bothwell Park Industrial Estate",
+      "Viewpark Industrial Estate",
+      "Braidhurst Industrial Estate",
+      "Fallside Industrial Estate"
+    ],
+    "junctions": [
+      "M74 J4",
+      "M8 J8",
+      "A721"
+    ],
+    "industries": [
+      "Logistics and Distribution",
+      "Food and Drink",
+      "Engineering",
+      "Construction",
+      "Warehousing"
+    ]
+  },
+  {
+    "slug": "wakefield",
+    "town": "Wakefield",
+    "county": "West Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "Calder Park Business Park",
+      "Wakefield 41 Industrial Estate",
+      "Carr Lodge Industrial Estate",
+      "Moor Top Industrial Estate",
+      "Flanshaw Industrial Estate"
+    ],
+    "junctions": [
+      "M1 J39",
+      "M1 J40",
+      "M62 J29",
+      "A650",
+      "A61"
+    ],
+    "industries": [
+      "Logistics and Warehousing",
+      "Food Processing",
+      "Advanced Manufacturing",
+      "Engineering",
+      "Packaging"
+    ]
+  },
+  {
+    "slug": "walsall",
+    "town": "Walsall",
+    "county": "West Midlands",
+    "region": "West Midlands",
+    "estates": [
+      "Pleck Industrial Estate",
+      "Birchills Industrial Estate",
+      "Bloxwich Business Park",
+      "Northgate Business Park",
+      "Empire Industrial Park"
+    ],
+    "junctions": [
+      "M6 J9",
+      "M6 J10",
+      "A34",
+      "A454",
+      "A461"
+    ],
+    "industries": [
+      "Leather Goods (Heritage)",
+      "Metalworking",
+      "Engineering",
+      "Automotive Components",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "warrington",
+    "town": "Warrington",
+    "county": "Cheshire",
+    "region": "North West England",
+    "estates": [
+      "Birchwood Park",
+      "Omega Warrington",
+      "Pioneer Business Park",
+      "Winwick Quay Industrial Estate",
+      "Woolston Grange Industrial Estate"
+    ],
+    "junctions": [
+      "M6 J21",
+      "M6 J21A",
+      "M62 J8",
+      "M62 J9",
+      "M56 J10"
+    ],
+    "industries": [
+      "Logistics and Distribution",
+      "Nuclear Engineering",
+      "Software and Technology",
+      "Chemicals",
+      "Advanced Manufacturing"
+    ]
+  },
+  {
+    "slug": "warwick",
+    "town": "Warwick",
+    "county": "Warwickshire",
+    "region": "West Midlands",
+    "estates": [
+      "Heathcote Industrial Estate",
+      "Warwick Technology Park",
+      "Stanks Industrial Estate",
+      "Budbrooke Industrial Estate",
+      "Nelson Park"
+    ],
+    "junctions": [
+      "M40 J15",
+      "A46",
+      "A425"
+    ],
+    "industries": [
+      "Automotive Engineering",
+      "Software Development",
+      "High-Performance Tech",
+      "Pharmaceuticals",
+      "Advanced Manufacturing"
+    ]
+  },
+  {
+    "slug": "washington",
+    "town": "Washington",
+    "county": "Tyne and Wear",
+    "region": "North East England",
+    "estates": [
+      "Armstrong Industrial Estate",
+      "Crowther Industrial Estate",
+      "Wear Industrial Estate",
+      "Concord Industrial Estate",
+      "Nissan Industrial Park"
+    ],
+    "junctions": [
+      "A1M J64",
+      "A19",
+      "A1231",
+      "A182"
+    ],
+    "industries": [
+      "Automotive Manufacturing",
+      "Electronics",
+      "Chemicals",
+      "Logistics",
+      "Advanced Engineering"
+    ]
+  },
+  {
+    "slug": "watford",
+    "town": "Watford",
+    "county": "Hertfordshire",
+    "region": "East of England",
+    "estates": [
+      "North Watford Industrial Estate",
+      "Caxton Way Industrial Estate",
+      "Colne Valley Business Park",
+      "Sandown Industrial Estate",
+      "Watford Business Park"
+    ],
+    "junctions": [
+      "M1 J5",
+      "M25 J19",
+      "A41",
+      "A4008"
+    ],
+    "industries": [
+      "Printing and Publishing",
+      "Food and Drink",
+      "Film and Television",
+      "Logistics",
+      "Professional Services"
+    ]
+  },
+  {
+    "slug": "wednesbury",
+    "town": "Wednesbury",
+    "county": "West Midlands",
+    "region": "West Midlands",
+    "estates": [
+      "Holyhead Road Industrial Estate",
+      "Brunswick Park Industrial Estate",
+      "Kings Hill Industrial Estate",
+      "Wednesbury Trading Estate",
+      "Darlaston Road Industrial Estate"
+    ],
+    "junctions": [
+      "M6 J9",
+      "M5 J1",
+      "A41",
+      "A462"
+    ],
+    "industries": [
+      "Metal Stockholding",
+      "Engineering",
+      "Steel Processing",
+      "Automotive Components",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "wellingborough",
+    "town": "Wellingborough",
+    "county": "Northamptonshire",
+    "region": "East Midlands",
+    "estates": [
+      "Finedon Road Industrial Estate",
+      "Niagara Industrial Estate",
+      "Warth Park",
+      "Leyland Trading Estate",
+      "Victoria Park Industrial Estate"
+    ],
+    "junctions": [
+      "A45",
+      "A509",
+      "M1 J14 (via A509)"
+    ],
+    "industries": [
+      "Logistics and Distribution",
+      "Footwear Manufacturing",
+      "Engineering",
+      "Printing",
+      "Food Processing"
+    ]
+  },
+  {
+    "slug": "welwyn-garden-city",
+    "town": "Welwyn Garden City",
+    "county": "Hertfordshire",
+    "region": "East of England",
+    "estates": [
+      "Welwyn Garden City Industrial Estate",
+      "Broadwater Road Industrial Estate",
+      "Panshanger Industrial Estate",
+      "Titan Industrial Estate",
+      "Swiftfields Industrial Estate"
+    ],
+    "junctions": [
+      "A1M J4",
+      "A1M J6",
+      "A414",
+      "A6129"
+    ],
+    "industries": [
+      "Pharmaceuticals",
+      "Food Manufacturing",
+      "Digital Technology",
+      "Advanced Engineering",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "west-bromwich",
+    "town": "West Bromwich",
+    "county": "West Midlands",
+    "region": "West Midlands",
+    "estates": [
+      "Albion Industrial Estate",
+      "Kenrick Way Industrial Estate",
+      "Axial Way Industrial Estate",
+      "Greets Green Industrial Estate",
+      "Union Road Industrial Estate"
+    ],
+    "junctions": [
+      "M5 J1",
+      "M5 J2",
+      "A41",
+      "A4038"
+    ],
+    "industries": [
+      "Metal Stockholding",
+      "Foundry and Casting",
+      "Engineering",
+      "Automotive Parts",
+      "Plastics"
+    ]
+  },
+  {
+    "slug": "weymouth",
+    "town": "Weymouth",
+    "county": "Dorset",
+    "region": "South West England",
+    "estates": [
+      "Granby Industrial Estate",
+      "Chickerell Industrial Estate",
+      "Weymouth Business Park",
+      "Melcombe Regis Industrial Estate",
+      "Lodmoor Industrial Estate"
+    ],
+    "junctions": [
+      "A354",
+      "A35"
+    ],
+    "industries": [
+      "Tourism",
+      "Marine Technology",
+      "Food Processing",
+      "Construction",
+      "Light Manufacturing"
+    ]
+  },
+  {
+    "slug": "whitehaven",
+    "town": "Whitehaven",
+    "county": "Cumbria",
+    "region": "North West England",
+    "estates": [
+      "Marchmount Industrial Estate",
+      "Hensingham Industrial Estate",
+      "Mirehouse Industrial Estate",
+      "Pow Beck Industrial Estate",
+      "Whitehaven Commercial Park"
+    ],
+    "junctions": [
+      "A595",
+      "A5086"
+    ],
+    "industries": [
+      "Nuclear Decommissioning",
+      "Chemicals",
+      "Engineering",
+      "Energy Technology",
+      "Marine Services"
+    ]
+  },
+  {
+    "slug": "wigan",
+    "town": "Wigan",
+    "county": "Greater Manchester",
+    "region": "North West England",
+    "estates": [
+      "Ince Business Park",
+      "Aston Industrial Estate",
+      "Spring Vale Industrial Estate",
+      "Orrell Industrial Estate",
+      "Gotham Park"
+    ],
+    "junctions": [
+      "M6 J25",
+      "M6 J26",
+      "M58 J1",
+      "A49",
+      "A577"
+    ],
+    "industries": [
+      "Food and Drink Processing",
+      "Logistics",
+      "Engineering",
+      "Packaging",
+      "Plastics"
+    ]
+  },
+  {
+    "slug": "witham",
+    "town": "Witham",
+    "county": "Essex",
+    "region": "East of England",
+    "estates": [
+      "Freebournes Industrial Estate",
+      "Witham Industrial Estate",
+      "Crittall Road Industrial Estate",
+      "Eastways Industrial Estate",
+      "Perry Road Industrial Estate"
+    ],
+    "junctions": [
+      "A12",
+      "A120 (nearby)"
+    ],
+    "industries": [
+      "Metal Window Manufacturing",
+      "Engineering",
+      "Logistics",
+      "Construction",
+      "Food Processing"
+    ]
+  },
+  {
+    "slug": "woking",
+    "town": "Woking",
+    "county": "Surrey",
+    "region": "South East England",
+    "estates": [
+      "Goldsworth Road Industrial Estate",
+      "Woking Business Park",
+      "Maybury Industrial Estate",
+      "Sheerwater Industrial Estate",
+      "Bontor Industrial Estate"
+    ],
+    "junctions": [
+      "M25 J11",
+      "A320",
+      "A245"
+    ],
+    "industries": [
+      "Motorsport Engineering",
+      "Information Technology",
+      "Financial Services",
+      "Aerospace",
+      "Professional Services"
+    ]
+  },
+  {
+    "slug": "wolverhampton",
+    "town": "Wolverhampton",
+    "county": "West Midlands",
+    "region": "West Midlands",
+    "estates": [
+      "Pendeford Business Park",
+      "Wobaston Industrial Estate",
+      "Jawbone Works",
+      "Coven Industrial Estate",
+      "Stafford Road Industrial Estate"
+    ],
+    "junctions": [
+      "M54 J1",
+      "M54 J2",
+      "M6 J10",
+      "A449",
+      "A4123"
+    ],
+    "industries": [
+      "Aerospace",
+      "Automotive",
+      "Engineering",
+      "Manufacturing",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "worcester",
+    "town": "Worcester",
+    "county": "Worcestershire",
+    "region": "West Midlands",
+    "estates": [
+      "Blackpole Trading Estate",
+      "Sherriff Street Industrial Estate",
+      "Kington Business Park",
+      "Cresswell Industrial Estate",
+      "Warndon Business Park"
+    ],
+    "junctions": [
+      "M5 J6",
+      "M5 J7",
+      "A44",
+      "A38",
+      "A4440"
+    ],
+    "industries": [
+      "Engineering",
+      "Medical Devices",
+      "Food and Drink",
+      "Plastics",
+      "Publishing"
+    ]
+  },
+  {
+    "slug": "worksop",
+    "town": "Worksop",
+    "county": "Nottinghamshire",
+    "region": "East Midlands",
+    "estates": [
+      "Carlton Forest Industrial Estate",
+      "Retford Road Industrial Estate",
+      "Squires Bridge Industrial Estate",
+      "Worksop Trade Park",
+      "Shireoaks Industrial Estate"
+    ],
+    "junctions": [
+      "M1 J30",
+      "M1 J31",
+      "A57",
+      "A60"
+    ],
+    "industries": [
+      "Logistics and Warehousing",
+      "Glass Manufacturing",
+      "Engineering",
+      "Food Processing",
+      "Packaging"
+    ]
+  },
+  {
+    "slug": "worthing",
+    "town": "Worthing",
+    "county": "West Sussex",
+    "region": "South East England",
+    "estates": [
+      "Brooklands Industrial Park",
+      "Sompting Business Park",
+      "Downs Way Industrial Estate",
+      "Yeoman Road Industrial Estate",
+      "Worthing Trade Park"
+    ],
+    "junctions": [
+      "A27",
+      "A24",
+      "A259"
+    ],
+    "industries": [
+      "Pharmaceuticals",
+      "Precision Engineering",
+      "Digital Technology",
+      "Healthcare",
+      "Tourism"
+    ]
+  },
+  {
+    "slug": "wrexham",
+    "town": "Wrexham",
+    "county": "Wrexham County Borough",
+    "region": "Wales",
+    "estates": [
+      "Wrexham Industrial Estate",
+      "Plas Madoc Industrial Estate",
+      "Rhosddu Industrial Estate",
+      "Cefn Mawr Industrial Estate",
+      "Bersham Business Park"
+    ],
+    "junctions": [
+      "A483",
+      "A534",
+      "M56 J15 (via A483)"
+    ],
+    "industries": [
+      "Automotive Components",
+      "Aerospace",
+      "Food and Drink",
+      "Pharmaceuticals",
+      "Paper Manufacturing"
+    ]
+  },
+  {
+    "slug": "yeovil",
+    "town": "Yeovil",
+    "county": "Somerset",
+    "region": "South West England",
+    "estates": [
+      "Houndstone Business Park",
+      "Lufton Trading Estate",
+      "Old Town Mill Industrial Estate",
+      "Sherborne Road Industrial Estate",
+      "Mead Avenue Industrial Estate"
+    ],
+    "junctions": [
+      "A30",
+      "A37",
+      "A303"
+    ],
+    "industries": [
+      "Aerospace Manufacturing",
+      "Defense",
+      "Advanced Engineering",
+      "Leather Goods",
+      "Food Processing"
+    ]
+  },
+  {
+    "slug": "york",
+    "town": "York",
+    "county": "North Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "York Business Park",
+      "Clifton Moor Industrial Estate",
+      "Chessingham Park",
+      "Murton Way Industrial Estate",
+      "Hazel Court Industrial Estate"
+    ],
+    "junctions": [
+      "A64",
+      "A1237",
+      "A19",
+      "A1M J44 (nearby)"
+    ],
+    "industries": [
+      "Railway Engineering",
+      "Confectionery Manufacturing",
+      "Tourism",
+      "Digital Technologies",
+      "Higher Education R&D"
+    ]
+  }
+]
