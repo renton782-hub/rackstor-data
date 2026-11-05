@@ -1,0 +1,19 @@
+name: Merge JSON files
+on: workflow_dispatch
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      - name: Run merge script
+        run: node merge.js
+      - name: Commit result
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add uk_locations_master.json
+          git commit -m "Merged all location JSON files"
+          git push
