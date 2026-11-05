@@ -1,0 +1,519 @@
+[
+  {
+    "slug": "nuneaton",
+    "town": "Nuneaton",
+    "county": "Warwickshire",
+    "region": "West Midlands",
+    "estates": [
+      "Eliot Business Park",
+      "Attleborough Field Industrial Estate",
+      "Bermuda Park",
+      "Whitacre Road Industrial Estate",
+      "Griff Clara Industrial Estate"
+    ],
+    "junctions": [
+      "M6 J3",
+      "A444",
+      "A5"
+    ],
+    "industries": [
+      "Logistics",
+      "Distribution",
+      "Manufacturing",
+      "Warehousing",
+      "Automotive"
+    ]
+  },
+  {
+    "slug": "oldham",
+    "town": "Oldham",
+    "county": "Greater Manchester",
+    "region": "North West",
+    "estates": [
+      "Hollinwood Junction",
+      "Broadway Business Park",
+      "Westwood Industrial Estate",
+      "Aurora Park"
+    ],
+    "junctions": [
+      "M60 J22",
+      "M60 J21",
+      "A62",
+      "A627(M)"
+    ],
+    "industries": [
+      "Manufacturing",
+      "Logistics",
+      "Distribution",
+      "Textiles",
+      "Retail"
+    ]
+  },
+  {
+    "slug": "omagh",
+    "town": "Omagh",
+    "county": "County Tyrone",
+    "region": "Northern Ireland",
+    "estates": [
+      "Gortrush Industrial Estate",
+      "Great Northern Business Park",
+      "Doogary Industrial Estate",
+      "Killyclogher Business Park"
+    ],
+    "junctions": [
+      "A5",
+      "A32",
+      "B50"
+    ],
+    "industries": [
+      "Manufacturing",
+      "Engineering",
+      "Food Processing",
+      "Construction",
+      "Agriculture"
+    ]
+  },
+  {
+    "slug": "oswestry",
+    "town": "Oswestry",
+    "county": "Shropshire",
+    "region": "West Midlands",
+    "estates": [
+      "Mile End Business Park",
+      "Maesbury Road Industrial Estate",
+      "Mile Oak Industrial Estate",
+      "Oswestry Innovation Park",
+      "Radfords Field Industrial Estate"
+    ],
+    "junctions": [
+      "A5",
+      "A483",
+      "Mile End Roundabout"
+    ],
+    "industries": [
+      "Logistics",
+      "Manufacturing",
+      "Food Production",
+      "Healthcare",
+      "Storage"
+    ]
+  },
+  {
+    "slug": "oxford",
+    "town": "Oxford",
+    "county": "Oxfordshire",
+    "region": "South East",
+    "estates": [
+      "Oxford Business Park",
+      "Horspath Industrial Estate",
+      "Osney Mead Industrial Estate",
+      "Oxford Science Park"
+    ],
+    "junctions": [
+      "M40 J8",
+      "M40 J8A",
+      "A34",
+      "A40",
+      "A4142"
+    ],
+    "industries": [
+      "Education",
+      "Technology",
+      "Life Sciences",
+      "Publishing",
+      "Automotive"
+    ]
+  },
+  {
+    "slug": "paisley",
+    "town": "Paisley",
+    "county": "Renfrewshire",
+    "region": "Scotland",
+    "estates": [
+      "Nethercommon Industrial Estate",
+      "Linwood Industrial Estate",
+      "St James Business Centre",
+      "Glasgow Airport Business Park"
+    ],
+    "junctions": [
+      "M8 J27",
+      "M8 J28",
+      "M8 J29",
+      "A726",
+      "A737"
+    ],
+    "industries": [
+      "Logistics",
+      "Manufacturing",
+      "Engineering",
+      "Aviation",
+      "Services"
+    ]
+  },
+  {
+    "slug": "perth",
+    "town": "Perth",
+    "county": "Perth and Kinross",
+    "region": "Scotland",
+    "estates": [
+      "Inveralmond Industrial Estate",
+      "Arran Road Industrial Estate",
+      "Broxden Business Park",
+      "North Muirton Industrial Estate"
+    ],
+    "junctions": [
+      "M90 J10",
+      "M90 J11",
+      "M90 J12",
+      "A9",
+      "A85",
+      "A93"
+    ],
+    "industries": [
+      "Food and Drink",
+      "Renewable Energy",
+      "Agriculture",
+      "Retail",
+      "Services"
+    ]
+  },
+  {
+    "slug": "peterborough",
+    "town": "Peterborough",
+    "county": "Cambridgeshire",
+    "region": "East of England",
+    "estates": [
+      "Lynchwood Business Park",
+      "Orton Southgate Industrial Estate",
+      "Eastern Industry",
+      "Fengate Industrial Estate",
+      "Peterborough Gateway"
+    ],
+    "junctions": [
+      "A1(M) J17",
+      "A1139",
+      "A1260",
+      "A47",
+      "A15"
+    ],
+    "industries": [
+      "Logistics",
+      "Distribution",
+      "Manufacturing",
+      "Engineering",
+      "Services"
+    ]
+  },
+  {
+    "slug": "plymouth",
+    "town": "Plymouth",
+    "county": "Devon",
+    "region": "South West",
+    "estates": [
+      "Estover Industrial Estate",
+      "Langage Business Park",
+      "Parkway Industrial Estate",
+      "Belliver Industrial Estate",
+      "Plymouth Science Park"
+    ],
+    "junctions": [
+      "A38",
+      "A386",
+      "A374",
+      "Marsh Mills Junction",
+      "Deep Lane Junction"
+    ],
+    "industries": [
+      "Marine Engineering",
+      "Manufacturing",
+      "Defence",
+      "Technology",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "pontefract",
+    "town": "Pontefract",
+    "county": "West Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "All Saints Industrial Estate",
+      "Baileygate Industrial Estate",
+      "South Kirkby Business Park",
+      "Monkhill Industrial Estate",
+      "Tanshelf Industrial Estate"
+    ],
+    "junctions": [
+      "M62 J32",
+      "A1(M) J40",
+      "A639",
+      "A645"
+    ],
+    "industries": [
+      "Logistics",
+      "Warehousing",
+      "Food Manufacturing",
+      "Retail",
+      "Light Manufacturing"
+    ]
+  },
+  {
+    "slug": "pontypool",
+    "town": "Pontypool",
+    "county": "Torfaen",
+    "region": "Wales",
+    "estates": [
+      "Polo Grounds Industrial Estate",
+      "Pontnewynydd Industrial Estate",
+      "ARD Business Park",
+      "Mamhilad Park Estate"
+    ],
+    "junctions": [
+      "A4042",
+      "A472"
+    ],
+    "industries": [
+      "Manufacturing",
+      "Engineering",
+      "Warehousing",
+      "Logistics",
+      "Trade Counters"
+    ]
+  },
+  {
+    "slug": "pontypridd",
+    "town": "Pontypridd",
+    "county": "Rhondda Cynon Taf",
+    "region": "Wales",
+    "estates": [
+      "Treforest Industrial Estate",
+      "Maritime Industrial Estate",
+      "Albion Industrial Estate",
+      "Moy Road Industrial Estate"
+    ],
+    "junctions": [
+      "A470",
+      "A4058"
+    ],
+    "industries": [
+      "Manufacturing",
+      "Logistics",
+      "Distribution",
+      "Automotive",
+      "Technology"
+    ]
+  },
+  {
+    "slug": "poole",
+    "town": "Poole",
+    "county": "Dorset",
+    "region": "South West",
+    "estates": [
+      "Nuffield Industrial Estate",
+      "Fleets Corner Business Park",
+      "Hatch Pond Road Industrial Estate",
+      "Bourne Valley Industrial Estate"
+    ],
+    "junctions": [
+      "A350",
+      "A35",
+      "A3049",
+      "A348",
+      "A349"
+    ],
+    "industries": [
+      "Marine",
+      "Manufacturing",
+      "Engineering",
+      "Tourism",
+      "Finance"
+    ]
+  },
+  {
+    "slug": "port-talbot",
+    "town": "Port Talbot",
+    "county": "Neath Port Talbot",
+    "region": "Wales",
+    "estates": [
+      "Baglan Industrial Estate",
+      "Kenfig Industrial Estate",
+      "Port Talbot Harbourside",
+      "Llewellyns Quay",
+      "Margam Industrial Estate"
+    ],
+    "junctions": [
+      "M4 J38",
+      "M4 J40",
+      "M4 J41",
+      "M4 J42",
+      "A48",
+      "A4241"
+    ],
+    "industries": [
+      "Steel Manufacturing",
+      "Engineering",
+      "Renewable Energy",
+      "Logistics",
+      "Construction"
+    ]
+  },
+  {
+    "slug": "portadown",
+    "town": "Portadown",
+    "county": "County Armagh",
+    "region": "Northern Ireland",
+    "estates": [
+      "Carn Industrial Estate",
+      "Seagoe Industrial Estate",
+      "Charlestown Road Industrial Estate",
+      "Mahon Industrial Estate"
+    ],
+    "junctions": [
+      "M1 J11",
+      "M12 J2",
+      "A3",
+      "A27"
+    ],
+    "industries": [
+      "Food Processing",
+      "Engineering",
+      "Manufacturing",
+      "Textiles",
+      "Pharmaceuticals"
+    ]
+  },
+  {
+    "slug": "portsmouth",
+    "town": "Portsmouth",
+    "county": "Hampshire",
+    "region": "South East",
+    "estates": [
+      "Airport Industrial Estate",
+      "Mountbatten Business Park",
+      "Limberline Industrial Estate",
+      "Voyager Park",
+      "Trafalgar Wharf",
+      "North Harbour"
+    ],
+    "junctions": [
+      "M27 J12",
+      "M275",
+      "A3",
+      "A3(M)",
+      "A27"
+    ],
+    "industries": [
+      "Defence",
+      "Maritime",
+      "Aerospace",
+      "Engineering",
+      "Logistics",
+      "Technology"
+    ]
+  },
+  {
+    "slug": "preston",
+    "town": "Preston",
+    "county": "Lancashire",
+    "region": "North West",
+    "estates": [
+      "Red Scar Business Park",
+      "Roman Way Industrial Estate",
+      "Millennium City Park",
+      "Lancashire Business Park",
+      "Riversway"
+    ],
+    "junctions": [
+      "M6 J31",
+      "M6 J32",
+      "M61 J9",
+      "M55 J1",
+      "A59"
+    ],
+    "industries": [
+      "Aerospace",
+      "Manufacturing",
+      "Logistics",
+      "Nuclear",
+      "Public Sector"
+    ]
+  },
+  {
+    "slug": "rawtenstall",
+    "town": "Rawtenstall",
+    "county": "Lancashire",
+    "region": "North West",
+    "estates": [
+      "New Hall Hey Business Park",
+      "Carrs Industrial Estate",
+      "Three Point Business Park",
+      "The Courtyard"
+    ],
+    "junctions": [
+      "A56",
+      "A681",
+      "A6177"
+    ],
+    "industries": [
+      "Manufacturing",
+      "Logistics",
+      "Retail",
+      "Textiles",
+      "Services"
+    ]
+  },
+  {
+    "slug": "reading",
+    "town": "Reading",
+    "county": "Berkshire",
+    "region": "South East",
+    "estates": [
+      "Green Park Business Park",
+      "Reading International Business Park",
+      "Suttons Business Park",
+      "Thames Valley Park",
+      "Nimrod Industrial Estate",
+      "Acre Business Park"
+    ],
+    "junctions": [
+      "M4 J11",
+      "M4 J12",
+      "M4 J10",
+      "A33",
+      "A329(M)"
+    ],
+    "industries": [
+      "Technology",
+      "IT",
+      "Telecommunications",
+      "Logistics",
+      "Pharmaceuticals"
+    ]
+  },
+  {
+    "slug": "redditch",
+    "town": "Redditch",
+    "county": "Worcestershire",
+    "region": "West Midlands",
+    "estates": [
+      "Park Farm Industrial Estate",
+      "Washford Industrial Estate",
+      "Moons Moat Industrial Estate",
+      "Ravensbank Business Park",
+      "Trafford Park Industrial Estate"
+    ],
+    "junctions": [
+      "M42 J2",
+      "M42 J3",
+      "A441",
+      "A435"
+    ],
+    "industries": [
+      "Automotive",
+      "Engineering",
+      "Logistics",
+      "Manufacturing",
+      "Services"
+    ]
+  }
+]
