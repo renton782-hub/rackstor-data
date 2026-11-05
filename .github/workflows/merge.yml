@@ -1,29 +1,21 @@
-const fs = require('fs');
-
-const files = fs.readdirSync('.').filter(f => 
-  f.endsWith('.json') && 
-  f !== 'uk_locations_master.json' &&
-  (f.startsWith('uk_industrial_locations') || f.startsWith('gemini-code'))
-);
-
-let all = [];
-for (const file of files) {
-  try {
-    const data = JSON.parse(fs.readFileSync(file, 'utf8'));
-    if (Array.isArray(data)) all = all.concat(data);
-    console.log('Loaded ' + file + ' (' + (Array.isArray(data) ? data.length : 0) + ' locations)');
-  } catch(e) {
-    console.log('Skipping ' + file + ': ' + e.message);
-  }
-}
-
-const seen = new Set();
-const unique = all.filter(item => {
-  if (seen.has(item.slug)) return false;
-  seen.add(item.slug);
-  return true;
-});
-
-unique.sort((a, b) => a.slug.localeCompare(b.slug));
-fs.writeFileSync('uk_locations_master.json', JSON.stringify(unique, null, 2));
-console.log('Done. ' + unique.length + ' unique locations written to uk_locations_master.json');
+name: Merge JSON files
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      - name: Run merge script
+        run: node merge.js
+      - name: Commit result
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add uk_locations_master.json
+          git commit -m "Merged all location JSON files"
+          git push
