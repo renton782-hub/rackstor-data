@@ -1,0 +1,4862 @@
+[
+  {
+    "slug": "burton-upon-trent",
+    "town": "Burton upon Trent",
+    "county": "Staffordshire",
+    "region": "East Midlands",
+    "estates": [
+      "Centrum 100 Business Park",
+      "Stretton Business Park",
+      "Queen's Hospital (University Hospitals of Derby and Burton NHS Foundation Trust)",
+      "Burton Town Hall and Civic Offices",
+      "Eton Park Industrial Estate"
+    ],
+    "industries": [
+      "Brewing and beverage logistics",
+      "Healthcare and NHS clinical records",
+      "Food manufacturing and packaging",
+      "Local government statutory document archiving",
+      "Automotive components and precision engineering"
+    ],
+    "junctions": [
+      "A38 dual carriageway",
+      "A511 Ashby Road",
+      "A5121 Derby Road",
+      "M42 Junction 11",
+      "A50 corridor"
+    ]
+  },
+  {
+    "slug": "derby",
+    "town": "Derby",
+    "county": "Derbyshire",
+    "region": "East Midlands",
+    "estates": [
+      "Pride Park Business Park",
+      "Royal Derby Hospital (University Hospitals of Derby and Burton NHS Foundation Trust)",
+      "University of Derby Kedleston Road Campus",
+      "Derby Council House Corporation Street",
+      "Ascot Drive Industrial Estate"
+    ],
+    "industries": [
+      "Aerospace engineering and advanced manufacturing",
+      "Rail transport systems and maintenance",
+      "NHS acute health records",
+      "Higher education research archives",
+      "Municipal governance document retention"
+    ],
+    "junctions": [
+      "A52 Brian Clough Way",
+      "A38 Kingsway corridor",
+      "M1 Junction 25",
+      "A6 London Road",
+      "A50 junction 4"
+    ]
+  },
+  {
+    "slug": "nottingham",
+    "town": "Nottingham",
+    "county": "Nottinghamshire",
+    "region": "East Midlands",
+    "estates": [
+      "Queen's Medical Centre (Nottingham University Hospitals NHS Trust)",
+      "University of Nottingham Jubilee Campus",
+      "Lenton Lane Industrial Estate",
+      "Nottingham City Council Loxley House",
+      "Blenheim Industrial Estate Bulwell"
+    ],
+    "industries": [
+      "Biotechnology and life sciences",
+      "NHS acute tertiary care and patient record archives",
+      "University special collections and academic libraries",
+      "Public sector administration and registry",
+      "Pharmaceutical logistics and warehousing"
+    ],
+    "junctions": [
+      "M1 Junction 26",
+      "A52 Clifton Boulevard",
+      "A610 Nuthall Road",
+      "A453 Remembrance Way",
+      "M1 Junction 24"
+    ]
+  },
+  {
+    "slug": "stoke-on-trent",
+    "town": "Stoke-on-Trent",
+    "county": "Staffordshire",
+    "region": "West Midlands",
+    "estates": [
+      "Royal Stoke University Hospital (University Hospitals of North Midlands NHS Trust)",
+      "Staffordshire University College Road Campus",
+      "Trentham Lakes Business Park",
+      "Stoke-on-Trent Civic Centre Glebe Street",
+      "Fenton Industrial Estate"
+    ],
+    "industries": [
+      "Healthcare and regional trauma clinical records",
+      "Advanced ceramics and materials research",
+      "Higher education archives",
+      "Municipal planning and electoral roll records",
+      "Logistics, fulfilment and parts distribution"
+    ],
+    "junctions": [
+      "A500 Queensway D-road",
+      "M6 Junction 15",
+      "M6 Junction 16",
+      "A50 Potteries corridor",
+      "A53 Newcastle Road"
+    ]
+  },
+  {
+    "slug": "leicester",
+    "town": "Leicester",
+    "county": "Leicestershire",
+    "region": "East Midlands",
+    "estates": [
+      "Leicester Royal Infirmary (University Hospitals of Leicester NHS Trust)",
+      "University of Leicester Main Campus",
+      "Meridian Business Park",
+      "Leicester City Council City Hall Charles Street",
+      "Bursom Industrial Estate"
+    ],
+    "industries": [
+      "Cardiovascular and biomedical health research",
+      "NHS patient records archiving",
+      "Higher education special collections",
+      "Textile and light industrial manufacturing",
+      "Local authority governance and planning archives"
+    ],
+    "junctions": [
+      "M1 Junction 21",
+      "M69 Junction 2",
+      "A47 Hinckley Road",
+      "A563 Outer Ring Road",
+      "A46 Leicester Western Bypass"
+    ]
+  },
+  {
+    "slug": "birmingham",
+    "town": "Birmingham",
+    "county": "West Midlands",
+    "region": "West Midlands",
+    "estates": [
+      "Queen Elizabeth Hospital Birmingham (University Hospitals Birmingham NHS Foundation Trust)",
+      "University of Birmingham Edgbaston Campus",
+      "Birmingham Council House Victoria Square",
+      "Aston Advanced Manufacturing Hub",
+      "Fort Dunlop Business Park"
+    ],
+    "industries": [
+      "Clinical healthcare and tertiary NHS archives",
+      "Higher education research libraries and special archives",
+      "Metropolitan municipal governance and legal records",
+      "Automotive engineering and precision manufacturing",
+      "Financial and professional services document storage"
+    ],
+    "junctions": [
+      "M6 Junction 6 Spaghetti Junction",
+      "A38 Aston Expressway",
+      "M5 Junction 3",
+      "M42 Junction 6",
+      "A45 Coventry Road"
+    ]
+  },
+  {
+    "slug": "coventry",
+    "town": "Coventry",
+    "county": "West Midlands",
+    "region": "West Midlands",
+    "estates": [
+      "University Hospital Coventry (University Hospitals Coventry and Warwickshire NHS Trust)",
+      "Coventry University Technology Park",
+      "Coventry Council House Earl Street",
+      "Middlemarch Business Park",
+      "Severn Trent Centre St John's Street"
+    ],
+    "industries": [
+      "Automotive engineering and prototyping",
+      "Healthcare and emergency trauma records archiving",
+      "University academic research collections",
+      "Civic governance, planning and statutory registries",
+      "Aerospace components supply chain storage"
+    ],
+    "junctions": [
+      "A45 Fletchamstead Highway",
+      "A46 Coventry Eastern Bypass",
+      "M6 Junction 2",
+      "M6 Junction 3",
+      "A444 Phoenix Way"
+    ]
+  },
+  {
+    "slug": "wolverhampton",
+    "town": "Wolverhampton",
+    "county": "West Midlands",
+    "region": "West Midlands",
+    "estates": [
+      "New Cross Hospital (The Royal Wolverhampton NHS Trust)",
+      "University of Wolverhampton City Campus",
+      "i54 South Staffordshire Advanced Manufacturing Park",
+      "Wolverhampton Civic Centre St Peter's Square",
+      "Wobaston Road Industrial Corridor"
+    ],
+    "industries": [
+      "Advanced aerospace manufacturing and precision components",
+      "NHS secondary care clinical archives",
+      "University engineering and historical archives",
+      "Metropolitan council statutory records",
+      "Metal fabrication and industrial supply storage"
+    ],
+    "junctions": [
+      "M54 Junction 2",
+      "A449 Stafford Road",
+      "M6 Junction 10A",
+      "A4150 Ring Road St Mark's",
+      "A41 Bilston Road"
+    ]
+  },
+  {
+    "slug": "stafford",
+    "town": "Stafford",
+    "county": "Staffordshire",
+    "region": "West Midlands",
+    "estates": [
+      "County Hospital (University Hospitals of North Midlands NHS Trust)",
+      "Staffordshire County Council County Buildings Martin Street",
+      "Staffordshire Technology Park",
+      "Primepoint 14 Business Park",
+      "Tollgate Industrial Estate"
+    ],
+    "industries": [
+      "County council administration and statutory archives",
+      "Electrical power engineering and transformer design",
+      "Healthcare and outpatient clinical files",
+      "Industrial equipment distribution and spares",
+      "Legal and financial archival retention"
+    ],
+    "junctions": [
+      "M6 Junction 14",
+      "M6 Junction 13",
+      "A34 Stone Road",
+      "A518 Newport Road",
+      "A449 Wolverhampton Road"
+    ]
+  },
+  {
+    "slug": "telford",
+    "town": "Telford",
+    "county": "Shropshire",
+    "region": "West Midlands",
+    "estates": [
+      "Princess Royal Hospital (The Shrewsbury and Telford Hospital NHS Trust)",
+      "Stafford Park Industrial Estate",
+      "Halesfield Industrial Estate",
+      "Telford & Wrekin Council Darby House",
+      "Hortonwood Business Park"
+    ],
+    "industries": [
+      "Automotive components and metal stamping",
+      "Plastics polymer molding and medical devices",
+      "NHS acute health documentation",
+      "Borough municipal planning and environmental archives",
+      "Electronics assembly and high-density inventory"
+    ],
+    "junctions": [
+      "M54 Junction 4",
+      "M54 Junction 5",
+      "A442 Queensway dual carriageway",
+      "A5 Telford Way",
+      "A4169 Castlefields Way"
+    ]
+  },
+  {
+    "slug": "sheffield",
+    "town": "Sheffield",
+    "county": "South Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "Northern General Hospital (Sheffield Teaching Hospitals NHS Foundation Trust)",
+      "University of Sheffield Western Bank Campus",
+      "Advanced Manufacturing Park (AMP)",
+      "Sheffield City Hall and Moorfoot Building",
+      "Shepcote Lane Industrial District"
+    ],
+    "industries": [
+      "Advanced materials, titanium and specialty metals",
+      "NHS teaching hospital paper and digital backup archives",
+      "Higher education rare books and research collections",
+      "Civic governance, building control and housing records",
+      "Precision tooling and warehouse spare parts storage"
+    ],
+    "junctions": [
+      "M1 Junction 33",
+      "M1 Junction 34 Tinsley Viaduct",
+      "A57 Sheffield Parkway",
+      "A61 Derek Dooley Way",
+      "A630 Parkway link"
+    ]
+  },
+  {
+    "slug": "leeds",
+    "town": "Leeds",
+    "county": "West Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "St James's University Hospital (Leeds Teaching Hospitals NHS Trust)",
+      "University of Leeds Parkinson Campus",
+      "Leeds Civic Hall Millennium Square",
+      "Cross Green Industrial Estate",
+      "Wellington Place Commercial Quarter"
+    ],
+    "industries": [
+      "Financial services and legal records management",
+      "Tertiary oncology and clinical trial health archives",
+      "Higher education library special collections",
+      "City council statutory registries and electoral rolls",
+      "Retail distribution and high-value components storage"
+    ],
+    "junctions": [
+      "M621 Junction 3",
+      "M1 Junction 45",
+      "M62 Junction 27 Gildersome",
+      "A64 York Road",
+      "A58 Inner Ring Road"
+    ]
+  },
+  {
+    "slug": "manchester",
+    "town": "Manchester",
+    "county": "Greater Manchester",
+    "region": "North West",
+    "estates": [
+      "Manchester Royal Infirmary (Manchester University NHS Foundation Trust)",
+      "The University of Manchester Oxford Road Campus",
+      "Trafford Park Industrial Estate",
+      "Manchester Town Hall Extension St Peter's Square",
+      "Sharston Industrial Estate Wythenshawe"
+    ],
+    "industries": [
+      "Biomedical research and clinical documentation",
+      "University archives and special collections",
+      "Logistics, freight and heavy parts storage",
+      "Metropolitan administration and statutory compliance",
+      "Digital technology and professional services record retention"
+    ],
+    "junctions": [
+      "M60 Junction 12",
+      "M602 Junction 3",
+      "M56 Junction 4",
+      "A57(M) Mancunian Way",
+      "A5103 Princess Parkway"
+    ]
+  },
+  {
+    "slug": "liverpool",
+    "town": "Liverpool",
+    "county": "Merseyside",
+    "region": "North West",
+    "estates": [
+      "Royal Liverpool University Hospital (Liverpool University Hospitals NHS Foundation Trust)",
+      "University of Liverpool Mount Pleasant Campus",
+      "Liverpool City Council Cunard Building",
+      "Knowsley Business Park",
+      "Speke Boulevard Industrial Estate"
+    ],
+    "industries": [
+      "Life sciences and pharmaceutical production",
+      "Port logistics and maritime trade documents",
+      "NHS patient records and clinical governance",
+      "Higher education institutional archives",
+      "Municipal planning, registry and legal records"
+    ],
+    "junctions": [
+      "M62 Junction 4 Rocket Interchange",
+      "M57 Junction 6",
+      "M58 Junction 7",
+      "A5036 The Strand corridor",
+      "A562 Speke Hall Road"
+    ]
+  },
+  {
+    "slug": "newcastle-upon-tyne",
+    "town": "Newcastle upon Tyne",
+    "county": "Tyne and Wear",
+    "region": "North East",
+    "estates": [
+      "Royal Victoria Infirmary (The Newcastle upon Tyne Hospitals NHS Foundation Trust)",
+      "Newcastle University Haymarket Campus",
+      "Newcastle Civic Centre Barras Bridge",
+      "Newburn Riverside Industrial Estate",
+      "Team Valley Trading Estate"
+    ],
+    "industries": [
+      "Subsea marine engineering and fabrication",
+      "NHS tertiary referral records and organ transplant files",
+      "Academic research libraries and archives",
+      "Civic governance, building control and tax archives",
+      "Pharmaceutical and biochemical manufacturing"
+    ],
+    "junctions": [
+      "A1 Western Bypass",
+      "A167(M) Central Motorway",
+      "A19 Silverlink interchange",
+      "A69 West Road",
+      "A1058 Coast Road"
+    ]
+  },
+  {
+    "slug": "bristol",
+    "town": "Bristol",
+    "county": "Bristol",
+    "region": "South West",
+    "estates": [
+      "Bristol Royal Infirmary (University Hospitals Bristol and Weston NHS Foundation Trust)",
+      "University of Bristol Clifton Campus",
+      "Bristol City Council City Hall College Green",
+      "Avonmouth Industrial Estate",
+      "Aztec West Business Park"
+    ],
+    "industries": [
+      "Aerospace defense and composite manufacturing",
+      "Tertiary paediatric and acute health records",
+      "Higher education archives and manuscripts",
+      "Municipal planning and statutory council records",
+      "Port freight forwarding and high-density inventory"
+    ],
+    "junctions": [
+      "M4 Junction 19",
+      "M5 Junction 18 Avonmouth",
+      "M32 Junction 3",
+      "A4 Portway",
+      "A4174 Ring Road"
+    ]
+  },
+  {
+    "slug": "reading",
+    "town": "Reading",
+    "county": "Berkshire",
+    "region": "South East",
+    "estates": [
+      "Royal Berkshire Hospital (Royal Berkshire NHS Foundation Trust)",
+      "University of Reading Whiteknights Campus",
+      "Reading Borough Council Civic Offices Bridge Street",
+      "Green Park Business Park",
+      "Worton Grange Industrial Estate"
+    ],
+    "industries": [
+      "Information technology and telecommunications",
+      "Pharmaceutical clinical trial data storage",
+      "NHS acute health records",
+      "Higher education research archives",
+      "Local authority planning and civil records"
+    ],
+    "junctions": [
+      "M4 Junction 11",
+      "M4 Junction 10",
+      "A33 Relief Road",
+      "A329(M) corridor",
+      "A4 Bath Road"
+    ]
+  },
+  {
+    "slug": "milton-keynes",
+    "town": "Milton Keynes",
+    "county": "Buckinghamshire",
+    "region": "South East",
+    "estates": [
+      "Milton Keynes University Hospital NHS Foundation Trust",
+      "Open University Walton Hall Campus",
+      "Milton Keynes City Council Civic Offices Saxon Gate",
+      "Brinklow Industrial Estate",
+      "Magna Park Distribution Centre"
+    ],
+    "industries": [
+      "National logistics and automated supply chains",
+      "Distance higher education archives and publishing",
+      "NHS hospital clinical record management",
+      "Unitary authority planning and infrastructure archives",
+      "Advanced automotive and motorsport engineering"
+    ],
+    "junctions": [
+      "M1 Junction 14",
+      "M1 Junction 13",
+      "A5 dual carriageway Portway",
+      "A421 H8 Standing Way",
+      "A509 corridor"
+    ]
+  },
+  {
+    "slug": "northampton",
+    "town": "Northampton",
+    "county": "Northamptonshire",
+    "region": "East Midlands",
+    "estates": [
+      "Northampton General Hospital NHS Trust",
+      "University of Northampton Waterside Campus",
+      "West Northamptonshire Council One Angel Square",
+      "Brackmills Industrial Estate",
+      "Grange Park Logistics Park"
+    ],
+    "industries": [
+      "Contract logistics, supply chain and e-commerce parts",
+      "Footwear heritage and specialist leather archives",
+      "NHS patient documentation and clinical storage",
+      "Unitary council statutory record retention",
+      "Engineering components and tooling"
+    ],
+    "junctions": [
+      "M1 Junction 15",
+      "M1 Junction 15A",
+      "A45 Nene Valley Way",
+      "A43 Lumbertubs Way",
+      "A508 London Road"
+    ]
+  },
+  {
+    "slug": "swindon",
+    "town": "Swindon",
+    "county": "Wiltshire",
+    "region": "South West",
+    "estates": [
+      "Great Western Hospital (Great Western Hospitals NHS Foundation Trust)",
+      "Swindon Borough Council Civic Offices Euclid Street",
+      "Blagrove Industrial Estate",
+      "Groundwell Industrial Estate",
+      "Dorcan Business Park"
+    ],
+    "industries": [
+      "Automotive pressings and precision mechanics",
+      "Rail heritage and national historic monument archives",
+      "NHS acute healthcare record keeping",
+      "Borough municipal planning and property deed registers",
+      "Pharmaceutical packaging and storage"
+    ],
+    "junctions": [
+      "M4 Junction 16",
+      "M4 Junction 15",
+      "A419 Marlborough Road corridor",
+      "A420 Oxford Road",
+      "A3102 Great Western Way"
+    ]
+  },
+  {
+    "slug": "oxford",
+    "town": "Oxford",
+    "county": "Oxfordshire",
+    "region": "South East",
+    "estates": [
+      "John Radcliffe Hospital (Oxford University Hospitals NHS Foundation Trust)",
+      "University of Oxford Bodleian Libraries",
+      "Oxford Science Park",
+      "Oxford City Council Town Hall St Aldate's",
+      "Horspath Industrial Estate"
+    ],
+    "industries": [
+      "Biotechnology research and life sciences laboratories",
+      "Rare manuscripts and academic research collections",
+      "NHS tertiary healthcare and clinical trial archives",
+      "Civic governance and heritage planning documentation",
+      "Precision sensor manufacturing and scientific devices"
+    ],
+    "junctions": [
+      "A34 Western Bypass",
+      "A40 Northern Bypass",
+      "M40 Junction 8",
+      "M40 Junction 9",
+      "A4142 Eastern Bypass"
+    ]
+  },
+  {
+    "slug": "cambridge",
+    "town": "Cambridge",
+    "county": "Cambridgeshire",
+    "region": "East of England",
+    "estates": [
+      "Addenbrooke's Hospital (Cambridge University Hospitals NHS Foundation Trust)",
+      "Cambridge Science Park",
+      "University of Cambridge West Cambridge Site",
+      "Cambridge Guildhall Market Square",
+      "Clifton Road Industrial Estate"
+    ],
+    "industries": [
+      "Biomedical clinical trials and genomic research files",
+      "University archives, faculty records and legal libraries",
+      "Specialist medical instrumentation and tech hardware",
+      "NHS regional genetics and patient file registers",
+      "Municipal administration and conservation archives"
+    ],
+    "junctions": [
+      "M11 Junction 11",
+      "M11 Junction 13",
+      "A14 Girton Interchange",
+      "A428 corridor",
+      "A10 Milton Road"
+    ]
+  },
+  {
+    "slug": "gloucester",
+    "town": "Gloucester",
+    "county": "Gloucestershire",
+    "region": "South West",
+    "estates": [
+      "Gloucestershire Royal Hospital (Gloucestershire Hospitals NHS Foundation Trust)",
+      "Gloucestershire County Council Shire Hall Westgate Street",
+      "Gloucester Business Park",
+      "Barton and Tredworth Industrial District",
+      "Waterwells Business Park"
+    ],
+    "industries": [
+      "Aerospace avionics and engineering components",
+      "County council records and historical deeds",
+      "NHS acute patient case files and pathology storage",
+      "Food production logistics and packaging",
+      "Commercial equipment distribution"
+    ],
+    "junctions": [
+      "M5 Junction 11",
+      "M5 Junction 12",
+      "A40 Northern Bypass",
+      "A38 Eastern Avenue",
+      "A417 Brockworth Bypass"
+    ]
+  },
+  {
+    "slug": "peterborough",
+    "town": "Peterborough",
+    "county": "Cambridgeshire",
+    "region": "East of England",
+    "estates": [
+      "Peterborough City Hospital (North West Anglia NHS Foundation Trust)",
+      "Peterborough City Council Sand Martin House",
+      "Orton Southgate Industrial Estate",
+      "Bakewell Road Industrial Corridor",
+      "Lynch Wood Business Park"
+    ],
+    "industries": [
+      "National publishing and distribution archives",
+      "Diesel engine manufacturing and power systems parts",
+      "NHS regional acute health archives",
+      "City council statutory planning registers",
+      "Financial administration and insurance records"
+    ],
+    "junctions": [
+      "A1(M) Junction 17",
+      "A47 Soke Parkway",
+      "A15 Paston Parkway",
+      "A1139 Frank Perkins Parkway",
+      "A605 corridor"
+    ]
+  },
+  {
+    "slug": "norwich",
+    "town": "Norwich",
+    "county": "Norfolk",
+    "region": "East of England",
+    "estates": [
+      "Norfolk and Norwich University Hospital NHS Foundation Trust",
+      "University of East Anglia Campus",
+      "Norwich City Hall St Peters Street",
+      "Bowthorpe Industrial Estate",
+      "Broadland Business Park"
+    ],
+    "industries": [
+      "Financial services and insurance underwriting archives",
+      "Food crop genetics and agricultural science records",
+      "NHS acute healthcare documentation",
+      "Higher education library and literary archives",
+      "Civic governance and electoral administration"
+    ],
+    "junctions": [
+      "A47 Southern Bypass",
+      "A11 Newmarket Road",
+      "A140 Ipswich Road",
+      "A1042 Ring Road",
+      "A1270 Broadland Northway"
+    ]
+  },
+  {
+    "slug": "southampton",
+    "town": "Southampton",
+    "county": "Hampshire",
+    "region": "South East",
+    "estates": [
+      "Southampton General Hospital (University Hospital Southampton NHS Foundation Trust)",
+      "University of Southampton Highfield Campus",
+      "Southampton Civic Centre Civic Centre Road",
+      "Millbrook Industrial Estate",
+      "Mountpark Southampton Logistics Park"
+    ],
+    "industries": [
+      "Maritime transport and container freight records",
+      "Oceanographic research and environmental archives",
+      "NHS regional hospital medical records",
+      "Higher education scientific libraries",
+      "City council planning and licensing archives"
+    ],
+    "junctions": [
+      "M27 Junction 3",
+      "M27 Junction 5",
+      "M271 corridor",
+      "A33 The Avenue",
+      "A3024 Northam Road"
+    ]
+  },
+  {
+    "slug": "portsmouth",
+    "town": "Portsmouth",
+    "county": "Hampshire",
+    "region": "South East",
+    "estates": [
+      "Queen Alexandra Hospital (Portsmouth Hospitals University NHS Trust)",
+      "University of Portsmouth City Campus",
+      "Portsmouth Guildhall and Civic Offices Guildhall Square",
+      "HM Naval Base Portsmouth Defence Estate",
+      "Voyager Park Industrial Estate"
+    ],
+    "industries": [
+      "Naval defense engineering and marine maintenance parts",
+      "NHS tertiary healthcare archives and clinical files",
+      "Higher education research archives",
+      "Municipal administration and waterfront planning registries",
+      "Satellite telecommunications and component storage"
+    ],
+    "junctions": [
+      "M27 Junction 12",
+      "M275 Tipner Interchange",
+      "A27 Havant Bypass",
+      "A3(M) Junction 5",
+      "A2047 Commercial Road"
+    ]
+  },
+  {
+    "slug": "plymouth",
+    "town": "Plymouth",
+    "county": "Devon",
+    "region": "South West",
+    "estates": [
+      "Derriford Hospital (University Hospitals Plymouth NHS Trust)",
+      "University of Plymouth Drake Circus Campus",
+      "Plymouth City Council Ballard House",
+      "Langage Science and Business Park",
+      "Newnham Industrial Estate"
+    ],
+    "industries": [
+      "Marine autonomy and naval engineering spares",
+      "NHS major trauma and health records archiving",
+      "Higher education special collections and research data",
+      "City council planning, taxation and property records",
+      "Medical device manufacture and high-value storage"
+    ],
+    "junctions": [
+      "A38 Devon Expressway",
+      "A386 Tavistock Road",
+      "A374 Plymouth Road",
+      "A379 Billacombe Road",
+      "A3064 St Budeaux Bypass"
+    ]
+  },
+  {
+    "slug": "exeter",
+    "town": "Exeter",
+    "county": "Devon",
+    "region": "South West",
+    "estates": [
+      "Royal Devon and Exeter Hospital (Royal Devon University Healthcare NHS Foundation Trust)",
+      "University of Exeter Streatham Campus",
+      "Devon County Council County Hall Topsham Road",
+      "Sowton Industrial Estate",
+      "Exeter Science Park"
+    ],
+    "industries": [
+      "Met Office meteorological and climatology data records",
+      "NHS acute and specialist healthcare filing",
+      "County and city council statutory registry archives",
+      "University research papers and historical monographs",
+      "Regional distribution and high-value equipment parts"
+    ],
+    "junctions": [
+      "M5 Junction 29",
+      "M5 Junction 30",
+      "A30 Honiton Road",
+      "A38 Haldon Hill corridor",
+      "A379 Rydon Lane"
+    ]
+  },
+  {
+    "slug": "cardiff",
+    "town": "Cardiff",
+    "county": "South Glamorgan",
+    "region": "Wales",
+    "estates": [
+      "University Hospital of Wales (Cardiff and Vale University Health Board)",
+      "Cardiff University Cathays Park Campus",
+      "Cardiff City Hall Gwasanaethau Dinesig",
+      "Wentloog Corporate Park",
+      "Ocean Park Industrial Estate"
+    ],
+    "industries": [
+      "Devolved government and civil service records",
+      "NHS health board clinical file retention",
+      "Higher education scientific and Welsh language archives",
+      "Media broadcasting archives and audio-visual storage",
+      "Automotive transmission engineering and spare inventory"
+    ],
+    "junctions": [
+      "M4 Junction 29",
+      "M4 Junction 32 Coryton Interchange",
+      "A48(M) Eastern Avenue",
+      "A4232 Peripheral Distributor Road",
+      "A470 North Road"
+    ]
+  },
+  {
+    "slug": "swansea",
+    "town": "Swansea",
+    "county": "West Glamorgan",
+    "region": "Wales",
+    "estates": [
+      "Morriston Hospital (Swansea Bay University Health Board)",
+      "Swansea University Singleton Park Campus",
+      "Swansea Guildhall Victoria Park",
+      "Swansea Enterprise Park Llansamlet",
+      "Felindre Strategic Business Park"
+    ],
+    "industries": [
+      "DVLA national vehicle registration document handling",
+      "NHS regional burns and plastic surgery patient records",
+      "University metallurgy and engineering archives",
+      "Local authority administrative and planning files",
+      "Industrial manufacturing and spares storage"
+    ],
+    "junctions": [
+      "M4 Junction 44",
+      "M4 Junction 45",
+      "M4 Junction 47 Penllergaer",
+      "A483 Fabian Way",
+      "A4067 Neath Road"
+    ]
+  },
+  {
+    "slug": "newport",
+    "town": "Newport",
+    "county": "Gwent",
+    "region": "Wales",
+    "estates": [
+      "The Grange University Hospital (Aneurin Bevan University Health Board)",
+      "Office for National Statistics Tredegar Park",
+      "Newport Civic Centre Godfrey Road",
+      "Queensway Meadows Industrial Estate",
+      "Maesglas Industrial Estate"
+    ],
+    "industries": [
+      "National demographic and census data physical backups",
+      "NHS critical care and regional clinical documentation",
+      "Semiconductor manufacturing and cleanroom storage",
+      "Municipal administration and property registers",
+      "Steel processing and heavy engineering supply storage"
+    ],
+    "junctions": [
+      "M4 Junction 28 Tredegar Park",
+      "M4 Junction 24 Coldra",
+      "A48 Southern Distributor Road",
+      "A4042 Kingsway",
+      "A449 corridor"
+    ]
+  },
+  {
+    "slug": "edinburgh",
+    "town": "Edinburgh",
+    "county": "City of Edinburgh",
+    "region": "Scotland",
+    "estates": [
+      "Royal Infirmary of Edinburgh (NHS Lothian)",
+      "University of Edinburgh George Square Campus",
+      "City of Edinburgh Council City Chambers High Street",
+      "Edinburgh Park South Gyle",
+      "Sighthill Industrial Estate"
+    ],
+    "industries": [
+      "Scottish Government, legal and judicial court archives",
+      "Higher education manuscripts and rare book collections",
+      "NHS tertiary healthcare and surgical case files",
+      "Financial asset management and investment document storage",
+      "Biotechnology research and incubator parts inventory"
+    ],
+    "junctions": [
+      "A720 Edinburgh City Bypass",
+      "M8 Junction 1 Hermiston Gait",
+      "M9 Newbridge Roundabout",
+      "A8 Glasgow Road",
+      "A1 Queen Margaret University junction"
+    ]
+  },
+  {
+    "slug": "glasgow",
+    "town": "Glasgow",
+    "county": "Glasgow City",
+    "region": "Scotland",
+    "estates": [
+      "Queen Elizabeth University Hospital (NHS Greater Glasgow and Clyde)",
+      "University of Glasgow Gilmorehill Campus",
+      "Glasgow City Chambers George Square",
+      "Hillington Park Industrial Estate",
+      "Cambuslang Investment Park"
+    ],
+    "industries": [
+      "Tertiary medical care and major hospital health records",
+      "University institutional archives and engineering heritage",
+      "Municipal planning, social work and council registers",
+      "Shipbuilding engineering components and precision parts",
+      "Whisky trade documentation and commercial bottling storage"
+    ],
+    "junctions": [
+      "M8 Junction 15 Townhead",
+      "M8 Junction 25 Cardonald",
+      "M74 Junction 1A Polmadie",
+      "M77 Junction 1 Dumbreck",
+      "A739 Clyde Tunnel corridor"
+    ]
+  },
+  {
+    "slug": "aberdeen",
+    "town": "Aberdeen",
+    "county": "Aberdeenshire",
+    "region": "Scotland",
+    "estates": [
+      "Aberdeen Royal Infirmary (NHS Grampian Foresterhill Health Campus)",
+      "University of Aberdeen King's College Campus",
+      "Aberdeen City Council Marischal College",
+      "Altens Industrial Estate",
+      "Dyce Industrial Park"
+    ],
+    "industries": [
+      "Offshore energy, drilling equipment and pipeline parts",
+      "NHS Grampian health records and patient history archiving",
+      "Higher education maritime and oil heritage archives",
+      "Harbour authority trade and vessel documentation",
+      "Local government administration and regional tax records"
+    ],
+    "junctions": [
+      "A90 Western Peripheral Route (AWPR)",
+      "A96 Craibstone Junction",
+      "A92 Stonehaven Road",
+      "A944 Lang Stracht",
+      "A956 Wellington Road"
+    ]
+  },
+  {
+    "slug": "dundee",
+    "town": "Dundee",
+    "county": "Angus",
+    "region": "Scotland",
+    "estates": [
+      "Ninewells Hospital (NHS Tayside)",
+      "University of Dundee Nethergate Campus",
+      "Dundee City Council Dundee House North Lindsay Street",
+      "Wester Gourdie Industrial Estate",
+      "Dryburgh Industrial Estate"
+    ],
+    "industries": [
+      "Biomedical and drug discovery research documentation",
+      "Interactive digital media and software physical assets",
+      "NHS acute patient records and clinical case histories",
+      "Higher education archive collections and museum storage",
+      "Light manufacturing, electronics and spare parts supply"
+    ],
+    "junctions": [
+      "A90 Kingsway dual carriageway",
+      "A92 Tay Road Bridge approach",
+      "A85 Riverside Drive",
+      "A923 Coupar Angus Road",
+      "A929 Forfar Road"
+    ]
+  },
+  {
+    "slug": "belfast",
+    "town": "Belfast",
+    "county": "County Antrim",
+    "region": "Northern Ireland",
+    "estates": [
+      "Royal Victoria Hospital (Belfast Health and Social Care Trust)",
+      "Queen's University Belfast University Road Campus",
+      "Belfast City Hall Donegall Square",
+      "Boucher Road Commercial Corridor",
+      "Duncrue Industrial Estate"
+    ],
+    "industries": [
+      "NHS health and social care patient case records",
+      "Aerospace and maritime engineering spare components",
+      "Higher education historical archives and legal files",
+      "Public authority administration and land registry",
+      "Port logistics, freight forwarding and distribution"
+    ],
+    "junctions": [
+      "M1 Junction 1 Broadway",
+      "M2 Junction 1 Fortwilliam",
+      "A12 Westlink corridor",
+      "M3 Lagan Bridge",
+      "A2 Sydenham Bypass"
+    ]
+  },
+  {
+    "slug": "hull",
+    "town": "Kingston upon Hull",
+    "county": "East Riding of Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "Hull Royal Infirmary (Hull University Teaching Hospitals NHS Trust)",
+      "University of Hull Cottingham Road Campus",
+      "Hull City Council Guildhall Alfred Gelder Street",
+      "Sutton Fields Industrial Estate",
+      "King George Dock Port Estate"
+    ],
+    "industries": [
+      "Chemical manufacturing and polymer safety documentation",
+      "Port container shipping and customs cargo storage",
+      "NHS patient records and clinical research files",
+      "Higher education library and maritime archives",
+      "Wind turbine engineering components and mechanical spares"
+    ],
+    "junctions": [
+      "A63 Clive Sullivan Way",
+      "M62 Junction 38 corridor",
+      "A1033 Hedon Road",
+      "A1079 Beverley Road",
+      "A1165 Stoneferry Road"
+    ]
+  },
+  {
+    "slug": "york",
+    "town": "York",
+    "county": "North Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "York Hospital (York and Scarborough Teaching Hospitals NHS Foundation Trust)",
+      "University of York Heslington Campus",
+      "City of York Council West Offices Station Rise",
+      "Clifton Moor Business Park",
+      "Elvington Industrial Estate"
+    ],
+    "industries": [
+      "Rail operations and railway historical document retention",
+      "Confectionery and food science batch record storage",
+      "Higher education archives and Borthwick Institute files",
+      "NHS acute care medical records and pathology filing",
+      "Heritage conservation, civic charters and planning archives"
+    ],
+    "junctions": [
+      "A64 Outer Ring Road",
+      "A1237 Northern Ring Road",
+      "A19 Fulford Road corridor",
+      "A59 Boroughbridge Road",
+      "A1079 Hull Road"
+    ]
+  },
+  {
+    "slug": "cheltenham",
+    "town": "Cheltenham",
+    "county": "Gloucestershire",
+    "region": "South West",
+    "estates": [
+      "Cheltenham General Hospital (Gloucestershire Hospitals NHS Foundation Trust)",
+      "University of Gloucestershire Francis Close Hall Campus",
+      "Cheltenham Borough Council Municipal Offices Promenade",
+      "Kingsditch Industrial Estate",
+      "Runnings Road Commercial Corridor"
+    ],
+    "industries": [
+      "Cyber intelligence, national security and defense documentation",
+      "NHS oncology and general hospital clinical archives",
+      "Higher education design and education research collections",
+      "Local government conservation, planning and registry records",
+      "High-precision hydraulic parts and aerospace components"
+    ],
+    "junctions": [
+      "M5 Junction 10",
+      "M5 Junction 11",
+      "A40 Golden Valley Bypass",
+      "A4019 Tewkesbury Road",
+      "A46 Shurdington Road"
+    ]
+  },
+  {
+    "slug": "bath",
+    "town": "Bath",
+    "county": "Somerset",
+    "region": "South West",
+    "estates": [
+      "Royal United Hospital (Royal United Hospitals Bath NHS Foundation Trust)",
+      "University of Bath Claverton Down Campus",
+      "Bath Guildhall High Street",
+      "Brassmill Lane Industrial Estate",
+      "Midsomer Norton Enterprise Zone"
+    ],
+    "industries": [
+      "Higher education scientific collections and manuscripts",
+      "NHS acute health documentation",
+      "Heritage conservation and Roman antiquity archives",
+      "Local authority planning and conservation registries",
+      "Software development and engineering spares"
+    ],
+    "junctions": [
+      "A4 Lower Bristol Road",
+      "A36 Claverton Street",
+      "A46 dual carriageway",
+      "M4 Junction 18",
+      "A367 Wellsway corridor"
+    ]
+  },
+  {
+    "slug": "bolton",
+    "town": "Bolton",
+    "county": "Greater Manchester",
+    "region": "North West",
+    "estates": [
+      "Royal Bolton Hospital (Bolton NHS Foundation Trust)",
+      "University of Bolton Deane Road Campus",
+      "Bolton Town Hall Victoria Square",
+      "Lostock Industrial Estate",
+      "Wingates Industrial Park"
+    ],
+    "industries": [
+      "Textile engineering and industrial fabric archives",
+      "NHS acute medical and neonatal records",
+      "Higher education research archives",
+      "Metropolitan borough council statutory registries",
+      "Automotive supply chain and metal machining parts"
+    ],
+    "junctions": [
+      "M61 Junction 5",
+      "M61 Junction 6",
+      "A666 St Peter's Way",
+      "A58 Ring Road",
+      "A6 Manchester Road"
+    ]
+  },
+  {
+    "slug": "blackburn",
+    "town": "Blackburn",
+    "county": "Lancashire",
+    "region": "North West",
+    "estates": [
+      "Royal Blackburn Teaching Hospital (East Lancashire Hospitals NHS Trust)",
+      "Blackburn Town Hall King William Street",
+      "Whitebirk Industrial Estate",
+      "Roman Road Industrial Estate",
+      "Shadsworth Business Park"
+    ],
+    "industries": [
+      "Specialist engineering and aerospace machining",
+      "NHS teaching hospital clinical record archives",
+      "Borough council statutory planning documents",
+      "Paper and packaging logistics",
+      "Automotive component warehousing"
+    ],
+    "junctions": [
+      "M65 Junction 6",
+      "M65 Junction 5",
+      "A666 Whalley New Road",
+      "A677 Preston New Road",
+      "A6078 Town Centre Orbital"
+    ]
+  },
+  {
+    "slug": "preston",
+    "town": "Preston",
+    "county": "Lancashire",
+    "region": "North West",
+    "estates": [
+      "Royal Preston Hospital (Lancashire Teaching Hospitals NHS Foundation Trust)",
+      "University of Central Lancashire (UCLan) City Campus",
+      "Preston Town Hall Lancaster Road",
+      "Red Scar Business Park",
+      "Millennium City Park"
+    ],
+    "industries": [
+      "Nuclear fuel engineering and aerospace defense",
+      "Tertiary acute trauma health records",
+      "Higher education research archives and rare books",
+      "City council statutory registries and tax records",
+      "Logistics, freight forwarding and tooling storage"
+    ],
+    "junctions": [
+      "M6 Junction 31 Samlesbury",
+      "M6 Junction 32 Broughton Interchange",
+      "M55 Junction 1",
+      "A6 Preston Bypass",
+      "A59 Guild Way"
+    ]
+  },
+  {
+    "slug": "blackpool",
+    "town": "Blackpool",
+    "county": "Lancashire",
+    "region": "North West",
+    "estates": [
+      "Blackpool Victoria Hospital (Blackpool Teaching Hospitals NHS Foundation Trust)",
+      "Blackpool Council Bickerstaffe House",
+      "Blackpool Enterprise Zone Squires Gate",
+      "Whitehills Business Park",
+      "Clifton Road Industrial Estate"
+    ],
+    "industries": [
+      "Aerospace defense assembly and aviation components",
+      "NHS cardiac and hematology clinical records",
+      "Unitary council statutory archives and planning deeds",
+      "Tourism heritage collections and municipal records",
+      "Plastics and mechanical tooling storage"
+    ],
+    "junctions": [
+      "M55 Junction 4",
+      "A583 Preston New Road",
+      "A5230 Squires Gate Lane",
+      "A584 Promenade corridor",
+      "A587 Fleetwood Road"
+    ]
+  },
+  {
+    "slug": "carlisle",
+    "town": "Carlisle",
+    "county": "Cumbria",
+    "region": "North West",
+    "estates": [
+      "Cumberland Infirmary (North Cumbria Integrated Care NHS Foundation Trust)",
+      "University of Cumbria Fusehill Street Campus",
+      "Carlisle Civic Centre Rickergate",
+      "Kingstown Industrial Estate",
+      "Rosehill Industrial Estate"
+    ],
+    "industries": [
+      "Food manufacturing and agricultural supplies",
+      "NHS acute health records and patient history retention",
+      "County and city council statutory planning archives",
+      "Transport logistics and freight inventory",
+      "Civil engineering spares and equipment storage"
+    ],
+    "junctions": [
+      "M6 Junction 43",
+      "M6 Junction 44 Greymoorhill",
+      "A595 Castle Way",
+      "A69 Brampton Road",
+      "A7 Scotland Road"
+    ]
+  },
+  {
+    "slug": "middlesbrough",
+    "town": "Middlesbrough",
+    "county": "North Yorkshire",
+    "region": "North East",
+    "estates": [
+      "The James Cook University Hospital (South Tees Hospitals NHS Foundation Trust)",
+      "Teesside University Campus",
+      "Middlesbrough Civic Centre Corporation Road",
+      "Riverside Park Industrial Estate",
+      "East Middlesbrough Industrial Estate"
+    ],
+    "industries": [
+      "Chemical processing and polymer safety files",
+      "NHS tertiary hospital clinical documentation",
+      "Higher education industrial research archives",
+      "Municipal planning, environmental and council tax records",
+      "Offshore wind fabrication and heavy mechanical spares"
+    ],
+    "junctions": [
+      "A66 dual carriageway",
+      "A19 Tees Flyover interchange",
+      "A171 Ormesby Bank",
+      "A1032 Newport Bridge approach",
+      "A172 Marton Road"
+    ]
+  },
+  {
+    "slug": "sunderland",
+    "town": "Sunderland",
+    "county": "Tyne and Wear",
+    "region": "North East",
+    "estates": [
+      "Sunderland Royal Hospital (South Tyneside and Sunderland NHS Foundation Trust)",
+      "University of Sunderland City Campus",
+      "Sunderland City Hall Plater Way",
+      "Doxford International Business Park",
+      "Pallion Industrial Estate"
+    ],
+    "industries": [
+      "Automotive manufacturing and battery cell supply",
+      "NHS acute healthcare record retention",
+      "Higher education glass and design archives",
+      "City council municipal records and planning registers",
+      "Marine engineering and component warehousing"
+    ],
+    "junctions": [
+      "A19 Hylton Bridge",
+      "A1231 Wessington Way",
+      "A690 Durham Road",
+      "A1018 Wearmouth Bridge approach",
+      "A183 Chester Road"
+    ]
+  },
+  {
+    "slug": "darlington",
+    "town": "Darlington",
+    "county": "County Durham",
+    "region": "North East",
+    "estates": [
+      "Darlington Memorial Hospital (County Durham and Darlington NHS Foundation Trust)",
+      "Darlington Town Hall Feethams",
+      "Darlington Economic Campus Feethams",
+      "Faulkner Way Industrial Corridor",
+      "Yarm Road Business Park"
+    ],
+    "industries": [
+      "Civil service, HM Treasury and national economic archives",
+      "NHS acute hospital health record management",
+      "Borough council statutory planning documents",
+      "Subsea engineering and diesel engine spares",
+      "Precision tooling and high-density inventory"
+    ],
+    "junctions": [
+      "A1(M) Junction 57",
+      "A1(M) Junction 58 Burtree",
+      "A66 Bypass",
+      "A167 North Road",
+      "A1150 Whinfield Road"
+    ]
+  },
+  {
+    "slug": "huddersfield",
+    "town": "Huddersfield",
+    "county": "West Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "Huddersfield Royal Infirmary (Calderdale and Huddersfield NHS Foundation Trust)",
+      "University of Huddersfield Queensgate Campus",
+      "Kirklees Council Civic Centre Market Street",
+      "Leeds Road Industrial Corridor",
+      "St Andrew's Road Industrial District"
+    ],
+    "industries": [
+      "Speciality textile and chemical manufacturing",
+      "Higher education research archives and music collections",
+      "NHS acute patient record management",
+      "Metropolitan council statutory registers and building control",
+      "Precision valve engineering and spares warehousing"
+    ],
+    "junctions": [
+      "M62 Junction 24 Ainley Top",
+      "M62 Junction 25 Brighouse",
+      "A629 Wakefield Road",
+      "A62 Leeds Road",
+      "A641 Bradford Road"
+    ]
+  },
+  {
+    "slug": "halifax",
+    "town": "Halifax",
+    "county": "West Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "Calderdale Royal Hospital (Calderdale and Huddersfield NHS Foundation Trust)",
+      "Calderdale Council Town Hall Crossley Street",
+      "Dean Clough Mills Commercial Complex",
+      "Halifax Industrial Estate Pellon",
+      "Shroggs Road Industrial District"
+    ],
+    "industries": [
+      "Financial services and mortgage archival records",
+      "Machine tool manufacture and precision mechanics",
+      "NHS acute health records archiving",
+      "Metropolitan council statutory planning records",
+      "Carpet and textile manufacturing inventory"
+    ],
+    "junctions": [
+      "M62 Junction 24 Ainley Top",
+      "A58 Burdock Way flyover",
+      "A629 Salterhebble corridor",
+      "A646 Burnley Road",
+      "A647 Haley Hill"
+    ]
+  },
+  {
+    "slug": "bradford",
+    "town": "Bradford",
+    "county": "West Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "Bradford Royal Infirmary (Bradford Teaching Hospitals NHS Foundation Trust)",
+      "University of Bradford Richmond Road Campus",
+      "Bradford City Hall Centenary Square",
+      "Euroway Industrial Estate",
+      "Low Moor Business Park"
+    ],
+    "industries": [
+      "Wool heritage and engineering textiles",
+      "Higher education peace studies and academic archives",
+      "NHS teaching hospital clinical case files",
+      "Metropolitan council statutory registries and tax records",
+      "Automotive components and mechanical spare parts"
+    ],
+    "junctions": [
+      "M606 Junction 3",
+      "M62 Junction 26 Chain Bar",
+      "A6177 Ring Road",
+      "A650 Canal Road corridor",
+      "A647 Leeds Road"
+    ]
+  },
+  {
+    "slug": "wakefield",
+    "town": "Wakefield",
+    "county": "West Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "Pinderfields Hospital (The Mid Yorkshire Teaching NHS Trust)",
+      "Wakefield Council County Hall Bond Street",
+      "Flanshaw Industrial Estate",
+      "Normanton Industrial Estate",
+      "Trinity Walk Commercial Area"
+    ],
+    "industries": [
+      "Regional NHS burns and acute trauma documentation",
+      "County court and local authority statutory registers",
+      "Distribution, parcel logistics and automotive spares",
+      "Heavy mechanical engineering and tooling storage",
+      "Food production logistics and packaging"
+    ],
+    "junctions": [
+      "M1 Junction 39",
+      "M1 Junction 41 Carr Gate",
+      "M62 Junction 30 Rothwell",
+      "A642 Aberford Road",
+      "A650 Bradford Road"
+    ]
+  },
+  {
+    "slug": "doncaster",
+    "town": "Doncaster",
+    "county": "South Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "Doncaster Royal Infirmary (Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust)",
+      "City of Doncaster Council Civic Office Waterdale",
+      "iPort Logistics Hub",
+      "Kirk Sandall Industrial Estate",
+      "Wheatley Hall Road Commercial Corridor"
+    ],
+    "industries": [
+      "Rail locomotive engineering and rail freight maintenance",
+      "National multi-modal logistics and e-commerce fulfillment",
+      "NHS acute teaching hospital medical records",
+      "City council statutory planning and taxation archives",
+      "Manufacturing components and industrial parts"
+    ],
+    "junctions": [
+      "M18 Junction 3",
+      "M18 Junction 4",
+      "A1(M) Junction 36 Warmsworth",
+      "A630 Centurion Way",
+      "A638 Bawtry Road"
+    ]
+  },
+  {
+    "slug": "rotherham",
+    "town": "Rotherham",
+    "county": "South Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "Rotherham Hospital (The Rotherham NHS Foundation Trust)",
+      "Rotherham Metropolitan Borough Council Riverside House",
+      "Templeborough Industrial Zone",
+      "Barbot Hall Industrial Estate",
+      "Hellaby Industrial Estate"
+    ],
+    "industries": [
+      "Specialist steel and alloy manufacturing",
+      "NHS hospital clinical record management",
+      "Metropolitan borough council statutory archives",
+      "Mechanical power transmission and industrial bearings",
+      "Fabrication, welding supplies and tooling storage"
+    ],
+    "junctions": [
+      "M1 Junction 33",
+      "M1 Junction 34 Meadowhall",
+      "M18 Junction 1 Hellaby",
+      "A630 Centenary Way",
+      "A631 Bawtry Road"
+    ]
+  },
+  {
+    "slug": "chesterfield",
+    "town": "Chesterfield",
+    "county": "Derbyshire",
+    "region": "East Midlands",
+    "estates": [
+      "Chesterfield Royal Hospital NHS Foundation Trust",
+      "Chesterfield Borough Council Town Hall Rose Hill",
+      "Whittington Moor Industrial Estate",
+      "Chesterfield Spire Walk Business Park",
+      "Sheepbridge Industrial Estate"
+    ],
+    "industries": [
+      "Heavy engineering, pipework and metal fabrication",
+      "NHS acute healthcare record keeping",
+      "Borough municipal planning and heritage archives",
+      "Electronics assembly and high-density inventory",
+      "Medical equipment packaging and parts distribution"
+    ],
+    "junctions": [
+      "M1 Junction 29",
+      "M1 Junction 29A Markham Vale",
+      "A61 Dronfield Bypass",
+      "A619 Baslow Road",
+      "A617 Hasland Bypass"
+    ]
+  },
+  {
+    "slug": "mansfield",
+    "town": "Mansfield",
+    "county": "Nottinghamshire",
+    "region": "East Midlands",
+    "estates": [
+      "King's Mill Hospital (Sherwood Forest Hospitals NHS Foundation Trust)",
+      "Mansfield District Council Civic Centre Chesterfield Road South",
+      "Maun Valley Industrial Estate",
+      "Crown Farm Industrial Estate",
+      "Millennium Business Park"
+    ],
+    "industries": [
+      "Textiles, hosiery and heritage garment records",
+      "NHS acute health documentation and clinical filing",
+      "District council statutory registry archives",
+      "Precision engineering components and tooling",
+      "Wholesale distribution and parts warehousing"
+    ],
+    "junctions": [
+      "M1 Junction 28",
+      "M1 Junction 29",
+      "A38 Kings Mill Road",
+      "A617 MARR bypass",
+      "A60 Nottingham Road"
+    ]
+  },
+  {
+    "slug": "lincoln",
+    "town": "Lincoln",
+    "county": "Lincolnshire",
+    "region": "East Midlands",
+    "estates": [
+      "Lincoln County Hospital (United Lincolnshire Hospitals NHS Trust)",
+      "University of Lincoln Brayford Pool Campus",
+      "City of Lincoln Council City Hall Beaumont Fee",
+      "Allenby Industrial Estate",
+      "Discovery Park Whisby Road"
+    ],
+    "industries": [
+      "Gas turbine engineering and power generation components",
+      "Higher education agricultural research and medieval archives",
+      "NHS county acute care patient records",
+      "City and county council statutory planning registers",
+      "Agricultural machinery parts and engineering tooling"
+    ],
+    "junctions": [
+      "A46 Lincoln Eastern Bypass",
+      "A46 Western Bypass",
+      "A15 Sleaford Road",
+      "A57 Carholme Road",
+      "A158 Wragby Road"
+    ]
+  },
+  {
+    "slug": "grantham",
+    "town": "Grantham",
+    "county": "Lincolnshire",
+    "region": "East Midlands",
+    "estates": [
+      "Grantham and District Hospital (United Lincolnshire Hospitals NHS Trust)",
+      "South Kesteven District Council Council Offices St Peter's Hill",
+      "Alma Park Industrial Estate",
+      "Gonerby Moor Business Park",
+      "Spittlegate Industrial Estate"
+    ],
+    "industries": [
+      "Food processing and temperature-controlled storage records",
+      "Agricultural machinery engineering and spare parts",
+      "NHS community hospital health documentation",
+      "District council statutory records and planning files",
+      "Specialist automotive restoration parts"
+    ],
+    "junctions": [
+      "A1 Barrowby interchange",
+      "A1 Gonerby Moor junction",
+      "A52 Sleaford Road",
+      "A607 Harlaxton Road",
+      "B1174 Spittlegate corridor"
+    ]
+  },
+  {
+    "slug": "loughborough",
+    "town": "Loughborough",
+    "county": "Leicestershire",
+    "region": "East Midlands",
+    "estates": [
+      "Loughborough Hospital (Leicestershire Partnership NHS Trust)",
+      "Loughborough University Campus",
+      "Charnwood Borough Council Council Offices Southfield Road",
+      "Messenger Close Industrial Area",
+      "Falcon Business Park"
+    ],
+    "industries": [
+      "Sports science, biomechanics and athletic research data",
+      "Pharmaceutical formulation and clinical trial records",
+      "Higher education technology archives and engineering drawings",
+      "Borough council statutory planning and registry records",
+      "Electrical power systems and precision components"
+    ],
+    "junctions": [
+      "M1 Junction 23",
+      "M1 Junction 24",
+      "A6 Derby Road corridor",
+      "A512 Ashby Road",
+      "A6004 Epinal Way"
+    ]
+  },
+  {
+    "slug": "worcester",
+    "town": "Worcester",
+    "county": "Worcestershire",
+    "region": "West Midlands",
+    "estates": [
+      "Worcestershire Royal Hospital (Worcestershire Acute Hospitals NHS Trust)",
+      "University of Worcester St John's Campus",
+      "Worcester Guildhall High Street",
+      "Blackpole Trading Estate",
+      "Warndon Business Park"
+    ],
+    "industries": [
+      "Precision casting, machine tooling and metal engineering",
+      "NHS acute health documentation",
+      "Higher education clinical education archives",
+      "City and county council statutory registries",
+      "Porcelain, ceramics and historical manufacturing archives"
+    ],
+    "junctions": [
+      "M5 Junction 6",
+      "M5 Junction 7",
+      "A44 Whittington Road",
+      "A449 Ombersley Road",
+      "A38 Bath Road"
+    ]
+  },
+  {
+    "slug": "hereford",
+    "town": "Hereford",
+    "county": "Herefordshire",
+    "region": "West Midlands",
+    "estates": [
+      "Hereford County Hospital (Wye Valley NHS Trust)",
+      "Herefordshire Council Plough Lane Offices",
+      "Rotherwas Industrial Estate",
+      "Three Elms Trading Estate",
+      "Holmer Trading Estate"
+    ],
+    "industries": [
+      "Defense engineering and special forces equipment spares",
+      "Cider production and beverage bottling documentation",
+      "NHS acute and rural patient health archives",
+      "County council statutory planning and registry records",
+      "Agricultural engineering and livestock supply storage"
+    ],
+    "junctions": [
+      "A49 Victoria Street corridor",
+      "A438 Ledbury Road",
+      "A4103 Roman Road",
+      "A465 Belmont Road",
+      "B4224 Hampton Park Road"
+    ]
+  },
+  {
+    "slug": "shrewsbury",
+    "town": "Shrewsbury",
+    "county": "Shropshire",
+    "region": "West Midlands",
+    "estates": [
+      "Royal Shrewsbury Hospital (The Shrewsbury and Telford Hospital NHS Trust)",
+      "Shropshire Council Shirehall Abbey Foregate",
+      "Battlefield Enterprise Park",
+      "Monkmoor Industrial Estate",
+      "Harlescott Commercial Area"
+    ],
+    "industries": [
+      "County administrative and historical land charge records",
+      "NHS acute surgical and medical documentation",
+      "Light engineering, sheet metal and mechanical tooling",
+      "Agricultural machinery parts and veterinary records",
+      "Wholesale trade and high-density inventory"
+    ],
+    "junctions": [
+      "A5 Shrewsbury Bypass",
+      "A49 Whitchurch Road",
+      "M54 corridor via A5",
+      "A5112 Battlefield Road",
+      "A458 Welshpool Road"
+    ]
+  },
+  {
+    "slug": "walsall",
+    "town": "Walsall",
+    "county": "West Midlands",
+    "region": "West Midlands",
+    "estates": [
+      "Walsall Manor Hospital (Walsall Healthcare NHS Trust)",
+      "Walsall Council Civic Centre Darwall Street",
+      "Birchills Industrial Estate",
+      "Pleck Industrial District",
+      "Bentley Mill Business Park"
+    ],
+    "industries": [
+      "Leather craftsmanship and saddlery heritage archives",
+      "Heavy metal stamping and automotive pressing components",
+      "NHS acute care and outpatient clinical records",
+      "Metropolitan borough council statutory archives",
+      "Plastics processing and fastener distribution"
+    ],
+    "junctions": [
+      "M6 Junction 9",
+      "M6 Junction 10",
+      "A34 Green Lane corridor",
+      "A454 Black Country Route",
+      "A461 Lichfield Road"
+    ]
+  },
+  {
+    "slug": "dudley",
+    "town": "Dudley",
+    "county": "West Midlands",
+    "region": "West Midlands",
+    "estates": [
+      "Russells Hall Hospital (The Dudley Group NHS Foundation Trust)",
+      "Dudley Council House Priory Road",
+      "Castlegate Business Park",
+      "Peartree Industrial Estate",
+      "Pensnett Trading Estate"
+    ],
+    "industries": [
+      "Foundry engineering, chain manufacture and metallurgy",
+      "NHS clinical case files and pathology archives",
+      "Metropolitan borough council statutory planning records",
+      "Automotive aftermarket parts and mechanical spares",
+      "Building products and construction equipment storage"
+    ],
+    "junctions": [
+      "A4123 Birmingham New Road",
+      "A461 Duncan Edwards Way",
+      "M5 Junction 2",
+      "A459 Castle Hill",
+      "A4101 High Street corridor"
+    ]
+  },
+  {
+    "slug": "solihull",
+    "town": "Solihull",
+    "county": "West Midlands",
+    "region": "West Midlands",
+    "estates": [
+      "Solihull Hospital (University Hospitals Birmingham NHS Foundation Trust)",
+      "Solihull Council Civic Centre Homer Road",
+      "Birmingham Business Park",
+      "Fore Business Park",
+      "Elmdon Trading Estate"
+    ],
+    "industries": [
+      "Luxury automotive engineering and prototype components",
+      "Financial services and insurance archival records",
+      "NHS secondary care clinical archives",
+      "Metropolitan council statutory registries and tax records",
+      "Aviation ground equipment and electronics storage"
+    ],
+    "junctions": [
+      "M42 Junction 4",
+      "M42 Junction 5",
+      "M42 Junction 6",
+      "A45 Coventry Road",
+      "A34 Stratford Road"
+    ]
+  },
+  {
+    "slug": "tamworth",
+    "town": "Tamworth",
+    "county": "Staffordshire",
+    "region": "West Midlands",
+    "estates": [
+      "Sir Robert Peel Hospital (University Hospitals of Derby and Burton NHS Foundation Trust)",
+      "Tamworth Borough Council Marmion House",
+      "Amington Industrial Estate",
+      "Lichfield Road Industrial Estate",
+      "Centurion Park"
+    ],
+    "industries": [
+      "Wholesale distribution and e-commerce parts warehousing",
+      "Paper manufacturing and packaging supplies",
+      "NHS outpatient health records",
+      "Borough municipal planning and environmental archives",
+      "Automotive supply chain and metal pressing spares"
+    ],
+    "junctions": [
+      "M42 Junction 10",
+      "A5 Fazeley Bypass",
+      "A51 Lichfield Road",
+      "A453 Sutton Road",
+      "B5000 Glascote Road"
+    ]
+  },
+  {
+    "slug": "cannock",
+    "town": "Cannock",
+    "county": "Staffordshire",
+    "region": "West Midlands",
+    "estates": [
+      "Cannock Chase Hospital (The Royal Wolverhampton NHS Trust)",
+      "Cannock Chase Council Civic Centre Beecroft Road",
+      "Kingswood Lakeside Employment Park",
+      "Lichfield Road Industrial Estate",
+      "Walkmill Lane Industrial Estate"
+    ],
+    "industries": [
+      "Automotive stamping and diesel power components",
+      "Contract logistics and parcel fulfillment",
+      "NHS elective surgical clinical records",
+      "District council statutory planning files",
+      "Specialist tooling, fixtures and parts storage"
+    ],
+    "junctions": [
+      "M6 Toll Junction T7",
+      "M6 Junction 11",
+      "M6 Junction 12",
+      "A5 Watling Street",
+      "A460 Eastern Way"
+    ]
+  },
+  {
+    "slug": "lichfield",
+    "town": "Lichfield",
+    "county": "Staffordshire",
+    "region": "West Midlands",
+    "estates": [
+      "Samuel Johnson Community Hospital (University Hospitals of Derby and Burton NHS Foundation Trust)",
+      "Lichfield District Council District Council House Frog Lane",
+      "Britannia Enterprise Park",
+      "Burton Road Industrial Estate",
+      "Trent Valley Industrial Estate"
+    ],
+    "industries": [
+      "Cathedral heritage and ecclesiastic manuscripts",
+      "NHS community healthcare documentation",
+      "District council planning, conservation and tax records",
+      "Precision metal pressing and engineering tooling",
+      "Food distribution and packaging storage"
+    ],
+    "junctions": [
+      "A38 dual carriageway",
+      "A5 Wall Bypass",
+      "M6 Toll Junction T4",
+      "A51 Western Bypass",
+      "A5127 Birmingham Road"
+    ]
+  },
+  {
+    "slug": "rugby",
+    "town": "Rugby",
+    "county": "Warwickshire",
+    "region": "West Midlands",
+    "estates": [
+      "Hospital of St Cross (University Hospitals Coventry and Warwickshire NHS Trust)",
+      "Rugby Borough Council Town Hall Evreux Way",
+      "Swift Valley Industrial Estate",
+      "Midland Gateway Logistics Park",
+      "Central Park Business Park"
+    ],
+    "industries": [
+      "Heavy electrical turbine engineering and power transformers",
+      "National logistics and automated supply chain parts",
+      "NHS elective surgery clinical case files",
+      "Borough municipal records and building control files",
+      "Railway testing equipment and precision spares"
+    ],
+    "junctions": [
+      "M6 Junction 1",
+      "M1 Junction 18",
+      "M1 Junction 19 Catthorpe Interchange",
+      "A426 Leicester Road",
+      "A5 Watling Street"
+    ]
+  },
+  {
+    "slug": "warwick",
+    "town": "Warwick",
+    "county": "Warwickshire",
+    "region": "West Midlands",
+    "estates": [
+      "Warwick Hospital (South Warwickshire University NHS Foundation Trust)",
+      "Warwickshire County Council Shire Hall Market Place",
+      "Warwick Technology Park",
+      "Heathcote Industrial Estate",
+      "Wedgnock Industrial Estate"
+    ],
+    "industries": [
+      "County administrative and statutory archives",
+      "Automotive vehicle dynamics and motorsport engineering",
+      "NHS acute health records and patient history retention",
+      "Information technology and telemetry hardware",
+      "Medical device assembly and clinical storage"
+    ],
+    "junctions": [
+      "M40 Junction 15 Longbridge",
+      "M40 Junction 14",
+      "A46 Warwick Bypass",
+      "A429 Coventry Road",
+      "A425 Banbury Road"
+    ]
+  },
+  {
+    "slug": "leamington-spa",
+    "town": "Royal Leamington Spa",
+    "county": "Warwickshire",
+    "region": "West Midlands",
+    "estates": [
+      "Royal Leamington Spa Rehabilitation Hospital (South Warwickshire University NHS Foundation Trust)",
+      "Warwick District Council Town Hall Parade",
+      "Sydenham Industrial Estate",
+      "Tachbrook Park",
+      "Althorpe Innovation District"
+    ],
+    "industries": [
+      "Interactive video game development hardware archives",
+      "Automotive steering systems and braking engineering",
+      "NHS rehabilitation case files and clinical documentation",
+      "District council planning and local land charges",
+      "Specialist tooling, electronics and precision parts"
+    ],
+    "junctions": [
+      "M40 Junction 13",
+      "M40 Junction 14",
+      "A452 Europa Way",
+      "A425 Old Warwick Road",
+      "B4087 Tachbrook Road"
+    ]
+  },
+  {
+    "slug": "stratford-upon-avon",
+    "town": "Stratford-upon-Avon",
+    "county": "Warwickshire",
+    "region": "West Midlands",
+    "estates": [
+      "Stratford Hospital (South Warwickshire University NHS Foundation Trust)",
+      "Stratford-on-Avon District Council Elizabeth House",
+      "Shakespeare Birthplace Trust Library and Archive",
+      "Masons Road Industrial Estate",
+      "Maybrook Industrial Estate"
+    ],
+    "industries": [
+      "Literary heritage, theatrical archives and rare manuscripts",
+      "NHS community hospital and outpatient records",
+      "District council conservation, planning and tax archives",
+      "Hospitality equipment spares and beverage distribution",
+      "Precision engineering components and tooling"
+    ],
+    "junctions": [
+      "A46 Stratford Northern Bypass",
+      "M40 Junction 15 via A46",
+      "A3400 Birmingham Road",
+      "A422 Banbury Road",
+      "A4390 Western Relief Road"
+    ]
+  },
+  {
+    "slug": "nuneaton",
+    "town": "Nuneaton",
+    "county": "Warwickshire",
+    "region": "West Midlands",
+    "estates": [
+      "George Eliot Hospital NHS Trust",
+      "Nuneaton and Bedworth Borough Council Town Hall Coton Road",
+      "Attleborough Fields Industrial Estate",
+      "Bermuda Park Industrial Estate",
+      "Caldwell Industrial Estate"
+    ],
+    "industries": [
+      "Automotive safety systems and seatbelt manufacturing",
+      "NHS acute hospital health records management",
+      "Borough council statutory planning documents",
+      "Distribution, wholesale trade and parts warehousing",
+      "Precision metal stamping and fixtures storage"
+    ],
+    "junctions": [
+      "A444 Bedworth Bypass",
+      "M6 Junction 3",
+      "A47 Hinckley Road",
+      "A5 dual carriageway corridor",
+      "B4113 Coventry Road"
+    ]
+  },
+  {
+    "slug": "kettering",
+    "town": "Kettering",
+    "county": "Northamptonshire",
+    "region": "East Midlands",
+    "estates": [
+      "Kettering General Hospital NHS Foundation Trust",
+      "North Northamptonshire Council Bowling Green Road",
+      "Telford Way Industrial Estate",
+      "Pytchley Business Park",
+      "Cransley Park"
+    ],
+    "industries": [
+      "Footwear quality testing and leather technical archives",
+      "NHS acute hospital health record management",
+      "Unitary council statutory archives and tax records",
+      "National logistics and parcel fulfillment inventory",
+      "Precision components and engineering tooling"
+    ],
+    "junctions": [
+      "A14 Junction 7",
+      "A14 Junction 8",
+      "A14 Junction 9",
+      "A43 Northern Bypass",
+      "A509 corridor"
+    ]
+  },
+  {
+    "slug": "corby",
+    "town": "Corby",
+    "county": "Northamptonshire",
+    "region": "East Midlands",
+    "estates": [
+      "Corby Community Hospital (Northamptonshire Healthcare NHS Foundation Trust)",
+      "North Northamptonshire Council Corby Cube George Street",
+      "Weldon North Industrial Estate",
+      "Willowbrook Industrial Estate",
+      "Eurohub Logistics Park"
+    ],
+    "industries": [
+      "Steel tube manufacturing and metal fabrication",
+      "National distribution, cold storage and freight records",
+      "NHS community healthcare records",
+      "Unitary council statutory planning and registry archives",
+      "Plastics recycling and industrial packaging"
+    ],
+    "junctions": [
+      "A43 Southern Gateway",
+      "A6003 Uppingham Road",
+      "A427 Weldon Road",
+      "A14 Junction 7 via A6003",
+      "A6116 corridor"
+    ]
+  },
+  {
+    "slug": "wellingborough",
+    "town": "Wellingborough",
+    "county": "Northamptonshire",
+    "region": "East Midlands",
+    "estates": [
+      "Isebrook Hospital (Northamptonshire Healthcare NHS Foundation Trust)",
+      "North Northamptonshire Council Tithe Barn Office",
+      "Finedon Road Industrial Estate",
+      "Park Farm Industrial Estate",
+      "Denington Industrial Estate"
+    ],
+    "industries": [
+      "Logistics, ambient freight and warehousing parts",
+      "Specialist footwear manufacturing and heritage archives",
+      "NHS outpatient and rehabilitation records",
+      "Unitary council planning and statutory land registries",
+      "Packaging materials and industrial consumables"
+    ],
+    "junctions": [
+      "A45 dual carriageway",
+      "A509 Wilby Way",
+      "A510 Finedon Road",
+      "M1 Junction 15 via A45",
+      "A4500 Northampton Road"
+    ]
+  },
+  {
+    "slug": "banbury",
+    "town": "Banbury",
+    "county": "Oxfordshire",
+    "region": "South East",
+    "estates": [
+      "Horton General Hospital (Oxford University Hospitals NHS Foundation Trust)",
+      "Cherwell District Council Bodicote House",
+      "Overthorpe Industrial Estate",
+      "Wildmere Industrial Estate",
+      "Banbury Cross Business Park"
+    ],
+    "industries": [
+      "Motorsport engineering and Formula 1 carbon composites",
+      "Coffee processing and food science batch records",
+      "NHS general hospital medical records archiving",
+      "District council planning, housing and tax registers",
+      "Automotive supply chain and machine tooling spares"
+    ],
+    "junctions": [
+      "M40 Junction 11",
+      "A422 Hennef Way",
+      "A361 Southam Road",
+      "A4260 Oxford Road",
+      "B4100 Warwick Road"
+    ]
+  },
+  {
+    "slug": "bicester",
+    "town": "Bicester",
+    "county": "Oxfordshire",
+    "region": "South East",
+    "estates": [
+      "Bicester Community Hospital (Oxford Health NHS Foundation Trust)",
+      "Cherwell District Council Bicester Garth",
+      "Bicester Motion Heritage Estate",
+      "Talisman Business Centre",
+      "Tesco Distribution Centre Estate"
+    ],
+    "industries": [
+      "Historic automotive restoration and aeronautical engineering",
+      "National retail logistics and e-commerce storage",
+      "NHS community patient records and clinical files",
+      "District council statutory planning files and housing deeds",
+      "Advanced electronics and sensor component storage"
+    ],
+    "junctions": [
+      "M40 Junction 9",
+      "A34 interchange",
+      "A41 dual carriageway",
+      "A4095 Ring Road",
+      "B4030 corridor"
+    ]
+  },
+  {
+    "slug": "aylesbury",
+    "town": "Aylesbury",
+    "county": "Buckinghamshire",
+    "region": "South East",
+    "estates": [
+      "Stoke Mandeville Hospital (Buckinghamshire Healthcare NHS Trust)",
+      "Buckinghamshire Council The Gateway Gatehouse Road",
+      "Rabans Lane Industrial Estate",
+      "Broadfields Retail and Business Park",
+      "Stocklake Industrial Area"
+    ],
+    "industries": [
+      "National spinal injury healthcare and rehabilitation files",
+      "County council planning applications and deeds",
+      "NHS acute health documentation and patient archives",
+      "Food packaging and dairy product distribution",
+      "Industrial machine components and tooling storage"
+    ],
+    "junctions": [
+      "A41 Bicester Road",
+      "A413 Wendover Road",
+      "A418 Oxford Road",
+      "A4157 Outer Ring Road",
+      "M40 Junction 8 via A418"
+    ]
+  },
+  {
+    "slug": "slough",
+    "town": "Slough",
+    "county": "Berkshire",
+    "region": "South East",
+    "estates": [
+      "Wexham Park Hospital (Frimley Health NHS Foundation Trust)",
+      "Slough Borough Council Observatory House Windsor Road",
+      "Slough Trading Estate (SEGRO)",
+      "Slough International Freight Terminal",
+      "Buckingham Avenue Commercial District"
+    ],
+    "industries": [
+      "Data centre operations and cloud infrastructure component storage",
+      "Pharmaceutical formulations and clinical trials archiving",
+      "NHS acute and trauma medical records retention",
+      "Telecommunications hardware and network cabling spares",
+      "Confectionery manufacturing and food ingredient warehousing"
+    ],
+    "junctions": [
+      "M4 Junction 6",
+      "M4 Junction 7",
+      "M25 Junction 15 interchange",
+      "A4 Bath Road corridor",
+      "A355 Tuns Lane"
+    ]
+  },
+  {
+    "slug": "maidenhead",
+    "town": "Maidenhead",
+    "county": "Berkshire",
+    "region": "South East",
+    "estates": [
+      "St Mark's Hospital (Frimley Health NHS Foundation Trust)",
+      "Royal Borough of Windsor and Maidenhead Town Hall St Ives Road",
+      "Foundation Park Roxborough Way",
+      "Vanwall Business Park",
+      "Norreys Drive Commercial Area"
+    ],
+    "industries": [
+      "Software development and enterprise technology hardware storage",
+      "Medical device development and diagnostic equipment inventory",
+      "NHS outpatient records and specialist clinical archives",
+      "Royal Borough statutory archives and planning deeds",
+      "Biotechnology research specimens and compliance records"
+    ],
+    "junctions": [
+      "M4 Junction 8/9",
+      "A404(M) bypass",
+      "M40 Junction 4 via A404",
+      "A4 Bath Road",
+      "A308 Braywick Road"
+    ]
+  },
+  {
+    "slug": "bracknell",
+    "town": "Bracknell",
+    "county": "Berkshire",
+    "region": "South East",
+    "estates": [
+      "Bracknell Healthspace (Frimley Health NHS Foundation Trust)",
+      "Bracknell Forest Council Time Square Market Street",
+      "Western Industrial Area",
+      "Southern Industrial Area",
+      "Arlington Square Business Park"
+    ],
+    "industries": [
+      "Automotive corporate headquarters and engineering archives",
+      "Information technology systems and enterprise computing hardware",
+      "NHS community healthcare documentation",
+      "Borough council planning applications and deeds",
+      "Supermarket distribution logistics and refrigeration spares"
+    ],
+    "junctions": [
+      "M4 Junction 10 via A329(M)",
+      "M3 Junction 3 via A322",
+      "A329 Berkshire Way",
+      "A3095 Millennium Way",
+      "A322 Bagshot Road"
+    ]
+  },
+  {
+    "slug": "woking",
+    "town": "Woking",
+    "county": "Surrey",
+    "region": "South East",
+    "estates": [
+      "Woking Community Hospital (Surrey and Borders Partnership NHS Foundation Trust)",
+      "Woking Borough Council Civic Offices Gloucester Square",
+      "Monument Way Industrial Estate",
+      "Goldsworth Park Trading Estate",
+      "McLaren Technology Centre Estate"
+    ],
+    "industries": [
+      "Motorsport technology and precision composites engineering",
+      "NHS community health and mental health casework",
+      "Borough council municipal registries and planning files",
+      "Commercial printing and specialist packaging inventory",
+      "Electronics design and prototype tooling storage"
+    ],
+    "junctions": [
+      "M25 Junction 11 via A320",
+      "M3 Junction 3 via A319",
+      "A320 Guildford Road",
+      "A245 corridor",
+      "A3 corridor via Send"
+    ]
+  },
+  {
+    "slug": "guildford",
+    "town": "Guildford",
+    "county": "Surrey",
+    "region": "South East",
+    "estates": [
+      "Royal Surrey County Hospital NHS Foundation Trust",
+      "Guildford Borough Council Millmead House",
+      "Surrey Research Park",
+      "Slyfield Industrial Estate",
+      "Midleton Industrial Estate"
+    ],
+    "industries": [
+      "Satellite technology and aerospace space payload engineering",
+      "Clinical oncology and NHS hospital medical archives",
+      "Video games development studios and code repositories",
+      "Borough council statutory land charges and planning archives",
+      "Veterinary health sciences and biomedical lab storage"
+    ],
+    "junctions": [
+      "A3 Guildford Bypass",
+      "A31 Hogs Back",
+      "M25 Junction 10 via A3",
+      "A322 Worplesdon Road",
+      "A281 Shalford Road"
+    ]
+  },
+  {
+    "slug": "basingstoke",
+    "town": "Basingstoke",
+    "county": "Hampshire",
+    "region": "South East",
+    "estates": [
+      "Basingstoke and North Hampshire Hospital (Hampshire Hospitals NHS Foundation Trust)",
+      "Basingstoke and Deane Borough Council Civic Offices London Road",
+      "Daneshill Industrial Estate",
+      "Houndmills Industrial Estate",
+      "Chineham Business Park"
+    ],
+    "industries": [
+      "Life sciences, pharmacology and clinical data storage",
+      "Financial services and corporate pensions record management",
+      "NHS acute care medical case files and radiological imaging",
+      "Borough council planning archives and environmental records",
+      "Electronics assembly, telecommunications and testing fixtures"
+    ],
+    "junctions": [
+      "M3 Junction 6",
+      "M3 Junction 7",
+      "A339 Ringway South",
+      "A33 Reading Road corridor",
+      "A30 London Road"
+    ]
+  },
+  {
+    "slug": "andover",
+    "town": "Andover",
+    "county": "Hampshire",
+    "region": "South East",
+    "estates": [
+      "Andover War Memorial Hospital (Hampshire Hospitals NHS Foundation Trust)",
+      "Test Valley Borough Council Beech Hurst Weyhill Road",
+      "Walworth Industrial Estate",
+      "Portway Industrial Estate",
+      "Andover Commercial Park"
+    ],
+    "industries": [
+      "National grocery distribution, automated retail warehousing",
+      "Defence logistics and military administrative archives",
+      "NHS outpatient clinical files and rehabilitation records",
+      "Borough municipal planning files and building control",
+      "Mechanical engineering spares and hydraulic component storage"
+    ],
+    "junctions": [
+      "A303 Andover Bypass",
+      "A343 Newbury Road",
+      "A3057 Romsey Road",
+      "A34 Bullington Cross via A303",
+      "M3 Junction 8 via A303"
+    ]
+  },
+  {
+    "slug": "winchester",
+    "town": "Winchester",
+    "county": "Hampshire",
+    "region": "South East",
+    "estates": [
+      "Royal Hampshire County Hospital (Hampshire Hospitals NHS Foundation Trust)",
+      "Hampshire County Council The Castle Castle Avenue",
+      "Winnall Industrial Estate",
+      "Bar End Commercial District",
+      "Sciviers Industrial Park"
+    ],
+    "industries": [
+      "County council historical and statutory governance archives",
+      "NHS maternity, elective surgery and patient archives",
+      "Legal practices and court case file management",
+      "Architectural practices, heritage surveys and plan storage",
+      "Specialist precision tooling and electronic components"
+    ],
+    "junctions": [
+      "M3 Junction 9",
+      "M3 Junction 10",
+      "M3 Junction 11",
+      "A34 Newbury corridor",
+      "A31 Alresford Road"
+    ]
+  },
+  {
+    "slug": "salisbury",
+    "town": "Salisbury",
+    "county": "Wiltshire",
+    "region": "South West",
+    "estates": [
+      "Salisbury District Hospital (Salisbury NHS Foundation Trust)",
+      "Wiltshire Council Bourne Hill Offices",
+      "Churchfields Industrial Estate",
+      "Old Sarum Business Park",
+      "Solstice Park (Amesbury)"
+    ],
+    "industries": [
+      "NHS regional burns and plastic surgery patient records",
+      "Defence science and biomedical research archives",
+      "Cathedral heritage archives and conservation documents",
+      "Unitary council municipal and planning records",
+      "Precision metal machining and engineering hardware"
+    ],
+    "junctions": [
+      "A36 Southampton Road",
+      "A30 London Road",
+      "A345 Castle Road",
+      "A303 corridor via A345",
+      "A338 Downton Road"
+    ]
+  },
+  {
+    "slug": "poole",
+    "town": "Poole",
+    "county": "Dorset",
+    "region": "South West",
+    "estates": [
+      "Poole Hospital (University Hospitals Dorset NHS Foundation Trust)",
+      "BCP Council Civic Centre Poole",
+      "Nuffield Industrial Estate",
+      "Tower Park Commercial Area",
+      "Fleetsbridge Business Park"
+    ],
+    "industries": [
+      "Luxury yacht manufacture and marine composites inventory",
+      "NHS acute medical case files and maternity documentation",
+      "Unitary council coastal engineering and planning archives",
+      "Electronics, sensor systems and marine instrumentation",
+      "Precision metal fabrication and tooling fixtures"
+    ],
+    "junctions": [
+      "A35 Upton Bypass",
+      "A350 Holes Bay Road",
+      "A3049 Dorset Way",
+      "A348 Ringwood Road",
+      "A31 Merley corridor"
+    ]
+  },
+  {
+    "slug": "bournemouth",
+    "town": "Bournemouth",
+    "county": "Dorset",
+    "region": "South West",
+    "estates": [
+      "Royal Bournemouth Hospital (University Hospitals Dorset NHS Foundation Trust)",
+      "BCP Council Town Hall Bourne Avenue",
+      "Bournemouth Airport Aviation Business Park",
+      "Turbary Retail and Commercial Park",
+      "Wallisdown Industrial Estate"
+    ],
+    "industries": [
+      "Aviation repair, avionics maintenance and aircraft tooling",
+      "Financial services, customer insurance and mortgage archives",
+      "NHS acute hospital patient health records",
+      "Unitary council planning, council tax and electoral records",
+      "Creative digital agencies and physical media storage"
+    ],
+    "junctions": [
+      "A338 Wessex Way",
+      "A31 Ashley Heath interchange",
+      "A347 Wimborne Road",
+      "A3060 Castle Lane East",
+      "B3068 corridor"
+    ]
+  },
+  {
+    "slug": "weymouth",
+    "town": "Weymouth",
+    "county": "Dorset",
+    "region": "South West",
+    "estates": [
+      "Weymouth Community Hospital (Dorset HealthCare University NHS Foundation Trust)",
+      "Weymouth Town Council Commercial Road",
+      "Granby Industrial Estate",
+      "Mount Pleasant Business Park",
+      "Lynch Lane Industrial Estate"
+    ],
+    "industries": [
+      "Marine electronics, sonar and subsea acoustic equipment",
+      "NHS community healthcare records and clinical therapy files",
+      "Town and Dorset Council statutory planning and coastal records",
+      "Engineering fabrication and sheet metal tooling",
+      "Wholesale marine chandlery and seasonal inventory"
+    ],
+    "junctions": [
+      "A354 Weymouth Relief Road",
+      "A35 Dorchester bypass via A354",
+      "B3156 Chickerell Road",
+      "B3157 West Bay Road",
+      "A353 Preston Road"
+    ]
+  },
+  {
+    "slug": "taunton",
+    "town": "Taunton",
+    "county": "Somerset",
+    "region": "South West",
+    "estates": [
+      "Musgrove Park Hospital (Somerset NHS Foundation Trust)",
+      "Somerset Council County Hall The Crescent",
+      "Crown Industrial Estate",
+      "Blackbrook Business Park",
+      "Norton Fitzwarren Industrial Area"
+    ],
+    "industries": [
+      "UK Hydrographic Office maritime chart and surveying archives",
+      "County unitary council statutory planning and social care records",
+      "NHS acute clinical health records and surgical documentation",
+      "Legal, chartered accountancy and estate management files",
+      "Agricultural equipment spares and machine components"
+    ],
+    "junctions": [
+      "M5 Junction 25",
+      "A358 Toneway",
+      "A38 Wellington Road",
+      "A3259 Priorswood corridor",
+      "A361 corridor via A38"
+    ]
+  },
+  {
+    "slug": "yeovil",
+    "town": "Yeovil",
+    "county": "Somerset",
+    "region": "South West",
+    "estates": [
+      "Yeovil District Hospital NHS Foundation Trust",
+      "Somerset Council Petters House",
+      "Houndstone Business Park",
+      "Pen Mill Trading Estate",
+      "Lynx Trading Estate"
+    ],
+    "industries": [
+      "Helicopter manufacturing and aerospace transmission components",
+      "NHS acute clinical records and day-surgery files",
+      "Glove making and historic leathercraft heritage records",
+      "Unitary council local planning and deeds storage",
+      "Precision tooling, jigs and avionics test gear"
+    ],
+    "junctions": [
+      "A30 Reckleford / Queensway",
+      "A37 Ilchester Road",
+      "A3088 Western Relief Road",
+      "A303 Podimore roundabout via A37",
+      "A359 Mudford Road"
+    ]
+  },
+  {
+    "slug": "weston-super-mare",
+    "town": "Weston-super-Mare",
+    "county": "Somerset",
+    "region": "South West",
+    "estates": [
+      "Weston General Hospital (University Hospitals Bristol and Weston NHS Foundation Trust)",
+      "North Somerset Council Town Hall Walliscote Grove Road",
+      "Winterstoke Commercial Park",
+      "Oldmixon Crescent Industrial Estate",
+      "Weston Business Quarter"
+    ],
+    "industries": [
+      "Helicopter structural maintenance and aerospace archives",
+      "NHS general hospital medical records and patient charts",
+      "Unitary council municipal planning, coastal defense and tax records",
+      "Light manufacturing, injection moulding and metal pressing",
+      "Packaging materials and commercial inventory storage"
+    ],
+    "junctions": [
+      "M5 Junction 21",
+      "A370 Somerset Avenue",
+      "A371 Locking Moor Road",
+      "B3440 Bridgwater Road",
+      "A38 corridor via A371"
+    ]
+  },
+  {
+    "slug": "torquay",
+    "town": "Torquay",
+    "county": "Devon",
+    "region": "South West",
+    "estates": [
+      "Torbay Hospital (Torbay and South Devon NHS Foundation Trust)",
+      "Torbay Council Town Hall Castle Circus",
+      "Barton Industrial Estate",
+      "Woodland Enterprise Park",
+      "Torre Commercial Centre"
+    ],
+    "industries": [
+      "Photonics, fibre optic components and laser manufacturing",
+      "NHS integrated acute and community healthcare archives",
+      "Unitary council statutory planning, housing and harbor records",
+      "Hospitality management records and seasonal supply inventory",
+      "Precision optical tooling and electronic parts storage"
+    ],
+    "junctions": [
+      "A380 South Devon Highway",
+      "M5 Junction 31 via A380",
+      "A3022 Riviera Way",
+      "A379 Teignmouth Road",
+      "B3199 corridor"
+    ]
+  },
+  {
+    "slug": "truro",
+    "town": "Truro",
+    "county": "Cornwall",
+    "region": "South West",
+    "estates": [
+      "Royal Cornwall Hospital Treliske (Royal Cornwall Hospitals NHS Trust)",
+      "Cornwall Council New County Hall Treyew Road",
+      "Truro Business Park Threemilestone",
+      "Castle Rise Commercial Centre",
+      "Malabar Industrial Estate"
+    ],
+    "industries": [
+      "Cornwall county administrative and mining archive records",
+      "NHS acute tertiary hospital clinical medical case files",
+      "Legal, land registry and rural estate title deeds",
+      "Cathedral heritage records and diocesan documentation",
+      "Renewable energy and marine technology engineering components"
+    ],
+    "junctions": [
+      "A390 Highertown corridor",
+      "A39 Tregolls Road",
+      "A30 Chiverton Cross interchange",
+      "B3284 Kenwyn Road",
+      "A39 Morlaix Avenue"
+    ]
+  },
+  {
+    "slug": "st-austell",
+    "town": "St Austell",
+    "county": "Cornwall",
+    "region": "South West",
+    "estates": [
+      "St Austell Community Hospital (Cornwall Partnership NHS Foundation Trust)",
+      "Cornwall Council Penwinnick Road Offices",
+      "St Austell Business Park Carclaze",
+      "Manfield Way Industrial Estate Holmbush",
+      "Treverbyn Industrial Area"
+    ],
+    "industries": [
+      "China clay extraction, mineral logistics and geological core archives",
+      "Brewing, beverage bottling and distribution spares",
+      "NHS community hospital outpatient records",
+      "Unitary council local planning files and council tax records",
+      "Civil engineering plant spares and heavy equipment tooling"
+    ],
+    "junctions": [
+      "A390 Holmbush Road",
+      "A391 Carluddon Road",
+      "A30 Innis Downs junction via A391",
+      "B3274 Bodmin Road",
+      "B3273 Pentewan Road"
+    ]
+  },
+  {
+    "slug": "falmouth",
+    "town": "Falmouth",
+    "county": "Cornwall",
+    "region": "South West",
+    "estates": [
+      "Falmouth Hospital (Cornwall Partnership NHS Foundation Trust)",
+      "Cornwall Council / Town Council The Moor Municipal Offices",
+      "Falmouth Docks Marine Operations Estate",
+      "Tregoniggie Industrial Estate",
+      "Bickland Industrial Park"
+    ],
+    "industries": [
+      "Ship repair, naval engineering and marine refit spares",
+      "Art and design university creative archives and portfolio stores",
+      "NHS community hospital clinical treatment records",
+      "Harbour authority records, shipping logs and maritime charts",
+      "Electronic marine instrumentation and fabrication tooling"
+    ],
+    "junctions": [
+      "A39 Dracaena Avenue",
+      "A393 Sandy Lane",
+      "A30 via A39 at Carland Cross",
+      "B3292 Penryn bypass corridor",
+      "B3314 Bickland Water Road"
+    ]
+  },
+  {
+    "slug": "penzance",
+    "town": "Penzance",
+    "county": "Cornwall",
+    "region": "South West",
+    "estates": [
+      "West Cornwall Hospital (Royal Cornwall Hospitals NHS Trust)",
+      "Cornwall Council St John's Hall Alverton Street",
+      "Long Rock Industrial Estate",
+      "Penzance Harbour and Docks Commercial Area",
+      "Eastern Green Business Park"
+    ],
+    "industries": [
+      "Commercial fishing, fish processing and marine cold chain spares",
+      "NHS acute and urgent treatment hospital medical records",
+      "Cornwall unitary council municipal planning and housing archives",
+      "Marine salvage equipment and coastal engineering stores",
+      "Art galleries, historical collections and cultural heritage archives"
+    ],
+    "junctions": [
+      "A30 bypass terminus",
+      "A3071 St Just Road",
+      "B3311 St Ives corridor",
+      "A394 Helston Road at Long Rock",
+      "Chy-an-Mor roundabout"
+    ]
+  },
+  {
+    "slug": "barnsley",
+    "town": "Barnsley",
+    "county": "South Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "Barnsley Hospital NHS Foundation Trust Gawber Road",
+      "Barnsley Metropolitan Borough Council Town Hall Church Street",
+      "Carlton Industrial Estate",
+      "Wharncliffe Business Park",
+      "Barugh Green Commercial Centre"
+    ],
+    "industries": [
+      "Glass bottle manufacture and industrial packaging components",
+      "NHS acute clinical health records and patient history retention",
+      "Metropolitan borough statutory planning deeds and mining archives",
+      "Specialist metal fabrication and industrial machine tooling",
+      "Online retail fulfillment and automated pallet logistics"
+    ],
+    "junctions": [
+      "M1 Junction 36",
+      "M1 Junction 37",
+      "M1 Junction 38",
+      "A628 Dodworth Road",
+      "A635 Dearne Valley Parkway"
+    ]
+  },
+  {
+    "slug": "scunthorpe",
+    "town": "Scunthorpe",
+    "county": "North Lincolnshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "Scunthorpe General Hospital (Northern Lincolnshire and Goole NHS Foundation Trust)",
+      "North Lincolnshire Council Church Square House",
+      "Foxhills Industrial Estate",
+      "Skippingdale Industrial Estate",
+      "Normanby Enterprise Park"
+    ],
+    "industries": [
+      "Heavy steel rolling, metallurgy testing and structural steel spares",
+      "NHS clinical archives and outpatient medical case files",
+      "Unitary council statutory land charges and planning files",
+      "Chemical processing equipment and pipe valve storage",
+      "Heavy machinery components and engineering consumables"
+    ],
+    "junctions": [
+      "M180 Junction 3 via M181",
+      "M180 Junction 4 via A15",
+      "A18 Mortal Ash Hill",
+      "A159 Gainsborough Road",
+      "A1077 Phoenix Parkway"
+    ]
+  },
+  {
+    "slug": "grimsby",
+    "town": "Grimsby",
+    "county": "North East Lincolnshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "Diana, Princess of Wales Hospital (Northern Lincolnshire and Goole NHS Foundation Trust)",
+      "North East Lincolnshire Council Municipal Offices Town Hall Square",
+      "Europarc Innovation and Business Park",
+      "Pyewipe Industrial Estate",
+      "South Humberside Industrial Estate"
+    ],
+    "industries": [
+      "Offshore wind turbine maintenance spares and marine engineering",
+      "Refrigerated food processing, cold chain logistics and seafood inventory",
+      "NHS acute hospital clinical files and surgical records",
+      "Unitary council harbor authority logs and planning registers",
+      "Petrochemical maintenance parts and industrial valve fittings"
+    ],
+    "junctions": [
+      "A180 dual carriageway",
+      "M180 corridor via A180",
+      "A16 Peaks Parkway",
+      "A46 Laceby Road",
+      "A1136 Great Coates interchange"
+    ]
+  },
+  {
+    "slug": "harrogate",
+    "town": "Harrogate",
+    "county": "North Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "Harrogate District Hospital (Harrogate and District NHS Foundation Trust)",
+      "North Yorkshire Council Harrogate Civic Centre St Luke's Avenue",
+      "Hornbeam Park Business Complex",
+      "Claro Road Commercial Area",
+      "St James Business Park (Knaresborough)"
+    ],
+    "industries": [
+      "Exhibition, convention conference logistics and display equipment",
+      "Financial advisory, investment wealth management and tax archives",
+      "NHS acute and community healthcare medical records",
+      "Unitary council statutory planning, conservation and deeds archives",
+      "Scientific testing instrumentation and lab consumables storage"
+    ],
+    "junctions": [
+      "A1(M) Junction 47 via A59",
+      "A61 Ripon Road",
+      "A661 Wetherby Road",
+      "A59 Skipton Road",
+      "A658 Harrogate Southern Bypass"
+    ]
+  },
+  {
+    "slug": "scarborough",
+    "town": "Scarborough",
+    "county": "North Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "Scarborough General Hospital (York and Scarborough Teaching Hospitals NHS Foundation Trust)",
+      "North Yorkshire Council Scarborough Town Hall St Nicholas Street",
+      "Eastfield Industrial Estate",
+      "Olympian Trading Estate",
+      "Cayton Low Road Industrial Area"
+    ],
+    "industries": [
+      "Coach building, commercial vehicle chassis manufacturing spares",
+      "NHS acute hospital patient health records and clinical archives",
+      "Unitary council marine engineering and planning documentation",
+      "Commercial printing and packaging supplies warehousing",
+      "Precision marine mechanical components and electronics"
+    ],
+    "junctions": [
+      "A64 Seamer Road corridor",
+      "A165 Filey Road",
+      "A170 Stepney Road",
+      "A171 Scalby Road",
+      "B1261 Cayton bypass"
+    ]
+  },
+  {
+    "slug": "ipswich",
+    "town": "Ipswich",
+    "county": "Suffolk",
+    "region": "East of England",
+    "estates": [
+      "Ipswich Hospital (East Suffolk and North Essex NHS Foundation Trust)",
+      "Suffolk County Council Endeavour House Russell Road",
+      "Ransomes Europark",
+      "Hadleigh Road Industrial Estate",
+      "White House Industrial Estate"
+    ],
+    "industries": [
+      "International freight forwarding and Felixstowe port logistics",
+      "Commercial insurance underwriting and reinsurance archives",
+      "NHS acute medical case files and clinical history retention",
+      "County council administrative and statutory school archives",
+      "Agricultural machinery spares and precision engineering tooling"
+    ],
+    "junctions": [
+      "A14 Junction 55 Copdock Mill",
+      "A14 Junction 57 Nacton",
+      "A12 southern corridor",
+      "A1156 Felixstowe Road",
+      "A1214 Ipswich Ring Road"
+    ]
+  },
+  {
+    "slug": "bury-st-edmunds",
+    "town": "Bury St Edmunds",
+    "county": "Suffolk",
+    "region": "East of England",
+    "estates": [
+      "West Suffolk Hospital NHS Foundation Trust Hardwick Lane",
+      "West Suffolk Council West Suffolk House Western Way",
+      "Moreton Hall Industrial Estate",
+      "Blenheim Industrial Park",
+      "British Sugar Factory Commercial Zone"
+    ],
+    "industries": [
+      "Brewing heritage, malting quality records and bottling supplies",
+      "Sugar refining machinery spares and agricultural logistics",
+      "NHS acute clinical patient records and surgical files",
+      "District council statutory planning files and housing deeds",
+      "Precision electronics assembly and cleanroom component stores"
+    ],
+    "junctions": [
+      "A14 Junction 43",
+      "A14 Junction 44 Moreton Hall",
+      "A134 Newmarket Road",
+      "A143 Diss corridor",
+      "B1106 Newmarket Road"
+    ]
+  },
+  {
+    "slug": "lowestoft",
+    "town": "Lowestoft",
+    "county": "Suffolk",
+    "region": "East of England",
+    "estates": [
+      "Lowestoft Hospital Site (James Paget University Hospitals NHS Foundation Trust)",
+      "East Suffolk Council Riverside Canning Road",
+      "South Lowestoft Industrial Estate",
+      "Harbour Road Industrial Area",
+      "PowerPark Renewable Energy Business Zone"
+    ],
+    "industries": [
+      "Offshore wind energy operations, cabling and turbine spares",
+      "Commercial fishing, fish processing and cold chain storage",
+      "East Suffolk council statutory harbor records and planning files",
+      "NHS community healthcare and outpatient clinical documentation",
+      "Marine salvage engineering and steel fabrication fixtures"
+    ],
+    "junctions": [
+      "A12 southern relief road",
+      "A146 Beccles Road",
+      "A47 northern coastal corridor",
+      "B1532 London Road North",
+      "A1144 Normanston Drive"
+    ]
+  },
+  {
+    "slug": "colchester",
+    "town": "Colchester",
+    "county": "Essex",
+    "region": "East of England",
+    "estates": [
+      "Colchester Hospital (East Suffolk and North Essex NHS Foundation Trust)",
+      "Colchester City Council Town Hall High Street",
+      "Severalls Business Park",
+      "Whitehall Industrial Estate",
+      "Colchester Northern Gateway"
+    ],
+    "industries": [
+      "Ministry of Defence garrison administrative and logistics records",
+      "NHS acute tertiary hospital clinical files and radiology archives",
+      "City council historic charters, archaeological and planning archives",
+      "Book printing, binding supplies and publisher inventory",
+      "Light manufacturing, industrial valves and mechanical fasteners"
+    ],
+    "junctions": [
+      "A12 Junction 28 Northern Gateway",
+      "A12 Junction 27 Spring Lane",
+      "A120 Harwich corridor",
+      "A133 Cowdray Avenue",
+      "A134 Northern Approach Road"
+    ]
+  },
+  {
+    "slug": "chelmsford",
+    "town": "Chelmsford",
+    "county": "Essex",
+    "region": "East of England",
+    "estates": [
+      "Broomfield Hospital (Mid and South Essex NHS Foundation Trust)",
+      "Essex County Council County Hall Market Road",
+      "Chelmsford City Council Civic Centre Duke Street",
+      "Widford Industrial Estate",
+      "Springfield Business Park"
+    ],
+    "industries": [
+      "County council central statutory archives and historical deeds",
+      "NHS acute and regional burns trauma health records",
+      "Defence communications, radar systems and avionics hardware",
+      "Legal practices, judicial case files and chartered survey plans",
+      "Precision machinery assembly and electronic testing fixtures"
+    ],
+    "junctions": [
+      "A12 Junction 15 Three Mile Hill",
+      "A12 Junction 19 Boreham Interchange",
+      "A130 Essex Regiment Way",
+      "A414 Maldon Road",
+      "A1016 Waterhouse Lane"
+    ]
+  },
+  {
+    "slug": "southend-on-sea",
+    "town": "Southend-on-Sea",
+    "county": "Essex",
+    "region": "East of England",
+    "estates": [
+      "Southend University Hospital (Mid and South Essex NHS Foundation Trust)",
+      "Southend-on-Sea City Council Civic Centre Victoria Avenue",
+      "Progress Road Industrial Estate",
+      "Temple Farm Industrial Estate",
+      "London Southend Airport Business Park"
+    ],
+    "industries": [
+      "Aircraft maintenance, avionics overhaul and aerospace tooling",
+      "NHS acute hospital medical records and maternity files",
+      "Unitary council municipal planning, coastal defense and tax records",
+      "Medical diagnostics manufacturing and laboratory consumables",
+      "Commercial printing and retail fulfillment inventory"
+    ],
+    "junctions": [
+      "A127 Arterial Road",
+      "A13 London Road corridor",
+      "A1159 Eastern Avenue",
+      "B1015 West Road",
+      "M25 Junction 29 via A127"
+    ]
+  },
+  {
+    "slug": "basildon",
+    "town": "Basildon",
+    "county": "Essex",
+    "region": "East of England",
+    "estates": [
+      "Basildon University Hospital (Mid and South Essex NHS Foundation Trust)",
+      "Basildon Borough Council The Basildon Centre St Martin's Square",
+      "Cranes Industrial Estate",
+      "Pipps Hill Business Park",
+      "Burnt Mills Industrial Estate"
+    ],
+    "industries": [
+      "Tractor assembly, powertrain engineering and automotive component spares",
+      "Cardiothoracic surgical records and NHS patient case files",
+      "Defence thermal imaging and optronics assembly hardware",
+      "Borough council planning applications, deeds and electoral files",
+      "Wholesale distribution, ambient warehousing and machine fixtures"
+    ],
+    "junctions": [
+      "A127 Fortune of War junction",
+      "A127 Nevendon Interchange",
+      "A13 Five Bells Interchange",
+      "A176 Upper Mayne",
+      "M25 Junction 29 via A127"
+    ]
+  },
+  {
+    "slug": "harlow",
+    "town": "Harlow",
+    "county": "Essex",
+    "region": "East of England",
+    "estates": [
+      "Princess Alexandra Hospital NHS Trust Hamstel Road",
+      "Harlow District Council Civic Centre The Water Gardens",
+      "Pinnacles Industrial Estate",
+      "Templefields Industrial Estate",
+      "Harlow Innovation Park"
+    ],
+    "industries": [
+      "Life sciences, biotechnology research data and specimen storage",
+      "NHS acute clinical documentation and pathology archives",
+      "District council planning records and municipal housing registers",
+      "Data communication equipment and fibre optic cabling spares",
+      "Glass packaging, injection moulding and mechanical hardware"
+    ],
+    "junctions": [
+      "M11 Junction 7",
+      "M11 Junction 7A Gilden Way",
+      "A414 Edinburgh Way",
+      "A1025 Second Avenue",
+      "M25 Junction 27 via M11"
+    ]
+  },
+  {
+    "slug": "stevenage",
+    "town": "Stevenage",
+    "county": "Hertfordshire",
+    "region": "East of England",
+    "estates": [
+      "Lister Hospital (East and North Hertfordshire NHS Trust)",
+      "Stevenage Borough Council Daneshill House Danestrete",
+      "Gunnels Wood Industrial Area",
+      "Stevenage Bioscience Catalyst",
+      "Pin Green Industrial Estate"
+    ],
+    "industries": [
+      "Satellite manufacturing, space exploration payloads and rocket test gear",
+      "Cell and gene therapy research archives and clinical trials data",
+      "NHS acute and neonatal hospital patient health records",
+      "Defence missile systems engineering and guidance tooling",
+      "Borough council statutory planning, deeds and building control files"
+    ],
+    "junctions": [
+      "A1(M) Junction 7",
+      "A1(M) Junction 8",
+      "A602 Hitchin Road",
+      "A1072 Gunnels Wood Road",
+      "B197 London Road"
+    ]
+  },
+  {
+    "slug": "watford",
+    "town": "Watford",
+    "county": "Hertfordshire",
+    "region": "East of England",
+    "estates": [
+      "Watford General Hospital (West Hertfordshire Teaching Hospitals NHS Trust)",
+      "Watford Borough Council Town Hall Hempstead Road",
+      "Watford Business Park Greenhill Crescent",
+      "Croxley Park Hatters Lane",
+      "Imperial Way Commercial Zone"
+    ],
+    "industries": [
+      "Film and television production props, cameras and studio archives",
+      "National corporate headquarters legal and finance documentation",
+      "NHS acute teaching hospital medical case files and clinical charts",
+      "Borough council planning applications, building control and tax registers",
+      "Telecommunications hardware and enterprise computing storage"
+    ],
+    "junctions": [
+      "M1 Junction 5",
+      "M25 Junction 19 Hunton Bridge",
+      "M25 Junction 20 Kings Langley",
+      "A41 North Western Avenue",
+      "A411 Hempstead Road"
+    ]
+  },
+  {
+    "slug": "st-albans",
+    "town": "St Albans",
+    "county": "Hertfordshire",
+    "region": "East of England",
+    "estates": [
+      "St Albans City Hospital (West Hertfordshire Teaching Hospitals NHS Trust)",
+      "St Albans City and District Council Civic Centre St Peter's Street",
+      "North Orbital Commercial Park",
+      "Valley Road Industrial Estate",
+      "Acrewood Way Commercial Area"
+    ],
+    "industries": [
+      "Chartered accountancy, legal practice and trust estate records",
+      "Cathedral heritage documentation and architectural conservation surveys",
+      "NHS elective surgical clinical records and outpatient archives",
+      "City and district council conservation, planning and registry archives",
+      "Publishing distribution, technical manuscripts and digital hardware"
+    ],
+    "junctions": [
+      "M25 Junction 21A via A405",
+      "M25 Junction 22 London Colney",
+      "M1 Junction 6 via A405",
+      "A414 North Orbital Road",
+      "A1081 London Road"
+    ]
+  },
+  {
+    "slug": "hemel-hempstead",
+    "town": "Hemel Hempstead",
+    "county": "Hertfordshire",
+    "region": "East of England",
+    "estates": [
+      "Hemel Hempstead Hospital (West Hertfordshire Teaching Hospitals NHS Trust)",
+      "Dacorum Borough Council The Forum Marlowes",
+      "Maylands Business Park",
+      "Boundary Way Industrial Area",
+      "Hemel Gateway Commercial Centre"
+    ],
+    "industries": [
+      "Information technology infrastructure and server hardware warehousing",
+      "Telecommunications switching gear and network cable inventory",
+      "NHS outpatient records and urgent care clinical documentation",
+      "Borough council statutory planning, deeds and housing registers",
+      "Medical device packaging and scientific instrument storage"
+    ],
+    "junctions": [
+      "M1 Junction 8",
+      "M25 Junction 21 via M1",
+      "A414 Breakspear Way",
+      "A41 bypass interchange",
+      "A4147 Maylands Avenue"
+    ]
+  },
+  {
+    "slug": "luton",
+    "town": "Luton",
+    "county": "Bedfordshire",
+    "region": "East of England",
+    "estates": [
+      "Luton and Dunstable University Hospital NHS Foundation Trust",
+      "Luton Borough Council Town Hall George Street",
+      "Airport Business Park Luton",
+      "Kingsway Industrial Estate",
+      "Laporte Way Industrial Estate"
+    ],
+    "industries": [
+      "Commercial aviation line maintenance spares and aircraft tooling",
+      "Automotive engineering, van assembly and pressing component stores",
+      "NHS acute tertiary hospital clinical records and trauma case files",
+      "Unitary borough council planning applications and electoral registers",
+      "Air cargo logistics, bonded goods and parcel distribution"
+    ],
+    "junctions": [
+      "M1 Junction 10 Airport Link",
+      "M1 Junction 11 Dunstable Road",
+      "M1 Junction 11A A5-M1 Link",
+      "A505 Gipsy Lane",
+      "A6 New Bedford Road"
+    ]
+  },
+  {
+    "slug": "bedford",
+    "town": "Bedford",
+    "county": "Bedfordshire",
+    "region": "East of England",
+    "estates": [
+      "Bedford Hospital (Bedfordshire Hospitals NHS Foundation Trust) Kempston Road",
+      "Bedford Borough Council Borough Hall Cauldwell Street",
+      "Elms Farm Industrial Estate",
+      "Kingsway Business Park",
+      "Viking Industrial Estate"
+    ],
+    "industries": [
+      "Heavy diesel engine testing, pump assembly and mechanical tooling",
+      "NHS acute hospital clinical records and radiology archives",
+      "Borough unitary council statutory planning, deeds and council tax records",
+      "Agricultural equipment distribution and spare parts warehousing",
+      "Packaging materials, cardboard manufacturing and commercial inventory"
+    ],
+    "junctions": [
+      "A421 Southern Bypass",
+      "A6 Paula Radcliffe Way bypass",
+      "A428 Bedford Road",
+      "M1 Junction 13 via A421",
+      "A1 Black Cat Roundabout via A421"
+    ]
+  },
+  {
+    "slug": "dunstable",
+    "town": "Dunstable",
+    "county": "Bedfordshire",
+    "region": "East of England",
+    "estates": [
+      "Dunstable Health Centre (Bedfordshire Hospitals NHS Foundation Trust)",
+      "Central Bedfordshire Council Priory House Monks Walk",
+      "Woodside Industrial Estate",
+      "Brewers Hill Industrial Area",
+      "Chiltern Park Commercial District"
+    ],
+    "industries": [
+      "Commercial vehicle logistics and supply chain freight warehousing",
+      "Cardboard packaging, plastics processing and carton stores",
+      "NHS community healthcare documentation and patient charts",
+      "Unitary council planning applications, property deeds and archives",
+      "Specialist mechanical engineering components and tooling"
+    ],
+    "junctions": [
+      "M1 Junction 11A via Woodside Link",
+      "A5 Dunstable Northern Bypass",
+      "A505 Luton Road",
+      "B489 Icknield Way",
+      "A5183 High Street South"
+    ]
+  },
+  {
+    "slug": "maidstone",
+    "town": "Maidstone",
+    "county": "Kent",
+    "region": "South East",
+    "estates": [
+      "Maidstone Hospital (Maidstone and Tunbridge Wells NHS Trust)",
+      "Kent County Council Sessions House County Hall",
+      "Maidstone Borough Council Town Hall High Street",
+      "Parkwood Industrial Estate",
+      "Eclipse Business Park"
+    ],
+    "industries": [
+      "County administrative governance and historical school deeds",
+      "NHS oncology and acute hospital clinical documentation",
+      "Paper production technology and corrugated packaging storage",
+      "Legal practices, judicial chambers and conveyancing archives",
+      "Specialist medical equipment and electronics warehousing"
+    ],
+    "junctions": [
+      "M20 Junction 5",
+      "M20 Junction 6",
+      "M20 Junction 7",
+      "A229 Blue Bell Hill",
+      "A249 Bearsted corridor"
+    ]
+  },
+  {
+    "slug": "canterbury",
+    "town": "Canterbury",
+    "county": "Kent",
+    "region": "South East",
+    "estates": [
+      "Kent and Canterbury Hospital (East Kent Hospitals University NHS Foundation Trust)",
+      "Canterbury City Council Military Road",
+      "Canterbury Cathedral Archives and Library",
+      "Wincheap Industrial Estate",
+      "Broad Oak Commercial Park"
+    ],
+    "industries": [
+      "Cathedral heritage manuscripts and ancient diocesan deeds",
+      "NHS vascular surgery, renal care and acute medical case files",
+      "University research archives and rare book special collections",
+      "City council statutory planning, conservation and tax archives",
+      "Precision joinery, architectural fixtures and conservation tooling"
+    ],
+    "junctions": [
+      "A2 Canterbury Bypass",
+      "A28 Sturry Road corridor",
+      "A2050 Rheims Way",
+      "A257 Sandwich Road",
+      "M2 Junction 7 Brenley Corner via A2"
+    ]
+  },
+  {
+    "slug": "ashford",
+    "town": "Ashford",
+    "county": "Kent",
+    "region": "South East",
+    "estates": [
+      "William Harvey Hospital (East Kent Hospitals University NHS Foundation Trust)",
+      "Ashford Borough Council Civic Centre Tannery Lane",
+      "Cobbs Wood Industrial Estate",
+      "Orbital Business Park",
+      "Eureka Business Park"
+    ],
+    "industries": [
+      "High-speed international rail maintenance and locomotive spares",
+      "Cross-channel freight forwarding, customs bonded stores and logistics",
+      "NHS acute emergency and clinical health records management",
+      "Borough council planning applications and infrastructure deeds",
+      "Food essence manufacturing and fragrance formulation archives"
+    ],
+    "junctions": [
+      "M20 Junction 9",
+      "M20 Junction 10",
+      "M20 Junction 10A",
+      "A28 Chart Road",
+      "A20 Hythe Road"
+    ]
+  },
+  {
+    "slug": "dartford",
+    "town": "Dartford",
+    "county": "Kent",
+    "region": "South East",
+    "estates": [
+      "Darent Valley Hospital (Dartford and Gravesham NHS Trust)",
+      "Dartford Borough Council Civic Centre Home Gardens",
+      "Crossways Business Park",
+      "The Bridge Business Development",
+      "Church Manorway Industrial Estate"
+    ],
+    "industries": [
+      "Pharmaceutical batch records and clinical production archives",
+      "National e-commerce logistics and express parcel distribution",
+      "NHS acute patient health records and surgical history storage",
+      "Borough council planning files and Thames gateway development deeds",
+      "Industrial machinery valves, pumps and mechanical consumables"
+    ],
+    "junctions": [
+      "M25 Junction 1A Dartford Crossing",
+      "M25 Junction 1B",
+      "M25 Junction 2",
+      "A2 Rochester Way corridor",
+      "A206 Bob Dunn Way"
+    ]
+  },
+  {
+    "slug": "gravesend",
+    "town": "Gravesend",
+    "county": "Kent",
+    "region": "South East",
+    "estates": [
+      "Gravesham Community Hospital (Dartford and Gravesham NHS Trust)",
+      "Gravesham Borough Council Civic Centre Windmill Street",
+      "Imperial Business Estate",
+      "Springhead Enterprise Park",
+      "Northfleet Industrial Area"
+    ],
+    "industries": [
+      "River Thames pilotage, marine towing and port operations records",
+      "Cement, aggregate bulk minerals and concrete testing archives",
+      "NHS outpatient records and community healthcare case files",
+      "Borough council housing registers and statutory planning records",
+      "Precision metal fabrication and electrical switchgear assembly"
+    ],
+    "junctions": [
+      "A2 Pepper Hill junction",
+      "A2 Marling Cross junction",
+      "M25 Junction 2 via A2",
+      "A226 London Road",
+      "B262 Springhead Road"
+    ]
+  },
+  {
+    "slug": "tunbridge-wells",
+    "town": "Royal Tunbridge Wells",
+    "county": "Kent",
+    "region": "South East",
+    "estates": [
+      "Tunbridge Wells Hospital at Pembury (Maidstone and Tunbridge Wells NHS Trust)",
+      "Tunbridge Wells Borough Council Town Hall Mount Pleasant Road",
+      "North Farm Industrial Estate",
+      "Longfield Road Commercial Area",
+      "High Brooms Industrial Estate"
+    ],
+    "industries": [
+      "Legal practices, corporate chancery and private trust estate deeds",
+      "Private wealth management and financial advisory archives",
+      "NHS acute care medical case files and maternity documentation",
+      "Borough council planning applications and heritage conservation plans",
+      "Specialist retail logistics, furniture fabrics and luxury consumables"
+    ],
+    "junctions": [
+      "A21 Pembury Bypass",
+      "A26 St John's Road",
+      "A264 Pembury Road",
+      "M25 Junction 5 via A21",
+      "A228 corridor"
+    ]
+  },
+  {
+    "slug": "dover",
+    "town": "Dover",
+    "county": "Kent",
+    "region": "South East",
+    "estates": [
+      "Buckland Hospital (East Kent Hospitals University NHS Foundation Trust)",
+      "Dover District Council White Cliffs Business Park Whitfield",
+      "Port of Dover Western Docks",
+      "Coombe Valley Industrial Estate",
+      "Channel Gateway Commercial Park"
+    ],
+    "industries": [
+      "Maritime port operations, ro-ro freight and customs compliance files",
+      "Border control, international logistics and transport manifests",
+      "NHS outpatient clinical files and community rehabilitation records",
+      "District council coastal planning, council tax and property deeds",
+      "Marine maintenance engineering spares and electrical repair fixtures"
+    ],
+    "junctions": [
+      "A2 Jubilee Way terminus",
+      "A20 Townwall Street corridor",
+      "M20 Junction 13 via A20",
+      "A256 Whitfield bypass",
+      "B2011 Folkestone Road"
+    ]
+  },
+  {
+    "slug": "folkestone",
+    "town": "Folkestone",
+    "county": "Kent",
+    "region": "South East",
+    "estates": [
+      "Royal Victoria Hospital (East Kent Hospitals University NHS Foundation Trust)",
+      "Folkestone and Hythe District Council Civic Centre Castle Hill Avenue",
+      "Channel Tunnel Terminal Commercial Area",
+      "Bowles Well Gardens Industrial Estate",
+      "Park Farm Industrial Estate"
+    ],
+    "industries": [
+      "Channel Tunnel undersea railway engineering and rolling stock spares",
+      "Cross-border courier logistics and automotive transit storage",
+      "NHS community hospital medical records and outpatient files",
+      "District council planning records, housing deeds and archives",
+      "Creative quarter artistic collections and physical portfolio stores"
+    ],
+    "junctions": [
+      "M20 Junction 12 Cheriton",
+      "M20 Junction 13",
+      "A20 Cherry Garden Avenue",
+      "A259 Sandgate Road",
+      "B2064 Churchill Way"
+    ]
+  },
+  {
+    "slug": "chatham",
+    "town": "Chatham",
+    "county": "Kent",
+    "region": "South East",
+    "estates": [
+      "Medway Maritime Hospital (Medway NHS Foundation Trust) Windmill Road",
+      "Medway Council Gun Wharf Dock Road",
+      "Chatham Historic Dockyard Maritime Archive",
+      "Horsted Retail and Business Park",
+      "Lordswood Industrial Estate"
+    ],
+    "industries": [
+      "Naval architecture heritage, shipbuilding archives and maritime records",
+      "NHS acute tertiary hospital clinical charts and patient case files",
+      "Unitary council statutory archives, schools and tax records",
+      "Paper conversion, cartons and print packaging warehousing",
+      "Automotive engineering spares and mechanical tooling stores"
+    ],
+    "junctions": [
+      "M2 Junction 3",
+      "A229 City Way",
+      "A231 Dock Road",
+      "A2 Watling Street corridor",
+      "A289 Medway Tunnel link"
+    ]
+  },
+  {
+    "slug": "gillingham",
+    "town": "Gillingham",
+    "county": "Kent",
+    "region": "South East",
+    "estates": [
+      "Medway Maritime Hospital Site Gillingham",
+      "Medway Council Gillingham Municipal Buildings Canterbury Street",
+      "Gillingham Business Park Ambley Road",
+      "Pier Approach Industrial Area",
+      "Courtany Road Commercial Estate"
+    ],
+    "industries": [
+      "Precision manufacturing, injection moulding and metal stamping",
+      "Medical supplies distribution and healthcare equipment storage",
+      "NHS clinical records and day-care surgical documentation",
+      "Unitary council local planning applications and housing registers",
+      "Contract packaging, wholesale confectionery and ambient freight"
+    ],
+    "junctions": [
+      "M2 Junction 4",
+      "A2 Bowater Roundabout",
+      "A289 Ito Way / Pier Way",
+      "A278 Hoath Way",
+      "B2004 Lower Rainham Road"
+    ]
+  },
+  {
+    "slug": "crawley",
+    "town": "Crawley",
+    "county": "West Sussex",
+    "region": "South East",
+    "estates": [
+      "Crawley Hospital (Surrey and Sussex Healthcare NHS Trust)",
+      "Crawley Borough Council Town Hall The Boulevard",
+      "Manor Royal Business District",
+      "Gatwick International Distribution Centre",
+      "Lowfield Heath Industrial Area"
+    ],
+    "industries": [
+      "Commercial aviation avionics, flight simulator parts and aircraft spares",
+      "Gatwick Airport freight handling and bonded warehousing archives",
+      "NHS community hospital medical records and outpatient clinic charts",
+      "Borough council planning applications, deeds and building control",
+      "Medical device assembly and pharmaceutical packaging storage"
+    ],
+    "junctions": [
+      "M23 Junction 10",
+      "M23 Junction 10A Maidenbower",
+      "A2011 Crawley Avenue",
+      "A23 London Road corridor",
+      "A264 Horsham Road"
+    ]
+  },
+  {
+    "slug": "horsham",
+    "town": "Horsham",
+    "county": "West Sussex",
+    "region": "South East",
+    "estates": [
+      "Horsham Hospital (Surrey and Sussex Healthcare NHS Trust) Hurst Road",
+      "Horsham District Council Parkside Chart Way",
+      "Blatchford Road Industrial Estate",
+      "Foundry Lane Commercial Area",
+      "Broadbridge Heath Business Park"
+    ],
+    "industries": [
+      "Pharmaceutical research records and chemical batch certificates",
+      "Life assurance, corporate pensions and financial advisory archives",
+      "NHS outpatient records and rehabilitation case documentation",
+      "District council planning records, conservation plans and housing deeds",
+      "Precision electronics, scientific sensors and test gear storage"
+    ],
+    "junctions": [
+      "A24 Horsham Bypass",
+      "A264 Crawley link",
+      "A281 Brighton Road",
+      "M23 Junction 11 via A264",
+      "B2237 Warnham Road"
+    ]
+  },
+  {
+    "slug": "worthing",
+    "town": "Worthing",
+    "county": "West Sussex",
+    "region": "South East",
+    "estates": [
+      "Worthing Hospital (University Hospitals Sussex NHS Foundation Trust)",
+      "Worthing Borough Council Town Hall Chapel Road",
+      "Broadwater Trading Estate",
+      "Meadow Road Industrial Estate",
+      "Goring-by-Sea Commercial Quarter"
+    ],
+    "industries": [
+      "Audio acoustic engineering, loudspeaker production and transducer spares",
+      "NHS acute medical case files and surgical patient archives",
+      "Financial administration, pension records and revenue services",
+      "Borough council statutory planning, coastal deeds and tax files",
+      "Specialist metal pressing, injection moulding and tool storage"
+    ],
+    "junctions": [
+      "A27 Worthing Bypass corridor",
+      "A24 Broadwater Road",
+      "A259 Goring Road coastal route",
+      "A2031 West Durrington",
+      "B2222 Salvington Road"
+    ]
+  },
+  {
+    "slug": "chichester",
+    "town": "Chichester",
+    "county": "West Sussex",
+    "region": "South East",
+    "estates": [
+      "St Richard's Hospital (University Hospitals Sussex NHS Foundation Trust)",
+      "West Sussex County Council County Hall West Street",
+      "Chichester District Council East Pallant House",
+      "Terminus Road Industrial Estate",
+      "Quarry Lane Business Park"
+    ],
+    "industries": [
+      "County council central statutory archives and historical deed registers",
+      "NHS acute care medical case files and clinical history retention",
+      "Luxury automotive coachbuilding and tailored engineering spares",
+      "Cathedral heritage archives and diocesan ecclesiastical manuscripts",
+      "Precision tooling, marine components and electrical switchgear"
+    ],
+    "junctions": [
+      "A27 Chichester Bypass",
+      "A286 Broyle Road",
+      "A259 Bognor Road corridor",
+      "A285 Westhampnett Road",
+      "B2145 Hunston Road"
+    ]
+  },
+  {
+    "slug": "brighton",
+    "town": "Brighton",
+    "county": "East Sussex",
+    "region": "South East",
+    "estates": [
+      "Royal Sussex County Hospital (University Hospitals Sussex NHS Foundation Trust)",
+      "Brighton and Hove City Council Hove Town Hall Norton Road",
+      "Hollingbury Industrial Estate",
+      "Woodingdean Business Park",
+      "Freshfield Industrial Estate"
+    ],
+    "industries": [
+      "Digital technology agency hardware, code archives and digital media",
+      "NHS regional tertiary teaching hospital and trauma clinical records",
+      "City council statutory planning, conservation areas and tax registers",
+      "Financial services, customer credit archives and legal records",
+      "University research libraries and cultural heritage collections"
+    ],
+    "junctions": [
+      "A23 London Road corridor",
+      "A27 Brighton Bypass",
+      "A259 Marine Drive coastal road",
+      "A270 Lewes Road",
+      "B2123 Falmer link"
+    ]
+  },
+  {
+    "slug": "eastbourne",
+    "town": "Eastbourne",
+    "county": "East Sussex",
+    "region": "South East",
+    "estates": [
+      "Eastbourne District General Hospital (East Sussex Healthcare NHS Trust)",
+      "Eastbourne Borough Council Town Hall Grove Road",
+      "Highfield Industrial Estate",
+      "Brampton Road Trading Estate",
+      "Hammonds Drive Commercial District"
+    ],
+    "industries": [
+      "NHS acute clinical health records and outpatient physiotherapy files",
+      "Borough council planning applications, deeds and coastal defense registers",
+      "Dental product manufacturing and precision dental laboratory tools",
+      "Legal practices, conveyancing deeds and private estate testaments",
+      "Light engineering, plastics extrusion and packaging materials"
+    ],
+    "junctions": [
+      "A22 Golden Jubilee Way",
+      "A27 Polegate Bypass via A22",
+      "A259 Seaside corridor",
+      "A2270 Willingdon Road",
+      "B2104 Langney Rise"
+    ]
+  },
+  {
+    "slug": "hastings",
+    "town": "Hastings",
+    "county": "East Sussex",
+    "region": "South East",
+    "estates": [
+      "Conquest Hospital (East Sussex Healthcare NHS Trust) The Ridge",
+      "Hastings Borough Council Muriel Matters House Breeds Place",
+      "Castleham Industrial Estate",
+      "Ponswood Industrial Estate",
+      "Churchfields Industrial District"
+    ],
+    "industries": [
+      "Optics and precision instrumentation for aerospace applications",
+      "NHS acute and maternity medical case files and radiological imaging",
+      "Borough council municipal planning records and historic fishing logs",
+      "Vacuum coating components and thin-film scientific equipment",
+      "Industrial fabrication, hydraulic equipment and electrical switchboards"
+    ],
+    "junctions": [
+      "A21 Sedlescombe Road North",
+      "A259 The Ridge / Bexhill Road",
+      "B2093 The Ridge corridor",
+      "A2101 Albert Road",
+      "A28 corridor via A21"
+    ]
+  },
+  {
+    "slug": "farnborough",
+    "town": "Farnborough",
+    "county": "Hampshire",
+    "region": "South East",
+    "estates": [
+      "Farnborough Hospital Community Site (Frimley Health NHS Foundation Trust)",
+      "Rushmoor Borough Council Council Offices Farnborough Road",
+      "Farnborough Aerospace Centre",
+      "Invincible Road Industrial Estate",
+      "Southwood Business Park"
+    ],
+    "industries": [
+      "Aeronautical wind tunnel testing, telemetry archives and flight data",
+      "Defence technology, cybersecurity hardware and avionics components",
+      "NHS community health records and outpatient clinical files",
+      "Borough council planning files, housing deeds and building control",
+      "Telecommunications network switching and corporate data centres"
+    ],
+    "junctions": [
+      "M3 Junction 4",
+      "M3 Junction 4A",
+      "A331 Blackwater Valley Route",
+      "A325 Farnborough Road",
+      "A327 Summit Avenue"
+    ]
+  },
+  {
+    "slug": "aldershot",
+    "town": "Aldershot",
+    "county": "Hampshire",
+    "region": "South East",
+    "estates": [
+      "Aldershot Centre for Health (Frimley Health NHS Foundation Trust) Hospital Hill",
+      "Rushmoor Borough Council Municipal District",
+      "Aldershot Garrison Logistics Centre",
+      "Redan Road Industrial Estate",
+      "Hollybush Industrial Park"
+    ],
+    "industries": [
+      "Military garrison administration, regimental archives and personnel files",
+      "Integrated NHS community healthcare records and outpatient documentation",
+      "Vehicle fleet maintenance spares, mechanical plant and hydraulics",
+      "Borough municipal planning files and building inspection archives",
+      "Electrical supplies, plumbing trade inventory and industrial fittings"
+    ],
+    "junctions": [
+      "A331 Blackwater Valley Relief Road",
+      "A323 Fleet Road",
+      "A325 Farnborough Road corridor",
+      "M3 Junction 4 via A331",
+      "A31 Hogs Back via A331"
+    ]
+  },
+  {
+    "slug": "epsom",
+    "town": "Epsom",
+    "county": "Surrey",
+    "region": "South East",
+    "estates": [
+      "Epsom Hospital (Epsom and St Helier University Hospitals NHS Trust) Dorking Road",
+      "Epsom and Ewell Borough Council Town Hall The Parade",
+      "Longmead Industrial Estate",
+      "Epsom Business Park Kiln Lane",
+      "Nonsuch Business Park"
+    ],
+    "industries": [
+      "Equine racing heritage, stud book pedigree records and veterinary archives",
+      "NHS acute hospital clinical files, cardiology records and surgical notes",
+      "Borough council statutory planning, green belt conservation and deeds",
+      "Motor racing engineering design and precision component spares",
+      "Commercial publishing, accountancy files and corporate administrative storage"
+    ],
+    "junctions": [
+      "M25 Junction 9 Leatherhead via A24",
+      "A24 Dorking Road corridor",
+      "A240 Kingston Road",
+      "B284 Hook Road",
+      "A2022 College Road"
+    ]
+  },
+  {
+    "slug": "wrexham",
+    "town": "Wrexham",
+    "county": "Wrexham County Borough",
+    "region": "Wales",
+    "estates": [
+      "Wrexham Maelor Hospital (Betsi Cadwaladr University Health Board)",
+      "Wrexham County Borough Council Guildhall Queen's Square",
+      "Wrexham Industrial Estate",
+      "Redwither Business Park",
+      "Llay Industrial Estate"
+    ],
+    "industries": [
+      "Pharmaceutical manufacturing and sterile batch documentation",
+      "NHS acute surgical case records and clinical files",
+      "Aerospace composite components and wing structural tooling",
+      "County borough statutory planning files and deeds",
+      "Automotive cables, wiring harnesses and assembly fixtures"
+    ],
+    "junctions": [
+      "A483 dual carriageway corridor",
+      "A534 Holt Road",
+      "A525 Ruthin Road",
+      "A5156 link road",
+      "M53 corridor via A483"
+    ]
+  },
+  {
+    "slug": "bridgend",
+    "town": "Bridgend",
+    "county": "Bridgend County Borough",
+    "region": "Wales",
+    "estates": [
+      "Princess of Wales Hospital (Cwm Taf Morgannwg University Health Board)",
+      "Bridgend County Borough Council Civic Offices Angel Street",
+      "Bridgend Industrial Estate",
+      "Waterton Industrial Estate",
+      "Brynmenyn Industrial Estate"
+    ],
+    "industries": [
+      "Engine production components and precision transmission parts",
+      "NHS acute health documentation and clinical imaging archives",
+      "County borough municipal planning records and deeds",
+      "Medical devices, orthopedic implants and surgical stores",
+      "Consumer electronics, circuit board test fixtures and spares"
+    ],
+    "junctions": [
+      "M4 Junction 35 Pencoed",
+      "M4 Junction 36 Sarn Services",
+      "A48 bypass",
+      "A4061 Tondu Road",
+      "A473 Cowbridge Road"
+    ]
+  },
+  {
+    "slug": "merthyr-tydfil",
+    "town": "Merthyr Tydfil",
+    "county": "Merthyr Tydfil County Borough",
+    "region": "Wales",
+    "estates": [
+      "Prince Charles Hospital (Cwm Taf Morgannwg University Health Board)",
+      "Merthyr Tydfil County Borough Council Civic Centre Castle Street",
+      "Pant Industrial Estate",
+      "Dowlais Chambers Business Park",
+      "Georgetown Commercial Area"
+    ],
+    "industries": [
+      "Heavy industrial machinery spares and fabricated steel parts",
+      "NHS acute and specialist regional healthcare case files",
+      "County borough administrative records and historic coal mining deeds",
+      "Automotive pressing tools, metal stampings and fasteners",
+      "Commercial laundry equipment, textiles and ambient inventory"
+    ],
+    "junctions": [
+      "A470 dual carriageway",
+      "A465 Heads of the Valleys Road",
+      "A4102 Swansea Road",
+      "A4054 corridor",
+      "M4 Junction 32 via A470"
+    ]
+  },
+  {
+    "slug": "barry",
+    "town": "Barry",
+    "county": "Vale of Glamorgan",
+    "region": "Wales",
+    "estates": [
+      "Barry Hospital (Cardiff and Vale University Health Board) Colcot Road",
+      "Vale of Glamorgan Council Civic Offices Holton Road",
+      "Atlantic Trading Estate",
+      "Barry Docks Commercial Estate",
+      "Ty Verlon Industrial Estate"
+    ],
+    "industries": [
+      "Specialist silicone chemicals and bulk fluid handling spares",
+      "NHS rehabilitation records and community clinic archives",
+      "Docks commercial freight forwarding and port operations logs",
+      "County council municipal planning, coastal deeds and tax files",
+      "Plastics recycling, blow moulding and container storage"
+    ],
+    "junctions": [
+      "A4050 Port Road",
+      "A4231 Barry Docks Link Road",
+      "A4226 Waycock Road",
+      "M4 Junction 33 via A4232 and A4050",
+      "B4267 Cardiff Road"
+    ]
+  },
+  {
+    "slug": "llanelli",
+    "town": "Llanelli",
+    "county": "Carmarthenshire",
+    "region": "Wales",
+    "estates": [
+      "Prince Philip Hospital (Hywel Dda University Health Board)",
+      "Carmarthenshire County Council Town Hall Square Offices",
+      "Dafen Industrial Estate",
+      "Trostre Steelworks Commercial Quarter",
+      "Sandy Water Park Commercial Area"
+    ],
+    "industries": [
+      "Tinplate manufacturing, steel packaging and coil handling spares",
+      "NHS acute clinical documentation and day surgery records",
+      "Automotive pressing dies, body panels and chassis parts",
+      "County council municipal planning registers and housing archives",
+      "Commercial brewing, beverage bottling and distribution crates"
+    ],
+    "junctions": [
+      "M4 Junction 48 Pont Abraham",
+      "A4138 link road",
+      "A484 Sandy Road corridor",
+      "B4304 coastal link",
+      "A476 Felinfoel Road"
+    ]
+  },
+  {
+    "slug": "neath",
+    "town": "Neath",
+    "county": "Neath Port Talbot",
+    "region": "Wales",
+    "estates": [
+      "Neath Port Talbot Hospital (Swansea Bay University Health Board)",
+      "Neath Port Talbot Council Civic Centre Neath",
+      "Milland Road Industrial Estate",
+      "Neath Abbey Business Park",
+      "Melincryddan Commercial Area"
+    ],
+    "industries": [
+      "Metal fabrication, structural steel beams and welding consumables",
+      "NHS acute medical case files and physical therapy documentation",
+      "County borough administrative archives and statutory deeds",
+      "Automotive aftermarket components and commercial vehicle spares",
+      "Specialist mineral processing and industrial fluid supplies"
+    ],
+    "junctions": [
+      "M4 Junction 43 Llandarcy",
+      "A465 Neath Bypass",
+      "A474 Briton Ferry Road",
+      "B4290 New Road",
+      "A4230 Cadoxton Road"
+    ]
+  },
+  {
+    "slug": "cwmbran",
+    "town": "Cwmbran",
+    "county": "Torfaen",
+    "region": "Wales",
+    "estates": [
+      "The Grange University Hospital (Aneurin Bevan University Health Board)",
+      "Torfaen County Borough Council Civic Centre Pontypool",
+      "Springvale Industrial Estate",
+      "Avondale Industrial Estate",
+      "Llantarnam Business Park"
+    ],
+    "industries": [
+      "Specialist clinical emergency medical files and critical care archives",
+      "Automotive braking systems and railway braking components",
+      "Biscuit manufacturing packaging and food machinery spares",
+      "County borough statutory planning files and housing deeds",
+      "Electrical transformers, switchgear and telecommunication hardware"
+    ],
+    "junctions": [
+      "A4042 dual carriageway",
+      "M4 Junction 25A via A4042",
+      "M4 Junction 26 via A4051",
+      "A4051 Cwmbran Drive",
+      "B4236 Llantarnam Road"
+    ]
+  },
+  {
+    "slug": "stirling",
+    "town": "Stirling",
+    "county": "Stirling",
+    "region": "Scotland",
+    "estates": [
+      "Stirling Community Hospital (NHS Forth Valley) Livilands Gate",
+      "Stirling Council Viewforth 14-20 Pitt Terrace",
+      "Springkerse Industrial Estate",
+      "Broadleys Business Park",
+      "Castle Business Park"
+    ],
+    "industries": [
+      "National agricultural breed registries, livestock seed archives",
+      "Scottish local authority statutory planning and historical title deeds",
+      "NHS community health documentation and rehabilitation case files",
+      "Financial administration, investment securities and legal records",
+      "Heritage tourism assets, archaeological surveys and museum stores"
+    ],
+    "junctions": [
+      "M9 Junction 9 Pirnhall Interchange",
+      "M9 Junction 10 Craigforth",
+      "A84 Millennium Way",
+      "A905 Kerse Road",
+      "A9 Glasgow Road"
+    ]
+  },
+  {
+    "slug": "perth",
+    "town": "Perth",
+    "county": "Perth and Kinross",
+    "region": "Scotland",
+    "estates": [
+      "Perth Royal Infirmary (NHS Tayside) Taymount Terrace",
+      "Perth and Kinross Council 2 High Street",
+      "Inveralmond Industrial Estate",
+      "North Muirton Industrial Estate",
+      "Perth Aerodrome Commercial Park"
+    ],
+    "industries": [
+      "Insurance underwriting, pensions and national investment archives",
+      "Scotch whisky blending batch records and cooperative cask registers",
+      "NHS acute medical case files and surgical patient notes",
+      "Council statutory planning, land ownership and rural deeds",
+      "Agricultural engineering machinery components and harvesting spares"
+    ],
+    "junctions": [
+      "M90 Junction 11 Broxden Roundabout",
+      "A9 dual carriageway bypass",
+      "A85 Crieff Road",
+      "A93 Dunkeld Road",
+      "A94 Coupar Angus Road"
+    ]
+  },
+  {
+    "slug": "inverness",
+    "town": "Inverness",
+    "county": "Highland",
+    "region": "Scotland",
+    "estates": [
+      "Raigmore Hospital (NHS Highland) Old Perth Road",
+      "The Highland Council Glenurquhart Road",
+      "Longman Industrial Estate",
+      "Inverness Campus Beechwood",
+      "Carsegate Industrial Estate"
+    ],
+    "industries": [
+      "Highland regional tertiary healthcare and remote medical case files",
+      "Medical device manufacturing, glucose sensors and diagnostic equipment",
+      "Highland Council vast territorial planning files and crofting registers",
+      "Forestry engineering spares, timber logistics and processing components",
+      "Renewable hydro and wind turbine electrical control equipment"
+    ],
+    "junctions": [
+      "A9 Kessock Bridge corridor",
+      "A96 Millburn Road / Nairn Road",
+      "A82 Glenurquhart Road",
+      "A9 Longman Roundabout",
+      "B9006 Culloden Road"
+    ]
+  },
+  {
+    "slug": "paisley",
+    "town": "Paisley",
+    "county": "Renfrewshire",
+    "region": "Scotland",
+    "estates": [
+      "Royal Alexandra Hospital (NHS Greater Glasgow and Clyde) Corsebar Road",
+      "Renfrewshire Council Renfrewshire House Cotton Street",
+      "Hillington Park (Renfrewshire Quarter)",
+      "Linwood Industrial Estate",
+      "Phoenix Business Park"
+    ],
+    "industries": [
+      "Textile heritage archives, weaving pattern books and historic thread records",
+      "NHS acute hospital medical records and clinical history documentation",
+      "Aviation ground handling components and airfreight bonded stores",
+      "Council statutory planning applications and housing registers",
+      "Commercial printing, carton manufacture and industrial supplies"
+    ],
+    "junctions": [
+      "M8 Junction 27 Renfrew / Paisley",
+      "M8 Junction 28 Glasgow Airport",
+      "M8 Junction 29 St James Interchange",
+      "A726 Lonend / Mill Street",
+      "A761 Ferguslie corridor"
+    ]
+  },
+  {
+    "slug": "east-kilbride",
+    "town": "East Kilbride",
+    "county": "South Lanarkshire",
+    "region": "Scotland",
+    "estates": [
+      "Hairmyres Hospital (NHS Lanarkshire) Eaglesham Road",
+      "South Lanarkshire Council East Kilbride Civic Centre",
+      "Kelvin Industrial Estate",
+      "College Milton Industrial Estate",
+      "Peel Park Business Centre"
+    ],
+    "industries": [
+      "Precision aero-engine overhaul and gas turbine mechanical tooling",
+      "NHS acute care medical case files and radiological imaging archives",
+      "Semiconductor wafer testing and microelectronic hardware storage",
+      "Government agency central archives and international development records",
+      "Commercial distribution, freight palletising and packaging materials"
+    ],
+    "junctions": [
+      "A725 East Kilbride Expressway",
+      "A726 Queensway / Kingsway",
+      "M77 Junction 5 via A726",
+      "M74 Junction 5 via A725",
+      "B764 Eaglesham Road"
+    ]
+  },
+  {
+    "slug": "livingston",
+    "town": "Livingston",
+    "county": "West Lothian",
+    "region": "Scotland",
+    "estates": [
+      "St John's Hospital (NHS Lothian) Howden Road West",
+      "West Lothian Council West Lothian Civic Centre Howden South Road",
+      "Houstoun Industrial Estate",
+      "Kirkton Campus Business Park",
+      "Alba Campus Innovation District"
+    ],
+    "industries": [
+      "Biotechnology vaccine manufacturing and sterile production archives",
+      "Optoelectronics, laser components and micro-assembly tooling",
+      "NHS acute hospital clinical files and pediatric healthcare records",
+      "Council statutory planning deeds and civic development registers",
+      "National retail fulfillment, parcel sortation and ambient inventory"
+    ],
+    "junctions": [
+      "M8 Junction 3 Livingston",
+      "A899 Livingston Spine Road",
+      "A71 Bankton Road",
+      "A705 Cousland Road",
+      "A89 Dechmont corridor"
+    ]
+  },
+  {
+    "slug": "dunfermline",
+    "town": "Dunfermline",
+    "county": "Fife",
+    "region": "Scotland",
+    "estates": [
+      "Queen Margaret Hospital (NHS Fife) Whitefield Road",
+      "Fife Council City Chambers Kirkgate",
+      "Pitreavie Business Park",
+      "Dunfermline Commercial Park",
+      "Halbeath Retail and Business Park"
+    ],
+    "industries": [
+      "Naval submarine refit engineering and Rosyth dockyard tooling spares",
+      "National e-commerce logistics and automated distribution inventory",
+      "NHS day-surgery medical case files and outpatient clinical archives",
+      "Council statutory planning records and historic royal burgh charters",
+      "Precision electronics, sensor systems and subsea instrumentation"
+    ],
+    "junctions": [
+      "M90 Junction 2 Pitreavie",
+      "M90 Junction 3 Halbeath Interchange",
+      "A92 East Fife Regional Road",
+      "A823 Queensferry Road",
+      "A907 Halbeath Road"
+    ]
+  },
+  {
+    "slug": "kirkcaldy",
+    "town": "Kirkcaldy",
+    "county": "Fife",
+    "region": "Scotland",
+    "estates": [
+      "Victoria Hospital (NHS Fife) Hayfield Road",
+      "Fife Council Town House Wemyssfield",
+      "Mitchelston Industrial Estate",
+      "Hayfield Industrial Estate",
+      "John Smith Business Park"
+    ],
+    "industries": [
+      "Floor covering manufacturing, linoleum formulation and chemical archives",
+      "NHS acute hospital clinical case files and trauma surgical notes",
+      "Fife Council unitary planning applications and property titles",
+      "Precision metal machining, CNC tooling and hydraulic assemblies",
+      "Food production packaging, confectionery and ambient freight stores"
+    ],
+    "junctions": [
+      "A92 Kirkcaldy West Interchange",
+      "A92 Redhouse Roundabout",
+      "A910 Western Avenue",
+      "A921 Esplanade / The Path",
+      "B981 Chapel Level"
+    ]
+  },
+  {
+    "slug": "ayr",
+    "town": "Ayr",
+    "county": "South Ayrshire",
+    "region": "Scotland",
+    "estates": [
+      "University Hospital Ayr (NHS Ayrshire and Arran) Dalmellington Road",
+      "South Ayrshire Council County Buildings Wellington Square",
+      "Heathfield Commercial Park",
+      "Preswick Airport Aerospace Quarter",
+      "Mosshill Industrial Estate"
+    ],
+    "industries": [
+      "Aerospace aerostructures, aircraft maintenance and avionics tooling",
+      "NHS acute hospital health records and surgical history files",
+      "Council statutory planning deeds, property registers and harbor logs",
+      "Precision engineering components, hydraulic fittings and jigs",
+      "Agricultural supply logistics, seed stocks and veterinary archives"
+    ],
+    "junctions": [
+      "A77 Ayr Bypass",
+      "A79 Prestwick Road corridor",
+      "A70 Holmston Road",
+      "A713 Dalmellington Road",
+      "M77 corridor via A77"
+    ]
+  },
+  {
+    "slug": "kilmarnock",
+    "town": "Kilmarnock",
+    "county": "East Ayrshire",
+    "region": "Scotland",
+    "estates": [
+      "University Hospital Crosshouse (NHS Ayrshire and Arran) Kilmarnock Road",
+      "East Ayrshire Council Council Headquarters London Road",
+      "Glencairn Industrial Estate",
+      "Moorfield Industrial Park",
+      "Bonnyton Industrial Area"
+    ],
+    "industries": [
+      "Whisky bottling equipment spares and beverage packaging archives",
+      "NHS acute hospital medical case files and maternity documentation",
+      "Ceramic sanitaryware manufacturing and vitreous enamel tooling",
+      "Council statutory planning registers and civic engineering records",
+      "Heavy commercial vehicle servicing and freight mechanical spares"
+    ],
+    "junctions": [
+      "A77 Kilmarnock Bypass",
+      "A71 Hurlford Road / Moorfield Roundabout",
+      "A735 Western Road",
+      "A759 Gatehead corridor",
+      "M77 Junction 8 via A77"
+    ]
+  },
+  {
+    "slug": "greenock",
+    "town": "Greenock",
+    "county": "Inverclyde",
+    "region": "Scotland",
+    "estates": [
+      "Inverclyde Royal Hospital (NHS Greater Glasgow and Clyde) Larkfield Road",
+      "Inverclyde Council Municipal Buildings Clyde Square",
+      "Cartsburn Marine and Commercial Park",
+      "Springfield Industrial Estate",
+      "Greenock Ocean Terminal Freight Park"
+    ],
+    "industries": [
+      "Container shipping operations, maritime logistics and customs files",
+      "Semiconductor fabrication cleanroom supplies and wafer testing spares",
+      "NHS acute general hospital medical records and clinical archives",
+      "Council statutory planning deeds and harbor trust administrative registers",
+      "Marine electronics, sonar equipment and nautical instrumentation"
+    ],
+    "junctions": [
+      "A8 Greenock corridor",
+      "M8 motorway link via A8",
+      "A78 Inverkip Road",
+      "A770 coastal route",
+      "B788 Kilmacolm Road"
+    ]
+  },
+  {
+    "slug": "coatbridge",
+    "town": "Coatbridge",
+    "county": "North Lanarkshire",
+    "region": "Scotland",
+    "estates": [
+      "Coathill Hospital (NHS Lanarkshire) Hospital Street",
+      "North Lanarkshire Council Municipal Centre Buchanan Street",
+      "Coatbank Commercial Centre",
+      "Greenhill Industrial Estate",
+      "Dundyvan Industrial Estate"
+    ],
+    "industries": [
+      "Rail freight terminal logistics and container interchange records",
+      "Structural steel fabrication, metal tube processing and tooling",
+      "NHS community hospital medical records and outpatient clinic charts",
+      "Council statutory planning applications and historic municipal archives",
+      "Electrical wholesaling, plumbing supplies and building hardware inventory"
+    ],
+    "junctions": [
+      "M8 Junction 8 Baillieston Interchange",
+      "M8 Junction 7A Shawhead",
+      "A725 North Road",
+      "A89 Bank Street corridor",
+      "M74 Junction 4 via A725"
+    ]
+  },
+  {
+    "slug": "cumbernauld",
+    "town": "Cumbernauld",
+    "county": "North Lanarkshire",
+    "region": "Scotland",
+    "estates": [
+      "Cumbernauld Community Health Centre (NHS Lanarkshire)",
+      "North Lanarkshire Council Bron Way Offices",
+      "Lenziemill Industrial Estate",
+      "Wardpark Industrial Estate",
+      "Westfield Industrial Estate"
+    ],
+    "industries": [
+      "Soft drink bottling, liquid processing lines and packaging storage",
+      "High-security electronic safe manufacturing and locking hardware",
+      "NHS community clinic health records and physiotherapy case notes",
+      "Council statutory planning, land registration and building inspection files",
+      "Electronic component assembly, cabling looms and testing rigs"
+    ],
+    "junctions": [
+      "M80 Junction 4 Westfield",
+      "M80 Junction 5",
+      "M80 Junction 6 Old Inns Interchange",
+      "A8011 Glasgow Road",
+      "A73 Airdrie Road"
+    ]
+  },
+  {
+    "slug": "lisburn",
+    "town": "Lisburn",
+    "county": "County Antrim",
+    "region": "Northern Ireland",
+    "estates": [
+      "Laganside Hospital (South Eastern Health and Social Care Trust)",
+      "Lisburn and Castlereagh City Council Lagan Valley Island Island Civic Centre",
+      "Knockmore Hill Industrial Estate",
+      "Altona Industrial Estate",
+      "Lissue Industrial Estate"
+    ],
+    "industries": [
+      "Specialist linen weaving heritage archives and textile research",
+      "HSC health and social care patient files and clinical records",
+      "City council statutory planning, municipal housing and registry files",
+      "Precision toolmaking, plastic injection dies and engineering tooling",
+      "Commercial distribution, soft drink freight and parcel sortation"
+    ],
+    "junctions": [
+      "M1 Junction 6 Saintfield Road",
+      "M1 Junction 7 Sprucefield Interchange",
+      "A1 Hillsborough corridor",
+      "A3 Moira Road",
+      "A49 Saintfield Road"
+    ]
+  },
+  {
+    "slug": "newtownabbey",
+    "town": "Newtownabbey",
+    "county": "County Antrim",
+    "region": "Northern Ireland",
+    "estates": [
+      "Whiteabbey Hospital (Northern Health and Social Care Trust) Doagh Road",
+      "Antrim and Newtownabbey Borough Council Mossley Mill Carnmoney Road North",
+      "Mallusk Industrial Estate",
+      "Hydepark Industrial Estate",
+      "Monkstown Industrial Estate"
+    ],
+    "industries": [
+      "Automotive tyre testing, rubber compound formulation archives",
+      "HSC outpatient health documentation and therapy case files",
+      "Borough council planning applications, municipal deeds and rate books",
+      "Commercial printing, carton packaging and ambient logistics",
+      "Heavy machinery components, hydraulic assemblies and tooling fixtures"
+    ],
+    "junctions": [
+      "M2 Junction 4 Sandyknowes Roundabout",
+      "M5 Junction 1 Shore Road",
+      "A6 Antrim Road",
+      "A8 Larne Road corridor",
+      "A2 Shore Road"
+    ]
+  },
+  {
+    "slug": "bangor-down",
+    "town": "Bangor",
+    "county": "County Down",
+    "region": "Northern Ireland",
+    "estates": [
+      "Bangor Community Hospital (South Eastern Health and Social Care Trust)",
+      "Ards and North Down Borough Council Town Hall The Castle",
+      "Balloo Industrial Estate",
+      "Clandeboye Commercial Centre",
+      "Springhill Retail and Business Park"
+    ],
+    "industries": [
+      "Marine electronics, sonar survey equipment and coastal monitoring spares",
+      "HSC community healthcare documentation and patient charts",
+      "Borough council statutory planning, deeds and council registers",
+      "Precision joinery, architectural fixtures and conservation supplies",
+      "Commercial retail inventory, packaging materials and seasonal goods"
+    ],
+    "junctions": [
+      "A2 Belfast Road dual carriageway",
+      "A21 Newtownards Road",
+      "B21 Gransha Road",
+      "A2 Groomsport Road",
+      "B199 Rathgael Road"
+    ]
+  },
+  {
+    "slug": "craigavon",
+    "town": "Craigavon",
+    "county": "County Armagh",
+    "region": "Northern Ireland",
+    "estates": [
+      "Craigavon Area Hospital (Southern Health and Social Care Trust) Lurgan Road",
+      "Armagh City, Banbridge and Craigavon Borough Council Craigavon Civic Centre",
+      "Carn Industrial Estate",
+      "Annesborough Industrial Estate",
+      "Silverwood Business Park"
+    ],
+    "industries": [
+      "Pharmaceutical formulations, clinical trials batch records and packaging",
+      "HSC acute hospital clinical case files and surgical notes",
+      "Borough council municipal planning, infrastructure deeds and tax records",
+      "Specialist metal pressing, agricultural machinery components and tooling",
+      "Food processing machinery spares, dairy equipment and cold chain stores"
+    ],
+    "junctions": [
+      "M1 Junction 11",
+      "M1 Junction 12",
+      "A3 Lake Road corridor",
+      "A27 Portadown Road",
+      "A76 Lurgan Road"
+    ]
+  },
+  {
+    "slug": "ballymena",
+    "town": "Ballymena",
+    "county": "County Antrim",
+    "region": "Northern Ireland",
+    "estates": [
+      "Braid Valley Hospital (Northern Health and Social Care Trust) Cushendall Road",
+      "Mid and East Antrim Borough Council The Braid 1-29 Bridge Street",
+      "Galgorm Industrial Estate",
+      "Pennybridge Industrial Estate",
+      "Woodside Road Industrial Estate"
+    ],
+    "industries": [
+      "Bus chassis manufacture, passenger transit vehicle spares and jigs",
+      "Tobacco processing heritage machinery records and factory archives",
+      "HSC acute and community patient health records",
+      "Borough council statutory planning applications and housing registers",
+      "Agricultural engineering spares, tractor parts and livestock equipment"
+    ],
+    "junctions": [
+      "M2 Ballymena Bypass",
+      "A26 Crankill Road corridor",
+      "A42 Galgorm Road",
+      "A36 Larne Road",
+      "B62 Cullybackey Road"
+    ]
+  },
+  {
+    "slug": "londonderry",
+    "town": "Londonderry",
+    "county": "County Londonderry",
+    "region": "Northern Ireland",
+    "estates": [
+      "Altnagelvin Area Hospital (Western Health and Social Care Trust) Glenshane Road",
+      "Derry City and Strabane District Council Guildhall / Strand Road Offices",
+      "Maydown Industrial Estate",
+      "Springtown Industrial Estate",
+      "Lisahally Port Commercial District"
+    ],
+    "industries": [
+      "Chemical manufacturing, synthetic yarn polymers and batch archives",
+      "HSC regional acute hospital patient charts, cancer centre records",
+      "District council planning records, historic municipal charters and deeds",
+      "Commercial port logistics, bulk timber handling and grain storage",
+      "Computer software testing hardware, enterprise computing and network spares"
+    ],
+    "junctions": [
+      "A6 Glenshane Road",
+      "A2 Clooney Road dual carriageway",
+      "A5 Victoria Road corridor",
+      "A515 Foyle Bridge",
+      "A514 Crescent Link"
+    ]
+  },
+  {
+    "slug": "newry",
+    "town": "Newry",
+    "county": "County Down",
+    "region": "Northern Ireland",
+    "estates": [
+      "Daisy Hill Hospital (Southern Health and Social Care Trust) Hospital Road",
+      "Newry, Mourne and Down District Council Monaghan Row",
+      "Greenbank Industrial Estate",
+      "Carnbane Industrial Estate",
+      "WIN Business Park"
+    ],
+    "industries": [
+      "Cross-border freight forwarding, customs clearance files and logistics",
+      "HSC acute medical case files, maternity and outpatient records",
+      "District council planning files, housing registers and municipal deeds",
+      "Precision metal machining, CNC tooling and conveyor hardware",
+      "Commercial refrigeration parts, food packaging and beverage distribution"
+    ],
+    "junctions": [
+      "A1 Newry Bypass dual carriageway",
+      "M1 corridor via A1",
+      "A25 Downpatrick Road",
+      "A28 Armagh Road",
+      "A2 Warrenpoint Road dual carriageway"
+    ]
+  },
+  {
+    "slug": "coleraine",
+    "town": "Coleraine",
+    "county": "County Londonderry",
+    "region": "Northern Ireland",
+    "estates": [
+      "Causeway Hospital (Northern Health and Social Care Trust) Newbridge Road",
+      "Causeway Coast and Glens Borough Council Cloonavin 66 Portstewart Road",
+      "Ballycastle Road Industrial Estate",
+      "Hillmans Way Commercial Centre",
+      "Loughanhill Industrial Estate"
+    ],
+    "industries": [
+      "University research archives and scientific special collections",
+      "HSC acute hospital clinical case files and laboratory documentation",
+      "Borough council planning applications, coastal defense deeds and rates",
+      "Whisky distillation logistics and cooperage production records",
+      "Agricultural equipment components, seed storage and veterinary archives"
+    ],
+    "junctions": [
+      "A26 dual carriageway corridor",
+      "A29 Ring Road",
+      "A2 Coast Road",
+      "A37 Limavady Road",
+      "B67 Ballycastle Road"
+    ]
+  },
+  {
+    "slug": "omagh",
+    "town": "Omagh",
+    "county": "County Tyrone",
+    "region": "Northern Ireland",
+    "estates": [
+      "Omagh Hospital and Primary Care Complex (Western Health and Social Care Trust)",
+      "Fermanagh and Omagh District Council The Grange Mountjoy Road",
+      "Dergmoney Industrial Estate",
+      "Gortrush Industrial Estate",
+      "Doogary Industrial Estate"
+    ],
+    "industries": [
+      "Quarry plant manufacturing, mobile screening equipment spares",
+      "HSC primary care documentation and day-surgery medical case files",
+      "District council statutory planning files, agriculture deeds and tax records",
+      "Meat processing cold storage, packaging materials and hygiene records",
+      "Commercial vehicle servicing, hydraulic fixtures and engineering tooling"
+    ],
+    "junctions": [
+      "A5 Great Northern Road bypass",
+      "A32 Dromore Road",
+      "A505 Cookstown Road",
+      "B48 Gortin Road",
+      "B4 Dublin Road"
+    ]
+  },
+  {
+    "slug": "enniskillen",
+    "town": "Enniskillen",
+    "county": "County Fermanagh",
+    "region": "Northern Ireland",
+    "estates": [
+      "South West Acute Hospital (Western Health and Social Care Trust) Irvinestown Road",
+      "Fermanagh and Omagh District Council Townhall",
+      "Severn Business Park",
+      "Killyhevlin Industrial Estate",
+      "Lackaghboy Industrial Estate"
+    ],
+    "industries": [
+      "HSC acute medical records, intensive care files and surgical archives",
+      "Food packaging, dairy processing and pasteurisation batch records",
+      "District council statutory planning documents, rural land registries",
+      "Marine leisure engineering, inland waterway vessel maintenance spares",
+      "Specialist timber processing, wood fuel and structural lumber logistics"
+    ],
+    "junctions": [
+      "A4 Sligo Road / Dublin Road",
+      "A32 Irvinestown Road",
+      "A46 Belleek Road",
+      "B80 Tempo Road",
+      "M1 corridor via A4 dual carriageway"
+    ]
+  },
+  {
+    "slug": "dumfries",
+    "town": "Dumfries",
+    "county": "Dumfries and Galloway",
+    "region": "Scotland",
+    "estates": [
+      "Dumfries and Galloway Royal Infirmary (NHS Dumfries and Galloway) Cargenbridge",
+      "Dumfries and Galloway Council Council Headquarters English Street",
+      "Heathhall Industrial Estate",
+      "Creggan Business Park",
+      "Catherinefield Industrial Estate"
+    ],
+    "industries": [
+      "Rubber compound testing, industrial hose manufacturing archives",
+      "NHS acute hospital clinical files, trauma case histories and imaging",
+      "Council statutory planning applications, agricultural land deeds and tax registers",
+      "Forestry timber processing equipment spares and sawmilling consumables",
+      "Commercial transport repairs, hydraulic fittings and engineering tooling"
+    ],
+    "junctions": [
+      "A75 Dumfries Bypass",
+      "A76 Kilmarnock Road",
+      "A709 Lockerbie corridor",
+      "A701 Edinburgh Road",
+      "M74 Junction 15 via A709"
+    ]
+  },
+  {
+    "slug": "falkirk",
+    "town": "Falkirk",
+    "county": "Falkirk",
+    "region": "Scotland",
+    "estates": [
+      "Falkirk Community Hospital (NHS Forth Valley) Westburn Avenue",
+      "Falkirk Council Municipal Buildings West Bridge Street",
+      "Middlefield Industrial Estate",
+      "Bankside Industrial Estate",
+      "Grangemouth Port Logistics Zone"
+    ],
+    "industries": [
+      "Petrochemical operations, refinery maintenance parts and safety archives",
+      "Canal engineering heritage, rotating boat lift maintenance tooling",
+      "NHS community hospital medical records and outpatient rehabilitation charts",
+      "Council statutory planning, housing deeds and building inspection files",
+      "Freight container logistics, chemical tankers and ambient warehousing"
+    ],
+    "junctions": [
+      "M9 Junction 5 Cadgers Brae",
+      "M9 Junction 6",
+      "M876 Junction 1",
+      "A9 Falkirk Northern Bypass",
+      "A904 Grangemouth Road"
+    ]
+  },
+  {
+    "slug": "motherwell",
+    "town": "Motherwell",
+    "county": "North Lanarkshire",
+    "region": "Scotland",
+    "estates": [
+      "Wishaw General Hospital (NHS Lanarkshire) Netherton Street",
+      "North Lanarkshire Council Civic Centre Windmillhill Street",
+      "Eurocentral Logistics Park",
+      "Excelsior Industrial Estate",
+      "Bellshill Industrial Estate"
+    ],
+    "industries": [
+      "National freight distribution, automated logistics and parcel handling",
+      "Heavy steel rolling heritage archives and structural metallurgy tooling",
+      "NHS acute hospital clinical health records and surgical history registers",
+      "Council statutory planning files, building control and municipal deeds",
+      "Commercial refrigerated transport spares and mechanical packaging supplies"
+    ],
+    "junctions": [
+      "M8 Junction 7 Eurocentral",
+      "M74 Junction 6 Hamilton / Motherwell",
+      "A723 Hamilton Road",
+      "A721 Bellshill corridor",
+      "B754 Airbles Road"
+    ]
+  },
+  {
+    "slug": "hamilton",
+    "town": "Hamilton",
+    "county": "South Lanarkshire",
+    "region": "Scotland",
+    "estates": [
+      "University Hospital Hairmyres Site Hamilton",
+      "South Lanarkshire Council Council Headquarters Almada Street",
+      "Hamilton International Technology Park",
+      "Whistleberry Industrial Estate",
+      "Cadzow Business Park"
+    ],
+    "industries": [
+      "County administrative governance, school deeds and statutory council archives",
+      "Electrical power distribution gear and utility maintenance component storage",
+      "NHS outpatient records and community healthcare documentation",
+      "Legal practices, sheriff court case files and conveyancing records",
+      "Electronics assembly, prototype testing equipment and sensor stores"
+    ],
+    "junctions": [
+      "M74 Junction 5 Raith Interchange",
+      "M74 Junction 6 Motherwell / Hamilton",
+      "A725 East Kilbride Expressway",
+      "A723 Palace Grounds Road",
+      "B7071 Bothwell Road"
+    ]
+  },
+  {
+    "slug": "glenrothes",
+    "town": "Glenrothes",
+    "county": "Fife",
+    "region": "Scotland",
+    "estates": [
+      "Glenrothes Hospital (NHS Fife) Forth Avenue",
+      "Fife Council Fife House North Street",
+      "Eastfield Industrial Estate",
+      "Southfield Industrial Estate",
+      "Queensway Industrial Estate"
+    ],
+    "industries": [
+      "Semiconductor manufacturing, cleanroom supplies and electronic wafers",
+      "Paper mill production archives, cellulose testing and packaging stock",
+      "Fife regional council headquarters statutory deeds and tax records",
+      "NHS community hospital medical records and palliative care files",
+      "Precision engineering components, hydraulic manifolds and CNC tooling"
+    ],
+    "junctions": [
+      "A92 dual carriageway Bankhead Roundabout",
+      "A911 Leslie Road",
+      "A92 Woodside Roundabout",
+      "B921 Kinglassie Road",
+      "B969 Western Avenue"
+    ]
+  },
+  {
+    "slug": "elgin",
+    "town": "Elgin",
+    "county": "Moray",
+    "region": "Scotland",
+    "estates": [
+      "Dr Gray's Hospital (NHS Grampian) High Street",
+      "Moray Council Council Offices High Street",
+      "Pinefield Industrial Estate",
+      "Moycroft Industrial Estate",
+      "Chanonry Industrial Estate"
+    ],
+    "industries": [
+      "Cashmere textile manufacturing, woollen yarn archives and luxury knitwear",
+      "Scotch whisky distilling records, maturation logs and cask inventory",
+      "NHS acute hospital clinical files and surgical records",
+      "Moray Council statutory planning, forestry deeds and housing registers",
+      "Agricultural machinery spares, tractor tooling and grain storage fixtures"
+    ],
+    "junctions": [
+      "A96 Aberdeen to Inverness trunk road",
+      "A941 Lossiemouth / Rothes Road",
+      "B9010 Pluscarden Road",
+      "A96 Alexandra Road corridor",
+      "B9103 Orton corridor"
+    ]
+  },
+  {
+    "slug": "arbroath",
+    "town": "Arbroath",
+    "county": "Angus",
+    "region": "Scotland",
+    "estates": [
+      "Arbroath Infirmary (NHS Tayside) Rosemount Road",
+      "Angus Council Orchardbank / Arbroath Municipal Offices",
+      "Kirkton Industrial Estate",
+      "Elliot Industrial Estate",
+      "Arbroath Harbour Commercial Area"
+    ],
+    "industries": [
+      "Precision oilfield drilling tools, subsea machining and valve spares",
+      "Smoked fish processing, cold storage and seafood distribution inventory",
+      "NHS community healthcare records and outpatient documentation",
+      "Council statutory planning applications and historic abbey conservation archives",
+      "Marine engineering repairs, winch components and nautical instrumentation"
+    ],
+    "junctions": [
+      "A92 Dundee to Arbroath dual carriageway",
+      "A933 Brechin Road",
+      "A92 Montrose coastal corridor",
+      "A92 Montrose Road",
+      "B964 Montrose Road"
+    ]
+  },
+  {
+    "slug": "rhyl",
+    "town": "Rhyl",
+    "county": "Denbighshire",
+    "region": "Wales",
+    "estates": [
+      "Glan Clwyd Hospital (Betsi Cadwaladr University Health Board) Bodelwyddan",
+      "Denbighshire County Council Russell House Churton Road",
+      "Cefndy Employment Park",
+      "Kinmel Park Commercial Quarter",
+      "Marsh Road Industrial Area"
+    ],
+    "industries": [
+      "NHS acute regional hospital trauma case records and clinical files",
+      "County council planning records, coastal management and deeds",
+      "Specialist disability equipment manufacturing and mobility spares",
+      "Light industrial assembly, plastic fabrication and consumer goods storage",
+      "Hospitality supply chain inventory, food distribution and equipment parts"
+    ],
+    "junctions": [
+      "A55 North Wales Expressway Junction 24 / 27",
+      "A525 dual carriageway Rhuddlan corridor",
+      "A548 Coast Road",
+      "B5118 West Parade",
+      "A547 Abergele Road"
+    ]
+  },
+  {
+    "slug": "caernarfon",
+    "town": "Caernarfon",
+    "county": "Gwynedd",
+    "region": "Wales",
+    "estates": [
+      "Brynseiont Newydd Care Complex (Betsi Cadwaladr University Health Board)",
+      "Gwynedd Council Council Offices Shirehall Street",
+      "Cibyn Industrial Estate",
+      "Victoria Dock Commercial Quarter",
+      "Griffith's Crossing Commercial Area"
+    ],
+    "industries": [
+      "Welsh language publishing, cultural heritage manuscripts and book archives",
+      "County council central statutory records, deeds and mining charters",
+      "NHS community healthcare documentation and dementia care case files",
+      "Slate quarrying heritage tools, architectural stone and fabrication spares",
+      "Harbour authority shipping manifests, yacht maintenance and marine chandlery"
+    ],
+    "junctions": [
+      "A487 Caernarfon Bypass",
+      "A4085 Waunfawr corridor",
+      "A4086 Llanberis Road",
+      "A55 Junction 9 via A487",
+      "B4419 Llangarrog Road"
+    ]
+  },
+  {
+    "slug": "aberystwyth",
+    "town": "Aberystwyth",
+    "county": "Ceredigion",
+    "region": "Wales",
+    "estates": [
+      "Bronglais General Hospital (Hywel Dda University Health Board) Caradoc Road",
+      "National Library of Wales Penglais",
+      "Ceredigion County Council Canolfan Rheidol Rhodfa Padarn",
+      "Glanyrafon Industrial Estate",
+      "Parc y Llyn Retail and Commercial Park"
+    ],
+    "industries": [
+      "National legal deposit library archives, ancient Welsh manuscripts and rare books",
+      "NHS acute general hospital medical records and rural trauma files",
+      "Agricultural science research specimens, plant genetics and bio-archives",
+      "County council statutory planning documents, rural deeds and registers",
+      "Precision lab equipment, scientific glassware and meteorological telemetry spares"
+    ],
+    "junctions": [
+      "A487 coastal trunk road",
+      "A44 Boulevard Saint-Brieuc",
+      "A4120 Llanbadarn Road",
+      "B4340 Pontrhydfendigaid corridor",
+      "A487 Penglais Hill"
+    ]
+  }
+]
