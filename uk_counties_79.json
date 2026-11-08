@@ -1,0 +1,2135 @@
+[
+  {
+    "slug": "aberdeenshire",
+    "town": null,
+    "county": "Aberdeenshire",
+    "region": "Scotland",
+    "estates": [
+      "Badentoy Industrial Estate Portlethen",
+      "Thainstone Business Park Inverurie",
+      "Dales Industrial Estate Peterhead",
+      "Balmacassie Commercial Park Ellon",
+      "South Harbour Industrial Estate Fraserburgh"
+    ],
+    "industries": [
+      "Subsea oil and gas tooling fabrication, ROV maintenance and offshore equipment staging",
+      "Pelagic fish processing, blast freezing and cold store warehousing at Peterhead Port",
+      "Scotch single malt distillation, cooperage operations and bonded cask warehousing",
+      "Agricultural machinery manufacturing, grain drying and bulk livestock feed compounding",
+      "Offshore wind turbine sub-assembly, blade inspection and marine supply chain operations"
+    ],
+    "junctions": [
+      "A90 Fraserburgh to Peterhead coastal route roundabout at Toll of Birness",
+      "A96 Inverurie bypass junction with B9170 Oldmeldrum Road",
+      "A90 Balmedie to Tipperty dual carriageway junction with B977",
+      "A90 Portlethen interchange south of Aberdeen",
+      "A947 Banff and Macduff access road junction with A98"
+    ]
+  },
+  {
+    "slug": "angus",
+    "town": null,
+    "county": "Angus",
+    "region": "Scotland",
+    "estates": [
+      "Orchardbank Business Park Forfar",
+      "Montrose Port Industrial Estate Montrose",
+      "Elliot Industrial Estate Arbroath",
+      "Carnoustie Industrial Estate Carnoustie",
+      "Brechin Business Park Brechin"
+    ],
+    "industries": [
+      "Offshore wind farm operations and maintenance (O&M) base support at Port of Montrose",
+      "Seed potato grading, refrigerated vegetable packing and commercial berry distribution",
+      "Specialist textile manufacturing, industrial canvas weaving and technical yarn spinning",
+      "Precision oilfield tooling fabrication and deepwater umbilical spooling",
+      "Smoked fish processing, seafood curing and temperature-controlled logistics"
+    ],
+    "junctions": [
+      "A90 Orchardbank junction Forfar",
+      "A92 Arbroath to Montrose coastal freight route at Elliot roundabout",
+      "A90 Brechin bypass junction with A935",
+      "A90 Stracathro junction north of Brechin",
+      "A92 Dundee to Arbroath dual carriageway junction with A930 Muirdrum"
+    ]
+  },
+  {
+    "slug": "ayrshire",
+    "town": null,
+    "county": "Ayrshire",
+    "region": "Scotland",
+    "estates": [
+      "Olympic Business Park Dundonald",
+      "Heathfield Industrial Estate Ayr",
+      "North Newmoor Industrial Estate Irvine",
+      "i3 Strategic Investment Campus Irvine",
+      "Prestwick Aerospace Business Park Prestwick"
+    ],
+    "industries": [
+      "Commercial aircraft maintenance, repair and overhaul (MRO) and aerostructures assembly at Prestwick Airport",
+      "Speciality chemical synthesis and pharmaceutical intermediate production",
+      "Bulk paper milling, paperboard conversion and industrial packaging manufacturing",
+      "Commercial sawmilling, timber kiln-drying and pallet fabrication",
+      "Life sciences laboratory equipment fabrication and medical device assembly"
+    ],
+    "junctions": [
+      "A77 Dutch House Roundabout junction with A78 Prestwick",
+      "A78 Eglinton interchange Irvine bypass",
+      "A77 Whitletts Roundabout Ayr approach",
+      "A78 Meadowhead Roundabout Troon junction",
+      "A71 Moorfield Roundabout Kilmarnock approach"
+    ]
+  },
+  {
+    "slug": "bedfordshire",
+    "town": null,
+    "county": "Bedfordshire",
+    "region": "East of England",
+    "estates": [
+      "Elms Farm Industrial Estate Bedford",
+      "Woodside Industrial Estate Dunstable",
+      "Marston Gate Industrial Estate Brogborough",
+      "Stratton Business Park Biggleswade",
+      "Sundon Park Industrial Estate Luton"
+    ],
+    "industries": [
+      "Automotive research, proving ground engineering and prototype crash testing at Millbrook",
+      "E-commerce high-bay fulfilment and national distribution hub logistics along the M1 corridor",
+      "Aviation engineering, air cargo processing and flight catering services at London Luton Airport",
+      "Commercial brick manufacturing, ceramic processing and heavy clay quarrying",
+      "Specialist fresh produce import packing, optical sorting and temperature-controlled cross-docking"
+    ],
+    "junctions": [
+      "M1 Junction 11A Dunstable Northern Bypass (A5-M1 Link)",
+      "M1 Junction 13 Marston Moretaine and Brogborough interchange",
+      "A1(M) Junction 10 Stotfold / Baldock Services interchange",
+      "A1 Sandy roundabout junction with A603",
+      "A421 Marsh Leys interchange Bedford South"
+    ]
+  },
+  {
+    "slug": "berkshire",
+    "town": null,
+    "county": "Berkshire",
+    "region": "South East",
+    "estates": [
+      "Slough Trading Estate Slough",
+      "Green Park Business Park Reading",
+      "Suttons Business Park Earley Reading",
+      "Arlington Business Park Theale",
+      "London Road Industrial Estate Newbury"
+    ],
+    "industries": [
+      "Hyperscale data centre operations, cloud infrastructure and telecommunications carrier hubs",
+      "Confectionery manufacturing, cocoa bean roasting and industrial food production at Mars Slough",
+      "Pharmaceutical clinical trials management, biotechnology incubation and R&D headquarters",
+      "Precision electronics, defence instrumentation and sensor assembly",
+      "Fast-moving consumer goods (FMCG) distribution and national retail supply chain logistics"
+    ],
+    "junctions": [
+      "M4 Junction 6 Slough Central interchange",
+      "M4 Junction 11 Reading South and Green Park interchange",
+      "M4 Junction 12 Theale and West Reading interchange",
+      "M4 Junction 13 Chieveley and Newbury A34 interchange",
+      "A404(M) Junction 8/9 Holyport interchange Maidenhead"
+    ]
+  },
+  {
+    "slug": "buckinghamshire",
+    "town": null,
+    "county": "Buckinghamshire",
+    "region": "South East",
+    "estates": [
+      "Cressex Business Park High Wycombe",
+      "Rabans Lane Industrial Estate Aylesbury",
+      "Globe Park Marlow",
+      "Buckingham Industrial Park Buckingham",
+      "Magna Park Milton Keynes"
+    ],
+    "industries": [
+      "Formula One motorsport chassis engineering, aerodynamics and rapid composite prototyping",
+      "Automated national grocery fulfilment and multichannel ambient distribution",
+      "Architectural joinery, acoustic panelling and bespoke interior wood processing",
+      "Medical packaging, diagnostic test kit assembly and cleanroom manufacturing",
+      "Film, television and commercial production staging and soundstage equipment storage at Pinewood Studios"
+    ],
+    "junctions": [
+      "M40 Junction 4 Handy Cross interchange High Wycombe",
+      "M1 Junction 14 Milton Keynes East interchange",
+      "M40 Junction 1 Denham interchange with A40",
+      "A41 Aston Clinton bypass roundabout east of Aylesbury",
+      "A421 Buckingham bypass junction with A413"
+    ]
+  },
+  {
+    "slug": "cambridgeshire",
+    "town": null,
+    "county": "Cambridgeshire",
+    "region": "East of England",
+    "estates": [
+      "Cambridge Science Park Cambridge",
+      "Bar Hill Industrial Estate Bar Hill",
+      "St Peter's Industrial Park Huntingdon",
+      "Lancaster Way Business Park Ely",
+      "Orton Southgate Industrial Estate Peterborough"
+    ],
+    "industries": [
+      "Life sciences drug discovery, genomics sequencing and biotechnology incubator R&D",
+      "Semiconductor design, microchip IP development and AI hardware engineering",
+      "Industrial diesel engine manufacture, power generation testing and engineering at Perkins Peterborough",
+      "Commercial fenland root vegetable grading, cold storage and agricultural packaging",
+      "High-density parcel sorting, e-fulfilment and logistics along the A14 corridor"
+    ],
+    "junctions": [
+      "A14 Junction 31 Girton interchange Cambridge",
+      "A1(M) Junction 17 Fletton Parkway interchange Peterborough",
+      "A14 Junction 23 Spittals interchange Huntingdon",
+      "A10 Ely bypass junction with A142 Angel Drove",
+      "A14 Junction 33 Milton interchange Cambridge North"
+    ]
+  },
+  {
+    "slug": "carmarthenshire",
+    "town": null,
+    "county": "Carmarthenshire",
+    "region": "Wales",
+    "estates": [
+      "Dafen Industrial Estate Llanelli",
+      "Cross Hands Food Park Cross Hands",
+      "Cillefwr Industrial Estate Carmarthen",
+      "Capel Hendre Industrial Estate Ammanford",
+      "Trostre Industrial Estate Llanelli"
+    ],
+    "industries": [
+      "Automotive pressings, stamped structural chassis parts and metal stamping at Gestamp Tallent Llanelli",
+      "Commercial meat processing, poultry packaging and cold chain logistics at Cross Hands",
+      "Tinplate and packaging steel coil finishing and passivation at Tata Steel Trostre Works",
+      "Commercial dairy manufacturing, cheese processing and raw milk tanker logistics",
+      "Quarrying, crushed carboniferous limestone extraction and asphalt production"
+    ],
+    "junctions": [
+      "M4 Junction 48 Hendy interchange Llanelli approach",
+      "A48 Cross Hands roundabout junction with A476",
+      "A48 Pensarn roundabout Carmarthen south",
+      "A40 Carmarthen bypass junction with A484",
+      "A4138 Dafen roundabout Llanelli link road"
+    ]
+  },
+  {
+    "slug": "ceredigion",
+    "town": null,
+    "county": "Ceredigion",
+    "region": "Wales",
+    "estates": [
+      "Glanyrafon Industrial Estate Aberystwyth",
+      "Parc Teifi Business Park Cardigan",
+      "Lampeter Industrial Estate Lampeter",
+      "Llandysul Industrial Estate Llandysul",
+      "Penrhos Industrial Estate New Quay"
+    ],
+    "industries": [
+      "Agricultural research, plant genetics breeding and seed propagation at Aberystwyth University IBERS",
+      "Artisan dairy manufacture, cooperative creamery cheesemaking and bulk liquid milk distribution",
+      "Precision scientific instrumentation and optics fabrication",
+      "Marine engineering, inshore fishing vessel servicing and commercial harbor logistics",
+      "Commercial timber harvesting, roundwood processing and sawmill operations"
+    ],
+    "junctions": [
+      "A487 Trefechan roundabout Aberystwyth south",
+      "A44 Lovesgrove roundabout junction with A4120 Aberystwyth",
+      "A487 Cardigan bypass junction with A478",
+      "A485 Lampeter town centre junction with A482",
+      "A486 Synod Inn junction with A487"
+    ]
+  },
+  {
+    "slug": "cheshire",
+    "town": null,
+    "county": "Cheshire",
+    "region": "North West",
+    "estates": [
+      "Winsford Industrial Estate Winsford",
+      "Crewe Commercial Park Crewe",
+      "Pochin Way Industrial Estate Middlewich",
+      "Manor Park Industrial Estate Runcorn",
+      "Birchwood Park Risley Warrington"
+    ],
+    "industries": [
+      "Petrochemical refining, fluid catalytic cracking and fuel logistics at Stanlow Refinery Ellesmere Port",
+      "Underground rock salt mining, vacuum salt processing and chemical brine extraction at Winsford",
+      "Automotive assembly and luxury vehicle craftsmanship at Bentley Motors Crewe",
+      "Pharmaceutical sterile formulation, syringe manufacturing and oncology processing at Macclesfield",
+      "Nuclear reactor design, decommissioning consulting and engineering support at Birchwood Park"
+    ],
+    "junctions": [
+      "M6 Junction 16 Barthomley interchange Crewe approach",
+      "M6 Junction 18 Holmes Chapel and Middlewich interchange",
+      "M56 Junction 12 Clifton / Runcorn interchange",
+      "M53 Junction 10 Cheshire Oaks and Ellesmere Port interchange",
+      "M6 Junction 21A Croft interchange with M62"
+    ]
+  },
+  {
+    "slug": "city-of-edinburgh",
+    "town": null,
+    "county": "City of Edinburgh",
+    "region": "Scotland",
+    "estates": [
+      "Newbridge Industrial Estate Newbridge",
+      "Sighthill Industrial Estate Sighthill",
+      "South Gyle Business Park South Gyle",
+      "Bankhead Industrial Estate Sighthill",
+      "Fort Kinnaird Commercial Park Newcraighall"
+    ],
+    "industries": [
+      "Air cargo freight handling, aircraft catering and ramp support at Edinburgh Airport",
+      "Pharmaceutical development, life sciences research and clinical trials data hosting",
+      "Commercial craft brewing, single malt whisky blending and bottling logistics",
+      "Precision electronics, optical sensors and avionics systems fabrication at Leonardo Crewe Toll",
+      "Urban last-mile parcel logistics, temp-controlled grocery delivery and fulfillment"
+    ],
+    "junctions": [
+      "M8 Junction 1 Hermiston Gate interchange",
+      "M9 Junction 1 Newbridge Roundabout with A8 and A89",
+      "A720 Edinburgh City Bypass Dreghorn interchange",
+      "A720 Edinburgh City Bypass Sheriffhall Roundabout with A7",
+      "A720 Edinburgh City Bypass Gogar Roundabout with A8"
+    ]
+  },
+  {
+    "slug": "conwy",
+    "town": null,
+    "county": "Conwy",
+    "region": "Wales",
+    "estates": [
+      "Tre Marl Industrial Estate Llandudno Junction",
+      "Builder Street Industrial Estate Llandudno",
+      "Mochdre Commerce Park Mochdre",
+      "Parc Busnes Abergele Abergele",
+      "Parc Caer Seion Conwy"
+    ],
+    "industries": [
+      "Specialist metal casting, die-casting and precision engineering components",
+      "Commercial bakery production, chilled dough distribution and regional food manufacturing",
+      "Offshore wind operations support for Gwynt y Mor and Rhyl Flats wind farms",
+      "Quarrying, crushed limestone aggregate processing and readymix concrete batching",
+      "Timber conversion, building supplies warehousing and trade distribution"
+    ],
+    "junctions": [
+      "A55 Junction 18 Llandudno Junction and Conwy interchange",
+      "A55 Junction 19 Black Cat Roundabout Glan Conwy Corner",
+      "A55 Junction 23 Llanddulas interchange",
+      "A55 Junction 24 Abergele and Rhuddlan interchange",
+      "A470 Llanrwst road junction with A55 at Junction 19"
+    ]
+  },
+  {
+    "slug": "cornwall",
+    "town": null,
+    "county": "Cornwall",
+    "region": "South West",
+    "estates": [
+      "Trevenson Industrial Estate Pool Redruth",
+      "Roche Industrial Estate Roche St Austell",
+      "Walker Lines Industrial Estate Bodmin",
+      "Pennygillam Industrial Estate Launceston",
+      "Kernick Industrial Estate Penryn"
+    ],
+    "industries": [
+      "China clay (kaolin) hydraulic mining, refining and bulk export slurry handling at Imerys St Austell",
+      "Lithium extraction and geothermal brine processing from historic hard-rock granite mining deposits",
+      "Commercial fish landing, auctioning, filleting and flash-freezing at Newlyn Harbour",
+      "Commercial bakery manufacture and chilled distribution of traditional Cornish pasties",
+      "Aerospace testing, satellite ground station telecommunications and spaceport facilities at Goonhilly and Newquay"
+    ],
+    "junctions": [
+      "A30 Carland Cross junction with A39",
+      "A30 Chiverton Cross interchange Truro approach",
+      "A30 Innis Downs interchange Roche and St Austell",
+      "A38 Carkeel Roundabout Saltash approach",
+      "A30 Pennygillam interchange Launceston"
+    ]
+  },
+  {
+    "slug": "county-antrim",
+    "town": null,
+    "county": "County Antrim",
+    "region": "Northern Ireland",
+    "estates": [
+      "Newtownabbey Industrial Estate Newtownabbey",
+      "Pennybridge Industrial Estate Ballymena",
+      "Nutts Corner Industrial Estate Crumlin",
+      "Global Point Business Park Newtownabbey",
+      "Blaris Industrial Estate Lisburn"
+    ],
+    "industries": [
+      "Heavy engineering, bus manufacturing and zero-emission transit vehicle assembly at Wrightbus Ballymena",
+      "Airfreight handling, aviation maintenance and bonded air cargo logistics at Belfast International Airport Aldergrove",
+      "Cross-Irish Sea ro-ro freight ferry handling and containerised bulk shipping at Port of Larne",
+      "Tobacco and alternative nicotine product formulation and distribution",
+      "Commercial meat processing, abattoir operations and chilled distribution"
+    ],
+    "junctions": [
+      "M2 Junction 5 Templepatrick and Ballyclare interchange",
+      "M2 Junction 1 Fortwilliam interchange Belfast North",
+      "M22 Junction 1 Dunsilly Roundabout Antrim",
+      "A8 Larne dual carriageway junction with A36 Ballymena Road",
+      "A26 Moira Road Roundabout Nutts Corner"
+    ]
+  },
+  {
+    "slug": "county-antrim-and-county-down",
+    "town": null,
+    "county": "County Antrim and County Down",
+    "region": "Northern Ireland",
+    "estates": [
+      "Duncrue Industrial Estate Belfast",
+      "Sydenham Business Park Belfast",
+      "Boucher Road Commercial Area Belfast",
+      "Harbour Industrial Estate Belfast",
+      "Musgrave Channel Industrial Estate Belfast"
+    ],
+    "industries": [
+      "Aerospace composite wing assembly, nacelle manufacturing and aerostructures at Spirit AeroSystems Belfast",
+      "Commercial shipyard operations, offshore wind turbine pre-assembly and dry dock marine repair at Harland & Wolff",
+      "Deepwater ro-ro and lo-lo container handling, bulk grain discharge and petroleum imports at Port of Belfast",
+      "Commercial bakery production, flour milling and FMCG food distribution across greater Belfast",
+      "Automated national pharmaceutical wholesaling, healthcare cold chain storage and regional cross-docking"
+    ],
+    "junctions": [
+      "M2 Junction 1B Duncrue Street Belfast Port interchange",
+      "M1 Junction 1 Broadway Roundabout Belfast West",
+      "M3 Junction 1 Middlepath Street and Titanic Quarter interchange",
+      "A2 Sydenham Bypass junction with Dee Street Belfast",
+      "A55 Knockbreda Road junction with A24 Ormeau / Saintfield Road"
+    ]
+  },
+  {
+    "slug": "county-armagh",
+    "town": null,
+    "county": "County Armagh",
+    "region": "Northern Ireland",
+    "estates": [
+      "Silverwood Industrial Estate Lurgan",
+      "Carn Industrial Estate Portadown",
+      "Annesborough Industrial Estate Lurgan",
+      "Hamiltonsbawn Industrial Estate Armagh",
+      "Seagoe Industrial Estate Portadown"
+    ],
+    "industries": [
+      "Bramley apple cultivation, automated fruit peeling, canning and cold-store preservation",
+      "Contract pharmaceutical manufacturing, clinical packaging and stability testing at Almac Group Craigavon",
+      "Speciality poultry processing, butchery and temperature-controlled distribution at Moy Park Craigavon",
+      "Commercial carpet manufacturing, tufting and woven technical floorcoverings",
+      "Precision toolmaking, plastic injection moulding and automation engineering"
+    ],
+    "junctions": [
+      "M1 Junction 10 Lurgan interchange",
+      "M1 Junction 11 Portadown / Ballynacor interchange",
+      "M1 Junction 12 Birches interchange",
+      "A3 Northway junction with A27 Craigavon",
+      "A28 Armagh bypass junction with A3 Monaghan Road"
+    ]
+  },
+  {
+    "slug": "county-down",
+    "town": null,
+    "county": "County Down",
+    "region": "Northern Ireland",
+    "estates": [
+      "Balloo Industrial Estate Bangor",
+      "Carnbane Industrial Estate Newry",
+      "Greenbank Industrial Estate Newry",
+      "Gransha Industrial Estate Bangor",
+      "Downpatrick Business Park Downpatrick"
+    ],
+    "industries": [
+      "Cross-border freight logistics, customs bonded transit warehousing and road haulage on the Dublin-Belfast corridor",
+      "Seafood processing, langoustine grading and cold storage at Kilkeel and Portavogie fishing harbours",
+      "Aircraft seating, interior cabin systems and mechanical engineering at Collins Aerospace Kilkeel",
+      "Structural steel fabrication, architectural metalwork and building frame assembly",
+      "Bulk grain storage, animal nutrition compounding and agricultural merchant distribution"
+    ],
+    "junctions": [
+      "A1 Sheepbridge interchange Newry North",
+      "A1 Cloghogue interchange Newry South",
+      "A2 Bangor Road roundabout with A21 Newtownards",
+      "A24 Carryduff roundabout junction with A7",
+      "A25 Downpatrick bypass junction with B2 Strangford Road"
+    ]
+  },
+  {
+    "slug": "county-durham",
+    "town": null,
+    "county": "County Durham",
+    "region": "North East",
+    "estates": [
+      "Aycliffe Business Park Newton Aycliffe",
+      "Peterlee Industrial Estate Peterlee",
+      "Bowburn Industrial Estate Durham",
+      "Heighington Lane Business Park Newton Aycliffe",
+      "Tanfield Lea Industrial Estate Stanley"
+    ],
+    "industries": [
+      "Rolling stock assembly, passenger train manufacturing and railway bogie fabrication at Hitachi Rail Newton Aycliffe",
+      "Automotive sub-assembly, vehicle stamping and component pressing for regional supply chains",
+      "Caterpillar earthmoving equipment component fabrication and assembly at Peterlee",
+      "Plastic bottle blow-moulding, thermoforming and polymer packaging manufacturing",
+      "Commercial white goods manufacturing, consumer electronics distribution and central returns handling"
+    ],
+    "junctions": [
+      "A1(M) Junction 59 Newton Aycliffe interchange",
+      "A1(M) Junction 61 Bowburn / Durham South interchange",
+      "A1(M) Junction 62 Carrville / Durham East interchange",
+      "A19 Peterlee interchange with B1320",
+      "A688 Thinford roundabout junction with A167 Spennymoor"
+    ]
+  },
+  {
+    "slug": "county-fermanagh",
+    "town": null,
+    "county": "County Fermanagh",
+    "region": "Northern Ireland",
+    "estates": [
+      "Derrychara Industrial Estate Enniskillen",
+      "Lackaghboy Industrial Estate Enniskillen",
+      "Killyhevlin Industrial Estate Enniskillen",
+      "Lisnaskea Industrial Estate Lisnaskea",
+      "Drummee Industrial Estate Enniskillen"
+    ],
+    "industries": [
+      "Automated glass container manufacturing, bottle forming and cullet recycling at Encirc Derrylin",
+      "PIR rigid foam insulation board manufacturing and high-performance building envelope systems",
+      "Quarrying, hard rock extraction, aggregate screening and precast concrete manufacturing",
+      "Beef abattoir operations, meat boning, vacuum packaging and cold chain export logistics",
+      "Commercial marine boatbuilding, composite cruiser repair and lake tourism transport engineering"
+    ],
+    "junctions": [
+      "A4 Dublin Road roundabout Enniskillen east",
+      "A4 Sligo Road junction with A32 Enniskillen west",
+      "A34 Lisnaskea to Clones border freight link",
+      "A509 Derrylin corridor junction with B127 to Lisnaskea",
+      "A32 Irvinestown Road junction with A4 Cornagrade"
+    ]
+  },
+  {
+    "slug": "county-londonderry",
+    "town": null,
+    "county": "County Londonderry",
+    "region": "Northern Ireland",
+    "estates": [
+      "Maydown Industrial Estate Derry",
+      "Springtown Industrial Estate Derry",
+      "Campsie Industrial Estate Eglinton Derry",
+      "Pennyburn Industrial Estate Derry",
+      "Ballyronan Road Industrial Estate Magherafelt"
+    ],
+    "industries": [
+      "Hard disk drive thin-film magnetic recording head manufacturing at Seagate Technology Derry",
+      "Deepwater commercial port stevedoring, coal import discharge, and oil fuel storage at Foyle Port Lisahally",
+      "DuPont Nomex and Kevlar aramid fibre chemical synthesis and elastomer production at Maydown",
+      "Precast concrete beam manufacturing, structural lintels and civil drainage pipe extrusion",
+      "Commercial sawmilling, kiln timber treatment, timber-frame kit fabrication and pallet storage"
+    ],
+    "junctions": [
+      "A6 Dungiven bypass junction with B132",
+      "A2 Caw Roundabout Foyle Bridge eastern approach Derry",
+      "A515 Madam's Bank Road junction with Culmore Road Derry",
+      "A6 Castledawson Roundabout junction with A31 Magherafelt bypass",
+      "A2 Clooney Road junction with City of Derry Airport Eglinton"
+    ]
+  },
+  {
+    "slug": "county-tyrone",
+    "town": null,
+    "county": "County Tyrone",
+    "region": "Northern Ireland",
+    "estates": [
+      "Granville Industrial Estate Dungannon",
+      "Derryloran Industrial Estate Cookstown",
+      "Doogary Industrial Estate Omagh",
+      "Strabane Business Park Strabane",
+      "Dungannon Enterprise Centre Business Park Dungannon"
+    ],
+    "industries": [
+      "Heavy mobile crushing and screening equipment engineering at Powerscreen and Terex Dungannon",
+      "Commercial pork processing, bacon curing and cooked meat packaging at Karro Cookstown",
+      "Agricultural slurry management machinery, tank fabrication and pump manufacturing",
+      "Precast concrete beam manufacturing, structural lintels and civil groundworks production",
+      "Commercial sand, gravel and crushed aggregate quarrying and distribution"
+    ],
+    "junctions": [
+      "M1 Junction 15 Stangmore Roundabout Dungannon",
+      "A5 Omagh bypass junction with A505 Cookstown Road",
+      "A29 Cookstown bypass approach junction with A505",
+      "A5 Strabane bypass roundabout junction with A38 Lifford Road",
+      "A4 Ballygawley Roundabout junction with A5"
+    ]
+  },
+  {
+    "slug": "cumbria",
+    "town": null,
+    "county": "Cumbria",
+    "region": "North West",
+    "estates": [
+      "Kingmoor Park Industrial Estate Carlisle",
+      "Lillyhall Industrial Estate Workington",
+      "West Lakes Science and Technology Park Whitehaven",
+      "Redhills Business Park Penrith",
+      "Furness Business Park Barrow-in-Furness"
+    ],
+    "industries": [
+      "Nuclear fuel reprocessing, decommissioning and waste handling at Sellafield",
+      "Submarine construction and naval engineering at BAE Systems Barrow",
+      "Specialist dairy farming, milk processing and agricultural supply chain",
+      "Slate quarrying, stone extraction and heritage building materials",
+      "Offshore wind turbine installation support and marine engineering logistics"
+    ],
+    "junctions": [
+      "M6 Junction 40 Penrith interchange",
+      "M6 Junction 44 Carlisle Greymoorhill interchange",
+      "A66 Penrith to Workington trans-Pennine corridor",
+      "A590 Barrow-in-Furness approach road via Ulverston",
+      "A595 Whitehaven to Carlisle coastal industrial corridor"
+    ]
+  },
+  {
+    "slug": "derbyshire",
+    "town": null,
+    "county": "Derbyshire",
+    "region": "East Midlands",
+    "estates": [
+      "Markham Vale Business Park Chesterfield",
+      "Dove Valley Park Foston",
+      "Castlewood Business Park South Normanton",
+      "Denby Hall Business Park Denby",
+      "High Peak Business Park Buxton"
+    ],
+    "industries": [
+      "Civil and defence aerospace gas turbine design, assembly and engine testing at Rolls-Royce Derby",
+      "Automotive passenger vehicle assembly and hybrid powertrain production at Toyota Burnaston",
+      "Carboniferous limestone extraction, lime burning and industrial mineral processing in Buxton",
+      "E-commerce fulfilment, parcel sortation hubs and ambient FMCG logistics on the M1 corridor",
+      "Rolling stock refurbishment, railway wheelset maintenance and bogie engineering"
+    ],
+    "junctions": [
+      "M1 Junction 29A Markham Vale interchange",
+      "M1 Junction 28 South Normanton and Alfreton interchange",
+      "A50 Foston interchange with A511 Derby West",
+      "A38 Kingsway Island Derby junction with A52",
+      "A6 Buxton bypass junction with A5270"
+    ]
+  },
+  {
+    "slug": "devon",
+    "town": null,
+    "county": "Devon",
+    "region": "South West",
+    "estates": [
+      "Marsh Mills Industrial Estate Plymouth",
+      "Exeter Business Park Exeter",
+      "Heathfield Industrial Estate Newton Abbot",
+      "Pathfields Business Park South Molton",
+      "Roundswell Business Park Barnstaple"
+    ],
+    "industries": [
+      "Naval surface ship refitting, nuclear submarine decommissioning and dry dock engineering at Devonport Dockyard",
+      "Luxury motor yacht design, vacuum resin infusion composite moulding and outfitting at Princess Yachts",
+      "Specialist clotted cream production, milk drying and bulk butter manufacture",
+      "Ball clay hydraulic extraction, refined mineral slurry transport and marine bulk loading at Teignmouth",
+      "Defence electronic sensor systems, thermal imaging manufacture and micro-optics assembly"
+    ],
+    "junctions": [
+      "M5 Junction 29 Exeter East interchange with A30",
+      "M5 Junction 30 Exeter South Sandygate roundabout with A376",
+      "A38 Marsh Mills interchange Plymouth",
+      "A361 North Devon Link Road junction with A399 Aller Cross",
+      "A380 Penn Inn roundabout Newton Abbot"
+    ]
+  },
+  {
+    "slug": "dorset",
+    "town": null,
+    "county": "Dorset",
+    "region": "South West",
+    "estates": [
+      "Ferndown Industrial Estate Wimborne",
+      "Tower Park Industrial Estate Poole",
+      "Granby Industrial Estate Weymouth",
+      "Winfrith New Technology Park Dorchester",
+      "Aviation Park West Bournemouth Airport Christchurch"
+    ],
+    "industries": [
+      "Luxury motor yacht design, hull laminating and bespoke marine craftsmanship at Sunseeker Poole",
+      "Aerospace air-to-air refuelling systems, avionics and airframe sub-assemblies at Cobham Wimborne",
+      "Onshore crude oil extraction, gathering station processing and rail pipeline discharge at Wytch Farm",
+      "Portland freestone quarrying, dimension stone masonry and restoration aggregate cutting",
+      "Subsea acoustic transducers, oceanographic sonar arrays and defence maritime hydrophones"
+    ],
+    "junctions": [
+      "A31 Ameysford roundabout Ferndown interchange",
+      "A35 Bakers Arms roundabout Poole west approach",
+      "A354 Weymouth Relief Road roundabout at Jurassica Way",
+      "A338 Bournemouth Spur Road junction with B3073 Hurn Airport approach",
+      "A35 Dorchester bypass junction with A37 Monkeys Jump roundabout"
+    ]
+  },
+  {
+    "slug": "dumfries-and-galloway",
+    "town": null,
+    "county": "Dumfries and Galloway",
+    "region": "Scotland",
+    "estates": [
+      "Heathhall Industrial Estate Dumfries",
+      "Cargenbridge Business Park Dumfries",
+      "Commerce Park Lockerbie",
+      "Blackparks Industrial Estate Stranraer",
+      "Cuckoo Bridge Industrial Estate Dumfries"
+    ],
+    "industries": [
+      "Automated commercial sawmill timber processing, kiln drying and structural timber framing",
+      "Cross-border Irish Sea ferry logistics, freight trailer staging and livestock transit at Cairnryan",
+      "Specialist cheddar cheese manufacturing, whey crystallization and dairy tanker logistics",
+      "Biaxially oriented polypropylene (BOPP) film extrusion and polymer packaging at Innovia Films Cargenbridge",
+      "Commercial onshore wind farm crane staging, turbine hub repair and nacelle servicing"
+    ],
+    "junctions": [
+      "M74 Junction 17 Lockerbie North interchange",
+      "M74 Junction 22 Gretna Green interchange with A75",
+      "A75 Dumfries bypass roundabout junction with A76",
+      "A75 Stranraer approach roundabout junction with A77",
+      "A75 Castle Douglas bypass junction with A713"
+    ]
+  },
+  {
+    "slug": "east-ayrshire",
+    "town": null,
+    "county": "East Ayrshire",
+    "region": "Scotland",
+    "estates": [
+      "Moorfield Industrial Estate Kilmarnock",
+      "Glencairn Industrial Estate Kilmarnock",
+      "Caprington Business Park Kilmarnock",
+      "Thistle Business Park Cumnock",
+      "Mauchline Industrial Estate Mauchline"
+    ],
+    "industries": [
+      "Commercial meat curing, cooked meat slicing and temperature-controlled distribution at Browns Food Group",
+      "Industrial hydraulic cylinder manufacturing, precision plating and heavy ram machining",
+      "Single malt and grain whisky cask maturation, high-bay cooperage storage and palletized distribution",
+      "Opencast surface mine land reclamation, crushed dolerite quarrying and roadstone surfacing",
+      "Specialist wool spinning, industrial upholstery textile weaving and synthetic yarn manufacture"
+    ],
+    "junctions": [
+      "A77 Bellfield interchange Kilmarnock with A71 and A76",
+      "A71 Moorfield roundabout Kilmarnock west",
+      "A76 Cumnock bypass roundabout with A70",
+      "A77 Grassyards interchange Kilmarnock north",
+      "A76 Mauchline bypass approach junction with B705"
+    ]
+  },
+  {
+    "slug": "east-riding-of-yorkshire",
+    "town": null,
+    "county": "East Riding of Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "Carnaby Industrial Estate Bridlington",
+      "Melton West Business Park Melton",
+      "Grovehill Industrial Estate Beverley",
+      "Pocklington Industrial Estate Pocklington",
+      "Goole 36 Industrial Estate Goole"
+    ],
+    "industries": [
+      "Passenger rolling stock and underground train assembly at Siemens Mobility Goole",
+      "Acetic acid, acetic anhydride and chemical synthesis at Saltend Chemicals Park",
+      "Static holiday caravan, luxury timber lodge and modular chassis fabrication",
+      "Intensive pork livestock processing, abattoir dressing and retail packaging operations",
+      "Bulk agricultural grain drying, seed cleaning, pulse fractioning and compound livestock feeds"
+    ],
+    "junctions": [
+      "M62 Junction 36 Goole interchange with A614",
+      "M62 Junction 38 North Cave interchange with A63",
+      "A63 Melton interchange west of Hull",
+      "A1079 Beverley bypass junction with A1174",
+      "A164 Skidby roundabout junction with Harland Way Beverley"
+    ]
+  },
+  {
+    "slug": "east-sussex",
+    "town": null,
+    "county": "East Sussex",
+    "region": "South East",
+    "estates": [
+      "Castleham Industrial Estate St Leonards-on-Sea Hastings",
+      "Bellbrook Industrial Estate Uckfield",
+      "Diplocks Industrial Estate Hailsham",
+      "Newhaven Port Industrial Area Newhaven",
+      "Courtlands Industrial Estate Eastbourne"
+    ],
+    "industries": [
+      "Cross-channel roll-on/roll-off freight shipping, scrap metal bulk handling and port operations at Newhaven",
+      "High-vacuum turbomolecular pump assembly, semiconductor exhaust management and instrumentation at Edwards Eastbourne",
+      "Precision marine subsea electrical connectors, penetrators and defence wiring harnesses",
+      "Commercial viticulture, estate wine pressing, temperature-controlled fermentation and bonded storage",
+      "Engineered timber roof truss manufacturing, architectural joinery and custom building supplies"
+    ],
+    "junctions": [
+      "A27 Southerham roundabout Lewes junction with A26",
+      "A22 Golden Cross roundabout Hailsham approach",
+      "A21 Hastings bypass junction with A2100 Battle Road",
+      "A26 Beddingham roundabout junction with A27",
+      "A259 Newhaven Harbour approach junction with Drove Road"
+    ]
+  },
+  {
+    "slug": "essex",
+    "town": null,
+    "county": "Essex",
+    "region": "East of England",
+    "estates": [
+      "London Distribution Park Tilbury",
+      "Severalls Industrial Park Colchester",
+      "Temple Farm Industrial Estate Southend-on-Sea",
+      "River Way Industrial Estate Harlow",
+      "Chelmsford Business Park Chelmsford"
+    ],
+    "industries": [
+      "Deep-sea container logistics, automated high-bay import distribution and paper pulp discharge at Port of Tilbury and London Gateway",
+      "Automotive engineering, electric powertrain validation and vehicle design at Dunton Technical Centre",
+      "Commercial air freight handling, belly-hold cargo forwarding and line aircraft maintenance at London Stansted Airport",
+      "Sterile single-use medical device extrusion, surgical catheter manufacture and cleanroom packaging",
+      "Industrial radar systems fabrication, microwave components and marine electronic tracking instrumentation"
+    ],
+    "junctions": [
+      "M25 Junction 30 Lakeside Thurrock interchange with A13",
+      "M11 Junction 7A Harlow North interchange",
+      "M11 Junction 8 Stansted Airport interchange with A120",
+      "A12 Junction 28 Colchester Severalls interchange",
+      "A130 Howe Green interchange with A12 Chelmsford South"
+    ]
+  },
+  {
+    "slug": "fife",
+    "town": null,
+    "county": "Fife",
+    "region": "Scotland",
+    "estates": [
+      "Rosyth Europarc Rosyth",
+      "Belleknowes Industrial Estate Inverkeithing",
+      "Pitreavie Business Park Dunfermline",
+      "Westwood Industrial Estate Glenrothes",
+      "Lochhead Commercial Park Kirkcaldy"
+    ],
+    "industries": [
+      "Naval frigate assembly, marine vessel outfitting and deep-dock submarine refit operations at Rosyth Dockyard",
+      "Specialist semiconductor fabrication, optoelectronic sensor packaging and MEMS foundry manufacturing at Glenrothes",
+      "Subsea oil and gas manifold manufacturing, heavy pipeline spooling and offshore renewable support",
+      "Security paper milling, luxury corrugated packaging conversion and industrial print packaging",
+      "Scotch whisky maturation cask warehousing, automated cooperage systems and bottling logistics"
+    ],
+    "junctions": [
+      "M90 Junction 1 Admiralty interchange Rosyth",
+      "M90 Junction 3 Halbeath interchange Dunfermline",
+      "A92 Bankhead roundabout Glenrothes junction with B921",
+      "A92 Redhouse roundabout Kirkcaldy north approach",
+      "A985 Rosyth bypass junction with Kings Road"
+    ]
+  },
+  {
+    "slug": "flintshire",
+    "town": null,
+    "county": "Flintshire",
+    "region": "Wales",
+    "estates": [
+      "Deeside Industrial Park Deeside",
+      "Manor Park Industrial Estate Flint",
+      "Broughton Shopping and Business Park Broughton",
+      "Greenfield Business Park Holywell",
+      "Castle Park Industrial Estate Flint"
+    ],
+    "industries": [
+      "Commercial aircraft wing structural assembly and composite panel manufacture at Airbus Broughton",
+      "Automotive engine block casting, cylinder machining and hybrid engine assembly at Toyota Deeside",
+      "Galvanised automotive sheet steel coating, metallic paint application and coil slitting at Tata Steel Shotton",
+      "Paper tissue manufacturing, mother reel converting and hygiene paper packaging at Essity Oakenholt",
+      "Aerospace chemical milling, high-tolerance CNC machining and surface protective treatment"
+    ],
+    "junctions": [
+      "A55 Junction 36 Broughton and Airbus interchange",
+      "A55 Junction 33 Northop interchange with A5119",
+      "A494 Deeside Industrial Park interchange with A548",
+      "A55 Junction 34 Ewloe interchange with A494",
+      "A548 Flint coastal route junction with B5129"
+    ]
+  },
+  {
+    "slug": "glamorgan",
+    "town": null,
+    "county": "Glamorgan",
+    "region": "Wales",
+    "estates": [
+      "Llantrisant Business Park Llantrisant",
+      "Treforest Industrial Estate Pontypridd",
+      "Waterton Industrial Estate Bridgend",
+      "Baglan Energy Park Port Talbot",
+      "Kenfig Industrial Estate Margam"
+    ],
+    "industries": [
+      "Blast furnace steelmaking, continuous slab casting and hot-rolled coil rolling at Tata Steel Port Talbot",
+      "Official circulating coin minting, commemorative medals and precious metals bullion refining at The Royal Mint Llantrisant",
+      "Automotive transmission manufacturing, precision gear grinding and sub-assembly testing",
+      "Pharmaceutical clinical trial supplies packaging, cryogenic storage and distribution logistics",
+      "Heavy structural steel frame fabrication, long-span bridge girder welding and protective blast painting"
+    ],
+    "junctions": [
+      "M4 Junction 35 Pencoed Bridgend East interchange",
+      "M4 Junction 38 Margam and Port Talbot South interchange",
+      "M4 Junction 34 Miskin and Llantrisant interchange",
+      "M4 Junction 41 Pentyla Port Talbot interchange",
+      "A470 Upper Boat interchange Treforest"
+    ]
+  },
+  {
+    "slug": "glasgow-city",
+    "town": null,
+    "county": "Glasgow City",
+    "region": "Scotland",
+    "estates": [
+      "Hillington Industrial Estate Hillington Glasgow",
+      "Cambuslang Investment Park Cambuslang",
+      "Clydeside Industrial Estate Scotstoun",
+      "Queenslie Industrial Estate Glasgow",
+      "Glasgow Airport Business Park Paisley Glasgow"
+    ],
+    "industries": [
+      "Naval destroyer and frigate structural block assembly, weapons integration and testing at BAE Systems Govan and Scotstoun",
+      "Nanosatellite constellation assembly, CubeSat avionics integration and space data payload manufacturing",
+      "Blended Scotch whisky processing, high-speed automated bottling and bonded warehouse distribution",
+      "Last-mile urban parcel consolidation, electric van fleet sorting and rapid grocery micro-fulfilment",
+      "Industrial solid-state laser manufacturing, optical sensor assembly and precision photonics"
+    ],
+    "junctions": [
+      "M8 Junction 26 Hillington interchange",
+      "M8 Junction 11 Stepps Queenslie interchange",
+      "M74 Junction 2A Cambuslang interchange",
+      "M8 Junction 19 Kingston Bridge Anderston interchange",
+      "M77 Junction 1 Dumbreck interchange"
+    ]
+  },
+  {
+    "slug": "gloucestershire",
+    "town": null,
+    "county": "Gloucestershire",
+    "region": "South West",
+    "estates": [
+      "Gloucester Business Park Brockworth",
+      "Kingsditch Industrial Estate Cheltenham",
+      "Severnside Trading Estate Stonehouse",
+      "Forest Vale Industrial Estate Cinderford",
+      "Ashchurch Business Centre Tewkesbury"
+    ],
+    "industries": [
+      "Commercial aircraft landing gear design, shock strut machining and system testing at Safran Landing Systems",
+      "Cybersecurity defense software development, encrypted communication integration and secure hardware assembly",
+      "Industrial steam boiler manufacture, condensate pumping systems and energy optimization engineering",
+      "Commercial ice cream freezing, dairy novelty extrusion and cold chain pallet storage at Walls Gloucester",
+      "Precision aero-engine nickel superalloy investment casting and turbine blade machining"
+    ],
+    "junctions": [
+      "M5 Junction 11 Golden Valley interchange with A40 Cheltenham",
+      "M5 Junction 11A Gloucester Brockworth bypass interchange with A417",
+      "M5 Junction 9 Tewkesbury interchange with A46",
+      "M5 Junction 12 Quedgeley and Hardwicke interchange",
+      "M5 Junction 13 Stroud and Stonehouse interchange with A419"
+    ]
+  },
+  {
+    "slug": "greater-london",
+    "town": null,
+    "county": "Greater London",
+    "region": "London",
+    "estates": [
+      "Park Royal Industrial Estate Acton Brent",
+      "Beckton Gasworks Industrial Estate Newham",
+      "Fairview Industrial Park Rainham",
+      "Northfields Industrial Estate Wembley",
+      "Beddington Industrial Estate Croydon"
+    ],
+    "industries": [
+      "Commercial airline meal prep, artisan sandwich assembly and central restaurant production kitchens at Park Royal",
+      "Ultra-dense urban e-commerce parcel processing, same-day delivery staging and electric van consolidation",
+      "High-density data centre colocation, financial network routing and peering exchanges in the Docklands",
+      "Film, commercial and television studio grip staging, lighting rigging storage and props fabrication",
+      "Construction demolition material recycling, clean concrete crushing and bulk aggregates distribution"
+    ],
+    "junctions": [
+      "M4 Junction 1 Chiswick Roundabout with A406 North Circular",
+      "A40 Western Avenue junction with A4000 Gypsy Corner Park Royal",
+      "A406 North Circular Road junction with A10 Great Cambridge Roundabout",
+      "A13 Beckton Flyover junction with A117 and A1020",
+      "A23 Purley Way junction with A232 Croydon"
+    ]
+  },
+  {
+    "slug": "greater-manchester",
+    "town": null,
+    "county": "Greater Manchester",
+    "region": "North West",
+    "estates": [
+      "Trafford Park Industrial Estate Trafford",
+      "Heywood Distribution Park Heywood",
+      "Logistics North Over Hulton Bolton",
+      "Kingsway Business Park Rochdale",
+      "Roundthorn Industrial Estate Wythenshawe"
+    ],
+    "industries": [
+      "Heavy automated pallet warehousing, retail multi-channel cross-docking and national FMCG hubs",
+      "Industrial maize and wheat wet milling, glucose syrup conversion and starch drying at Trafford Park",
+      "Specialist textile chemical auxiliaries, industrial foam synthesis and specialty polymers",
+      "Contract pharmaceutical primary blister packaging, tablet coating and secondary distribution",
+      "Industrial graphene enhancement processing, resin composite mixing and advanced lightweight materials"
+    ],
+    "junctions": [
+      "M60 Junction 9 Trafford Park Ellesmere Circle interchange",
+      "M60 Junction 18 Simister Island interchange with M62 and M66",
+      "M62 Junction 19 Heywood interchange",
+      "M61 Junction 4 Logistics North Walkden interchange",
+      "M56 Junction 5 Manchester Airport interchange"
+    ]
+  },
+  {
+    "slug": "gwent",
+    "town": null,
+    "county": "Gwent",
+    "region": "Wales",
+    "estates": [
+      "Severnbridge Industrial Estate Caldicot",
+      "Tafarnaubach Industrial Estate Tredegar",
+      "Springvale Industrial Estate Cwmbran",
+      "Queensway Meadows Industrial Estate Newport",
+      "Rassau Industrial Estate Ebbw Vale"
+    ],
+    "industries": [
+      "Compound semiconductor 200mm wafer processing and photonics foundry manufacturing at Newport Wafer Fab",
+      "High-performance automotive brake disc casting, hydraulic caliper machining and assembly",
+      "Automotive coil processing, pre-finished organic coated steel profiling and slitting at Llanwern",
+      "Commercial aircraft passenger seating fabrication and composite cabin interior structures",
+      "Medical diagnostics injection moulding, microfluidic cassette fabrication and sterile packaging"
+    ],
+    "junctions": [
+      "M4 Junction 24 Coldra interchange Newport East with A449",
+      "M4 Junction 28 Tredegar Park interchange Newport West with A48",
+      "M48 Junction 2 Rogiet and Caldicot interchange",
+      "A465 Heads of the Valleys Rassau roundabout Ebbw Vale",
+      "A4042 Cwmbran roundabout junction with A4051"
+    ]
+  },
+  {
+    "slug": "gwynedd",
+    "town": null,
+    "county": "Gwynedd",
+    "region": "Wales",
+    "estates": [
+      "Cibyn Industrial Estate Caernarfon",
+      "Llandygai Industrial Estate Bangor",
+      "Penamser Industrial Estate Porthmadog",
+      "Bala Industrial Estate Bala",
+      "Ty Du Road Industrial Estate Llanberis"
+    ],
+    "industries": [
+      "Architectural natural roofing slate clefting, structural slate slab dressing and aggregate grinding at Bethesda",
+      "Pumped-storage hydroelectric power plant generator servicing, valve rebuilding and high-head turbine maintenance at Dinorwig",
+      "Specialist optical spectrometer design, laser analysis instrumentation and optical test benches",
+      "Marine vessel hull fabrication, aluminium workboat fitting and inshore commercial repair",
+      "Natural mineral water bottling, automated shrink-wrapping and multi-tier palletizing"
+    ],
+    "junctions": [
+      "A55 Junction 11 Llandygai Roundabout Bangor East",
+      "A487 Caernarfon bypass roundabout with A4085",
+      "A497 Porthmadog bypass junction with A487 Minffordd",
+      "A5 Capel Curig junction with A4086",
+      "A470 Dolgellau bypass junction with A494"
+    ]
+  },
+  {
+    "slug": "hampshire",
+    "town": null,
+    "county": "Hampshire",
+    "region": "South East",
+    "estates": [
+      "Nursling Industrial Estate Southampton",
+      "Segensworth Business Park Fareham",
+      "Chineham Business Park Basingstoke",
+      "Walworth Industrial Estate Andover",
+      "Farnborough Aerospace Centre Business Park Farnborough"
+    ],
+    "industries": [
+      "Container port operations, ro-ro freight and maritime logistics at Port of Southampton",
+      "Naval engineering, submarine systems and defence electronics at Portsmouth Naval Base",
+      "Aerospace research, wind tunnel testing and flight simulation at Farnborough",
+      "Pharmaceutical formulation, clinical data management and life sciences distribution",
+      "Grocery retail distribution, automated fulfilment and national supply chain logistics"
+    ],
+    "junctions": [
+      "M3 Junction 6 Basingstoke North interchange",
+      "M27 Junction 3 Southampton Nursling interchange",
+      "M27 Junction 12 Portsmouth Tipner interchange",
+      "M3 Junction 9 Winchester South interchange",
+      "A303 Andover bypass junction with A343 Newbury Road"
+    ]
+  },
+  {
+    "slug": "herefordshire",
+    "town": null,
+    "county": "Herefordshire",
+    "region": "West Midlands",
+    "estates": [
+      "Rotherwas Industrial Estate Hereford",
+      "Moreton Business Park Moreton-on-Lugg",
+      "Leominster Enterprise Park Leominster",
+      "Model Farm Industrial Estate Ross-on-Wye",
+      "Southern Avenue Industrial Estate Leominster"
+    ],
+    "industries": [
+      "Commercial cider apple pressing, bulk fermentation and high-speed bottling at HP Bulmer Hereford",
+      "Vacuum induction melting and tubular superalloy extrusion for aerospace at Special Metals Wiggin",
+      "Poultry primary processing, automated evisceration and carcass packaging at Avara Foods Hereford",
+      "Soft fruit polytunnel cultivation, automated optical berry grading and chilled holding storage",
+      "Specialist agricultural crop sprayer fabrication and precision tillage machinery assembly"
+    ],
+    "junctions": [
+      "M50 Junction 4 Travellers Rest roundabout Ross-on-Wye",
+      "A49 Edgar Street roundabout Hereford junction with A438",
+      "A49 Leominster bypass roundabout junction with A44",
+      "A465 Belmont Roundabout Hereford South",
+      "A40 Wilton Roundabout Ross-on-Wye junction with A49"
+    ]
+  },
+  {
+    "slug": "hertfordshire",
+    "town": null,
+    "county": "Hertfordshire",
+    "region": "East of England",
+    "estates": [
+      "Maylands Business Park Hemel Hempstead",
+      "Gunnels Wood Industrial Area Stevenage",
+      "Centennial Park Elstree",
+      "Hatfield Business Park Hatfield",
+      "Caxton Hill Industrial Estate Hertford"
+    ],
+    "industries": [
+      "Satellite structure assembly, space payload integration and telecommunications testing at Airbus Stevenage",
+      "Pharmaceutical drug discovery, clinical formulation development and virology R&D at GSK Stevenage",
+      "Film and television soundstage production, set engineering and camera equipment storage at Leavesden",
+      "Automated e-commerce grocery distribution and robotic automated storage and retrieval systems at Hatfield",
+      "Commercial aerospace hydraulic valve repair, line replaceable unit testing and avionics servicing"
+    ],
+    "junctions": [
+      "M1 Junction 8 Hemel Hempstead interchange with A414",
+      "A1(M) Junction 7 Stevenage South interchange with A602",
+      "M25 Junction 23 South Mimms interchange with A1(M)",
+      "M25 Junction 20 Kings Langley interchange with A41",
+      "A414 Hertford bypass junction with A10 London Road"
+    ]
+  },
+  {
+    "slug": "highland",
+    "town": null,
+    "county": "Highland",
+    "region": "Scotland",
+    "estates": [
+      "Longman Industrial Estate Inverness",
+      "Invergordon Service Base Invergordon",
+      "Alness Point Business Park Alness",
+      "Blar Mhor Industrial Estate Fort William",
+      "Airport Business Park Dalcross Inverness"
+    ],
+    "industries": [
+      "Offshore wind marshalling, jacket foundation assembly and oil rig inspection at Port of Nigg",
+      "Primary aluminium reduction smelting, molten alloy casting and hot rolling ingot production at Fort William",
+      "Highland single malt Scotch whisky distilling, traditional dunnage warehousing and cooperage operations",
+      "Commercial salmon aquaculture processing, automated filleting and cryocooler blast freezing",
+      "Softwood forestry harvesting, computerised circular sawmilling and wood fuel pellet compression"
+    ],
+    "junctions": [
+      "A9 Raigmore Interchange Inverness with A96",
+      "A9 Tore Roundabout Black Isle junction with A835",
+      "A9 Cromarty Bridge roundabout approach north of Dingwall",
+      "A82 Fort William bypass junction with A830 Road to the Isles",
+      "A96 Inverness Retail and Business Park roundabout"
+    ]
+  },
+  {
+    "slug": "isle-of-wight",
+    "town": null,
+    "county": "Isle of Wight",
+    "region": "South East",
+    "estates": [
+      "Golden Hill Fort Industrial Estate Freshwater",
+      "Dodnor Industrial Estate Newport",
+      "St Cross Business Park Newport",
+      "Barry Way Industrial Estate Newport",
+      "Spithead Business Centre Sandown"
+    ],
+    "industries": [
+      "Commercial wind turbine composite blade moulding, vacuum infusion and structural testing at Vestas Newport",
+      "High-speed aluminium catamaran ferry construction, pilot boat refitting and boatbuilding at Cowes",
+      "Aerospace structural composite assemblies, engine cowlings and radar enclosures at GKN Cowes",
+      "Commercial hydroponic greenhouse tomato cultivation, centralized packaging and cross-Solent transit",
+      "Cross-Solent roll-on/roll-off freight trailer handling, trailer consolidation and bulk island distribution"
+    ],
+    "junctions": [
+      "A3054 Coppins Bridge roundabout Newport junction with A3020",
+      "A3020 Medina Way dual carriageway junction with Dodnor Lane",
+      "A3054 Fishbourne ferry terminal connecting corridor",
+      "A3021 East Cowes approach road junction with York Avenue",
+      "A3056 Blackwater junction with A3020 Newport South"
+    ]
+  },
+  {
+    "slug": "kent",
+    "town": null,
+    "county": "Kent",
+    "region": "South East",
+    "estates": [
+      "Eurolink Industrial Estate Sittingbourne",
+      "Orbital Park Ashford",
+      "Crossways Business Park Dartford",
+      "Newnham Court Industrial Village Maidstone",
+      "Discovery Park Sandwich"
+    ],
+    "industries": [
+      "Cross-channel freight forwarding, bonded warehousing and customs logistics at Dover",
+      "Pharmaceutical research, drug discovery and clinical manufacturing at Discovery Park Sandwich",
+      "High-speed rail maintenance, rolling stock servicing and infrastructure engineering",
+      "Soft fruit growing, hop cultivation and agricultural cold chain storage",
+      "Cement and aggregate production, quarrying and bulk mineral distribution"
+    ],
+    "junctions": [
+      "M20 Junction 10A Ashford International interchange",
+      "M25 Junction 1A Dartford Crossing northern approach",
+      "M2 Junction 5 Sittingbourne and Sheerness interchange",
+      "A2 Brenley Corner M2 Junction 7 Canterbury approach",
+      "M20 Junction 13 Folkestone Channel Tunnel terminal access"
+    ]
+  },
+  {
+    "slug": "lancashire",
+    "town": null,
+    "county": "Lancashire",
+    "region": "North West",
+    "estates": [
+      "Lancashire Business Park Leyland",
+      "Roman Way Industrial Estate Preston",
+      "Whitebirk Industrial Estate Blackburn",
+      "Shuttleworth Mead Business Park Padiham",
+      "Heysham Business Park Morecambe"
+    ],
+    "industries": [
+      "Advanced military jet final assembly, carbon composite wing machining and testing at BAE Samlesbury and Warton",
+      "Commercial nuclear fuel assembly fabrication and uranium enrichment conversion at Springfields Salwick",
+      "Medium and heavy commercial truck manufacturing, automated cab assembly and road testing at Leyland Trucks",
+      "Technical textile weaving, high-temperature flame retardant fabric treatment and polymer coated fabrics",
+      "Irish Sea ro-ro freight ferry stevedoring, coastal container transit and offshore support at Port of Heysham"
+    ],
+    "junctions": [
+      "M6 Junction 29 Bamber Bridge interchange with M65",
+      "M6 Junction 31 Samlesbury interchange with A59",
+      "M65 Junction 6 Whitebirk roundabout Blackburn North",
+      "M55 Junction 3 Kirkham and Wesham interchange",
+      "M6 Junction 34 Lancaster East Bay Gateway interchange with A683"
+    ]
+  },
+  {
+    "slug": "leicestershire",
+    "town": null,
+    "county": "Leicestershire",
+    "region": "East Midlands",
+    "estates": [
+      "Magna Park Lutterworth",
+      "Meridian Business Park Braunstone Leicester",
+      "East Midlands Gateway Kegworth",
+      "Bardon Hill Industrial Estate Coalville",
+      "Loughborough Science and Enterprise Park Loughborough"
+    ],
+    "industries": [
+      "Mega-scale automated retail distribution, multi-bay pallet logistics and e-fulfilment at Magna Park Lutterworth",
+      "Dedicated air cargo freighter handling, express parcel deconsolidation and cold chain hub at East Midlands Airport",
+      "Pharmaceutical inhalation device contract manufacturing, precision metering valves and cleanroom moulding",
+      "Snack food manufacturing, automated continuous potato crisp frying and high-speed packaging at Walkers",
+      "Heavy off-highway construction machinery development, excavator bucket welding and equipment assembly"
+    ],
+    "junctions": [
+      "M1 Junction 21 Leicester Forest East interchange with M69",
+      "M1 Junction 24 Kegworth interchange with A453 and A50",
+      "M1 Junction 20 Lutterworth interchange with A4303",
+      "M1 Junction 22 Coalville interchange with A511",
+      "A46 Leicester Western Bypass interchange with A47 Glenfield"
+    ]
+  },
+  {
+    "slug": "lincolnshire",
+    "town": null,
+    "county": "Lincolnshire",
+    "region": "East Midlands",
+    "estates": [
+      "Allenby Commercial Industrial Estate Lincoln",
+      "Riverside Industrial Estate Boston",
+      "Fairfield Industrial Estate Louth",
+      "Sleaford Enterprise Park Sleaford",
+      "Pinfold Industrial Estate Bourne"
+    ],
+    "industries": [
+      "Commercial frozen pea and brassica processing, cryogenic freezing tunnels and cold store logistics",
+      "Industrial combustion gas turbine manufacture, rotor balancing and power generation testing at Siemens Lincoln",
+      "Commercial sugar beet refining, diffused juice evaporation and bulk sugar crystallization at British Sugar",
+      "Heavy agricultural combine machinery assembly, implement overhaul and tractor replacement parts logistics",
+      "Commercial duck, turkey and broiler poultry rearing, primary slaughter and modified-atmosphere retail packing"
+    ],
+    "junctions": [
+      "A1 Colsterworth interchange with A151",
+      "A46 Lincoln bypass Carholme roundabout with B1378",
+      "A16 Boston bypass junction with A52",
+      "A17 Sleaford bypass roundabout junction with A15 Holdingham",
+      "A15 Riseholme roundabout Lincoln north approach"
+    ]
+  },
+  {
+    "slug": "merseyside",
+    "town": null,
+    "county": "Merseyside",
+    "region": "North West",
+    "estates": [
+      "Knowsley Business Park Kirkby",
+      "Speke Boulevard Industrial Area Liverpool",
+      "Cammell Laird Industrial Park Birkenhead",
+      "Haydock Commercial Park St Helens",
+      "Gillmoss Industrial Estate Liverpool"
+    ],
+    "industries": [
+      "Post-Panamax container handling, automated river terminal cranes and bulk grain stevedoring at Liverpool2",
+      "Automotive monocoque body stamping, robotic paint shops and vehicle assembly at Jaguar Land Rover Halewood",
+      "Naval warship maintenance, commercial shipyard block construction and dry dock refits at Cammell Laird",
+      "Influenza vaccine bulk antigen formulation, sterile syringe filling and clinical packaging at Speke",
+      "Architectural float glass manufacture, vacuum magnetron glass coating and furnace batch melting at St Helens"
+    ],
+    "junctions": [
+      "M57 Junction 4 Kirkby interchange with A580 East Lancashire Road",
+      "M62 Junction 6 Tarbock Island interchange with M57",
+      "M53 Junction 5 Eastham interchange with A41",
+      "M6 Junction 23 Haydock Island interchange with A580",
+      "A561 Speke Boulevard junction with Western Avenue Liverpool South"
+    ]
+  },
+  {
+    "slug": "monmouthshire",
+    "town": null,
+    "county": "Monmouthshire",
+    "region": "Wales",
+    "estates": [
+      "Severn Bridge Industrial Estate Caldicot",
+      "Wonastow Road Industrial Estate Monmouth",
+      "Union Road Industrial Estate Abergavenny",
+      "Castle Meadows Park Abergavenny",
+      "Bulwark Industrial Estate Chepstow"
+    ],
+    "industries": [
+      "Heavy commercial vehicle gearbox gear hobbing, synchronizer machining and transmission assembly",
+      "Precision structural sheet metal punching, laser profiling and architectural bracket welding",
+      "Specialist recipe food preparation, cook-chill meal manufacturing and vacuum heat sealing",
+      "Commercial timber pressure impregnation, treated agricultural fencing conversion and pallet building",
+      "Structural steel portal frame fabrication, industrial mezzanine engineering and blast finishing"
+    ],
+    "junctions": [
+      "M48 Junction 2 Chepstow and Bulwark interchange with A466",
+      "A40 Monmouth bypass roundabout junction with A466",
+      "A465 Heads of the Valleys Road Hardwick roundabout Abergavenny",
+      "A40 Raglan interchange with A449 dual carriageway",
+      "M48 Junction 23 Rogiet Caldicot link road approach"
+    ]
+  },
+  {
+    "slug": "norfolk",
+    "town": null,
+    "county": "Norfolk",
+    "region": "East of England",
+    "estates": [
+      "Sweet Briar Industrial Estate Norwich",
+      "Hardwick Industrial Estate King's Lynn",
+      "Harfreys Industrial Estate Great Yarmouth",
+      "Thetford Industrial Estate Thetford",
+      "Rackheath Industrial Estate Norwich"
+    ],
+    "industries": [
+      "Offshore wind turbine logistics, crew transfer vessel mobilization and subsea maintenance at Great Yarmouth",
+      "Lightweight composite chassis bonding, precision sports car assembly and test track tuning at Lotus Hethel",
+      "Primary turkey poultry processing, automated deboning and retail consumer packing at Great Witchingham",
+      "Commercial malting barley steeping, germination kilning and bulk roasted malt export",
+      "Speciality industrial chemical synthesis, liquid crop protection formulation and intermediate packaging"
+    ],
+    "junctions": [
+      "A47 Postwick interchange Norwich East with A1042",
+      "A47 Hardwick interchange King's Lynn with A10 and A149",
+      "A11 Thickthorn roundabout Norwich South interchange with A47",
+      "A11 Thetford bypass roundabout junction with A134",
+      "A47 Harfreys Roundabout Great Yarmouth western bypass"
+    ]
+  },
+  {
+    "slug": "north-lanarkshire",
+    "town": null,
+    "county": "North Lanarkshire",
+    "region": "Scotland",
+    "estates": [
+      "Eurocentral Business Park Mossend",
+      "Excelsior Park Wishaw",
+      "Wardpark Industrial Estate Cumbernauld",
+      "Newhouse Industrial Estate Motherwell",
+      "Westfield Industrial Estate Cumbernauld"
+    ],
+    "industries": [
+      "Intermodal rail freight container handling, gantry crane lifting and European cross-docking at Mossend",
+      "Commercial soft drink concentrate blending, high-speed PET bottle blowing and canning at AG Barr",
+      "Heavy off-highway articulated dump truck assembly, chassis robotic welding and axle installation at Motherwell",
+      "Temperature-controlled multi-temperature retail grocery logistics and deep-freeze automated pallet stores",
+      "Heavy structural steel beam sawing, plate profiling and bridge deck fabrication"
+    ],
+    "junctions": [
+      "M8 Junction 7 Eurocentral interchange with A752",
+      "M8 Junction 6 Newhouse interchange with A73",
+      "M80 Junction 6 Old Inns interchange Cumbernauld",
+      "M74 Junction 5 Raith interchange with A725",
+      "M74 Junction 6 Motherwell and Hamilton interchange with A723"
+    ]
+  },
+  {
+    "slug": "north-yorkshire",
+    "town": null,
+    "county": "North Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "Dalton New Road Business Park Thirsk",
+      "St James Business Park Knaresborough",
+      "Catterick Commercial Park Catterick",
+      "Melmerby Industrial Estate Ripon",
+      "Eastfield Industrial Estate Scarborough"
+    ],
+    "industries": [
+      "Robotic structural steel fabrication, architectural truss welding and blast coating at Severfield Dalton",
+      "Deep underground polyhalite mineral crushing, conveyor processing and bulk agricultural fertilizer production",
+      "Military logistics staging, tracked vehicle overhaul and base vehicle support engineering at Catterick",
+      "Commercial passenger single and double deck bus chassis assembly and body panel fabrication at Scarborough",
+      "Artisan cheese manufacture, traditional clothbound curd wrapping and whey butter processing"
+    ],
+    "junctions": [
+      "A1(M) Junction 47 Allerton Park interchange with A59 Harrogate",
+      "A1(M) Junction 49 Dishforth interchange with A168 Thirsk bypass",
+      "A1(M) Junction 52 Catterick interchange with A6136",
+      "A64 Malton bypass junction with B1248 Brambling Fields",
+      "A170 Scarborough to Pickering road junction with A64 Seamer roundabout"
+    ]
+  },
+  {
+    "slug": "northamptonshire",
+    "town": null,
+    "county": "Northamptonshire",
+    "region": "East Midlands",
+    "estates": [
+      "Brackmills Industrial Estate Northampton",
+      "Grange Park Business Park Northampton",
+      "Prologis Park Pineham Northampton",
+      "DIRFT Daventry International Rail Freight Terminal Daventry",
+      "Eurohub Industrial Estate Corby"
+    ],
+    "industries": [
+      "Intermodal electric rail container handling, high-bay automated bonded warehousing and distribution at DIRFT",
+      "Formula One hybrid propulsion design, kinetic energy recovery system manufacturing and dyno cell testing at Brixworth",
+      "Seamless steel tube drawing, structural circular hollow section manufacture and hot-finishing at Corby",
+      "Automotive multi-brand new vehicle import processing, PDI testing and dedicated fleet transit yards",
+      "Traditional Goodyear-welted leather footwear stitching, upper pattern cutting and bench craftsmanship"
+    ],
+    "junctions": [
+      "M1 Junction 15 Grange Park and Northampton South interchange with A45",
+      "M1 Junction 18 Daventry and DIRFT interchange with A5",
+      "M1 Junction 15A Pineham and Swan Valley interchange with A5123",
+      "A14 Junction 7 Kettering West interchange with A43",
+      "A43 Corby bypass roundabout junction with A6003"
+    ]
+  },
+  {
+    "slug": "northumberland",
+    "town": null,
+    "county": "Northumberland",
+    "region": "North East",
+    "estates": [
+      "Blyth Riverside Business Park Blyth",
+      "Nelson Industrial Estate Cramlington",
+      "Ramparts Business Park Berwick-upon-Tweed",
+      "Coopies Field Industrial Estate Morpeth",
+      "Lionheart Enterprise Park Alnwick"
+    ],
+    "industries": [
+      "Offshore wind turbine blade dynamic mechanical stress testing and drivetrain validation at ORE Catapult Blyth",
+      "Subsea flexible oil and gas pipe spooling, marine umbilical storage and heavy carousel loading at Port of Blyth",
+      "Active pharmaceutical ingredient chemical synthesis, crystallization and batch powder drying at Cramlington",
+      "Commercial softwood logs barking, precision plank sawing, kiln drying and biomass residue briquetting",
+      "Whinstone dolerite quarry extraction, primary impact crushing and asphalt road-stone production"
+    ],
+    "junctions": [
+      "A1 Seaton Burn interchange with A19 North Newcastle",
+      "A19 Moor Farm Roundabout Annitsford junction with A189 spine road",
+      "A1 Morpeth bypass junction with A197",
+      "A1 Alnwick bypass junction with A1068",
+      "A1 Berwick-upon-Tweed bypass roundabout junction with A698"
+    ]
+  },
+  {
+    "slug": "nottinghamshire",
+    "town": null,
+    "county": "Nottinghamshire",
+    "region": "East Midlands",
+    "estates": [
+      "Blenheim Industrial Estate Bulwell Nottingham",
+      "Sherwood Energy Village Ollerton",
+      "Colwick Industrial Estate Colwick Nottingham",
+      "Bilsthorpe Business Park Bilsthorpe",
+      "Manton Wood Enterprise Zone Worksop"
+    ],
+    "industries": [
+      "Automated multi-temperature grocery warehousing, roll-cage sortation and chilled cross-docking at Manton Wood",
+      "Industrial gas turbine blade vacuum casting, thermal barrier coating and balancing at Bulwell",
+      "Over-the-counter pharmaceutical formulation, oral liquid filling and high-speed blister packaging at Boots",
+      "Alluvial sand dredging, mechanical gravel grading and ready-mixed concrete batching plants along the Trent Valley",
+      "Folding boxboard printing, litho-laminated corrugated packaging conversion and die-cutting"
+    ],
+    "junctions": [
+      "M1 Junction 26 Nuthall interchange with A610 Nottingham West",
+      "M1 Junction 27 Underwood interchange with A608 Mansfield",
+      "A1 Markham Moor interchange with A57 and A638",
+      "A1 Worksop Apleyhead interchange with A57",
+      "A52 Gamston roundabout Nottingham East junction with A6011"
+    ]
+  },
+  {
+    "slug": "oxfordshire",
+    "town": null,
+    "county": "Oxfordshire",
+    "region": "South East",
+    "estates": [
+      "Milton Park Didcot",
+      "Oxford Business Park Cowley Oxford",
+      "Banbury Cross Business Park Banbury",
+      "Abingdon Science Park Abingdon",
+      "Grove Technology Park Wantage"
+    ],
+    "industries": [
+      "Automotive vehicle body robotic framing, electrocoat immersion and final assembly at MINI Plant Oxford",
+      "Experimental tokamak nuclear fusion engineering, divertor component fabrication and robotics at Culham",
+      "Motorsport carbon composite monocoque curing, chassis development and high-downforce aero testing",
+      "Biotechnology monoclonal antibody expression, gene therapy vector purification and cleanroom incubation",
+      "Superconducting whole-body MRI magnet winding, cryogenic testing and medical imaging assembly"
+    ],
+    "junctions": [
+      "M40 Junction 9 Wendlebury interchange with A34 and A41 Bicester",
+      "M40 Junction 11 Banbury interchange with A422",
+      "A34 Milton interchange Didcot South with A4130",
+      "A34 Hinksey Hill interchange Oxford South with A423",
+      "A40 Headington Roundabout Green Road Oxford East junction with A4142"
+    ]
+  },
+  {
+    "slug": "pembrokeshire",
+    "town": null,
+    "county": "Pembrokeshire",
+    "region": "Wales",
+    "estates": [
+      "Waterloo Industrial Estate Pembroke Dock",
+      "Honeyborough Industrial Estate Neyland",
+      "Thornton Industrial Estate Milford Haven",
+      "Bridge Meadow Industrial Estate Haverfordwest",
+      "London Road Industrial Estate Pembroke Dock"
+    ],
+    "industries": [
+      "Liquefied natural gas regasification, submerged combustion vaporisation and high-pressure transmission at South Hook LNG",
+      "Fluidized catalytic cracking, naphtha reforming and petroleum fuel distillation at Valero Pembroke Refinery",
+      "Floating offshore wind steel platform fabrication, marine cable spooling and workboat maintenance at Pembroke Port",
+      "Commercial early crop potato sorting, automated washing, soil removal and breathable film bag packaging",
+      "Deepwater ship handling, offshore terminal pilotage support and tugboat marine mechanical engineering"
+    ],
+    "junctions": [
+      "A40 Haverfordwest bypass Salutation Square roundabout junction with A487",
+      "A477 Waterloo roundabout Pembroke Dock approach",
+      "A4076 Johnston roundabout Milford Haven approach",
+      "A40 St Clears to Haverfordwest dual carriageway junction with A478 Penblewin",
+      "A477 Kilgetty roundabout junction with A478 Tenby corridor"
+    ]
+  },
+  {
+    "slug": "perthshire",
+    "town": null,
+    "county": "Perthshire",
+    "region": "Scotland",
+    "estates": [
+      "Inveralmond Industrial Estate Perth",
+      "Friarton Commercial Park Perth",
+      "North Muirton Industrial Estate Perth",
+      "Welton Industrial Estate Blairgowrie",
+      "Broxden Business Park Perth"
+    ],
+    "industries": [
+      "Hydroelectric power plant turbine runner refitting, high-voltage transformer monitoring and hydro engineering",
+      "Commercial soft fruit mechanical IQF blast freezing, refrigerated pulp storage and bulk berry processing",
+      "Highland malt whisky mash tun operation, washback fermentation and maturation warehousing",
+      "Commercial softwood log harvesting, automated high-speed resawing and industrial pallet wood assembly",
+      "Specialist seed potato grading, bacterial testing, ventilated wooden crate storage and export dispatch"
+    ],
+    "junctions": [
+      "M90 Junction 10 Craigend interchange Perth with M90 and A9",
+      "M90 Junction 11 Barnhill interchange with A85 Dundee Road",
+      "A9 Inveralmond Roundabout Perth North junction with A912",
+      "A9 Broxden Roundabout Perth South junction with M90 and A93",
+      "A9 Ballinluig junction with A827 Aberfeldy corridor"
+    ]
+  },
+  {
+    "slug": "powys",
+    "town": null,
+    "county": "Powys",
+    "region": "Wales",
+    "estates": [
+      "Mochdre Industrial Estate Newtown",
+      "Vastre Enterprise Park Newtown",
+      "Severn Farm Enterprise Park Welshpool",
+      "Ffrwdgrech Industrial Estate Brecon",
+      "Ddole Road Enterprise Park Llandrindod Wells"
+    ],
+    "industries": [
+      "Industrial AC and DC electric motor winding, rotor balancing and generator assembly at Nidec Leroy-Somer",
+      "Electronic drive systems engineering, variable speed inverter production and industrial automation controllers",
+      "Commercial sheep abattoir processing, automated carcass dressing, vacuum packing and export wholesale distribution",
+      "Automotive high-pressure aluminium die casting, CNC suspension hub machining and robot finishing",
+      "Precision structural timber frame engineering, factory-insulated wall cassettes and truss assembly"
+    ],
+    "junctions": [
+      "A483 Newtown bypass roundabout junction with A489 Pool Road",
+      "A483 Welshpool bypass roundabout junction with A458 Buttington",
+      "A470 Brecon bypass roundabout junction with A40",
+      "A483 Llandrindod Wells bypass junction with A4081",
+      "A470 Builth Wells junction with A483 Llanelwedd roundabout"
+    ]
+  },
+  {
+    "slug": "renfrewshire",
+    "town": null,
+    "county": "Renfrewshire",
+    "region": "Scotland",
+    "estates": [
+      "Westway Park Renfrew",
+      "Hillington Park Industrial Estate Hillington Renfrew",
+      "Linwood Business Park Linwood",
+      "Phoenix Retail and Business Park Paisley",
+      "Inchinnan Business Park Inchinnan"
+    ],
+    "industries": [
+      "Aerospace turbine component repair, compressor blade machining and maintenance at Rolls-Royce Inchinnan",
+      "Dedicated air cargo handling, freight consolidation and express logistics at Glasgow Airport",
+      "Specialist precision spirit bottling, case storage and spirits export distribution",
+      "Marine engineering, heavy dockside loading and barge transport staging along the River Cart",
+      "Medical diagnostic reagent formulation, laboratory instrumentation and cleanroom assembly"
+    ],
+    "junctions": [
+      "M8 Junction 27 Paisley Arkleston interchange",
+      "M8 Junction 28 Glasgow Airport interchange",
+      "M8 Junction 29 St James interchange with A737",
+      "A737 Linwood bypass junction with A761",
+      "A8 Greenock Road junction with Abbotsinch Road Inchinnan"
+    ]
+  },
+  {
+    "slug": "scottish-borders",
+    "town": null,
+    "county": "Scottish Borders",
+    "region": "Scotland",
+    "estates": [
+      "Tweedbank Industrial Estate Galashiels",
+      "Pinnaclehill Industrial Estate Kelso",
+      "Whinstone View Industrial Estate Coldstream",
+      "Duns Industrial Estate Duns",
+      "South Park Industrial Estate Peebles"
+    ],
+    "industries": [
+      "Luxury cashmere spinning, automated knitting, garment finishing and textile dyeing in the Borders mills",
+      "Precision electronic printed circuit board surface-mount assembly and test engineering at Kelso",
+      "Commercial forestry roundwood felling, mechanical de-limbing, log grading and automated sawmilling",
+      "Specialty artisan cheese manufacturing, curd pressing and temperature-controlled maturation",
+      "High-performance mountain bike frame fabrication, component assembly and outdoor testing facilities"
+    ],
+    "junctions": [
+      "A68 Ravenswood roundabout Melrose junction with A6091",
+      "A7 Galashiels bypass roundabout junction with B3601",
+      "A68 Carfraemill Roundabout junction with A697",
+      "A698 Kelso bypass roundabout junction with B6352",
+      "A1 Eyemouth junction with A1107"
+    ]
+  },
+  {
+    "slug": "shropshire",
+    "town": null,
+    "county": "Shropshire",
+    "region": "West Midlands",
+    "estates": [
+      "Battlefield Enterprise Park Shrewsbury",
+      "Halesfield Industrial Estate Telford",
+      "Stafford Park Industrial Estate Telford",
+      "Maesbury Road Industrial Estate Oswestry",
+      "Stanmore Industrial Estate Bridgnorth"
+    ],
+    "industries": [
+      "Heavy automotive structural stamping, chassis welding and robotic electrophoretic coating at Gestamp Telford",
+      "Polymer profile extrusion, recycled PVC compound processing and commercial window profile fabrication",
+      "Dairy processing, liquid cream separation and artisan butter churning",
+      "Precision CNC machining, aerospace fluid fittings and hydraulic valve bodies",
+      "Commercial livestock rearing equipment manufacture, bulk grain storage silos and automated feeding lines"
+    ],
+    "junctions": [
+      "M54 Junction 4 Telford Central interchange with A464",
+      "M54 Junction 5 Telford Centre interchange with A5223",
+      "A5 Preston Island Shrewsbury junction with A49",
+      "A5 Mile End Roundabout Oswestry junction with A483",
+      "A458 Bridgnorth bypass roundabout junction with B4364"
+    ]
+  },
+  {
+    "slug": "somerset",
+    "town": null,
+    "county": "Somerset",
+    "region": "South West",
+    "estates": [
+      "Express Park Bridgwater",
+      "Lynx Trading Estate Yeovil",
+      "Chelston Business Park Wellington",
+      "Lufton Trading Estate Yeovil",
+      "Crown Industrial Estate Taunton"
+    ],
+    "industries": [
+      "Nuclear power station construction staging, modular reactor engineering and heavy logistics at Hinkley Point C",
+      "Military helicopter airframe assembly, dynamic rotor blade manufacturing and flight testing at Leonardo Yeovil",
+      "Traditional farmhouse cheddar cheese making, milk curd separation and extended cellar maturation",
+      "Automated temperature-controlled grocery distribution, regional chilled consolidation and multi-temperature line-haul",
+      "Carboniferous limestone quarrying, rail-head aggregate loading and high-purity industrial lime production"
+    ],
+    "junctions": [
+      "M5 Junction 23 Bridgwater North interchange with A39",
+      "M5 Junction 24 Bridgwater South interchange with A38",
+      "M5 Junction 25 Taunton interchange with A358",
+      "M5 Junction 26 Wellington interchange with A38",
+      "A303 Podimore Roundabout junction with A37 and A372"
+    ]
+  },
+  {
+    "slug": "south-glamorgan",
+    "town": null,
+    "county": "South Glamorgan",
+    "region": "Wales",
+    "estates": [
+      "Wentloog Corporate Park Cardiff",
+      "Ocean Park Industrial Estate Cardiff Bay",
+      "Atlantic Trading Estate Barry",
+      "Pentwyn Business Park Cardiff",
+      "The Parade Industrial Park Barry"
+    ],
+    "industries": [
+      "Electric arc furnace steel recycling, structural rebar rolling and hot billet casting at Celsa Steel Cardiff",
+      "Deepwater bulk chemical cargo handling, liquid bulk storage and petroleum distribution at Port of Barry",
+      "Life sciences diagnostics, paramagnetic bead production and automated in-vitro assay manufacturing",
+      "Urban last-mile delivery fulfillment, ambient e-commerce warehousing and pallet cross-docking",
+      "High-end television drama studio soundstages, set fabrication and specialized film lighting equipment staging"
+    ],
+    "junctions": [
+      "M4 Junction 30 Cardiff Gate interchange with A4232",
+      "M4 Junction 33 Cardiff West interchange with A4232 Peripheral Distributor Road",
+      "A4232 Queens Gate roundabout Cardiff Bay",
+      "A48 Eastern Avenue interchange with Pentwyn Road",
+      "A4050 Port Road roundabout Barry approach"
+    ]
+  },
+  {
+    "slug": "south-lanarkshire",
+    "town": null,
+    "county": "South Lanarkshire",
+    "region": "Scotland",
+    "estates": [
+      "Peel Park Industrial Estate East Kilbride",
+      "Kelvin Industrial Estate East Kilbride",
+      "Bothwell Park Industrial Estate Uddingston",
+      "Strutherhill Industrial Estate Larkhall",
+      "Castlehill Industrial Estate Carluke"
+    ],
+    "industries": [
+      "Semiconductor power module packaging, microelectronic cleanroom assembly and test engineering at East Kilbride",
+      "Commercial biscuit and confectionery manufacturing, continuous chocolate enrobing and packaging at Tunnock's",
+      "Precision aero-engine rotating component machining, vacuum heat treatment and thermal barrier coating",
+      "Heavy earthmoving plant refurbishment, hydraulic cylinder overhaul and mining machine testing",
+      "Commercial fresh milk homogenization, plastic bottle blow-moulding and refrigerated dairy distribution"
+    ],
+    "junctions": [
+      "M74 Junction 4 Maryville interchange with M73",
+      "M74 Junction 8 Canderside interchange with A71",
+      "A725 Kingsway East Kilbride roundabout with A726",
+      "M74 Junction 7 Larkhall interchange with A72",
+      "A726 Strathaven bypass junction with A71"
+    ]
+  },
+  {
+    "slug": "south-yorkshire",
+    "town": null,
+    "county": "South Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "Advanced Manufacturing Park Catcliffe Rotherham",
+      "Dearne Valley Business Park Wath upon Dearne",
+      "iPort Logistics Hub Rossington Doncaster",
+      "Parkwood Industrial Estate Sheffield",
+      "Capitol Park Thorne Doncaster"
+    ],
+    "industries": [
+      "Heavy open-die structural steel forging, superalloy ingot casting and hollow shaft machining at Sheffield Forgemasters",
+      "Advanced composite materials research, robotic dry-fibre placement and aero-structure prototyping at the AMRC",
+      "Intermodal rail freight terminal container handling, gantry reachstacker operations and big-box distribution at iPort Doncaster",
+      "Industrial machine knife grinding, specialized surgical scalpel stamping and precision hand cutlery production",
+      "High-bay automated parcel sortation, national retail replenishment hubs and e-commerce return processing"
+    ],
+    "junctions": [
+      "M1 Junction 33 Catcliffe Rotherham interchange with Sheffield Parkway A630",
+      "M1 Junction 34 Tinsley Viaduct Meadowhall interchange with A6109",
+      "M18 Junction 3 iPort Great Yorkshire Way Rossington interchange",
+      "M18 Junction 5 Thorne interchange with M180",
+      "A1(M) Junction 36 Warmsworth interchange Doncaster with A630"
+    ]
+  },
+  {
+    "slug": "staffordshire",
+    "town": null,
+    "county": "Staffordshire",
+    "region": "West Midlands",
+    "estates": [
+      "Prologis Park Fradley Lichfield",
+      "Kingswood Lakeside Business Park Cannock",
+      "St Modwen Park Burton upon Trent",
+      "Beacon Business Park Stafford",
+      "Festival Park Industrial Area Stoke-on-Trent"
+    ],
+    "industries": [
+      "Tracked and wheeled hydraulic excavator fabrication, backhoe loader assembly and chassis welding at JCB Rocester",
+      "Industrial scale beer brewing, high-speed automated canning lines and barrel cooperage at Burton upon Trent",
+      "Vitreous china sanitaryware pressure casting, tunnel kiln glazing and fine ceramic tableware production in Stoke-on-Trent",
+      "High-voltage direct current (HVDC) power transmission transformer assembly and grid switchgear testing at Stafford",
+      "Automated FMCG fulfilment, central multi-tier pallet storage and nationwide parcel sortation along the A38 corridor"
+    ],
+    "junctions": [
+      "M6 Junction 14 Stafford North interchange with A34",
+      "M6 Junction 11 Cannock interchange with A460 and M6 Toll",
+      "A38 Fradley Park interchange Lichfield North",
+      "A50 Uttoxeter bypass roundabout junction with B5030",
+      "A500 D-Road Queensway interchange Stoke-on-Trent"
+    ]
+  },
+  {
+    "slug": "stirlingshire",
+    "town": null,
+    "county": "Stirlingshire",
+    "region": "Scotland",
+    "estates": [
+      "Bankside Industrial Estate Falkirk",
+      "Abbotsford Business Park Falkirk",
+      "Grangemouth Docks Industrial Estate Grangemouth",
+      "Denny Industrial Estate Denny",
+      "Bannockburn Industrial Estate Bannockburn"
+    ],
+    "industries": [
+      "Petrochemical continuous fluid cracking, ethylene polymerisation and chemical intermediate production at Grangemouth",
+      "Liquid hydrocarbon marine tanker discharge, fuel storage terminal bunkering and pipeline distribution at Port of Grangemouth",
+      "Engineered timber roof truss pressing, timber frame wall cassette manufacturing and bespoke stair fabrication",
+      "Post-consumer container glass sorting, laser optical contaminant removal and glass cullet remelting",
+      "Specialty corrosion inhibitor chemical synthesis, industrial surfactant blending and bulk liquid drumming"
+    ],
+    "junctions": [
+      "M9 Junction 5 Cadgers Brae interchange Grangemouth with A905",
+      "M9 Junction 6 Earls Gate interchange with A904",
+      "M876 Junction 1 Denny interchange with A883",
+      "M80 Junction 8 Bankhead interchange with M876",
+      "A904 Bo'ness Road corridor junction with Inchyra Road Grangemouth"
+    ]
+  },
+  {
+    "slug": "suffolk",
+    "town": null,
+    "county": "Suffolk",
+    "region": "East of England",
+    "estates": [
+      "Ransomes Europark Ipswich",
+      "Port One Logistics Park Great Blakenham",
+      "Moreton Hall Industrial Estate Bury St Edmunds",
+      "South Lowestoft Industrial Estate Lowestoft",
+      "Lady Lane Industrial Estate Hadleigh"
+    ],
+    "industries": [
+      "Deep-sea container vessel terminal stevedoring, automated rail gantry operations and intermodal haulage at Port of Felixstowe",
+      "Industrial malting barley steeping, germination drum kilning and malt roasting at Bury St Edmunds",
+      "Offshore wind crew transfer vessel support, topside electrical maintenance and subsea cable staging at Lowestoft",
+      "Nuclear power plant civil construction engineering, reactor turbine support and technical services at Sizewell",
+      "Agricultural sugar beet diffusion, automated carbonation processing, bulk sugar conditioning and dried pulp pelleting"
+    ],
+    "junctions": [
+      "A14 Junction 57 Nacton interchange Ransomes Europark Ipswich",
+      "A14 Junction 60 Dock Spur roundabout Felixstowe",
+      "A14 Junction 43 Bury St Edmunds Central interchange with A1302",
+      "A12 Lowestoft South roundabout junction with A1145",
+      "A14 Junction 52 Claydon interchange with A1071"
+    ]
+  },
+  {
+    "slug": "surrey",
+    "town": null,
+    "county": "Surrey",
+    "region": "South East",
+    "estates": [
+      "Brooklands Industrial Park Weybridge",
+      "Slyfield Industrial Estate Guildford",
+      "Farnham Trading Estate Farnham",
+      "Holmethorpe Industrial Estate Redhill",
+      "Goldsworth Park Trading Estate Woking"
+    ],
+    "industries": [
+      "Formula One carbon composite chassis autoclave curing, aerodynamic validation and supercar assembly at McLaren Woking",
+      "Small satellite structural fabrication, propulsion bus integration and orbital flight testing systems at SSTL Guildford",
+      "Commercial flight control electro-hydraulic actuator overhaul, landing gear servicing and aviation certification",
+      "Consumer healthcare clinical trial supplies distribution, medical device packaging and regulatory validation",
+      "Enterprise cloud compute data center hosting, synchronous fibre routing and mission-critical server colocation"
+    ],
+    "junctions": [
+      "M25 Junction 10 Wisley interchange with A3",
+      "M3 Junction 3 Lightwater and Bagshot interchange with A322",
+      "M25 Junction 8 Reigate Hill interchange with A217",
+      "A3 Burpham interchange Guildford North",
+      "A31 Farnham bypass junction with A325 Shepherd and Flock roundabout"
+    ]
+  },
+  {
+    "slug": "tyne-and-wear",
+    "town": null,
+    "county": "Tyne and Wear",
+    "region": "North East",
+    "estates": [
+      "Team Valley Trading Estate Gateshead",
+      "Newburn Riverside Industrial Estate Newcastle upon Tyne",
+      "Follingsby Max Industrial Estate Gateshead",
+      "Stephenson Industrial Estate Washington",
+      "Port of Sunderland Industrial Estate Sunderland"
+    ],
+    "industries": [
+      "High-volume electric passenger vehicle stamping, lithium-ion battery cell manufacturing and robotic assembly at Nissan Sunderland",
+      "Subsea pipe-lay tensioner construction, heavy offshore umbilical winches and ROV vehicle fabrication on the River Tyne",
+      "Automated e-commerce sortation, robotic mobile fulfillment drive operations and multi-tier parcel storage",
+      "Subsea power cable load-out, continuous carousel winding and offshore wind mobilisation from Port of Blyth and River Tyne",
+      "Industrial commercial bakery manufacture, high-volume automated pastry lamination and flash-freezing at Greggs"
+    ],
+    "junctions": [
+      "A1(M) Junction 65 Birtley interchange with A194(M)",
+      "A1 Western Bypass Lobley Hill interchange Team Valley with A692",
+      "A19 Silverlink Roundabout Wallsend junction with A1058 Coast Road",
+      "A19 Washington bypass junction with A1231 Sunderland Highway",
+      "A19 Tyne Tunnel southern entrance junction with A185 Jarrow"
+    ]
+  },
+  {
+    "slug": "warwickshire",
+    "town": null,
+    "county": "Warwickshire",
+    "region": "West Midlands",
+    "estates": [
+      "Birch Coppice Business Park Dordon",
+      "Warwick Technology Park Warwick",
+      "Swift Valley Industrial Estate Rugby",
+      "Bermuda Industrial Estate Nuneaton",
+      "Stratford Enterprise Park Stratford-upon-Avon"
+    ],
+    "industries": [
+      "Luxury sports car low-volume hand craftsmanship, adhesive chassis bonding and final dynamic testing at Aston Martin Gaydon",
+      "High-voltage electrical transmission substation switchgear assembly, power conversion and steam turbine engineering at Rugby",
+      "Rail-connected container freight cross-docking, automated high-bay parts distribution and multi-client logistics at Birch Coppice",
+      "Interactive digital entertainment software development, motion capture studio filming and physics engine coding at Leamington Spa",
+      "Automotive proving ground engineering, electromagnetic compatibility (EMC) testing and active safety validation at HORIBA MIRA"
+    ],
+    "junctions": [
+      "M40 Junction 15 Longbridge Island Warwick interchange with A46",
+      "M6 Junction 1 Rugby Catthorpe interchange with A426",
+      "M42 Junction 10 Tamworth and Dordon interchange with A5",
+      "A46 Kenilworth bypass interchange with A452 Thickthorn roundabout",
+      "M69 Junction 1 Nuneaton and Hinckley interchange with A5"
+    ]
+  },
+  {
+    "slug": "west-glamorgan",
+    "town": null,
+    "county": "West Glamorgan",
+    "region": "Wales",
+    "estates": [
+      "Swansea Enterprise Park Llansamlet Swansea",
+      "Baglan Energy Park Port Talbot",
+      "Neath Abbey Business Park Neath",
+      "Garngoch Industrial Estate Gorseinon",
+      "Kenfig Industrial Estate Margam"
+    ],
+    "industries": [
+      "Nickel pellet decomposition, high-purity nickel powder gas-phase refining and chemical catalyst extraction at Clydach",
+      "Integrated blast furnace ironmaking, basic oxygen steel conversion and continuous slab casting at Port Talbot",
+      "Specialized antimicrobial wound dressing conversion, absorbent medical foam cutting and sterile medical packaging",
+      "Automotive electronic braking system module assembly, master cylinder machining and vacuum booster testing",
+      "Commercial port stevedoring, bulk aggregate discharge, recycled scrap steel handling and dry bulk logistics at Swansea Docks"
+    ],
+    "junctions": [
+      "M4 Junction 44 Lon-Las interchange Llansamlet Swansea East with A48",
+      "M4 Junction 45 Ynysforgan interchange with A4067 Swansea Valley road",
+      "M4 Junction 42 Earlswood roundabout Briton Ferry with A483 Fabian Way",
+      "M4 Junction 43 Llandarcy interchange with A465 Heads of the Valleys Road",
+      "M4 Junction 47 Penllergaer interchange Swansea West with A48"
+    ]
+  },
+  {
+    "slug": "west-midlands",
+    "town": null,
+    "county": "West Midlands",
+    "region": "West Midlands",
+    "estates": [
+      "Gravelly Industrial Park Erdington Birmingham",
+      "Pensnett Trading Estate Kingswinford Dudley",
+      "i54 South Staffordshire Wolverhampton",
+      "Advanced Manufacturing Hub Aston Birmingham",
+      "Minworth Industrial Estate Sutton Coldfield"
+    ],
+    "industries": [
+      "Automotive luxury SUV robotic body manufacturing, paint shop electro-immersion and assembly at Jaguar Land Rover Solihull",
+      "Advanced electric powertrain drive unit machining, electric motor winding and battery assembly at i54 Wolverhampton",
+      "Heavy structural steel hollow section profiling, high-frequency tube induction welding and mechanical cutting",
+      "Precious metal refining, gold and silver bullion casting and chemical assay verification in the Jewellery Quarter",
+      "High-speed automated parcel sortation, parcel conveying, cross-dock line-haul and hub distribution along the M6 corridor"
+    ],
+    "junctions": [
+      "M6 Junction 6 Spaghetti Junction Gravelly Hill Birmingham with A38(M)",
+      "M6 Junction 9 Wednesbury interchange with A461",
+      "M5 Junction 2 Oldbury interchange with A4123 Wolverhampton Road",
+      "M6 Junction 4 Coleshill interchange with M42",
+      "A45 Coventry Road junction with A452 Stonebridge Roundabout"
+    ]
+  },
+  {
+    "slug": "west-sussex",
+    "town": null,
+    "county": "West Sussex",
+    "region": "South East",
+    "estates": [
+      "Manor Royal Business District Crawley",
+      "Broadbridge Heath Business Park Horsham",
+      "Lancing Business Park Lancing",
+      "Chichester Business Park Tangmere Chichester",
+      "Foundry Lane Industrial Estate Horsham"
+    ],
+    "industries": [
+      "Commercial air transport ground handling, in-flight catering production and line aircraft maintenance at Gatwick Airport",
+      "Handcrafted luxury motor car assembly, bespoke leather interior cutting and mirror-finish robotic paintwork at Goodwood",
+      "Pharmaceutical dry powder inhaler device design, precision metering valve assembly and clinical packaging at Horsham",
+      "Aviation safety equipment servicing, inflatable emergency evacuation slide testing and life raft overhaul at Manor Royal",
+      "Commercial automated glasshouse salad tomato propagation, optical color grading and breathable flow-wrap packaging"
+    ],
+    "junctions": [
+      "M23 Junction 10 Crawley East interchange with A2011",
+      "M23 Junction 9 Gatwick Airport access interchange",
+      "A24 Horsham bypass Robin Hood roundabout junction with A281",
+      "A27 Chichester bypass Stockbridge roundabout junction with A286",
+      "A27 Lancing bypass junction with A2025 Grinstead Lane"
+    ]
+  },
+  {
+    "slug": "west-yorkshire",
+    "town": null,
+    "county": "West Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": [
+      "Cross Green Industrial Estate Leeds",
+      "Euroway Trading Estate Bradford",
+      "Normanton Industrial Estate Normanton",
+      "Wakefield Europort Normanton",
+      "Lowfields Business Park Elland"
+    ],
+    "industries": [
+      "Intermodal rail freight container handling, gantry reachstacker operations and European distribution at Wakefield Europort",
+      "Luxury worsted wool yarn spinning, carding, high-speed shuttleless weaving and fabric piece finishing",
+      "Heavy industrial gearbox engineering, naval propulsion transmission assembly and double-helical gear cutting at Huddersfield",
+      "Contract confectionery manufacturing, high-temperature sugar boiling, gummy extrusion and blister packaging",
+      "Commercial vehicle pneumatic air brake valve machining, trailer ABS module assembly and pressure testing"
+    ],
+    "junctions": [
+      "M62 Junction 27 Gildersome interchange with M621 and A62 Leeds South",
+      "M62 Junction 31 Normanton interchange Wakefield Europort with A655",
+      "M1 Junction 42 Lofthouse interchange with M62",
+      "M606 Junction 3 Staygate Roundabout Bradford South with A6177",
+      "M62 Junction 24 Ainley Top interchange Huddersfield with A629"
+    ]
+  },
+  {
+    "slug": "wiltshire",
+    "town": null,
+    "county": "Wiltshire",
+    "region": "South West",
+    "estates": [
+      "Blagrove Industrial Estate Swindon",
+      "West Wilts Trading Estate Westbury",
+      "Solstice Park Amesbury",
+      "Castlegate Business Park Salisbury",
+      "Porte Marsh Industrial Estate Calne"
+    ],
+    "industries": [
+      "High-speed digital electric motor development, cyclonic filtration laboratory testing and design robotics at Malmesbury",
+      "Military tracked vehicle chassis overhaul, armored turret integration and defense logistics staging across Salisbury Plain",
+      "National automated temperature-controlled grocery logistics, deep-freeze automated pallet stores and line-haul distribution",
+      "Carbon composite aerospace structural panel moulding, autoclave pre-preg curing and satellite antenna assembly",
+      "Specialty cultured dairy processing, continuous probiotic yogurt fermentation and automated aseptic pot filling"
+    ],
+    "junctions": [
+      "M4 Junction 16 Swindon West interchange with A3102",
+      "M4 Junction 17 Chippenham interchange with A350",
+      "A303 Countess Roundabout Amesbury junction with A345",
+      "A36 Salisbury bypass roundabout junction with A30 London Road",
+      "A350 Westbury bypass junction with B3097"
+    ]
+  },
+  {
+    "slug": "worcestershire",
+    "town": null,
+    "county": "Worcestershire",
+    "region": "West Midlands",
+    "estates": [
+      "Blackpole Trading Estate Worcester",
+      "Spring Lane Industrial Estate Malvern",
+      "Hoo Farm Industrial Estate Kidderminster",
+      "Berry Hill Industrial Estate Droitwich Spa",
+      "Buntsford Commercial Park Bromsgrove"
+    ],
+    "industries": [
+      "Domestic gas condensing boiler manufacturing, automated robotic aluminum heat exchanger welding and burner assembly at Worcester Bosch",
+      "Traditional woven Axminster and Wilton commercial wool carpet weaving, yarn blending and secondary backing at Kidderminster",
+      "Natural subterranean brine pumping, thermocompression salt evaporation and vacuum food salt bagging at Droitwich",
+      "Hand-built sports car ash-wood timber framing, hand-wheeled aluminum coachbuilding and chassis assembly at Morgan Malvern",
+      "Precision multi-axis CNC machine tool casting, electro-spindle balancing and high-tolerance turning center calibration"
+    ],
+    "junctions": [
+      "M5 Junction 6 Worcester North Warndon interchange with A449",
+      "M5 Junction 7 Worcester South interchange with A44",
+      "M5 Junction 5 Droitwich interchange with A38",
+      "M42 Junction 1 Bromsgrove interchange with B4096",
+      "A449 Kidderminster bypass roundabout junction with A442"
+    ]
+  }
+]
