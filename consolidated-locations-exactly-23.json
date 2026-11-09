@@ -1,0 +1,209 @@
+[
+  {
+    "slug": "salford",
+    "town": "Salford",
+    "county": "Greater Manchester",
+    "region": "North West",
+    "estates": ["Salford Business Park", "Agecroft Commerce Park", "Lowry Designer Outlet MediaCityUK", "Riverside Business Park", "Ordsall Lane Industrial Estate"],
+    "industries": ["Media", "Technology", "Logistics", "Retail", "Healthcare"],
+    "junctions": ["M60", "M602", "A57", "A576", "A6"]
+  },
+  {
+    "slug": "salisbury",
+    "town": "Salisbury",
+    "county": "Wiltshire",
+    "region": "South West",
+    "estates": ["Churchfields Industrial Estate", "Old Sarum Business Park", "Solstice Park", "Castlegate Business Park", "Netherhampton Business Park"],
+    "industries": ["Heritage", "Manufacturing", "Logistics", "Public Sector", "Engineering"],
+    "junctions": ["A36", "A30", "A345", "A303", "A338"]
+  },
+  {
+    "slug": "sheffield",
+    "town": "Sheffield",
+    "county": "South Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": ["Advanced Manufacturing Park", "Shepcote Lane Industrial District", "Meadowhall Business Park", "Sheffield Industrial Estate", "Smithfield Business Park"],
+    "industries": ["Manufacturing", "Engineering", "Steel", "Healthcare", "Technology"],
+    "junctions": ["M1", "M18", "A57", "A61", "A630"]
+  },
+  {
+    "slug": "shrewsbury",
+    "town": "Shrewsbury",
+    "county": "Shropshire",
+    "region": "West Midlands",
+    "estates": ["Battlefield Enterprise Park", "Monkmoor Industrial Estate", "Harlescott Commercial Area", "Sundorne Trade Park", "Knights Way Industrial Estate"],
+    "industries": ["Manufacturing", "Engineering", "Agriculture", "Food Processing", "Logistics"],
+    "junctions": ["A5", "A49", "A458", "A5112", "A528"]
+  },
+  {
+    "slug": "slough",
+    "town": "Slough",
+    "county": "Berkshire",
+    "region": "South East",
+    "estates": ["Slough Trading Estate", "Buckingham Avenue Commercial District", "Slough International Freight Terminal", "Fairview Industrial Estate", "Bath Road Industrial Estate"],
+    "industries": ["Technology", "Pharmaceuticals", "Logistics", "Manufacturing", "Finance"],
+    "junctions": ["M4", "M25", "A4", "A355", "A412"]
+  },
+  {
+    "slug": "southampton",
+    "town": "Southampton",
+    "county": "Hampshire",
+    "region": "South East",
+    "estates": ["Millbrook Industrial Estate", "Mountpark Southampton Logistics Park", "Southampton Docks", "West Quay Industrial Estate", "Adanac Park"],
+    "industries": ["Maritime", "Logistics", "Technology", "Manufacturing", "Aerospace"],
+    "junctions": ["M27", "M271", "A33", "A3024", "A35"]
+  },
+  {
+    "slug": "southend-on-sea",
+    "town": "Southend-on-Sea",
+    "county": "Essex",
+    "region": "East of England",
+    "estates": ["Progress Road Industrial Estate", "Temple Farm Industrial Estate", "London Southend Airport Business Park", "Airport Industrial Estate", "Southend Industrial Estate"],
+    "industries": ["Agriculture", "Food Processing", "Manufacturing", "Energy", "Tourism"],
+    "junctions": ["A127", "A13", "A1159", "A127", "A130"]
+  },
+  {
+    "slug": "st-helens",
+    "town": "St Helens",
+    "county": "Merseyside",
+    "region": "North West",
+    "estates": ["Haydock Industrial Estate", "Lea Green Business Park", "Sherdley Road Industrial Estate", "Knowsley Industrial Estate", "St Helens Industrial Estate"],
+    "industries": ["Manufacturing", "Logistics", "Engineering", "Retail", "Technology"],
+    "junctions": ["M6", "M62", "A580", "A570", "A58"]
+  },
+  {
+    "slug": "stafford",
+    "town": "Stafford",
+    "county": "Staffordshire",
+    "region": "West Midlands",
+    "estates": ["Staffordshire Technology Park", "Primepoint 14 Business Park", "Tollgate Industrial Estate", "Beacon Business Park", "Redhill Industrial Estate"],
+    "industries": ["Manufacturing", "Logistics", "Engineering", "Ceramics", "Brewing"],
+    "junctions": ["M6", "A34", "A518", "A449", "A51"]
+  },
+  {
+    "slug": "stirling",
+    "town": "Stirling",
+    "county": "Stirling",
+    "region": "Scotland",
+    "estates": ["Springkerse Industrial Estate", "Stirling Business Park", "Castle Business Park", "Broadleys Business Park", "Stirling Industrial Estate"],
+    "industries": ["Tourism", "Education", "Manufacturing", "Agriculture", "Logistics"],
+    "junctions": ["M9", "M80", "A9", "A84", "A811"]
+  },
+  {
+    "slug": "stirlingshire",
+    "town": null,
+    "county": "Stirlingshire",
+    "region": "Scotland",
+    "estates": ["Falkirk Industrial Estate", "Grangemouth Industrial Estate", "Denny Industrial Estate", "Larbert Industrial Estate", "Polmont Industrial Estate"],
+    "industries": ["Logistics", "Manufacturing", "Energy", "Engineering", "Retail"],
+    "junctions": ["M9", "M876", "A803", "A883", "A904"]
+  },
+  {
+    "slug": "stockport",
+    "town": "Stockport",
+    "county": "Greater Manchester",
+    "region": "North West",
+    "estates": ["Portwood Industrial Estate", "Bredbury Industrial Estate", "Heaton Lane Commercial Park", "Pear Mill Industrial Estate", "Bridgefield Street Industrial Estate"],
+    "industries": ["Manufacturing", "Logistics", "Retail", "Technology", "Engineering"],
+    "junctions": ["M60", "A6", "A626", "A560", "A5145"]
+  },
+  {
+    "slug": "stoke-on-trent",
+    "town": "Stoke-on-Trent",
+    "county": "Staffordshire",
+    "region": "West Midlands",
+    "estates": ["Trentham Lakes Business Park", "Fenton Industrial Estate", "Stoke Industrial Estate", "Longton Industrial Estate", "Hanley Industrial Estate"],
+    "industries": ["Manufacturing", "Logistics", "Engineering", "Ceramics", "Brewing"],
+    "junctions": ["M6", "A500", "A50", "A53", "A52"]
+  },
+  {
+    "slug": "suffolk",
+    "town": null,
+    "county": "Suffolk",
+    "region": "East of England",
+    "estates": ["Ipswich Industrial Estate", "Bury St Edmunds Industrial Estate", "Lowestoft Industrial Estate", "Felixstowe Industrial Estate", "Newmarket Industrial Estate"],
+    "industries": ["Agriculture", "Logistics", "Food Processing", "Manufacturing", "Energy"],
+    "junctions": ["A14", "A12", "A11", "A140", "A1088"]
+  },
+  {
+    "slug": "sunderland",
+    "town": "Sunderland",
+    "county": "Tyne and Wear",
+    "region": "North East",
+    "estates": ["Pallion Industrial Estate", "Doxford International Business Park", "Sunderland Industrial Estate", "North Hylton Industrial Estate", "Castletown Industrial Estate"],
+    "industries": ["Manufacturing", "Engineering", "Logistics", "Technology", "Retail"],
+    "junctions": ["A19", "A184", "A194M", "A690", "A183"]
+  },
+  {
+    "slug": "surrey",
+    "town": null,
+    "county": "Surrey",
+    "region": "South East",
+    "estates": ["Guildford Industrial Estate", "Woking Industrial Estate", "Croydon Industrial Estate", "Redhill Industrial Estate", "Epsom Industrial Estate"],
+    "industries": ["Technology", "Finance", "Logistics", "Manufacturing", "Public Sector"],
+    "junctions": ["M25", "M3", "M23", "A3", "A23"]
+  },
+  {
+    "slug": "swansea",
+    "town": "Swansea",
+    "county": "Swansea",
+    "region": "Wales",
+    "estates": ["Swansea Industrial Estate", "Morriston Industrial Estate", "Gorseinon Industrial Estate", "Llansamlet Industrial Estate", "Fforestfach Industrial Estate"],
+    "industries": ["Manufacturing", "Engineering", "Logistics", "Retail", "Public Sector"],
+    "junctions": ["M4", "A483", "A4067", "A4230", "A4107"]
+  },
+  {
+    "slug": "swindon",
+    "town": "Swindon",
+    "county": "Wiltshire",
+    "region": "South West",
+    "estates": ["Blagrove Industrial Estate", "Groundwell Industrial Estate", "Dorcan Business Park", "Hawksworth Industrial Estate", "South Marston Industrial Estate"],
+    "industries": ["Manufacturing", "Logistics", "Technology", "Engineering", "Agriculture"],
+    "junctions": ["M4", "A419", "A420", "A4311", "A3102"]
+  },
+  {
+    "slug": "tamworth",
+    "town": "Tamworth",
+    "county": "Staffordshire",
+    "region": "West Midlands",
+    "estates": ["Amington Industrial Estate", "Lichfield Road Industrial Estate", "Centurion Park", "Tamworth Industrial Estate", "Bonehill Industrial Estate"],
+    "industries": ["Manufacturing", "Logistics", "Engineering", "Ceramics", "Brewing"],
+    "junctions": ["M42", "A5", "A51", "A453", "B5000"]
+  },
+  {
+    "slug": "telford",
+    "town": "Telford",
+    "county": "Shropshire",
+    "region": "West Midlands",
+    "estates": ["Stafford Park Industrial Estate", "Halesfield Industrial Estate", "Hortonwood Business Park", "Telford Industrial Estate", "Trench Lock Industrial Estate"],
+    "industries": ["Manufacturing", "Engineering", "Agriculture", "Food Processing", "Logistics"],
+    "junctions": ["M54", "A442", "A5", "A4169", "A5223"]
+  },
+  {
+    "slug": "tyne-and-wear",
+    "town": null,
+    "county": "Tyne and Wear",
+    "region": "North East",
+    "estates": ["Newcastle Industrial Estate", "Sunderland Industrial Estate", "Gateshead Industrial Estate", "South Shields Industrial Estate", "Wallsend Industrial Estate"],
+    "industries": ["Manufacturing", "Engineering", "Logistics", "Technology", "Retail"],
+    "junctions": ["A1", "A19", "A184", "A194M", "A69"]
+  },
+  {
+    "slug": "tyrone",
+    "town": null,
+    "county": "County Tyrone",
+    "region": "Northern Ireland",
+    "estates": ["Omagh Industrial Estate", "Strabane Industrial Estate", "Dungannon Industrial Estate", "Cookstown Industrial Estate", "Coalisland Industrial Estate"],
+    "industries": ["Agriculture", "Manufacturing", "Food Processing", "Construction", "Logistics"],
+    "junctions": ["A5", "A4", "A29", "A32", "A505"]
+  },
+  {
+    "slug": "wakefield",
+    "town": "Wakefield",
+    "county": "West Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "estates": ["Flanshaw Industrial Estate", "Normanton Industrial Estate", "Wakefield Industrial Estate", "Trinity Business Park", "Silkstone Industrial Estate"],
+    "industries": ["Manufacturing", "Logistics", "Engineering", "Textiles", "Technology"],
+    "junctions": ["M62", "M1", "A642", "A650", "A638"]
+  }
+]
